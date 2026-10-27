@@ -257,9 +257,41 @@
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
+    },
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-07-03 02:50:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "zlib.dll"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
     }
    ],
-   "notes": "PE link timestamp 2000-07-03 02:50:23 UTC (set by the linker when the program was built)."
+   "notes": "PE link timestamp 2000-07-03 02:50:23 UTC (set by the linker when the program was built).",
+   "also_in": [
+    "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
+   ]
   },
   {
    "path": "2.23/HelGame.exe",
@@ -311,6 +343,223 @@
     }
    ],
    "notes": "PE link timestamp 2003-04-15 06:33:22 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "2001-beta/Helbreath.exe",
+   "stored": "git",
+   "size": 282624,
+   "sha256": "1bc47731b160a4edbd3eaf3b97a8107f9915477f6390391d026eb7f1c9fe5b74",
+   "what": "Program or library: Helbreath.exe",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-08 03:38:37",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "Helbreath.exe"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2001-05-08 03:38:37 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "2001-beta/HelGame.exe",
+   "stored": "git",
+   "size": 638976,
+   "sha256": "d321e245b72536413d7fa40ef9ba35ab3d5771bf4e193ffa43959deba11df9d2",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-08 07:39:37",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2001-05-08 07:39:37 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "2001-beta/search.dll",
+   "stored": "git",
+   "size": 1364016,
+   "sha256": "e19c2e7707ffb5691cb6eba73d935e0df5415ab97b23deab3ad17c67d67f50ea",
+   "what": "Program or library: search.dll",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-10 06:05:02",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "search.dll"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2001-04-10 06:04:58 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "2001-beta/Uninstal.exe",
+   "stored": "git",
+   "size": 49681,
+   "sha256": "2a3f140fe0aecbb46d6c5f82e35a6841ff4921cb436e20e1a74a4d194320fad6",
+   "what": "Program or library: Uninstal.exe",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "Uninstal.exe"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     },
+     "notes": "The installer table stores no file times for this entry (the uninstaller)."
+    }
+   ],
+   "notes": "PE link timestamp 2000-07-06 16:17:01 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.0/cximage.dll",

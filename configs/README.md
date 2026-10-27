@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|
 | `2.02/` | 51 | 534,116 | 2.02 | International (English) | 2000-04-19 to 2001-08-21 | https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso |
 | `2.23/` | 14 | 50,183 | 2.23 | USA | 2003-04-10 to 2003-04-12 | https://web.archive.org/web/20141104104043id_/http://www.helbreathusa.com/patch_v223.zip |
+| `2001-beta/` | 32 | 500,798 | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 2000-07-11 to 2001-05-08 | unknown (supplied by the project owner) |
 | `3.0/` | 30 | 94,237 | 3.0 'The Apocalypse' | USA | 2001-06-27 to 2003-10-23 | https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe |
 | `3.81/` | 1 | 10,259 | 3.81 | USA | 2005-02-15 to 2005-02-15 | https://web.archive.org/web/20060707141807id_/http://www.helbreathusa.com:80/hbusa_update_3.72_to_3.81.zip |
 | `3.82-bundle/` | 19 | 83,717 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |

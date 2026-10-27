@@ -12,6 +12,10 @@ Every `.exe` and `.dll`: game clients (`HelGame.exe`, `NewHelGame.exe`), launche
 | `2.02/Uninstal.exe` | 2.02 | International (English) | unknown | 49,723 | `e2ec88816d8f80c7edc5ef105f9320ecd3022b89d3e5e665d916458a53c833f4` | git |
 | `2.02/zlib.dll` | 2.02 | International (English) | 2000-07-03 (installer-entry) | 73,728 | `cf484e35a28e62e206767ef7371066166131abfde254305e7b3e7197ad1a08a3` | git |
 | `2.23/HelGame.exe` | 2.23 | USA | 2003-04-15 (archive-entry) | 302,592 | `d98018f475c1093a965507b0c219d5aae08a9c2a4168639cc9a4545d6dc6f55f` | git |
+| `2001-beta/Helbreath.exe` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 2001-05-08 (installer-entry) | 282,624 | `1bc47731b160a4edbd3eaf3b97a8107f9915477f6390391d026eb7f1c9fe5b74` | git |
+| `2001-beta/HelGame.exe` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 2001-05-08 (installer-entry) | 638,976 | `d321e245b72536413d7fa40ef9ba35ab3d5771bf4e193ffa43959deba11df9d2` | git |
+| `2001-beta/search.dll` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 2001-04-10 (installer-entry) | 1,364,016 | `e19c2e7707ffb5691cb6eba73d935e0df5415ab97b23deab3ad17c67d67f50ea` | git |
+| `2001-beta/Uninstal.exe` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | unknown | 49,681 | `2a3f140fe0aecbb46d6c5f82e35a6841ff4921cb436e20e1a74a4d194320fad6` | git |
 | `3.0/cximage.dll` | 3.0 'The Apocalypse' | USA | 2003-06-12 (installer-entry) | 159,744 | `53aef3609bb800ff72ce5ae3cfcad2d1ee68e84f7b275926a0aacb87984c5b77` | git |
 | `3.0/Helbreath.exe` | 3.0 'The Apocalypse' | USA | 2003-11-11 (installer-entry) | 495,704 | `13c6419ec195659321d3b9ed5a24a3d6657caf68c4e78ddd108c963792e516fc` | git |
 | `3.0/NewHelGame.exe` | 3.0 'The Apocalypse' | USA | 2003-11-11 (installer-entry) | 320,000 | `4f2c91c2dd6715804250716e43a1c2b9dec69e7d56c1f1606dac2e85e881b58c` | git |
@@ -41,7 +45,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 | `Hb202full_ENG.exe` | 2.02 | International (English) | 2001-08-21 (installer-entry) | 211,830,945 | `6f5c3ecda251e85c84ad89b9c06bef24b32f01f060c53ea483762c6aaa52d9a2` | release: Original-Helbreath/History/history-1 |
 | `hbusa_apocalypse.exe` | 3.0 'The Apocalypse' | USA | 2003-11-14 (host-listing) | 241,288,011 | `46530f11079f28234da1b64bbbcea17370542986778da809c1b55f8bdf62be15` | release: Original-Helbreath/Downloads-Archive/originals |
 | `helbreathusa_setup_408.exe` | 4.08 | USA | 2009-04-30 (host-listing) | 214,673,897 | `923991c374ac25f2fac7f9e482cc61aa188421d8ebc6447e9664efa8f0ca3093` | release: Original-Helbreath/Downloads-Archive/originals |
-| `usa-2001-setup.exe` | pre-2.02 'Helbreath Beta' (2001-05-08) | USA | 2001-05-08 (iso-entry) | 157,269,112 | `2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f` | release: Original-Helbreath/History/history-1 |
+| `usa-2001-setup.exe` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 2001-05-08 (iso-entry) | 157,269,112 | `2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f` | release: Original-Helbreath/History/history-1 |
 
 - `Hb202full_ENG.exe`: The installer format is Siementech's own; 7-Zip cannot open it.
 - `hbusa_apocalypse.exe`: MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals

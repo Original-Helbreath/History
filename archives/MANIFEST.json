@@ -1154,6 +1154,57 @@
    "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
   },
   {
+   "path": "History-art-2001-beta.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 8914028,
+   "sha256": "6b1d498f87c7c45268c1678019bb1c416e75fd0f7d8c33ed4cbcadff9da62618",
+   "what": "Every sheet bitmap of the 2001-beta paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (148 sheets)",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/2001-beta",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/2001-beta/*.pak",
+      "bitmap byte ranges listed in art/2001-beta/MANIFEST.json"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
    "path": "History-art-3.0.7z",
    "stored": "release Original-Helbreath/History/history-1",
    "size": 129622239,

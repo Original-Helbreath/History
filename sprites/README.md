@@ -8,6 +8,7 @@ Every `.pak` sprite file the clients shipped. A version folder holds only the pa
 |---|---|---|---|---|---|---|
 | `2.02/` | 167 | 572,728,752 | 2.02 | International (English) | 1999-01-21 to 2001-08-21 | https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso |
 | `2.23/` | 45 | 111,678,256 | 2.23 | USA | 2002-12-21 to 2003-03-21 | https://web.archive.org/web/20141104104043id_/http://www.helbreathusa.com/patch_v223.zip |
+| `2001-beta/` | 13 | 23,420,988 | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | 1999-04-14 to 2001-05-04 | unknown (supplied by the project owner) |
 | `3.0/` | 255 | 468,561,812 | 3.0 'The Apocalypse' | USA | 2002-01-09 to 2003-11-11 | https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe |
 | `3.1/` | 1 | 4,023,442 | 3.1 | USA | 2003-10-25 to 2003-10-25 | https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip |
 | `3.82-bundle/` | 31 | 84,743,492 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |

@@ -383,7 +383,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
     {
@@ -519,6 +520,35 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-04-19 06:40:02",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents122.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
     }
    ]
@@ -736,7 +766,39 @@
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
+    },
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:53:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents124.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
     }
+   ],
+   "also_in": [
+    "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ]
   },
   {
@@ -1514,7 +1576,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
     {
@@ -1650,6 +1713,35 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-07-13 01:10:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents171.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
     }
    ]
@@ -2809,7 +2901,8 @@
    "also_in": [
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
-    "4.08"
+    "4.08",
+    "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
     {
@@ -2918,6 +3011,35 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:24:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents27.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
     }
    ]
@@ -7440,6 +7562,1702 @@
       "value": "Crusade (Heldenian status unknown)",
       "confidence": "inferred",
       "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/badword.txt",
+   "stored": "git",
+   "size": 436458,
+   "sha256": "4db8a8be161bc45500276106fe83ab0b81f5c592580ea1e885e4b2351fc257a6",
+   "what": "Configuration or game text: badword.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-26 12:01:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/badword.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/BItemcfg.txt",
+   "stored": "git",
+   "size": 9676,
+   "sha256": "0a197769978475fa9450d737eacbcdd258369dd39fe07f33a2e7ee8993080d8e",
+   "what": "Configuration or game text: BItemcfg.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-26 11:41:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/BItemcfg.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents0.txt",
+   "stored": "git",
+   "size": 1690,
+   "sha256": "8813d64c652b148e6ab11845cf1d2a7fb39d15d114af13f616e2b42e7ae6092c",
+   "what": "Configuration or game text: contents0.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 07:47:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents0.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents1.txt",
+   "stored": "git",
+   "size": 6711,
+   "sha256": "fee52273b6ea98b22e3ef1388c33b130bc17344cdfac749ce28ed63dc59b5c22",
+   "what": "Configuration or game text: contents1.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-26 04:47:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents1.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents10.txt",
+   "stored": "git",
+   "size": 868,
+   "sha256": "3a4e77fa48d5df9df7f19dbb8eec1d559915d365e4d08536c4f80bda8dd346fb",
+   "what": "Configuration or game text: contents10.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:28:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents10.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents121.txt",
+   "stored": "git",
+   "size": 60,
+   "sha256": "c36ccd155814d2bbb5b43dee2732cf740b1ebc2ca92aa97d8aed5700f19a1de1",
+   "what": "Configuration or game text: contents121.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:53:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents121.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents123.txt",
+   "stored": "git",
+   "size": 34,
+   "sha256": "34e3b91fbc95f3d2d542a82f11cde4d6a241433ad3a87d67785c71246f71b272",
+   "what": "Configuration or game text: contents123.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:53:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents123.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents134.txt",
+   "stored": "git",
+   "size": 60,
+   "sha256": "cd9f3a6e55f8ec8afe1f6a954187291f39aaf8c6e58185828f195aadf3f11fc2",
+   "what": "Configuration or game text: contents134.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:54:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents134.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents144.txt",
+   "stored": "git",
+   "size": 118,
+   "sha256": "36cc7442a92df5fbb0c33e4a93f8e8b6641a8ad8e65a6f60674936ac2aa34248",
+   "what": "Configuration or game text: contents144.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:56:44",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents144.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents151.txt",
+   "stored": "git",
+   "size": 143,
+   "sha256": "d018d037f5e34b72f9841775e9fb0e27ae2165dff3181efce099863ea5d7d2b8",
+   "what": "Configuration or game text: contents151.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:58:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents151.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents152.txt",
+   "stored": "git",
+   "size": 85,
+   "sha256": "1bfe0525e4b6a9d80c3ef7035c604ce77d545c2e6e791cef2c456d55d0e6d236",
+   "what": "Configuration or game text: contents152.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 14:59:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents152.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents153.txt",
+   "stored": "git",
+   "size": 238,
+   "sha256": "94ccd2d57eaadf472b2c278e5dd9adcc10e17447483f33d533872309018c1721",
+   "what": "Configuration or game text: contents153.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 03:06:34",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents153.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents154.txt",
+   "stored": "git",
+   "size": 139,
+   "sha256": "78efabcc115f5ea4542c38b22361d5a4f79ef12e2e9c7e790a6ba47a6d16b931",
+   "what": "Configuration or game text: contents154.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 03:07:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents154.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents155.txt",
+   "stored": "git",
+   "size": 208,
+   "sha256": "0d760388facafebc4da073496dd07098272e2becf9a101bd229737521cc65168",
+   "what": "Configuration or game text: contents155.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 03:07:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents155.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents156.txt",
+   "stored": "git",
+   "size": 334,
+   "sha256": "c24998c62e8c32bf3f9825d23f8bb07325b08b6cc95c63216562e13618c23181",
+   "what": "Configuration or game text: contents156.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 03:08:44",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents156.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents182.txt",
+   "stored": "git",
+   "size": 7,
+   "sha256": "453b4d74a943b375d82856076869c27f6d487a2a1429823ff18924dd46294fd5",
+   "what": "Configuration or game text: contents182.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-07-11 06:31:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents182.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents2.txt",
+   "stored": "git",
+   "size": 11995,
+   "sha256": "cf3ae047088cdc3bc2cad8e73c55a234fa0d3625a20424a340dab5c2bcbf3d8c",
+   "what": "Configuration or game text: contents2.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-27 15:03:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents2.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents20.txt",
+   "stored": "git",
+   "size": 18,
+   "sha256": "43c01dd41c71f2d9e8eae07760d0e5b8c2b1d4d7ec88a499cd849dee1b2d5787",
+   "what": "Configuration or game text: contents20.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:18:22",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents20.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents21.txt",
+   "stored": "git",
+   "size": 181,
+   "sha256": "53f5958c7baf3dc0e8d6dff93e30b90f9cf20a16b0dc032c1ae8158c66ec5521",
+   "what": "Configuration or game text: contents21.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:19:04",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents21.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents220.txt",
+   "stored": "git",
+   "size": 156,
+   "sha256": "3fbb785014fc4e46dbb9bc63b54e8716467fdac8de4479e8495e6e2d0b81163d",
+   "what": "Configuration or game text: contents220.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:20:16",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents220.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents221.txt",
+   "stored": "git",
+   "size": 136,
+   "sha256": "4e79638e1c173529faa6564c2dd0404196a9d5161a0efaa4e150894c6617cd71",
+   "what": "Configuration or game text: contents221.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:20:38",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents221.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents222.txt",
+   "stored": "git",
+   "size": 135,
+   "sha256": "019d85fa42506b7c11defc0fd7af54d6e306a0930f2ecf50805b290834780e1b",
+   "what": "Configuration or game text: contents222.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:20:50",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents222.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents223.txt",
+   "stored": "git",
+   "size": 219,
+   "sha256": "3549656a23663ac7389c26d6a032bb1ff83d1a2ec2ff59a0ec82a0c99517e3f4",
+   "what": "Configuration or game text: contents223.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:21:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents223.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents224.txt",
+   "stored": "git",
+   "size": 218,
+   "sha256": "0996f9babd3828a155a0c8f036e77b2e9d89b3504fddbd0bb1b628691fa2d08a",
+   "what": "Configuration or game text: contents224.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:22:56",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents224.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents225.txt",
+   "stored": "git",
+   "size": 163,
+   "sha256": "2dce0e7f840e10facb95e5c4ad643afc9ea642d8ae7699fb0cd26638c8a3ab7d",
+   "what": "Configuration or game text: contents225.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:23:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents225.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents226.txt",
+   "stored": "git",
+   "size": 673,
+   "sha256": "24dec9a55770cabce51b1c50d966a9c16022ae8a3c90b2f229eb02fde3fbbe7d",
+   "what": "Configuration or game text: contents226.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 04:27:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents226.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/contents500.txt",
+   "stored": "git",
+   "size": 483,
+   "sha256": "5a36d840f6fcbe837640e3ab741766409eea57fdd8db29cb3fb71f19eae9ec66",
+   "what": "Configuration or game text: contents500.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 03:05:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/contents500.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/GameMsgList.txt",
+   "stored": "git",
+   "size": 5965,
+   "sha256": "8e0647c0a0c77ec87c24b872054cc91023c24f1d9644c8278236c9be7bbdab7d",
+   "what": "Configuration or game text: GameMsgList.txt",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-04-30 01:31:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/GameMsgList.txt"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/ItemName.cfg",
+   "stored": "git",
+   "size": 19101,
+   "sha256": "3979b0b2b97b9069fbd0c17910ef647d951787ab07992dd5a270eaed424b48a8",
+   "what": "Configuration or game text: ItemName.cfg",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-08 01:16:53",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/ItemName.cfg"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/LOGIN.CFG",
+   "stored": "git",
+   "size": 80,
+   "sha256": "8a5a826ca8875b70ebf96fa501196ab21b1cf04b2e52e3b9fdeceddcd1e9504b",
+   "what": "Configuration or game text: LOGIN.CFG",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2000-10-30 09:45:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "LOGIN.CFG"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/MAGICCFG.TXT",
+   "stored": "git",
+   "size": 3526,
+   "sha256": "c88ff63f87badaf719e90c487261037e7b429771e20be2407ee68f4829c39cb7",
+   "what": "Configuration or game text: MAGICCFG.TXT",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-02-09 06:11:34",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/MAGICCFG.TXT"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2001-beta/SKILLCFG.TXT",
+   "stored": "git",
+   "size": 920,
+   "sha256": "554b412afd56b9e29484b8d44ceef684f81cf28035efeae8e3ff7e4e2aaab62f",
+   "what": "Configuration or game text: SKILLCFG.TXT",
+   "version": {
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "pre-Crusade beta",
+    "confidence": "inferred",
+    "basis": "none of the 49 Crusade-only files of 2.02 are present"
+   },
+   "origins": [
+    {
+     "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
+     "url": "unknown (supplied by the project owner)",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-07 07:07:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA) BIN/CUE (redump 65970)",
+      "MODE2/2352 BIN converted to ISO with bin2iso.py",
+      "setup.exe (custom InstItClass installer, never run)",
+      "unpacked with extract_2001_setup.py (table checksum matched)",
+      "CONTENTS/SKILLCFG.TXT"
+     ],
+     "version": {
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE link date 2001-05-08 vs 2.02's 2001-08-21; 2.02 is a strict superset of its files"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump 65970 title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "pre-Crusade beta",
+      "confidence": "inferred",
+      "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
     }
    ]
