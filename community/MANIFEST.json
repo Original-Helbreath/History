@@ -25046,6 +25046,220 @@
      }
     }
    ]
+  },
+  {
+   "path": "models/aresden.stl",
+   "stored": "git",
+   "size": 702184,
+   "sha256": "4e47fa698fe524b35fd72b0594c9763df2938e88af584287dd229164034cb303",
+   "what": "3D model of the Aresden town crest, binary STL (14042 triangles, about 100 x 115 mm, very flat), as supplied",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "aresden.stl"
+     ],
+     "notes": "Original file, unchanged."
+    }
+   ]
+  },
+  {
+   "path": "models/aresden.glb",
+   "stored": "git",
+   "size": 253596,
+   "sha256": "7aacfe777297056ecf232f46e9e7bcc9c6e07089e366bd27b02182877177c534",
+   "what": "Aresden crest converted to glTF 2.0 binary (GLB), metres, Y-up, 7015 shared vertices",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "aresden.stl",
+      "aresden.glb (converted by add_models.py)"
+     ],
+     "notes": "Derived: same geometry, mm scaled to m, coloured material added."
+    }
+   ]
+  },
+  {
+   "path": "models/aresden.obj",
+   "stored": "git",
+   "size": 448283,
+   "sha256": "82f29ddaef34bc6bd8c957feb749ce89e7a62021de97c0b227494d63553a1fae",
+   "what": "Aresden crest converted to Wavefront OBJ, mm, Z-up as in the STL",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "aresden.stl",
+      "aresden.obj (converted by add_models.py)"
+     ],
+     "notes": "Derived: same geometry and units as the STL."
+    }
+   ]
+  },
+  {
+   "path": "models/elvine.stl",
+   "stored": "git",
+   "size": 1079784,
+   "sha256": "f18b5336d8388f4f9053f82dad3e5a62c41b5de778f9a339cecb49c103c7c539",
+   "what": "3D model of the Elvine town crest, binary STL (21594 triangles, about 100 x 115 mm, very flat), as supplied",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "elvine.stl"
+     ],
+     "notes": "Original file, unchanged."
+    }
+   ]
+  },
+  {
+   "path": "models/elvine.glb",
+   "stored": "git",
+   "size": 389536,
+   "sha256": "19556afd12e1c28eb634ffd48274e31f4f8cb8b3e854c74da8b8bb190e4d9900",
+   "what": "Elvine crest converted to glTF 2.0 binary (GLB), metres, Y-up, 10795 shared vertices",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "elvine.stl",
+      "elvine.glb (converted by add_models.py)"
+     ],
+     "notes": "Derived: same geometry, mm scaled to m, coloured material added."
+    }
+   ]
+  },
+  {
+   "path": "models/elvine.obj",
+   "stored": "git",
+   "size": 701277,
+   "sha256": "8342d18054298de5bd394948addb42e616a6bd7e3fb3833779c024af02fce99b",
+   "what": "Elvine crest converted to Wavefront OBJ, mm, Z-up as in the STL",
+   "version": {
+    "value": "community 3D model (fan-made)",
+    "confidence": "inferred",
+    "basis": "modern binary STL for 3D printing; not shipped with any client"
+   },
+   "region": {
+    "value": "community",
+    "confidence": "inferred",
+    "basis": "fan-made"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "no source dates or credits the models"
+   },
+   "origins": [
+    {
+     "source": "supplied by the project owner (downloads/files/)",
+     "url": "unknown",
+     "downloaded": "unknown",
+     "documented": "2021-10-05 13:33:59",
+     "documented_kind": "file-mtime",
+     "extracted_from": [
+      "elvine.stl",
+      "elvine.obj (converted by add_models.py)"
+     ],
+     "notes": "Derived: same geometry and units as the STL."
+    }
+   ]
   }
  ]
 }
