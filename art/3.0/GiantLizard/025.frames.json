@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/GiantLizard.pak",
+ "pak_sha256": "2670dd1c44695bdee5f3cf5f1928a310579f0b485f96a408599c07d7382a1e2a",
+ "sheet": 25,
+ "sheets_in_pak": 40,
+ "block_offset": 2527372,
+ "block_length": 127304,
+ "bitmap_offset": 2527576,
+ "bitmap_length": 127100,
+ "bitmap_sha256": "0a6aa6c2ae72ab0539a5f4e6fc8027f409d950c340bae4092b29133f5896eaee",
+ "bitmap_format": "Windows BMP, 710x177, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 86,
+   "height": 136,
+   "pivot_x": -32,
+   "pivot_y": -101
+  },
+  {
+   "x": 86,
+   "y": 0,
+   "width": 94,
+   "height": 144,
+   "pivot_x": -42,
+   "pivot_y": -126
+  },
+  {
+   "x": 180,
+   "y": 0,
+   "width": 86,
+   "height": 177,
+   "pivot_x": -44,
+   "pivot_y": -159
+  },
+  {
+   "x": 266,
+   "y": 0,
+   "width": 93,
+   "height": 143,
+   "pivot_x": -41,
+   "pivot_y": -125
+  },
+  {
+   "x": 359,
+   "y": 0,
+   "width": 86,
+   "height": 136,
+   "pivot_x": -32,
+   "pivot_y": -101
+  },
+  {
+   "x": 445,
+   "y": 0,
+   "width": 93,
+   "height": 143,
+   "pivot_x": -41,
+   "pivot_y": -125
+  },
+  {
+   "x": 538,
+   "y": 0,
+   "width": 86,
+   "height": 177,
+   "pivot_x": -44,
+   "pivot_y": -159
+  },
+  {
+   "x": 624,
+   "y": 0,
+   "width": 86,
+   "height": 136,
+   "pivot_x": -32,
+   "pivot_y": -101
+  }
+ ]
+}

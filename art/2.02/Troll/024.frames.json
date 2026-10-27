@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Troll.pak",
+ "pak_sha256": "458e5f87ef1a1deb92184dd422662ddf9d6b96f8df0bfff06bb1e65a7411c7ff",
+ "sheet": 24,
+ "sheets_in_pak": 40,
+ "block_offset": 3166128,
+ "block_length": 59012,
+ "bitmap_offset": 3166284,
+ "bitmap_length": 58856,
+ "bitmap_sha256": "739c078023f25d2d868413f206cbbd8e51820938160602818bae7215a47a3248",
+ "bitmap_format": "Windows BMP, 195x100, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 48,
+   "height": 92,
+   "pivot_x": -28,
+   "pivot_y": -87
+  },
+  {
+   "x": 48,
+   "y": 0,
+   "width": 49,
+   "height": 97,
+   "pivot_x": -29,
+   "pivot_y": -92
+  },
+  {
+   "x": 97,
+   "y": 0,
+   "width": 49,
+   "height": 100,
+   "pivot_x": -29,
+   "pivot_y": -95
+  },
+  {
+   "x": 146,
+   "y": 0,
+   "width": 49,
+   "height": 87,
+   "pivot_x": -29,
+   "pivot_y": -82
+  }
+ ]
+}

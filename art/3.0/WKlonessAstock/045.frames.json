@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WKlonessAstock.pak",
+ "pak_sha256": "404ab41aa5740c83377b4edcbeda59413b88dffe307703649a7db09f13dcb250",
+ "sheet": 45,
+ "sheets_in_pak": 56,
+ "block_offset": 347948,
+ "block_length": 3696,
+ "bitmap_offset": 348104,
+ "bitmap_length": 3540,
+ "bitmap_sha256": "5f78f28d7464ed7d09dabc9fbf3cbdfa2aaa8ac3acc6867b7bc87c16b8da6028",
+ "bitmap_format": "Windows BMP, 56x44, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 14,
+   "height": 43,
+   "pivot_x": -19,
+   "pivot_y": -75
+  },
+  {
+   "x": 14,
+   "y": 0,
+   "width": 14,
+   "height": 43,
+   "pivot_x": -20,
+   "pivot_y": -75
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 14,
+   "height": 44,
+   "pivot_x": -21,
+   "pivot_y": -75
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 14,
+   "height": 44,
+   "pivot_x": -23,
+   "pivot_y": -75
+  }
+ ]
+}

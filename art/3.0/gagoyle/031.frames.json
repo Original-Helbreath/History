@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/gagoyle.pak",
+ "pak_sha256": "0ad9c60927e727ced71a0f7faa3f8d91a2b77e89bc0a30beac6ba1b2e7456feb",
+ "sheet": 31,
+ "sheets_in_pak": 40,
+ "block_offset": 3611948,
+ "block_length": 104780,
+ "bitmap_offset": 3612152,
+ "bitmap_length": 104576,
+ "bitmap_sha256": "48e6aedc222319e3f9cf9c8895e085dc617467df43185c5cb5f6b9bd496786f8",
+ "bitmap_format": "Windows BMP, 827x125, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 93,
+   "height": 125,
+   "pivot_x": -55,
+   "pivot_y": -97
+  },
+  {
+   "x": 93,
+   "y": 0,
+   "width": 107,
+   "height": 118,
+   "pivot_x": -53,
+   "pivot_y": -85
+  },
+  {
+   "x": 200,
+   "y": 0,
+   "width": 108,
+   "height": 111,
+   "pivot_x": -52,
+   "pivot_y": -76
+  },
+  {
+   "x": 308,
+   "y": 0,
+   "width": 108,
+   "height": 111,
+   "pivot_x": -52,
+   "pivot_y": -76
+  },
+  {
+   "x": 416,
+   "y": 0,
+   "width": 108,
+   "height": 111,
+   "pivot_x": -52,
+   "pivot_y": -76
+  },
+  {
+   "x": 524,
+   "y": 0,
+   "width": 108,
+   "height": 116,
+   "pivot_x": -53,
+   "pivot_y": -82
+  },
+  {
+   "x": 632,
+   "y": 0,
+   "width": 102,
+   "height": 123,
+   "pivot_x": -54,
+   "pivot_y": -91
+  },
+  {
+   "x": 734,
+   "y": 0,
+   "width": 93,
+   "height": 125,
+   "pivot_x": -55,
+   "pivot_y": -97
+  }
+ ]
+}

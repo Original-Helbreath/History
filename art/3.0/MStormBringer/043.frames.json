@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/MStormBringer.pak",
+ "pak_sha256": "26c8e576e4dcec1aa22cad12f97fd0f017ec2105ec42e55b3649dde17c97a92c",
+ "sheet": 43,
+ "sheets_in_pak": 56,
+ "block_offset": 336708,
+ "block_length": 5264,
+ "bitmap_offset": 336864,
+ "bitmap_length": 5108,
+ "bitmap_sha256": "c372154469513972be6fe138495ecfba5776cdc3fa1ce45a791cda1888e05baf",
+ "bitmap_format": "Windows BMP, 165x24, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 27,
+   "height": 11,
+   "pivot_x": -10,
+   "pivot_y": -30
+  },
+  {
+   "x": 27,
+   "y": 0,
+   "width": 39,
+   "height": 13,
+   "pivot_x": -8,
+   "pivot_y": -28
+  },
+  {
+   "x": 66,
+   "y": 0,
+   "width": 49,
+   "height": 18,
+   "pivot_x": -6,
+   "pivot_y": -29
+  },
+  {
+   "x": 115,
+   "y": 0,
+   "width": 50,
+   "height": 24,
+   "pivot_x": -2,
+   "pivot_y": -30
+  }
+ ]
+}

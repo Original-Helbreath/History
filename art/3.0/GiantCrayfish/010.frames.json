@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/GiantCrayfish.pak",
+ "pak_sha256": "964aabd52de905eafd00253c86e729e7215c8b14ddc620e61d504900b79319a1",
+ "sheet": 10,
+ "sheets_in_pak": 40,
+ "block_offset": 711944,
+ "block_length": 67160,
+ "bitmap_offset": 712148,
+ "bitmap_length": 66956,
+ "bitmap_sha256": "f86e2a8a07ca44d0f401cd09366f1a8a39664bffa5d97039e4caaa6f541baf42",
+ "bitmap_format": "Windows BMP, 732x90, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 94,
+   "height": 85,
+   "pivot_x": -61,
+   "pivot_y": -64
+  },
+  {
+   "x": 94,
+   "y": 0,
+   "width": 94,
+   "height": 88,
+   "pivot_x": -60,
+   "pivot_y": -64
+  },
+  {
+   "x": 188,
+   "y": 0,
+   "width": 94,
+   "height": 90,
+   "pivot_x": -59,
+   "pivot_y": -64
+  },
+  {
+   "x": 282,
+   "y": 0,
+   "width": 94,
+   "height": 83,
+   "pivot_x": -59,
+   "pivot_y": -60
+  },
+  {
+   "x": 376,
+   "y": 0,
+   "width": 91,
+   "height": 75,
+   "pivot_x": -56,
+   "pivot_y": -57
+  },
+  {
+   "x": 467,
+   "y": 0,
+   "width": 88,
+   "height": 80,
+   "pivot_x": -53,
+   "pivot_y": -60
+  },
+  {
+   "x": 555,
+   "y": 0,
+   "width": 87,
+   "height": 87,
+   "pivot_x": -52,
+   "pivot_y": -64
+  },
+  {
+   "x": 642,
+   "y": 0,
+   "width": 90,
+   "height": 86,
+   "pivot_x": -56,
+   "pivot_y": -64
+  }
+ ]
+}

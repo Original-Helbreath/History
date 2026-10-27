@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Minotaurs.pak",
+ "pak_sha256": "950252834cb0e666754f0234aedf9cc7c7b7e87cf659f938fd104a92d4d31995",
+ "sheet": 10,
+ "sheets_in_pak": 40,
+ "block_offset": 398024,
+ "block_length": 45984,
+ "bitmap_offset": 398228,
+ "bitmap_length": 45780,
+ "bitmap_sha256": "55ebf47ea151ea498da7bbc45553b9a06cffb13e9f8c5182a44f766b372651fc",
+ "bitmap_format": "Windows BMP, 505x88, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 63,
+   "height": 87,
+   "pivot_x": -47,
+   "pivot_y": -80
+  },
+  {
+   "x": 63,
+   "y": 0,
+   "width": 61,
+   "height": 85,
+   "pivot_x": -48,
+   "pivot_y": -83
+  },
+  {
+   "x": 124,
+   "y": 0,
+   "width": 59,
+   "height": 85,
+   "pivot_x": -49,
+   "pivot_y": -85
+  },
+  {
+   "x": 183,
+   "y": 0,
+   "width": 63,
+   "height": 83,
+   "pivot_x": -50,
+   "pivot_y": -81
+  },
+  {
+   "x": 246,
+   "y": 0,
+   "width": 67,
+   "height": 84,
+   "pivot_x": -51,
+   "pivot_y": -77
+  },
+  {
+   "x": 313,
+   "y": 0,
+   "width": 64,
+   "height": 85,
+   "pivot_x": -51,
+   "pivot_y": -79
+  },
+  {
+   "x": 377,
+   "y": 0,
+   "width": 62,
+   "height": 87,
+   "pivot_x": -52,
+   "pivot_y": -81
+  },
+  {
+   "x": 439,
+   "y": 0,
+   "width": 66,
+   "height": 88,
+   "pivot_x": -53,
+   "pivot_y": -81
+  }
+ ]
+}

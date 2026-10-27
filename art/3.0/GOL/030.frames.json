@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/GOL.PAK",
+ "pak_sha256": "959999da1b31715d70d87b0f7f8f48db7f82bfd92e26170c6bc3e414dbac6757",
+ "sheet": 30,
+ "sheets_in_pak": 40,
+ "block_offset": 608884,
+ "block_length": 13370,
+ "bitmap_offset": 609040,
+ "bitmap_length": 13214,
+ "bitmap_sha256": "220abe484714c51b6a8e52b90bfdd1533f14304a8e2aafd9318bcc4e040bae7e",
+ "bitmap_format": "Windows BMP, 147x82, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 34,
+   "height": 82,
+   "pivot_x": -23,
+   "pivot_y": -74
+  },
+  {
+   "x": 34,
+   "y": 0,
+   "width": 34,
+   "height": 82,
+   "pivot_x": -23,
+   "pivot_y": -74
+  },
+  {
+   "x": 68,
+   "y": 0,
+   "width": 38,
+   "height": 82,
+   "pivot_x": -23,
+   "pivot_y": -74
+  },
+  {
+   "x": 106,
+   "y": 0,
+   "width": 41,
+   "height": 81,
+   "pivot_x": -23,
+   "pivot_y": -73
+  }
+ ]
+}

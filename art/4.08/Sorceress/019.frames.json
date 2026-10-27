@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/Sorceress.pak",
+ "pak_sha256": "d5b207d555631928d2ddec3771b8d924f529b1eeb20ed4fe9d433fedf0c558ba",
+ "sheet": 19,
+ "sheets_in_pak": 40,
+ "block_offset": 872728,
+ "block_length": 60560,
+ "bitmap_offset": 872932,
+ "bitmap_length": 60356,
+ "bitmap_sha256": "8748b728c580fe80beae336eba5e7d40340d4804bafca95998687524fd21e579",
+ "bitmap_format": "Windows BMP, 299x67, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 28,
+   "height": 67,
+   "pivot_x": -11,
+   "pivot_y": -62
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 44,
+   "height": 66,
+   "pivot_x": -16,
+   "pivot_y": -61
+  },
+  {
+   "x": 72,
+   "y": 0,
+   "width": 50,
+   "height": 65,
+   "pivot_x": -18,
+   "pivot_y": -60
+  },
+  {
+   "x": 122,
+   "y": 0,
+   "width": 50,
+   "height": 64,
+   "pivot_x": -18,
+   "pivot_y": -59
+  },
+  {
+   "x": 172,
+   "y": 0,
+   "width": 34,
+   "height": 63,
+   "pivot_x": -10,
+   "pivot_y": -61
+  },
+  {
+   "x": 206,
+   "y": 0,
+   "width": 32,
+   "height": 64,
+   "pivot_x": -10,
+   "pivot_y": -61
+  },
+  {
+   "x": 238,
+   "y": 0,
+   "width": 31,
+   "height": 66,
+   "pivot_x": -10,
+   "pivot_y": -62
+  },
+  {
+   "x": 269,
+   "y": 0,
+   "width": 30,
+   "height": 67,
+   "pivot_x": -10,
+   "pivot_y": -62
+  }
+ ]
+}

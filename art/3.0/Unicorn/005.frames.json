@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Unicorn.pak",
+ "pak_sha256": "a4d7c97461e5e962200f71cfd7396ae251ec891d48a2bbe06b455245a1d84eb4",
+ "sheet": 5,
+ "sheets_in_pak": 40,
+ "block_offset": 64744,
+ "block_length": 11740,
+ "bitmap_offset": 64900,
+ "bitmap_length": 11584,
+ "bitmap_sha256": "d541e393e237db681de6c14b4e4326edf2d367326646dca5961cf1230671fd77",
+ "bitmap_format": "Windows BMP, 147x71, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 36,
+   "height": 71,
+   "pivot_x": -18,
+   "pivot_y": -58
+  },
+  {
+   "x": 36,
+   "y": 0,
+   "width": 38,
+   "height": 65,
+   "pivot_x": -19,
+   "pivot_y": -54
+  },
+  {
+   "x": 74,
+   "y": 0,
+   "width": 37,
+   "height": 60,
+   "pivot_x": -19,
+   "pivot_y": -51
+  },
+  {
+   "x": 111,
+   "y": 0,
+   "width": 36,
+   "height": 67,
+   "pivot_x": -18,
+   "pivot_y": -54
+  }
+ ]
+}

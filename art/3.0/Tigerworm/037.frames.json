@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Tigerworm.pak",
+ "pak_sha256": "7ba9e306e3855e804b878b650ba24ce16d82249041de6f96ec9df3ab52c19a6c",
+ "sheet": 37,
+ "sheets_in_pak": 40,
+ "block_offset": 4304404,
+ "block_length": 101952,
+ "bitmap_offset": 4304608,
+ "bitmap_length": 101748,
+ "bitmap_sha256": "08052a48ed22bb070e17371a51ea396047a50609195db75c4b987faa47cf7e0c",
+ "bitmap_format": "Windows BMP, 832x121, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 90,
+   "height": 121,
+   "pivot_x": -44,
+   "pivot_y": -106
+  },
+  {
+   "x": 90,
+   "y": 0,
+   "width": 107,
+   "height": 116,
+   "pivot_x": -59,
+   "pivot_y": -101
+  },
+  {
+   "x": 197,
+   "y": 0,
+   "width": 104,
+   "height": 119,
+   "pivot_x": -56,
+   "pivot_y": -98
+  },
+  {
+   "x": 301,
+   "y": 0,
+   "width": 103,
+   "height": 105,
+   "pivot_x": -55,
+   "pivot_y": -87
+  },
+  {
+   "x": 404,
+   "y": 0,
+   "width": 109,
+   "height": 98,
+   "pivot_x": -56,
+   "pivot_y": -52
+  },
+  {
+   "x": 513,
+   "y": 0,
+   "width": 109,
+   "height": 78,
+   "pivot_x": -53,
+   "pivot_y": -42
+  },
+  {
+   "x": 622,
+   "y": 0,
+   "width": 104,
+   "height": 77,
+   "pivot_x": -51,
+   "pivot_y": -40
+  },
+  {
+   "x": 726,
+   "y": 0,
+   "width": 106,
+   "height": 73,
+   "pivot_x": -52,
+   "pivot_y": -37
+  }
+ ]
+}

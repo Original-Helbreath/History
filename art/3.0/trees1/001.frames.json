@@ -1,0 +1,23 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/trees1.pak",
+ "pak_sha256": "17baea601ac5593003928889cb5e584a4fd334322525bdc29da892a81ece102c",
+ "sheet": 1,
+ "sheets_in_pak": 46,
+ "block_offset": 55962,
+ "block_length": 87250,
+ "bitmap_offset": 56082,
+ "bitmap_length": 87130,
+ "bitmap_sha256": "97e06d30fabd2de52fcff17ce3242a139f1203af9bd6347cadf38f71447833b3",
+ "bitmap_format": "Windows BMP, 281x303, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 281,
+   "height": 303,
+   "pivot_x": -123,
+   "pivot_y": -259
+  }
+ ]
+}

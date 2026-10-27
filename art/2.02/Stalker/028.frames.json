@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Stalker.pak",
+ "pak_sha256": "ec8ed8be435b7de419f947a02f3840bf2ca329572f1534e66fbcc84bfcf56a43",
+ "sheet": 28,
+ "sheets_in_pak": 40,
+ "block_offset": 4640192,
+ "block_length": 164732,
+ "bitmap_offset": 4640396,
+ "bitmap_length": 164528,
+ "bitmap_sha256": "4c2bc2d8fd411fb2c9f317c8064323f2574c71d7f70bf0996bba2e9f4ee7aeca",
+ "bitmap_format": "Windows BMP, 711x77, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 85,
+   "height": 77,
+   "pivot_x": -43,
+   "pivot_y": -69
+  },
+  {
+   "x": 85,
+   "y": 0,
+   "width": 86,
+   "height": 70,
+   "pivot_x": -43,
+   "pivot_y": -62
+  },
+  {
+   "x": 171,
+   "y": 0,
+   "width": 89,
+   "height": 67,
+   "pivot_x": -46,
+   "pivot_y": -55
+  },
+  {
+   "x": 260,
+   "y": 0,
+   "width": 91,
+   "height": 62,
+   "pivot_x": -48,
+   "pivot_y": -51
+  },
+  {
+   "x": 351,
+   "y": 0,
+   "width": 93,
+   "height": 66,
+   "pivot_x": -50,
+   "pivot_y": -53
+  },
+  {
+   "x": 444,
+   "y": 0,
+   "width": 95,
+   "height": 63,
+   "pivot_x": -50,
+   "pivot_y": -58
+  },
+  {
+   "x": 539,
+   "y": 0,
+   "width": 87,
+   "height": 72,
+   "pivot_x": -43,
+   "pivot_y": -64
+  },
+  {
+   "x": 626,
+   "y": 0,
+   "width": 85,
+   "height": 77,
+   "pivot_x": -43,
+   "pivot_y": -69
+  }
+ ]
+}

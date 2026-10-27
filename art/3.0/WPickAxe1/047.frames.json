@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WPickAxe1.pak",
+ "pak_sha256": "7b2657c14828cc49fa0af3ccfe9867a217931f6145cc1aa14d7c485d11a8e020",
+ "sheet": 47,
+ "sheets_in_pak": 56,
+ "block_offset": 250720,
+ "block_length": 1924,
+ "bitmap_offset": 250876,
+ "bitmap_length": 1768,
+ "bitmap_sha256": "574222594eae8a241e14d24160c95e72a3c2706deb65c0560084d3bbff9ecf09",
+ "bitmap_format": "Windows BMP, 30x25, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 8,
+   "height": 25,
+   "pivot_x": 6,
+   "pivot_y": -60
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "width": 7,
+   "height": 24,
+   "pivot_x": 7,
+   "pivot_y": -60
+  },
+  {
+   "x": 15,
+   "y": 0,
+   "width": 7,
+   "height": 25,
+   "pivot_x": 7,
+   "pivot_y": -61
+  },
+  {
+   "x": 22,
+   "y": 0,
+   "width": 8,
+   "height": 25,
+   "pivot_x": 7,
+   "pivot_y": -61
+  }
+ ]
+}

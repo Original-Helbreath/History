@@ -1,0 +1,31 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/item-dynamic.pak",
+ "pak_sha256": "47ea1fd50b497a9fd0ac40a9b12c8c6c29eb44f56a1d2a593e394a3af915e274",
+ "sheet": 1,
+ "sheets_in_pak": 3,
+ "block_offset": 126874,
+ "block_length": 17970,
+ "bitmap_offset": 127006,
+ "bitmap_length": 17838,
+ "bitmap_sha256": "e6c0da10a7b8b5448b92ceae24e459fa9b65ee73f709b52b065bb5af080b75d2",
+ "bitmap_format": "Windows BMP, 103x57, 24 bpp",
+ "frames": [
+  {
+   "x": 1,
+   "y": 1,
+   "width": 63,
+   "height": 54,
+   "pivot_x": -30,
+   "pivot_y": -40
+  },
+  {
+   "x": 69,
+   "y": 15,
+   "width": 32,
+   "height": 36,
+   "pivot_x": -17,
+   "pivot_y": -27
+  }
+ ]
+}

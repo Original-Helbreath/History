@@ -1,0 +1,39 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/item-equipM.pak",
+ "pak_sha256": "e4c0fe64eee22a39460549ebf2d4d476252a98d47de7b6dbd9c900d23af71abf",
+ "sheet": 0,
+ "sheets_in_pak": 15,
+ "block_offset": 144,
+ "block_length": 59136,
+ "bitmap_offset": 288,
+ "bitmap_length": 58992,
+ "bitmap_sha256": "3689c7248d7a9ae0020a7ade0fd7732dd5ab58c3897b0a5621230773b90753aa",
+ "bitmap_format": "Windows BMP, 141x139, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  },
+  {
+   "x": 47,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  },
+  {
+   "x": 94,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  }
+ ]
+}

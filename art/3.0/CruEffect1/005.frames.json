@@ -1,0 +1,95 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/CruEffect1.pak",
+ "pak_sha256": "d54772d3c5f46b398b87ab3f54577211327fd868ead785b54196a9c1c1234dea",
+ "sheet": 5,
+ "sheets_in_pak": 9,
+ "block_offset": 2344446,
+ "block_length": 105312,
+ "bitmap_offset": 2344674,
+ "bitmap_length": 105084,
+ "bitmap_sha256": "90ef9997526dc46accf57f334070a2157c0c50162b0b3659ebf4ba3f18b3cbeb",
+ "bitmap_format": "Windows BMP, 289x121, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 27,
+   "height": 57,
+   "pivot_x": -10,
+   "pivot_y": -18
+  },
+  {
+   "x": 27,
+   "y": 0,
+   "width": 27,
+   "height": 63,
+   "pivot_x": -11,
+   "pivot_y": -22
+  },
+  {
+   "x": 54,
+   "y": 0,
+   "width": 27,
+   "height": 66,
+   "pivot_x": -12,
+   "pivot_y": -25
+  },
+  {
+   "x": 81,
+   "y": 0,
+   "width": 29,
+   "height": 71,
+   "pivot_x": -13,
+   "pivot_y": -30
+  },
+  {
+   "x": 110,
+   "y": 0,
+   "width": 28,
+   "height": 79,
+   "pivot_x": -12,
+   "pivot_y": -39
+  },
+  {
+   "x": 138,
+   "y": 0,
+   "width": 29,
+   "height": 87,
+   "pivot_x": -12,
+   "pivot_y": -48
+  },
+  {
+   "x": 167,
+   "y": 0,
+   "width": 30,
+   "height": 93,
+   "pivot_x": -13,
+   "pivot_y": -53
+  },
+  {
+   "x": 197,
+   "y": 0,
+   "width": 30,
+   "height": 101,
+   "pivot_x": -14,
+   "pivot_y": -61
+  },
+  {
+   "x": 227,
+   "y": 0,
+   "width": 31,
+   "height": 114,
+   "pivot_x": -15,
+   "pivot_y": -73
+  },
+  {
+   "x": 258,
+   "y": 0,
+   "width": 31,
+   "height": 121,
+   "pivot_x": -15,
+   "pivot_y": -82
+  }
+ ]
+}

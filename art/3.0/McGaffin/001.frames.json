@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/McGaffin.pak",
+ "pak_sha256": "0890b4a2c336e8766fbc4506fc9e3cc31624b545e735da81d43ad87011f62c51",
+ "sheet": 1,
+ "sheets_in_pak": 16,
+ "block_offset": 7338,
+ "block_length": 6938,
+ "bitmap_offset": 7494,
+ "bitmap_length": 6782,
+ "bitmap_sha256": "51ea936f5a6f0bb339f56834900dcc5f4060f2d08662a8f5e832a4a45942aa74",
+ "bitmap_format": "Windows BMP, 89x62, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 23,
+   "height": 61,
+   "pivot_x": -11,
+   "pivot_y": -57
+  },
+  {
+   "x": 23,
+   "y": 0,
+   "width": 22,
+   "height": 62,
+   "pivot_x": -10,
+   "pivot_y": -58
+  },
+  {
+   "x": 45,
+   "y": 0,
+   "width": 22,
+   "height": 62,
+   "pivot_x": -10,
+   "pivot_y": -58
+  },
+  {
+   "x": 67,
+   "y": 0,
+   "width": 22,
+   "height": 62,
+   "pivot_x": -10,
+   "pivot_y": -58
+  }
+ ]
+}

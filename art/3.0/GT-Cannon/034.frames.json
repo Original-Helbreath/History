@@ -1,0 +1,39 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/GT-Cannon.pak",
+ "pak_sha256": "dd0ba709680eca97ef4552c671a31b3452578c5340da8420a943d11edf25ea5a",
+ "sheet": 34,
+ "sheets_in_pak": 40,
+ "block_offset": 558592,
+ "block_length": 23684,
+ "bitmap_offset": 558736,
+ "bitmap_length": 23540,
+ "bitmap_sha256": "db036d2d5abffe8b1da269ba08cd79ea5b14b727ac89a1039eb3e149a4de2e97",
+ "bitmap_format": "Windows BMP, 207x108, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 69,
+   "height": 108,
+   "pivot_x": -34,
+   "pivot_y": -97
+  },
+  {
+   "x": 69,
+   "y": 0,
+   "width": 69,
+   "height": 105,
+   "pivot_x": -34,
+   "pivot_y": -94
+  },
+  {
+   "x": 138,
+   "y": 0,
+   "width": 69,
+   "height": 62,
+   "pivot_x": -34,
+   "pivot_y": -51
+  }
+ ]
+}

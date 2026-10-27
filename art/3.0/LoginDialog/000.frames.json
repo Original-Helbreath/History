@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/LoginDialog.pak",
+ "pak_sha256": "1b949d3c1b0837ef3f4e65a946822060d5ecd2c3f69ef6449737235ffab76b9b",
+ "sheet": 0,
+ "sheets_in_pak": 1,
+ "block_offset": 32,
+ "block_length": 1444578,
+ "bitmap_offset": 236,
+ "bitmap_length": 1444374,
+ "bitmap_sha256": "cd6277e5a976ed39be462f21bc11d63d090101310bd02e5a42bb237699f82273",
+ "bitmap_format": "Windows BMP, 680x708, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 640,
+   "height": 480,
+   "pivot_x": -1,
+   "pivot_y": 0
+  },
+  {
+   "x": 8,
+   "y": 485,
+   "width": 332,
+   "height": 184,
+   "pivot_x": -1,
+   "pivot_y": 0
+  },
+  {
+   "x": 345,
+   "y": 485,
+   "width": 332,
+   "height": 184,
+   "pivot_x": -1,
+   "pivot_y": 0
+  },
+  {
+   "x": 8,
+   "y": 684,
+   "width": 84,
+   "height": 20,
+   "pivot_x": -1,
+   "pivot_y": 0
+  },
+  {
+   "x": 101,
+   "y": 684,
+   "width": 76,
+   "height": 20,
+   "pivot_x": -1,
+   "pivot_y": 0
+  },
+  {
+   "x": 203,
+   "y": 684,
+   "width": 138,
+   "height": 19,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 345,
+   "y": 684,
+   "width": 157,
+   "height": 19,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 377,
+   "y": 684,
+   "width": 157,
+   "height": 18,
+   "pivot_x": 0,
+   "pivot_y": 0
+  }
+ ]
+}

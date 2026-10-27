@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/SKE.PAK",
+ "pak_sha256": "aabae3db834505a90e92b9e5e08a76977a623df3b787fee0763403542405b317",
+ "sheet": 19,
+ "sheets_in_pak": 40,
+ "block_offset": 607936,
+ "block_length": 40064,
+ "bitmap_offset": 608092,
+ "bitmap_length": 39908,
+ "bitmap_sha256": "c536ac07a62fd44d5a66e60b62ba8c1780db2e2a8459d911b8cc7b963df45ae7",
+ "bitmap_format": "Windows BMP, 164x81, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 34,
+   "height": 74,
+   "pivot_x": -16,
+   "pivot_y": -66
+  },
+  {
+   "x": 34,
+   "y": 0,
+   "width": 36,
+   "height": 81,
+   "pivot_x": -14,
+   "pivot_y": -73
+  },
+  {
+   "x": 70,
+   "y": 0,
+   "width": 36,
+   "height": 57,
+   "pivot_x": -12,
+   "pivot_y": -49
+  },
+  {
+   "x": 106,
+   "y": 0,
+   "width": 58,
+   "height": 59,
+   "pivot_x": -12,
+   "pivot_y": -45
+  }
+ ]
+}

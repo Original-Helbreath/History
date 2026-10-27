@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/GT-Arrow.pak",
+ "pak_sha256": "b7a5fa83539ac8244e287fc82c506b657a59832527d8d7ee66f87a3393c3fe90",
+ "sheet": 22,
+ "sheets_in_pak": 40,
+ "block_offset": 515984,
+ "block_length": 53144,
+ "bitmap_offset": 516140,
+ "bitmap_length": 52988,
+ "bitmap_sha256": "06f08ef0753b3c1ebc17f4a55617f5865a97984a7be393e57f21ab1f3246e2e3",
+ "bitmap_format": "Windows BMP, 409x126, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 124,
+   "height": 126,
+   "pivot_x": -77,
+   "pivot_y": -115
+  },
+  {
+   "x": 124,
+   "y": 0,
+   "width": 109,
+   "height": 126,
+   "pivot_x": -62,
+   "pivot_y": -115
+  },
+  {
+   "x": 233,
+   "y": 0,
+   "width": 88,
+   "height": 126,
+   "pivot_x": -40,
+   "pivot_y": -115
+  },
+  {
+   "x": 321,
+   "y": 0,
+   "width": 88,
+   "height": 126,
+   "pivot_x": -41,
+   "pivot_y": -115
+  }
+ ]
+}

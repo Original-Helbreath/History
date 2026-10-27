@@ -1,0 +1,39 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Effect8.pak",
+ "pak_sha256": "4f986f09f16857eaccf8c2ae9d1618c45e75c8cf92e9103715266fa729964b31",
+ "sheet": 8,
+ "sheets_in_pak": 9,
+ "block_offset": 1724474,
+ "block_length": 307134,
+ "bitmap_offset": 1724618,
+ "bitmap_length": 306990,
+ "bitmap_sha256": "7aef4fd0f34280dbe58b7baae13ca245ef5bc564b9c09dfd81652807c36375d4",
+ "bitmap_format": "Windows BMP, 392x261, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 313,
+   "height": 78,
+   "pivot_x": -158,
+   "pivot_y": -38
+  },
+  {
+   "x": 0,
+   "y": 77,
+   "width": 355,
+   "height": 86,
+   "pivot_x": -177,
+   "pivot_y": -43
+  },
+  {
+   "x": 0,
+   "y": 164,
+   "width": 392,
+   "height": 95,
+   "pivot_x": -197,
+   "pivot_y": -48
+  }
+ ]
+}

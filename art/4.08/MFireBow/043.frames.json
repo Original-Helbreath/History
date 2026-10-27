@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/MFireBow.pak",
+ "pak_sha256": "31ada7bd224d4f1acc2f3c158aff8e532e176c8a481228e7eecdf393569d0ca9",
+ "sheet": 43,
+ "sheets_in_pak": 56,
+ "block_offset": 1041604,
+ "block_length": 9724,
+ "bitmap_offset": 1041760,
+ "bitmap_length": 9568,
+ "bitmap_sha256": "be4a6b4ad19caa90d47c362216623d7c82a2f85b869f2139eb1e5fda072142de",
+ "bitmap_format": "Windows BMP, 77x41, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 29,
+   "height": 41,
+   "pivot_x": -4,
+   "pivot_y": -54
+  },
+  {
+   "x": 29,
+   "y": 0,
+   "width": 19,
+   "height": 31,
+   "pivot_x": 0,
+   "pivot_y": -49
+  },
+  {
+   "x": 48,
+   "y": 0,
+   "width": 12,
+   "height": 23,
+   "pivot_x": 3,
+   "pivot_y": -46
+  },
+  {
+   "x": 60,
+   "y": 0,
+   "width": 17,
+   "height": 13,
+   "pivot_x": -4,
+   "pivot_y": -42
+  }
+ ]
+}

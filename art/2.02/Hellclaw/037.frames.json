@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Hellclaw.pak",
+ "pak_sha256": "78e9fbea3836a56913930cb3eba0a5b9bd4f9cd50a6d833888f8e2b7a3ebfe57",
+ "sheet": 37,
+ "sheets_in_pak": 40,
+ "block_offset": 11062504,
+ "block_length": 358508,
+ "bitmap_offset": 11062708,
+ "bitmap_length": 358304,
+ "bitmap_sha256": "be0041c697367ba58b33a304311b1b36dcc6454f92cca590d6379318714ac0e1",
+ "bitmap_format": "Windows BMP, 1012x118, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 108,
+   "height": 118,
+   "pivot_x": -60,
+   "pivot_y": -103
+  },
+  {
+   "x": 108,
+   "y": 0,
+   "width": 112,
+   "height": 112,
+   "pivot_x": -73,
+   "pivot_y": -97
+  },
+  {
+   "x": 220,
+   "y": 0,
+   "width": 112,
+   "height": 105,
+   "pivot_x": -73,
+   "pivot_y": -89
+  },
+  {
+   "x": 332,
+   "y": 0,
+   "width": 133,
+   "height": 89,
+   "pivot_x": -94,
+   "pivot_y": -54
+  },
+  {
+   "x": 465,
+   "y": 0,
+   "width": 143,
+   "height": 94,
+   "pivot_x": -104,
+   "pivot_y": -37
+  },
+  {
+   "x": 608,
+   "y": 0,
+   "width": 140,
+   "height": 83,
+   "pivot_x": -100,
+   "pivot_y": -28
+  },
+  {
+   "x": 748,
+   "y": 0,
+   "width": 138,
+   "height": 80,
+   "pivot_x": -97,
+   "pivot_y": -27
+  },
+  {
+   "x": 886,
+   "y": 0,
+   "width": 126,
+   "height": 76,
+   "pivot_x": -93,
+   "pivot_y": -19
+  }
+ ]
+}

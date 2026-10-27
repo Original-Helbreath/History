@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Wsw.pak",
+ "pak_sha256": "417f3bcb840261e0b1804102fc3a7802decd2163bea776b923f65d8bfcae0d94",
+ "sheet": 51,
+ "sheets_in_pak": 672,
+ "block_offset": 96544,
+ "block_length": 2900,
+ "bitmap_offset": 96748,
+ "bitmap_length": 2696,
+ "bitmap_sha256": "2499bdc9414187c5da879099436a1d080db62860db6ff4b4cbb7547545fc741a",
+ "bitmap_format": "Windows BMP, 105x15, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 9,
+   "height": 15,
+   "pivot_x": 5,
+   "pivot_y": -32
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "width": 14,
+   "height": 10,
+   "pivot_x": -3,
+   "pivot_y": -26
+  },
+  {
+   "x": 23,
+   "y": 0,
+   "width": 15,
+   "height": 7,
+   "pivot_x": -12,
+   "pivot_y": -24
+  },
+  {
+   "x": 38,
+   "y": 0,
+   "width": 13,
+   "height": 8,
+   "pivot_x": -17,
+   "pivot_y": -29
+  },
+  {
+   "x": 51,
+   "y": 0,
+   "width": 11,
+   "height": 11,
+   "pivot_x": -18,
+   "pivot_y": -30
+  },
+  {
+   "x": 62,
+   "y": 0,
+   "width": 13,
+   "height": 8,
+   "pivot_x": -17,
+   "pivot_y": -27
+  },
+  {
+   "x": 75,
+   "y": 0,
+   "width": 16,
+   "height": 7,
+   "pivot_x": -12,
+   "pivot_y": -25
+  },
+  {
+   "x": 91,
+   "y": 0,
+   "width": 14,
+   "height": 9,
+   "pivot_x": -3,
+   "pivot_y": -28
+  }
+ ]
+}

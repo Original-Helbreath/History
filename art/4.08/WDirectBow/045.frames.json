@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/WDirectBow.pak",
+ "pak_sha256": "4c3a43bf6db9446c690017a759e425c6b0b02ef87812247d85fd1e7d2afb42b9",
+ "sheet": 45,
+ "sheets_in_pak": 56,
+ "block_offset": 456868,
+ "block_length": 6596,
+ "bitmap_offset": 457024,
+ "bitmap_length": 6440,
+ "bitmap_sha256": "f69eeb2fda0b51d0e6dc61f5baa5a42b2c30d57029b2a885fd035a5f3594b65d",
+ "bitmap_format": "Windows BMP, 56x38, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 14,
+   "height": 37,
+   "pivot_x": -17,
+   "pivot_y": -54
+  },
+  {
+   "x": 14,
+   "y": 0,
+   "width": 14,
+   "height": 38,
+   "pivot_x": -18,
+   "pivot_y": -54
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 14,
+   "height": 38,
+   "pivot_x": -19,
+   "pivot_y": -54
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 14,
+   "height": 38,
+   "pivot_x": -20,
+   "pivot_y": -54
+  }
+ ]
+}

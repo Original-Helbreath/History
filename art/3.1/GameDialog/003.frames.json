@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.1/GameDialog.pak",
+ "pak_sha256": "7d9c4b9323298f97633c83b18638bdc47f599ff88590ed3a4d261ce038526518",
+ "sheet": 3,
+ "sheets_in_pak": 11,
+ "block_offset": 792626,
+ "block_length": 418754,
+ "bitmap_offset": 792830,
+ "bitmap_length": 418550,
+ "bitmap_sha256": "b0e8870db9dad0972062a656d165316aa8749ae5104b630a85664cd7f7f7d2ae",
+ "bitmap_format": "Windows BMP, 702x593, 8 bpp",
+ "frames": [
+  {
+   "x": 9,
+   "y": 9,
+   "width": 334,
+   "height": 256,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 360,
+   "y": 9,
+   "width": 304,
+   "height": 328,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 10,
+   "y": 271,
+   "width": 315,
+   "height": 171,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 360,
+   "y": 344,
+   "width": 338,
+   "height": 202,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 11,
+   "y": 451,
+   "width": 226,
+   "height": 138,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 241,
+   "y": 478,
+   "width": 12,
+   "height": 12,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 256,
+   "y": 478,
+   "width": 12,
+   "height": 12,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 242,
+   "y": 567,
+   "width": 107,
+   "height": 21,
+   "pivot_x": 0,
+   "pivot_y": 0
+  }
+ ]
+}

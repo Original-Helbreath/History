@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WBabHammer.pak",
+ "pak_sha256": "0177d2caf188cbf71f6cb67f3459d68edc7ca84d759c1ee876c367ca046e3d5e",
+ "sheet": 47,
+ "sheets_in_pak": 56,
+ "block_offset": 373540,
+ "block_length": 4272,
+ "bitmap_offset": 373696,
+ "bitmap_length": 4116,
+ "bitmap_sha256": "526ced0378f4b9e7964ecec4ea10dec92c293429361746bd681f8a78edd4142b",
+ "bitmap_format": "Windows BMP, 75x40, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 19,
+   "height": 40,
+   "pivot_x": -6,
+   "pivot_y": -71
+  },
+  {
+   "x": 19,
+   "y": 0,
+   "width": 18,
+   "height": 40,
+   "pivot_x": -5,
+   "pivot_y": -72
+  },
+  {
+   "x": 37,
+   "y": 0,
+   "width": 19,
+   "height": 40,
+   "pivot_x": -5,
+   "pivot_y": -72
+  },
+  {
+   "x": 56,
+   "y": 0,
+   "width": 19,
+   "height": 40,
+   "pivot_x": -5,
+   "pivot_y": -72
+  }
+ ]
+}

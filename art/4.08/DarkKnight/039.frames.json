@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/DarkKnight.pak",
+ "pak_sha256": "7477d48572b7e963cf7ef7f61deb7c219ac0e49066190287eec205dbdfbcd8f8",
+ "sheet": 39,
+ "sheets_in_pak": 40,
+ "block_offset": 3626040,
+ "block_length": 79300,
+ "bitmap_offset": 3626244,
+ "bitmap_length": 79096,
+ "bitmap_sha256": "16e37a325cd191a717c907a13194ea9f505894050bcc92ba14cd3d1e7c603c91",
+ "bitmap_format": "Windows BMP, 405x65, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 42,
+   "height": 65,
+   "pivot_x": -20,
+   "pivot_y": -59
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 44,
+   "height": 61,
+   "pivot_x": -18,
+   "pivot_y": -55
+  },
+  {
+   "x": 86,
+   "y": 0,
+   "width": 45,
+   "height": 54,
+   "pivot_x": -18,
+   "pivot_y": -50
+  },
+  {
+   "x": 131,
+   "y": 0,
+   "width": 43,
+   "height": 53,
+   "pivot_x": -18,
+   "pivot_y": -47
+  },
+  {
+   "x": 174,
+   "y": 0,
+   "width": 42,
+   "height": 52,
+   "pivot_x": -20,
+   "pivot_y": -46
+  },
+  {
+   "x": 216,
+   "y": 0,
+   "width": 47,
+   "height": 53,
+   "pivot_x": -26,
+   "pivot_y": -46
+  },
+  {
+   "x": 263,
+   "y": 0,
+   "width": 69,
+   "height": 49,
+   "pivot_x": -37,
+   "pivot_y": -39
+  },
+  {
+   "x": 332,
+   "y": 0,
+   "width": 73,
+   "height": 47,
+   "pivot_x": -39,
+   "pivot_y": -35
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.1/GameDialog.pak",
+ "pak_sha256": "7d9c4b9323298f97633c83b18638bdc47f599ff88590ed3a4d261ce038526518",
+ "sheet": 2,
+ "sheets_in_pak": 11,
+ "block_offset": 528900,
+ "block_length": 263726,
+ "bitmap_offset": 529056,
+ "bitmap_length": 263570,
+ "bitmap_sha256": "5adbc700b645aeb819cb5c0dbcdcf1f124825446be08b9d07de1006ac817c94c",
+ "bitmap_format": "Windows BMP, 546x479, 8 bpp",
+ "frames": [
+  {
+   "x": 2,
+   "y": 2,
+   "width": 270,
+   "height": 381,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 275,
+   "y": 2,
+   "width": 270,
+   "height": 357,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 2,
+   "y": 385,
+   "width": 142,
+   "height": 93,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 275,
+   "y": 362,
+   "width": 81,
+   "height": 115,
+   "pivot_x": 94,
+   "pivot_y": 132
+  }
+ ]
+}

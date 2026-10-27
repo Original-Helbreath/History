@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/MBShadowSword.pak",
+ "pak_sha256": "b3fa0a5f0c98453179eb9937106129c362cc39d63fcc9e18f8d7ea6a4d0fc48a",
+ "sheet": 40,
+ "sheets_in_pak": 56,
+ "block_offset": 397612,
+ "block_length": 7760,
+ "bitmap_offset": 397768,
+ "bitmap_length": 7604,
+ "bitmap_sha256": "6c8a7be124a9cde7f2fa5fc34f34a2bbe42125bc9cae22a532f7a9ef0327b2c9",
+ "bitmap_format": "Windows BMP, 126x51, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 7,
+   "height": 51,
+   "pivot_x": 3,
+   "pivot_y": -74
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "width": 25,
+   "height": 49,
+   "pivot_x": -14,
+   "pivot_y": -71
+  },
+  {
+   "x": 32,
+   "y": 0,
+   "width": 41,
+   "height": 43,
+   "pivot_x": -30,
+   "pivot_y": -63
+  },
+  {
+   "x": 73,
+   "y": 0,
+   "width": 53,
+   "height": 34,
+   "pivot_x": -44,
+   "pivot_y": -51
+  }
+ ]
+}

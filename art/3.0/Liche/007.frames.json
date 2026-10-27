@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Liche.pak",
+ "pak_sha256": "2c6684cba6348480ee031434fe4ddaca11fbb8c6039ed2d240542daa738ff1ca",
+ "sheet": 7,
+ "sheets_in_pak": 40,
+ "block_offset": 175348,
+ "block_length": 25152,
+ "bitmap_offset": 175504,
+ "bitmap_length": 24996,
+ "bitmap_sha256": "d83b400853f1d411a9dd44b39c5c7bacad61e0889ce53d06cf575208fdd0e33e",
+ "bitmap_format": "Windows BMP, 208x115, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 52,
+   "height": 113,
+   "pivot_x": -25,
+   "pivot_y": -93
+  },
+  {
+   "x": 52,
+   "y": 0,
+   "width": 52,
+   "height": 114,
+   "pivot_x": -25,
+   "pivot_y": -93
+  },
+  {
+   "x": 104,
+   "y": 0,
+   "width": 52,
+   "height": 114,
+   "pivot_x": -25,
+   "pivot_y": -93
+  },
+  {
+   "x": 156,
+   "y": 0,
+   "width": 52,
+   "height": 115,
+   "pivot_x": -25,
+   "pivot_y": -93
+  }
+ ]
+}

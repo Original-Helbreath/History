@@ -1,0 +1,55 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/CruEffect1.pak",
+ "pak_sha256": "d54772d3c5f46b398b87ab3f54577211327fd868ead785b54196a9c1c1234dea",
+ "sheet": 7,
+ "sheets_in_pak": 9,
+ "block_offset": 2658458,
+ "block_length": 4832,
+ "bitmap_offset": 2658626,
+ "bitmap_length": 4664,
+ "bitmap_sha256": "9f042751e09d7979fce4f7149974330d0a75b3126be435a9a2bf0e75489a0942",
+ "bitmap_format": "Windows BMP, 127x12, 24 bpp",
+ "frames": [
+  {
+   "x": 1,
+   "y": 1,
+   "width": 25,
+   "height": 10,
+   "pivot_x": -12,
+   "pivot_y": -4
+  },
+  {
+   "x": 26,
+   "y": 1,
+   "width": 25,
+   "height": 10,
+   "pivot_x": -12,
+   "pivot_y": -5
+  },
+  {
+   "x": 51,
+   "y": 1,
+   "width": 25,
+   "height": 10,
+   "pivot_x": -12,
+   "pivot_y": -4
+  },
+  {
+   "x": 76,
+   "y": 1,
+   "width": 25,
+   "height": 10,
+   "pivot_x": -12,
+   "pivot_y": -4
+  },
+  {
+   "x": 100,
+   "y": 1,
+   "width": 26,
+   "height": 10,
+   "pivot_x": -13,
+   "pivot_y": -5
+  }
+ ]
+}

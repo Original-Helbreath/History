@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Barlog.pak",
+ "pak_sha256": "c2b04e28666a0de60ffa5a300a2955fdff89a29c47e0d88586d34d5a96bb56d0",
+ "sheet": 34,
+ "sheets_in_pak": 40,
+ "block_offset": 4099652,
+ "block_length": 181024,
+ "bitmap_offset": 4099856,
+ "bitmap_length": 180820,
+ "bitmap_sha256": "3077d0f5bce55a73983b6b2dd25f8ef7fd96ca1fd9402e37ea4b5545f18dc684",
+ "bitmap_format": "Windows BMP, 1311x137, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 153,
+   "height": 132,
+   "pivot_x": -116,
+   "pivot_y": -121
+  },
+  {
+   "x": 153,
+   "y": 0,
+   "width": 156,
+   "height": 136,
+   "pivot_x": -116,
+   "pivot_y": -123
+  },
+  {
+   "x": 309,
+   "y": 0,
+   "width": 158,
+   "height": 137,
+   "pivot_x": -111,
+   "pivot_y": -122
+  },
+  {
+   "x": 467,
+   "y": 0,
+   "width": 161,
+   "height": 129,
+   "pivot_x": -107,
+   "pivot_y": -116
+  },
+  {
+   "x": 628,
+   "y": 0,
+   "width": 165,
+   "height": 123,
+   "pivot_x": -106,
+   "pivot_y": -112
+  },
+  {
+   "x": 793,
+   "y": 0,
+   "width": 167,
+   "height": 112,
+   "pivot_x": -101,
+   "pivot_y": -106
+  },
+  {
+   "x": 960,
+   "y": 0,
+   "width": 174,
+   "height": 77,
+   "pivot_x": -83,
+   "pivot_y": -90
+  },
+  {
+   "x": 1134,
+   "y": 0,
+   "width": 177,
+   "height": 71,
+   "pivot_x": -73,
+   "pivot_y": -70
+  }
+ ]
+}

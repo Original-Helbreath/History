@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/MasterMageOrc.pak",
+ "pak_sha256": "5df51be0986f50193034c753a3b7d59b2ee8eaffb9bc137ebb6d1f2c235d43ce",
+ "sheet": 38,
+ "sheets_in_pak": 40,
+ "block_offset": 2644080,
+ "block_length": 62336,
+ "bitmap_offset": 2644284,
+ "bitmap_length": 62132,
+ "bitmap_sha256": "3c9b8dc6e23d77195311fe9715c60eff4fa82b79e624b0d3b5671fd9246a4c5a",
+ "bitmap_format": "Windows BMP, 635x96, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 98,
+   "height": 96,
+   "pivot_x": -65,
+   "pivot_y": -87
+  },
+  {
+   "x": 98,
+   "y": 0,
+   "width": 65,
+   "height": 78,
+   "pivot_x": -50,
+   "pivot_y": -65
+  },
+  {
+   "x": 163,
+   "y": 0,
+   "width": 69,
+   "height": 76,
+   "pivot_x": -54,
+   "pivot_y": -64
+  },
+  {
+   "x": 232,
+   "y": 0,
+   "width": 62,
+   "height": 78,
+   "pivot_x": -52,
+   "pivot_y": -65
+  },
+  {
+   "x": 294,
+   "y": 0,
+   "width": 59,
+   "height": 75,
+   "pivot_x": -49,
+   "pivot_y": -64
+  },
+  {
+   "x": 353,
+   "y": 0,
+   "width": 71,
+   "height": 69,
+   "pivot_x": -61,
+   "pivot_y": -58
+  },
+  {
+   "x": 424,
+   "y": 0,
+   "width": 100,
+   "height": 60,
+   "pivot_x": -94,
+   "pivot_y": -47
+  },
+  {
+   "x": 524,
+   "y": 0,
+   "width": 111,
+   "height": 67,
+   "pivot_x": -105,
+   "pivot_y": -49
+  }
+ ]
+}

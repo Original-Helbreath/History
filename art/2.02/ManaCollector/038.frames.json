@@ -1,0 +1,39 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/ManaCollector.pak",
+ "pak_sha256": "6d9b9add8d71493b1e7194733c35ba839077586336f9d540370fad9cccf8b4c9",
+ "sheet": 38,
+ "sheets_in_pak": 40,
+ "block_offset": 1564488,
+ "block_length": 37000,
+ "bitmap_offset": 1564632,
+ "bitmap_length": 36856,
+ "bitmap_sha256": "a8c49b25437a512f5c6d1446ba17fe4ae82d923d31331bbb3488dc411a129884",
+ "bitmap_format": "Windows BMP, 106x115, 24 bpp",
+ "frames": [
+  {
+   "x": 1,
+   "y": 1,
+   "width": 44,
+   "height": 113,
+   "pivot_x": -21,
+   "pivot_y": -103
+  },
+  {
+   "x": 44,
+   "y": 1,
+   "width": 32,
+   "height": 74,
+   "pivot_x": -16,
+   "pivot_y": -62
+  },
+  {
+   "x": 75,
+   "y": 1,
+   "width": 30,
+   "height": 26,
+   "pivot_x": -16,
+   "pivot_y": -14
+  }
+ ]
+}

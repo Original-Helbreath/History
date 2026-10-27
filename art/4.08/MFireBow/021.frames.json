@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/MFireBow.pak",
+ "pak_sha256": "31ada7bd224d4f1acc2f3c158aff8e532e176c8a481228e7eecdf393569d0ca9",
+ "sheet": 21,
+ "sheets_in_pak": 56,
+ "block_offset": 464056,
+ "block_length": 29616,
+ "bitmap_offset": 464260,
+ "bitmap_length": 29412,
+ "bitmap_sha256": "552c3f323410b3e4931ab931ba75c77ab785d07ca564fb872c5ef41127dc51ca",
+ "bitmap_format": "Windows BMP, 238x41, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 25,
+   "height": 41,
+   "pivot_x": -2,
+   "pivot_y": -58
+  },
+  {
+   "x": 25,
+   "y": 0,
+   "width": 30,
+   "height": 29,
+   "pivot_x": -6,
+   "pivot_y": -49
+  },
+  {
+   "x": 55,
+   "y": 0,
+   "width": 32,
+   "height": 17,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 87,
+   "y": 0,
+   "width": 30,
+   "height": 26,
+   "pivot_x": -10,
+   "pivot_y": -44
+  },
+  {
+   "x": 117,
+   "y": 0,
+   "width": 29,
+   "height": 30,
+   "pivot_x": -10,
+   "pivot_y": -46
+  },
+  {
+   "x": 146,
+   "y": 0,
+   "width": 30,
+   "height": 26,
+   "pivot_x": -10,
+   "pivot_y": -44
+  },
+  {
+   "x": 176,
+   "y": 0,
+   "width": 32,
+   "height": 17,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 208,
+   "y": 0,
+   "width": 30,
+   "height": 29,
+   "pivot_x": -6,
+   "pivot_y": -49
+  }
+ ]
+}

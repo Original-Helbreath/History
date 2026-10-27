@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/FireWyvern.pak",
+ "pak_sha256": "e8fe8d43de150f1948c1c1e80f20a40fa435400c821b13228ad049d0aeab5ac2",
+ "sheet": 18,
+ "sheets_in_pak": 24,
+ "block_offset": 10155576,
+ "block_length": 631856,
+ "bitmap_offset": 10155780,
+ "bitmap_length": 631652,
+ "bitmap_sha256": "cecc7a9290d867f9e9f9fef7b561cb9b853f140478656dd76b0787e87ad2c5b8",
+ "bitmap_format": "Windows BMP, 2414x261, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 326,
+   "height": 260,
+   "pivot_x": -206,
+   "pivot_y": -221
+  },
+  {
+   "x": 326,
+   "y": 0,
+   "width": 321,
+   "height": 261,
+   "pivot_x": -204,
+   "pivot_y": -222
+  },
+  {
+   "x": 647,
+   "y": 0,
+   "width": 308,
+   "height": 259,
+   "pivot_x": -201,
+   "pivot_y": -220
+  },
+  {
+   "x": 955,
+   "y": 0,
+   "width": 303,
+   "height": 258,
+   "pivot_x": -198,
+   "pivot_y": -219
+  },
+  {
+   "x": 1258,
+   "y": 0,
+   "width": 297,
+   "height": 256,
+   "pivot_x": -194,
+   "pivot_y": -217
+  },
+  {
+   "x": 1555,
+   "y": 0,
+   "width": 289,
+   "height": 252,
+   "pivot_x": -191,
+   "pivot_y": -213
+  },
+  {
+   "x": 1844,
+   "y": 0,
+   "width": 282,
+   "height": 249,
+   "pivot_x": -190,
+   "pivot_y": -210
+  },
+  {
+   "x": 2126,
+   "y": 0,
+   "width": 288,
+   "height": 248,
+   "pivot_x": -199,
+   "pivot_y": -209
+  }
+ ]
+}

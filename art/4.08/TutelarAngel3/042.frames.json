@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/TutelarAngel3.pak",
+ "pak_sha256": "25cb5e3228597b3cdf321f571c90d67b0c2d7cabc443e305c4671e28eff04194",
+ "sheet": 42,
+ "sheets_in_pak": 48,
+ "block_offset": 731296,
+ "block_length": 6836,
+ "bitmap_offset": 731452,
+ "bitmap_length": 6680,
+ "bitmap_sha256": "47eb5baf31b6e6b389588113eb77fcce94cc195ab91806582e137428974d150d",
+ "bitmap_format": "Windows BMP, 61x36, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 15,
+   "height": 36,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 15,
+   "y": 0,
+   "width": 15,
+   "height": 36,
+   "pivot_x": -9,
+   "pivot_y": -37
+  },
+  {
+   "x": 30,
+   "y": 0,
+   "width": 15,
+   "height": 36,
+   "pivot_x": -9,
+   "pivot_y": -36
+  },
+  {
+   "x": 45,
+   "y": 0,
+   "width": 16,
+   "height": 36,
+   "pivot_x": -9,
+   "pivot_y": -37
+  }
+ ]
+}

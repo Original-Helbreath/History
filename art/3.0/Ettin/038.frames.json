@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Ettin.pak",
+ "pak_sha256": "d56c77e3e82985cff6cf7436bd9aa02826e1b4c791c733c35fa0e2899deebff5",
+ "sheet": 38,
+ "sheets_in_pak": 40,
+ "block_offset": 3073428,
+ "block_length": 85058,
+ "bitmap_offset": 3073632,
+ "bitmap_length": 84854,
+ "bitmap_sha256": "064ad115597f8c1f1c60b2f1a1f0de3d4e40e039e14ab455405225aab6aacb75",
+ "bitmap_format": "Windows BMP, 703x119, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 60,
+   "height": 119,
+   "pivot_x": -28,
+   "pivot_y": -109
+  },
+  {
+   "x": 60,
+   "y": 0,
+   "width": 71,
+   "height": 115,
+   "pivot_x": -27,
+   "pivot_y": -102
+  },
+  {
+   "x": 131,
+   "y": 0,
+   "width": 58,
+   "height": 107,
+   "pivot_x": -25,
+   "pivot_y": -93
+  },
+  {
+   "x": 189,
+   "y": 0,
+   "width": 68,
+   "height": 116,
+   "pivot_x": -35,
+   "pivot_y": -102
+  },
+  {
+   "x": 257,
+   "y": 0,
+   "width": 63,
+   "height": 113,
+   "pivot_x": -30,
+   "pivot_y": -101
+  },
+  {
+   "x": 320,
+   "y": 0,
+   "width": 94,
+   "height": 100,
+   "pivot_x": -59,
+   "pivot_y": -90
+  },
+  {
+   "x": 414,
+   "y": 0,
+   "width": 123,
+   "height": 79,
+   "pivot_x": -94,
+   "pivot_y": -67
+  },
+  {
+   "x": 537,
+   "y": 0,
+   "width": 166,
+   "height": 52,
+   "pivot_x": -130,
+   "pivot_y": -42
+  }
+ ]
+}

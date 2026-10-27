@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Tentocle.pak",
+ "pak_sha256": "93d517907db4adf4ce4c84e784f33fc1afb02b73ea2e3996f880855dece72e49",
+ "sheet": 15,
+ "sheets_in_pak": 40,
+ "block_offset": 236020,
+ "block_length": 16960,
+ "bitmap_offset": 236224,
+ "bitmap_length": 16756,
+ "bitmap_sha256": "efd11d5a534d931603fbfaa1454a1db0160d1126c514f5d1939f747321f71e9f",
+ "bitmap_format": "Windows BMP, 391x40, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 51,
+   "height": 32,
+   "pivot_x": -26,
+   "pivot_y": -26
+  },
+  {
+   "x": 51,
+   "y": 0,
+   "width": 52,
+   "height": 31,
+   "pivot_x": -27,
+   "pivot_y": -24
+  },
+  {
+   "x": 103,
+   "y": 0,
+   "width": 51,
+   "height": 28,
+   "pivot_x": -27,
+   "pivot_y": -22
+  },
+  {
+   "x": 154,
+   "y": 0,
+   "width": 49,
+   "height": 38,
+   "pivot_x": -24,
+   "pivot_y": -30
+  },
+  {
+   "x": 203,
+   "y": 0,
+   "width": 41,
+   "height": 40,
+   "pivot_x": -21,
+   "pivot_y": -44
+  },
+  {
+   "x": 244,
+   "y": 0,
+   "width": 45,
+   "height": 39,
+   "pivot_x": -25,
+   "pivot_y": -32
+  },
+  {
+   "x": 289,
+   "y": 0,
+   "width": 51,
+   "height": 29,
+   "pivot_x": -26,
+   "pivot_y": -23
+  },
+  {
+   "x": 340,
+   "y": 0,
+   "width": 51,
+   "height": 32,
+   "pivot_x": -26,
+   "pivot_y": -26
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WDebastator.pak",
+ "pak_sha256": "188fc76affd5c677324383f8a607698078dda41ff6287802ef927c94c3fe31de",
+ "sheet": 45,
+ "sheets_in_pak": 56,
+ "block_offset": 325368,
+ "block_length": 3632,
+ "bitmap_offset": 325524,
+ "bitmap_length": 3476,
+ "bitmap_sha256": "115cf0c2b13807fc1138cc85c3f8abab3c051383be2bbeb23eff2dd269f2f2fa",
+ "bitmap_format": "Windows BMP, 58x40, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 14,
+   "height": 39,
+   "pivot_x": -18,
+   "pivot_y": -70
+  },
+  {
+   "x": 14,
+   "y": 0,
+   "width": 14,
+   "height": 39,
+   "pivot_x": -19,
+   "pivot_y": -70
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 15,
+   "height": 40,
+   "pivot_x": -21,
+   "pivot_y": -70
+  },
+  {
+   "x": 43,
+   "y": 0,
+   "width": 15,
+   "height": 39,
+   "pivot_x": -22,
+   "pivot_y": -69
+  }
+ ]
+}

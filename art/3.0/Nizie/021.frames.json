@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Nizie.pak",
+ "pak_sha256": "211200d0efb861d550f0a9f52d314d3347cef6e8501db6110fa8b0ee1112f28d",
+ "sheet": 21,
+ "sheets_in_pak": 40,
+ "block_offset": 1385788,
+ "block_length": 82128,
+ "bitmap_offset": 1385992,
+ "bitmap_length": 81924,
+ "bitmap_sha256": "2253ec69e1d9f9bafd3181dc6fac18c40569f9a8d48487c1a4dee1574e9678e6",
+ "bitmap_format": "Windows BMP, 650x124, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 69,
+   "height": 112,
+   "pivot_x": -32,
+   "pivot_y": -105
+  },
+  {
+   "x": 69,
+   "y": 0,
+   "width": 76,
+   "height": 118,
+   "pivot_x": -43,
+   "pivot_y": -111
+  },
+  {
+   "x": 145,
+   "y": 0,
+   "width": 87,
+   "height": 124,
+   "pivot_x": -52,
+   "pivot_y": -117
+  },
+  {
+   "x": 232,
+   "y": 0,
+   "width": 100,
+   "height": 98,
+   "pivot_x": -40,
+   "pivot_y": -105
+  },
+  {
+   "x": 332,
+   "y": 0,
+   "width": 85,
+   "height": 114,
+   "pivot_x": -27,
+   "pivot_y": -121
+  },
+  {
+   "x": 417,
+   "y": 0,
+   "width": 89,
+   "height": 100,
+   "pivot_x": -44,
+   "pivot_y": -107
+  },
+  {
+   "x": 506,
+   "y": 0,
+   "width": 80,
+   "height": 100,
+   "pivot_x": -39,
+   "pivot_y": -86
+  },
+  {
+   "x": 586,
+   "y": 0,
+   "width": 64,
+   "height": 108,
+   "pivot_x": -28,
+   "pivot_y": -97
+  }
+ ]
+}

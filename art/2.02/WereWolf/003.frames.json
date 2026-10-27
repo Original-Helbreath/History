@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/WereWolf.pak",
+ "pak_sha256": "0e20879c55ceaa8088fd98dcb70f1a865cd6402b3a4ad47b9195540638fd08d9",
+ "sheet": 3,
+ "sheets_in_pak": 40,
+ "block_offset": 182132,
+ "block_length": 42512,
+ "bitmap_offset": 182288,
+ "bitmap_length": 42356,
+ "bitmap_sha256": "7b37eb147fab5f10e6592820bca982699eae80ccff634d9b8661b37ffc24745a",
+ "bitmap_format": "Windows BMP, 188x75, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 48,
+   "height": 72,
+   "pivot_x": -27,
+   "pivot_y": -63
+  },
+  {
+   "x": 48,
+   "y": 0,
+   "width": 47,
+   "height": 73,
+   "pivot_x": -26,
+   "pivot_y": -64
+  },
+  {
+   "x": 95,
+   "y": 0,
+   "width": 46,
+   "height": 75,
+   "pivot_x": -25,
+   "pivot_y": -66
+  },
+  {
+   "x": 141,
+   "y": 0,
+   "width": 47,
+   "height": 73,
+   "pivot_x": -26,
+   "pivot_y": -64
+  }
+ ]
+}

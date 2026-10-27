@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/MKlonessWand.pak",
+ "pak_sha256": "ea587339555d6505b0f69194f1ebd2e71a3c32c6c13274b88aa3c59165554988",
+ "sheet": 45,
+ "sheets_in_pak": 56,
+ "block_offset": 434724,
+ "block_length": 1816,
+ "bitmap_offset": 434880,
+ "bitmap_length": 1660,
+ "bitmap_sha256": "e2e0029d51ebcd746e7efd842fc2fc16127d4e3612490ebb883eba98f4c11494",
+ "bitmap_format": "Windows BMP, 79x10, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 16,
+   "height": 10,
+   "pivot_x": -27,
+   "pivot_y": -35
+  },
+  {
+   "x": 16,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -17,
+   "pivot_y": -27
+  },
+  {
+   "x": 25,
+   "y": 0,
+   "width": 17,
+   "height": 8,
+   "pivot_x": -18,
+   "pivot_y": -20
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 37,
+   "height": 9,
+   "pivot_x": -24,
+   "pivot_y": -15
+  }
+ ]
+}

@@ -1,0 +1,3307 @@
+{
+ "folder": "4.12.01",
+ "files": [
+  {
+   "path": "newmaps/000.frames.json",
+   "stored": "git",
+   "size": 712,
+   "sha256": "889674f523029faec982a653cbae1a6cb40dd190edf5e7ae652d7ee06ce6baa7",
+   "what": "newmaps.pak sheet 0: 2 frames; Windows BMP, 623x319, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 2,
+   "bitmap": {
+    "file": "newmaps/000.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 200134,
+    "sha256": "f1d841a15c018b7a773f26ece97a9ff6e317266f9dd67b1b2fc104b9525db018",
+    "pak_offset": 196,
+    "pak_length": 200134,
+    "format": "Windows BMP, 623x319, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/newmaps.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-16 19:37:27",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/newmaps.pak",
+      "sheet 0 of 5: frame table at offset 164, bitmap at offset 196 length 200134, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "newmaps/001.frames.json",
+   "stored": "git",
+   "size": 720,
+   "sha256": "c3d7ebfc5ae8e83db6118f253d10665bacc3fdf5e07dbb08f3cc073aec459b30",
+   "what": "newmaps.pak sheet 1: 2 frames; Windows BMP, 623x319, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 2,
+   "bitmap": {
+    "file": "newmaps/001.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 200134,
+    "sha256": "daccd0709f73fb0b6a8dda867472bf641fec5b2eaeff1135f4c583727cd96e8e",
+    "pak_offset": 200462,
+    "pak_length": 200134,
+    "format": "Windows BMP, 623x319, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/newmaps.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-16 19:37:27",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/newmaps.pak",
+      "sheet 1 of 5: frame table at offset 200430, bitmap at offset 200462 length 200134, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "newmaps/002.frames.json",
+   "stored": "git",
+   "size": 720,
+   "sha256": "a2209becdb21bd27bbb38e310feeb621ffba23e0ab9f0fd84deff77f5dfd3188",
+   "what": "newmaps.pak sheet 2: 2 frames; Windows BMP, 623x319, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 2,
+   "bitmap": {
+    "file": "newmaps/002.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 200132,
+    "sha256": "32b9c0f139c8a7293775485f5ceb6dc92c20c442f2cd940111dec962322eeef5",
+    "pak_offset": 400728,
+    "pak_length": 200132,
+    "format": "Windows BMP, 623x319, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/newmaps.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-16 19:37:27",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/newmaps.pak",
+      "sheet 2 of 5: frame table at offset 400696, bitmap at offset 400728 length 200132, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "newmaps/003.frames.json",
+   "stored": "git",
+   "size": 720,
+   "sha256": "2bf9ddc7f34f6725dfe5531e63d47a865aead4bd12467affbda725b18e007d4d",
+   "what": "newmaps.pak sheet 3: 2 frames; Windows BMP, 623x319, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 2,
+   "bitmap": {
+    "file": "newmaps/003.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 200134,
+    "sha256": "525b03793644fa2dde0e476dbfffbd54e7aac245524623f4225c03a28425bf7b",
+    "pak_offset": 600992,
+    "pak_length": 200134,
+    "format": "Windows BMP, 623x319, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/newmaps.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-16 19:37:27",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/newmaps.pak",
+      "sheet 3 of 5: frame table at offset 600960, bitmap at offset 600992 length 200134, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "newmaps/004.frames.json",
+   "stored": "git",
+   "size": 721,
+   "sha256": "896b6b687b3f4572d3309bef528ca99a643b279abc6dcdd1f75fd3c605fb2089",
+   "what": "newmaps.pak sheet 4: 2 frames; Windows BMP, 623x319, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 2,
+   "bitmap": {
+    "file": "newmaps/004.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 200134,
+    "sha256": "7623f89abdf041ccb0a40bd958d5586b9fd93a64b11769bf7d87db214023ff1f",
+    "pak_offset": 801258,
+    "pak_length": 200134,
+    "format": "Windows BMP, 623x319, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/newmaps.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-16 19:37:27",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/newmaps.pak",
+      "sheet 4 of 5: frame table at offset 801226, bitmap at offset 801258 length 200134, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/000.frames.json",
+   "stored": "git",
+   "size": 30655,
+   "sha256": "2a838215fa7f32ecb4cd746fb43b54c30a20f81a7d44a872c75b51167f612c52",
+   "what": "Tile406-421-anniversary.pak sheet 0: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/000.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f62474cc528c56f32de6dac265ebc784ef6e12d947de0198be4f9e351cfa0060",
+    "pak_offset": 3860,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 0 of 16: frame table at offset 252, bitmap at offset 3860 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/001.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "f15b2a545005ce9f4fadacfe18a95a531a027ca5b00048f6af0743ea594568c5",
+   "what": "Tile406-421-anniversary.pak sheet 1: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/001.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "6763b8b5b0505f2b09fe77a133d7fb45de18a894a76d4a354949178e5a3601f6",
+    "pak_offset": 315844,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 1 of 16: frame table at offset 312236, bitmap at offset 315844 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/002.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "9fd36cbc5fb766600b58abb7ba7d46c40b202602b3f935d4abd0ef106896fa55",
+   "what": "Tile406-421-anniversary.pak sheet 2: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/002.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "7d691c779718dd132dd77e787d62ab146aba5c521d9e500a8cbf8db9b88fe068",
+    "pak_offset": 627828,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 2 of 16: frame table at offset 624220, bitmap at offset 627828 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/003.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "872409d49760ad7960baf4df457ee7d2bb383d0fd101fc6d44d79bc3ddd5bdf4",
+   "what": "Tile406-421-anniversary.pak sheet 3: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/003.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "65b64f9ba8d9db4f1f34ea7907f0f1ddf5ad6c5ac9bbed68b1467e6787ab0c71",
+    "pak_offset": 939812,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 3 of 16: frame table at offset 936204, bitmap at offset 939812 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/004.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "562f7a7ca58ad623b179fbbe76193472d92d7cc38bfebc619e5d661892646a28",
+   "what": "Tile406-421-anniversary.pak sheet 4: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/004.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "504a67869d3c077a747b7e5e39d1712cdec22ad8559aa57fe96ca68f4eebb755",
+    "pak_offset": 1251796,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 4 of 16: frame table at offset 1248188, bitmap at offset 1251796 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/005.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "aac81c2dae011ba66fab65e671bd0572763afd1873048422a92e67eadd0370b4",
+   "what": "Tile406-421-anniversary.pak sheet 5: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/005.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f38bfc7b7262c6c81c59592b23f27e880f9c3da43a1b3dce89dbb851d0facb15",
+    "pak_offset": 1563780,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 5 of 16: frame table at offset 1560172, bitmap at offset 1563780 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/006.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "e538946c44d961e40c41e4412d86486c3c1c3104cd4ce0f433d3bf0a549d0bc7",
+   "what": "Tile406-421-anniversary.pak sheet 6: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/006.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0b3fb063bb096c3115d77627577799b937ee829251fc821af5a67201f6ef4cdb",
+    "pak_offset": 1875764,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 6 of 16: frame table at offset 1872156, bitmap at offset 1875764 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/007.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "f862b4e97ca0850f9d1ec0a75dee5ae025985fb4283dba66bf5534582914262e",
+   "what": "Tile406-421-anniversary.pak sheet 7: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/007.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "e5f346627786e91334703ececff46815279731d46411d23885d7353faf75adbb",
+    "pak_offset": 2187748,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 7 of 16: frame table at offset 2184140, bitmap at offset 2187748 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/008.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "c46ca162b57946676daa9a93eaad0186e93d33aa91cbb07752c32147ee4e8e71",
+   "what": "Tile406-421-anniversary.pak sheet 8: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/008.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "38cd4f42ba19f148584f70a537aa10e9208714a799df970a2fe5f243292c5c94",
+    "pak_offset": 2499732,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 8 of 16: frame table at offset 2496124, bitmap at offset 2499732 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/009.frames.json",
+   "stored": "git",
+   "size": 30662,
+   "sha256": "1802830831bf653cff0ca274a8222168c4649b237c64e6b9748ed1abde232b75",
+   "what": "Tile406-421-anniversary.pak sheet 9: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/009.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "ce2b285b42aab3ae8856cb43909ce798c363c9517700c16496036e4061fe9089",
+    "pak_offset": 2811716,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 9 of 16: frame table at offset 2808108, bitmap at offset 2811716 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/010.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "f9dc66dd79e4679c10cefc084d8ac065bdeaa3772e0fca60a8bc10890b5ae0f7",
+   "what": "Tile406-421-anniversary.pak sheet 10: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/010.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "070ec4c7b38a3f2eb6a92852f03f58c81649cea3db7b973cc066cda1808c671d",
+    "pak_offset": 3123700,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 10 of 16: frame table at offset 3120092, bitmap at offset 3123700 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/011.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "ea17f08bfed0923ad9a31a1f5c789d57f9585a8e7c428cdb304f57092b235cfd",
+   "what": "Tile406-421-anniversary.pak sheet 11: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/011.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "c967080a73f523d8a80045aaf5b0e5dff112021852c3e59320c5e492b993f200",
+    "pak_offset": 3435684,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 11 of 16: frame table at offset 3432076, bitmap at offset 3435684 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/012.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "1f3ad9138ec20d01cef889c9570dd555186cd3bc6d000b192c758b965e14ca4c",
+   "what": "Tile406-421-anniversary.pak sheet 12: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/012.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "1977d83a5cad28d8549369f16d9686200ba72276374b0a1e974c9fdf3ddad90e",
+    "pak_offset": 3747668,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 12 of 16: frame table at offset 3744060, bitmap at offset 3747668 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/013.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "372fce054fd9700fda77fe779cd44601e4f44a8f6e87cb02f0b7ceebeb3caf50",
+   "what": "Tile406-421-anniversary.pak sheet 13: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/013.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "198c38fa1b590c46ffce6890030ef8070dc08b5410f5ccdb0b326a1756677dcc",
+    "pak_offset": 4059652,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 13 of 16: frame table at offset 4056044, bitmap at offset 4059652 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/014.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "5449a2bffc2aa395fb2521df5be48d181ff78b8d59c752b554ca6ba027d8f7f4",
+   "what": "Tile406-421-anniversary.pak sheet 14: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/014.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "2579eb5ddd583bf9638c292b374d7bc884154c85dd2b79f96f6e360452d08ed5",
+    "pak_offset": 4371636,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 14 of 16: frame table at offset 4368028, bitmap at offset 4371636 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-anniversary/015.frames.json",
+   "stored": "git",
+   "size": 30663,
+   "sha256": "156893f7aeeb86c6b8ed532694390fae9417b0e512080cad408e1356c89a4467",
+   "what": "Tile406-421-anniversary.pak sheet 15: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-anniversary/015.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0af17fe989595c236753d7dc1bc780b84534e3482c8a744bf9898346bbe6bd02",
+    "pak_offset": 4683620,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-anniversary.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-02-02 15:02:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-anniversary.pak",
+      "sheet 15 of 16: frame table at offset 4680012, bitmap at offset 4683620 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/000.frames.json",
+   "stored": "git",
+   "size": 30665,
+   "sha256": "2d1461c37a882d9c0bb1e4316c14221046e20d2ac637aa7d76ed26b9d2f796b7",
+   "what": "Tile406-421-Christmas.pak sheet 0: 300 frames; Windows BMP, 31457920x524289, 65280 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/000.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "d4917d8aadddee9fbb710d267640cf41e9bb1a1c58f458ca5a2c977f50009f90",
+    "pak_offset": 3860,
+    "pak_length": 308276,
+    "format": "Windows BMP, 31457920x524289, 65280 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 0 of 16: frame table at offset 252, bitmap at offset 3860 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/001.frames.json",
+   "stored": "git",
+   "size": 30658,
+   "sha256": "d2ce45d9be31eaf41392a6816c0fcadb1d605acfc6ea1cd4eaaf782472180cce",
+   "what": "Tile406-421-Christmas.pak sheet 1: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/001.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "2708307381c1c3a5555f0550b52162ac3d08bc3266122a4dc2f07829044e01ba",
+    "pak_offset": 315844,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 1 of 16: frame table at offset 312236, bitmap at offset 315844 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/002.frames.json",
+   "stored": "git",
+   "size": 30658,
+   "sha256": "9fa9f357a0149557c15a8b2497d698df59745fedc783a428ba704d0973bc6331",
+   "what": "Tile406-421-Christmas.pak sheet 2: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/002.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "7d691c779718dd132dd77e787d62ab146aba5c521d9e500a8cbf8db9b88fe068",
+    "pak_offset": 627828,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 2 of 16: frame table at offset 624220, bitmap at offset 627828 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/003.frames.json",
+   "stored": "git",
+   "size": 30658,
+   "sha256": "dddfd84c3c6d90a860e727e51be65cd8423735deff8610a5df867bd4ccdaf5d7",
+   "what": "Tile406-421-Christmas.pak sheet 3: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/003.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "65b64f9ba8d9db4f1f34ea7907f0f1ddf5ad6c5ac9bbed68b1467e6787ab0c71",
+    "pak_offset": 939812,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 3 of 16: frame table at offset 936204, bitmap at offset 939812 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/004.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "d204224b54e91d5f52b1235eb10889516eb69753bc27428649cb126c0efc95e1",
+   "what": "Tile406-421-Christmas.pak sheet 4: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/004.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f0ab8514c0843287ccc101a877f5877bad7fed7f1829930e6545a6180fc07ab3",
+    "pak_offset": 1251796,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 4 of 16: frame table at offset 1248188, bitmap at offset 1251796 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/005.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "67ff37ccd10073da5f61a10cb80f1eabe657be030c71a26c581bd74384a526d4",
+   "what": "Tile406-421-Christmas.pak sheet 5: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/005.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f38bfc7b7262c6c81c59592b23f27e880f9c3da43a1b3dce89dbb851d0facb15",
+    "pak_offset": 1563780,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 5 of 16: frame table at offset 1560172, bitmap at offset 1563780 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/006.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "9e1346f1c892d9bf4678fc58599f2fbeea37ffb7908f6b059668670df31cc913",
+   "what": "Tile406-421-Christmas.pak sheet 6: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/006.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0eb55a29f8ce3fe1580ef93d5a7efa7c0f2df7818eab0fa9f33cc4c12595c7c8",
+    "pak_offset": 1875764,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 6 of 16: frame table at offset 1872156, bitmap at offset 1875764 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/007.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "e141e3d01f4e324bc5aa02f6fc4cad656ac2173770a81edb7502a8d565e124bf",
+   "what": "Tile406-421-Christmas.pak sheet 7: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/007.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "e5f346627786e91334703ececff46815279731d46411d23885d7353faf75adbb",
+    "pak_offset": 2187748,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 7 of 16: frame table at offset 2184140, bitmap at offset 2187748 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/008.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "774bc7b4ea65443c918d82084d7d333bf4b94febeca433ef41eedb15db12e531",
+   "what": "Tile406-421-Christmas.pak sheet 8: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/008.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "38cd4f42ba19f148584f70a537aa10e9208714a799df970a2fe5f243292c5c94",
+    "pak_offset": 2499732,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 8 of 16: frame table at offset 2496124, bitmap at offset 2499732 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/009.frames.json",
+   "stored": "git",
+   "size": 30660,
+   "sha256": "f60b60c93e8e0ffc728706b3df8b0cdda7df695ff09363f29f8d18f281362710",
+   "what": "Tile406-421-Christmas.pak sheet 9: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/009.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "ce2b285b42aab3ae8856cb43909ce798c363c9517700c16496036e4061fe9089",
+    "pak_offset": 2811716,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 9 of 16: frame table at offset 2808108, bitmap at offset 2811716 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/010.frames.json",
+   "stored": "git",
+   "size": 30661,
+   "sha256": "68c80f9065b4cd6d98c5bca13979f361d56b13ee1414a6d8d7fbe1a609963030",
+   "what": "Tile406-421-Christmas.pak sheet 10: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/010.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "070ec4c7b38a3f2eb6a92852f03f58c81649cea3db7b973cc066cda1808c671d",
+    "pak_offset": 3123700,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 10 of 16: frame table at offset 3120092, bitmap at offset 3123700 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/011.frames.json",
+   "stored": "git",
+   "size": 30661,
+   "sha256": "882ad50f298757e3fd94355069ced9f75ae656b13c51c02f48f94f79a4882bed",
+   "what": "Tile406-421-Christmas.pak sheet 11: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/011.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "c967080a73f523d8a80045aaf5b0e5dff112021852c3e59320c5e492b993f200",
+    "pak_offset": 3435684,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 11 of 16: frame table at offset 3432076, bitmap at offset 3435684 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/012.frames.json",
+   "stored": "git",
+   "size": 30673,
+   "sha256": "a6c23a1b3ad3ad5fe53a6d0a3cbd536dcd1af036c66d495a1e167c12ba7aea56",
+   "what": "Tile406-421-Christmas.pak sheet 12: 300 frames; Windows BMP, 31457920x524289, 65280 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/012.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "3a7b47912c208b3f7560281354d1ad39b7171a007dffdafebcd99bd4b2ddb84b",
+    "pak_offset": 3747668,
+    "pak_length": 308276,
+    "format": "Windows BMP, 31457920x524289, 65280 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 12 of 16: frame table at offset 3744060, bitmap at offset 3747668 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/013.frames.json",
+   "stored": "git",
+   "size": 30673,
+   "sha256": "cb2fc883086a731f334282cf63dbd027193dac65ad355df1f5eac7c84ab042d2",
+   "what": "Tile406-421-Christmas.pak sheet 13: 300 frames; Windows BMP, 31457920x524289, 65280 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/013.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "b53fef138ff17f2d73564da7060e1ea7190cd92f5cd25ce30491fc101dccbd26",
+    "pak_offset": 4059652,
+    "pak_length": 308276,
+    "format": "Windows BMP, 31457920x524289, 65280 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 13 of 16: frame table at offset 4056044, bitmap at offset 4059652 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/014.frames.json",
+   "stored": "git",
+   "size": 30661,
+   "sha256": "98f255d04cf6c3172c9a3aab48a3cb4b0400eabb368895ca97fadfe3b30d1075",
+   "what": "Tile406-421-Christmas.pak sheet 14: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/014.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "2579eb5ddd583bf9638c292b374d7bc884154c85dd2b79f96f6e360452d08ed5",
+    "pak_offset": 4371636,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 14 of 16: frame table at offset 4368028, bitmap at offset 4371636 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421-Christmas/015.frames.json",
+   "stored": "git",
+   "size": 30661,
+   "sha256": "ab6ce00e793c316dab3f4586506acd1921828d1d70312ac9087947930b4b7fd3",
+   "what": "Tile406-421-Christmas.pak sheet 15: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421-Christmas/015.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0af17fe989595c236753d7dc1bc780b84534e3482c8a744bf9898346bbe6bd02",
+    "pak_offset": 4683620,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421-Christmas.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-11-26 15:18:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "SPRITES/Tile406-421-Christmas.pak",
+      "sheet 15 of 16: frame table at offset 4680012, bitmap at offset 4683620 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/000.frames.json",
+   "stored": "git",
+   "size": 30643,
+   "sha256": "402ba4acdc83d055602ecc7784ca2b9dab0faab5be5c9725775d9d88384832e3",
+   "what": "Tile406-421.pak sheet 0: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/000.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "84ab1e0cd9420479229e27e99ffce38518c47d20e07e569923802058bdbcd847",
+    "pak_offset": 3860,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 0 of 16: frame table at offset 252, bitmap at offset 3860 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/001.frames.json",
+   "stored": "git",
+   "size": 30648,
+   "sha256": "2054e238dc6da42794030131912768fd9675d8f48af6a8a2949bccf84f2f6fb8",
+   "what": "Tile406-421.pak sheet 1: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/001.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "2708307381c1c3a5555f0550b52162ac3d08bc3266122a4dc2f07829044e01ba",
+    "pak_offset": 315844,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 1 of 16: frame table at offset 312236, bitmap at offset 315844 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/002.frames.json",
+   "stored": "git",
+   "size": 30648,
+   "sha256": "1ac547efca60e63eab502f987ee2a82d4ec39c807e03d4124f17d371448990bf",
+   "what": "Tile406-421.pak sheet 2: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/002.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "7d691c779718dd132dd77e787d62ab146aba5c521d9e500a8cbf8db9b88fe068",
+    "pak_offset": 627828,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 2 of 16: frame table at offset 624220, bitmap at offset 627828 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/003.frames.json",
+   "stored": "git",
+   "size": 30648,
+   "sha256": "c6a6e363b56be4850b78f260f8ae4d0c7325ef4133ae7a5e1aaab586e3e20ceb",
+   "what": "Tile406-421.pak sheet 3: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/003.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "65b64f9ba8d9db4f1f34ea7907f0f1ddf5ad6c5ac9bbed68b1467e6787ab0c71",
+    "pak_offset": 939812,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 3 of 16: frame table at offset 936204, bitmap at offset 939812 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/004.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "f1129297fbc27ff44f796c3fad000e4754783f9e9baa8fa474004ead6d10f807",
+   "what": "Tile406-421.pak sheet 4: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/004.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f0ab8514c0843287ccc101a877f5877bad7fed7f1829930e6545a6180fc07ab3",
+    "pak_offset": 1251796,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 4 of 16: frame table at offset 1248188, bitmap at offset 1251796 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/005.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "159fdc85af4f56ce6a6d3fc1ed1b8083d5d9f153afec0f4395d18e4c49bde143",
+   "what": "Tile406-421.pak sheet 5: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/005.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "f38bfc7b7262c6c81c59592b23f27e880f9c3da43a1b3dce89dbb851d0facb15",
+    "pak_offset": 1563780,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 5 of 16: frame table at offset 1560172, bitmap at offset 1563780 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/006.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "244941c6d3bf7dd6ec09bf4a890b41c3acf9335fb58d4877e02f5cd207501e07",
+   "what": "Tile406-421.pak sheet 6: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/006.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0eb55a29f8ce3fe1580ef93d5a7efa7c0f2df7818eab0fa9f33cc4c12595c7c8",
+    "pak_offset": 1875764,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 6 of 16: frame table at offset 1872156, bitmap at offset 1875764 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/007.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "45ba085ea7d0018ce64ecef3978141da5d6b382e187d80565dd3f57039d7c86d",
+   "what": "Tile406-421.pak sheet 7: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/007.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "e5f346627786e91334703ececff46815279731d46411d23885d7353faf75adbb",
+    "pak_offset": 2187748,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 7 of 16: frame table at offset 2184140, bitmap at offset 2187748 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/008.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "d4ce37de77e9b3822662963fe6a65f8a637c1579d5f552a66d00f0381aa99de0",
+   "what": "Tile406-421.pak sheet 8: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/008.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "38cd4f42ba19f148584f70a537aa10e9208714a799df970a2fe5f243292c5c94",
+    "pak_offset": 2499732,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 8 of 16: frame table at offset 2496124, bitmap at offset 2499732 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/009.frames.json",
+   "stored": "git",
+   "size": 30650,
+   "sha256": "e336517db4d18e9067c49e95ff446008de334560fa5e4239df6dd56164e49f28",
+   "what": "Tile406-421.pak sheet 9: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/009.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "ce2b285b42aab3ae8856cb43909ce798c363c9517700c16496036e4061fe9089",
+    "pak_offset": 2811716,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 9 of 16: frame table at offset 2808108, bitmap at offset 2811716 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/010.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "c4826e725a3c9e116b25e53584e6a1dd1265f8b46874d7e2f6c644e4704abd12",
+   "what": "Tile406-421.pak sheet 10: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/010.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "070ec4c7b38a3f2eb6a92852f03f58c81649cea3db7b973cc066cda1808c671d",
+    "pak_offset": 3123700,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 10 of 16: frame table at offset 3120092, bitmap at offset 3123700 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/011.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "9a62355950b30524bf02e89a1bb71676837cc291009d1cd03ee9a2198f51d042",
+   "what": "Tile406-421.pak sheet 11: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/011.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "c967080a73f523d8a80045aaf5b0e5dff112021852c3e59320c5e492b993f200",
+    "pak_offset": 3435684,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 11 of 16: frame table at offset 3432076, bitmap at offset 3435684 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/012.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "4724b506c151d0f9855536a6ec3826a4ee93ce8b65944f0eda88c857074a4d6a",
+   "what": "Tile406-421.pak sheet 12: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/012.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "1977d83a5cad28d8549369f16d9686200ba72276374b0a1e974c9fdf3ddad90e",
+    "pak_offset": 3747668,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 12 of 16: frame table at offset 3744060, bitmap at offset 3747668 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/013.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "7b78b0fda66e736b0edcbedb56bf64f7c0aa435e8106c52305db63d67466a26a",
+   "what": "Tile406-421.pak sheet 13: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/013.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "198c38fa1b590c46ffce6890030ef8070dc08b5410f5ccdb0b326a1756677dcc",
+    "pak_offset": 4059652,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 13 of 16: frame table at offset 4056044, bitmap at offset 4059652 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/014.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "8656a1efd8ae1f99d7951c0bf40d0acec18cbe0546c22ccee7300585ac7b65c5",
+   "what": "Tile406-421.pak sheet 14: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/014.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "2579eb5ddd583bf9638c292b374d7bc884154c85dd2b79f96f6e360452d08ed5",
+    "pak_offset": 4371636,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 14 of 16: frame table at offset 4368028, bitmap at offset 4371636 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Tile406-421/015.frames.json",
+   "stored": "git",
+   "size": 30651,
+   "sha256": "5726fc79b48b09f27e5349f395340f2b8d83ea06c926450221b7c369616ed574",
+   "what": "Tile406-421.pak sheet 15: 300 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 300,
+   "bitmap": {
+    "file": "Tile406-421/015.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-4.12.01.7z",
+    "size": 308276,
+    "sha256": "0af17fe989595c236753d7dc1bc780b84534e3482c8a744bf9898346bbe6bd02",
+    "pak_offset": 4683620,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/4.12.01/Tile406-421.pak in this repo (Wayback Machine capture of the official Helbreath USA site (full install))",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2009-03-03 09:49:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "SPRITES/SPRITES.zip (Zip, shipped inside the install)",
+      "Tile406-421.pak",
+      "sheet 15 of 16: frame table at offset 4680012, bitmap at offset 4683620 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  }
+ ]
+}

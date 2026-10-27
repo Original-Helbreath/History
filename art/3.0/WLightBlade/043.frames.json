@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WLightBlade.pak",
+ "pak_sha256": "a5862e7adce94c0502397101c6f248b6699aebcf90bb989f90a9110503ddb934",
+ "sheet": 43,
+ "sheets_in_pak": 56,
+ "block_offset": 312372,
+ "block_length": 3572,
+ "bitmap_offset": 312528,
+ "bitmap_length": 3416,
+ "bitmap_sha256": "e0681005c63e51715bffbed5f8774bf9adedef5ad8a74737626cd6520b04894b",
+ "bitmap_format": "Windows BMP, 50x45, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 13,
+   "height": 44,
+   "pivot_x": -14,
+   "pivot_y": -71
+  },
+  {
+   "x": 13,
+   "y": 0,
+   "width": 12,
+   "height": 44,
+   "pivot_x": -14,
+   "pivot_y": -70
+  },
+  {
+   "x": 25,
+   "y": 0,
+   "width": 12,
+   "height": 45,
+   "pivot_x": -14,
+   "pivot_y": -70
+  },
+  {
+   "x": 37,
+   "y": 0,
+   "width": 13,
+   "height": 44,
+   "pivot_x": -15,
+   "pivot_y": -69
+  }
+ ]
+}

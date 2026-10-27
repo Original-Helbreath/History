@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WReMagicWand.pak",
+ "pak_sha256": "034e6dddfeb5d4b1ef285c7fdbacf365b12d6f2ebd0dab3ad0b4ac0fceec6fed",
+ "sheet": 43,
+ "sheets_in_pak": 56,
+ "block_offset": 368076,
+ "block_length": 4956,
+ "bitmap_offset": 368232,
+ "bitmap_length": 4800,
+ "bitmap_sha256": "6ddc3d091f24fa08a62ebec9ed5dbb6bad5899e54014515f1f66d23c1a066d06",
+ "bitmap_format": "Windows BMP, 73x49, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 18,
+   "height": 49,
+   "pivot_x": -19,
+   "pivot_y": -53
+  },
+  {
+   "x": 18,
+   "y": 0,
+   "width": 18,
+   "height": 48,
+   "pivot_x": -19,
+   "pivot_y": -52
+  },
+  {
+   "x": 36,
+   "y": 0,
+   "width": 18,
+   "height": 48,
+   "pivot_x": -19,
+   "pivot_y": -51
+  },
+  {
+   "x": 54,
+   "y": 0,
+   "width": 19,
+   "height": 49,
+   "pivot_x": -20,
+   "pivot_y": -51
+  }
+ ]
+}

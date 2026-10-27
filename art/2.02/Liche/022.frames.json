@@ -1,0 +1,63 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Liche.pak",
+ "pak_sha256": "923e28fc71cc9cb03a319e8ce6682e7ed1003be4e1d73b45548e71bd0fcf242b",
+ "sheet": 22,
+ "sheets_in_pak": 40,
+ "block_offset": 2536540,
+ "block_length": 136736,
+ "bitmap_offset": 2536720,
+ "bitmap_length": 136556,
+ "bitmap_sha256": "d3d389a8e42dac0ec57da896ce3a545cec734369a406367c48aeb633b5f7430f",
+ "bitmap_format": "Windows BMP, 363x125, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 33,
+   "height": 100,
+   "pivot_x": -18,
+   "pivot_y": -87
+  },
+  {
+   "x": 33,
+   "y": 0,
+   "width": 81,
+   "height": 81,
+   "pivot_x": -34,
+   "pivot_y": -63
+  },
+  {
+   "x": 114,
+   "y": 0,
+   "width": 55,
+   "height": 81,
+   "pivot_x": -40,
+   "pivot_y": -65
+  },
+  {
+   "x": 169,
+   "y": 0,
+   "width": 79,
+   "height": 98,
+   "pivot_x": -64,
+   "pivot_y": -83
+  },
+  {
+   "x": 248,
+   "y": 0,
+   "width": 57,
+   "height": 109,
+   "pivot_x": -42,
+   "pivot_y": -95
+  },
+  {
+   "x": 305,
+   "y": 0,
+   "width": 58,
+   "height": 125,
+   "pivot_x": -43,
+   "pivot_y": -112
+  }
+ ]
+}

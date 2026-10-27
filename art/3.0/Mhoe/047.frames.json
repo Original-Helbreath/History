@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Mhoe.pak",
+ "pak_sha256": "bc44c3b3fd56f1b7a7a09523b3292e010d5ec2f4e37f2f52fd4ff6652f6968a7",
+ "sheet": 47,
+ "sheets_in_pak": 56,
+ "block_offset": 95790,
+ "block_length": 1558,
+ "bitmap_offset": 95946,
+ "bitmap_length": 1402,
+ "bitmap_sha256": "e41f6de7dc925afc33186e1b0b9fece0607faf8c6ab32345dd94c8ceee04a53a",
+ "bitmap_format": "Windows BMP, 36x9, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 3,
+   "height": 4,
+   "pivot_x": 3,
+   "pivot_y": -34
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "width": 4,
+   "height": 9,
+   "pivot_x": -11,
+   "pivot_y": -39
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "width": 14,
+   "height": 8,
+   "pivot_x": -16,
+   "pivot_y": -33
+  },
+  {
+   "x": 21,
+   "y": 0,
+   "width": 15,
+   "height": 9,
+   "pivot_x": -20,
+   "pivot_y": -26
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WKlonessAxe.pak",
+ "pak_sha256": "d1078551db54feab243efcaeaff8e5363f5a1c149ab2581daca327e089bf4b9f",
+ "sheet": 40,
+ "sheets_in_pak": 56,
+ "block_offset": 247396,
+ "block_length": 4192,
+ "bitmap_offset": 247552,
+ "bitmap_length": 4036,
+ "bitmap_sha256": "341038b411488dca21313a25ae97bb443ea51ccf6ad89a8a13da7c686c92956d",
+ "bitmap_format": "Windows BMP, 79x37, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 20,
+   "height": 37,
+   "pivot_x": 0,
+   "pivot_y": -67
+  },
+  {
+   "x": 20,
+   "y": 0,
+   "width": 20,
+   "height": 36,
+   "pivot_x": 1,
+   "pivot_y": -67
+  },
+  {
+   "x": 40,
+   "y": 0,
+   "width": 20,
+   "height": 37,
+   "pivot_x": 2,
+   "pivot_y": -68
+  },
+  {
+   "x": 60,
+   "y": 0,
+   "width": 19,
+   "height": 37,
+   "pivot_x": 3,
+   "pivot_y": -68
+  }
+ ]
+}

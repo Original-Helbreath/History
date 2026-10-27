@@ -1,0 +1,23 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/ManaStone.pak",
+ "pak_sha256": "fbd373f3a4e5f00e4177f85da685bc48fbd8b66095f2269221f85e476e9ddec9",
+ "sheet": 7,
+ "sheets_in_pak": 40,
+ "block_offset": 58444,
+ "block_length": 8300,
+ "bitmap_offset": 58564,
+ "bitmap_length": 8180,
+ "bitmap_sha256": "1acaef928f69753f61aeba1738654baf7d47bb67e2d55f72d5e0cb889ad5228c",
+ "bitmap_format": "Windows BMP, 64x111, 8 bpp",
+ "frames": [
+  {
+   "x": 3,
+   "y": 8,
+   "width": 56,
+   "height": 100,
+   "pivot_x": -29,
+   "pivot_y": -86
+  }
+ ]
+}

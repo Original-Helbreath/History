@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.23/Tile462-464.pak",
+ "pak_sha256": "3f2f93f882e88c6050ed1b159697f37a397d1ee7a0603055943f600be59f9085",
+ "sheet": 2,
+ "sheets_in_pak": 3,
+ "block_offset": 1844224,
+ "block_length": 921812,
+ "bitmap_offset": 1844380,
+ "bitmap_length": 921656,
+ "bitmap_sha256": "b714b50a3bda00675684bcbf3db5b251a61813614efd3f3a80362e65c9c2b4ff",
+ "bitmap_format": "Windows BMP, 640x480, 24 bpp",
+ "frames": [
+  {
+   "x": 13,
+   "y": 9,
+   "width": 117,
+   "height": 170,
+   "pivot_x": -75,
+   "pivot_y": -182
+  },
+  {
+   "x": 154,
+   "y": 62,
+   "width": 108,
+   "height": 117,
+   "pivot_x": -53,
+   "pivot_y": -117
+  },
+  {
+   "x": 282,
+   "y": 16,
+   "width": 113,
+   "height": 311,
+   "pivot_x": -58,
+   "pivot_y": -315
+  },
+  {
+   "x": 439,
+   "y": 25,
+   "width": 92,
+   "height": 76,
+   "pivot_x": -28,
+   "pivot_y": -28
+  }
+ ]
+}

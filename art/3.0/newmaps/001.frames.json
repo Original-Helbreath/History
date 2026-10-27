@@ -1,0 +1,31 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/newmaps.pak",
+ "pak_sha256": "4bc6637749297b996354470dcf2519794e353a14afd7beb056f2a22fefd5beed",
+ "sheet": 1,
+ "sheets_in_pak": 5,
+ "block_offset": 200330,
+ "block_length": 200266,
+ "bitmap_offset": 200462,
+ "bitmap_length": 200134,
+ "bitmap_sha256": "8124453ff9b98a1caa9abf345c1c14df9ae08de8f429ad51c2cde752854c6bbc",
+ "bitmap_format": "Windows BMP, 623x319, 8 bpp",
+ "frames": [
+  {
+   "x": 6,
+   "y": 10,
+   "width": 300,
+   "height": 300,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 320,
+   "y": 11,
+   "width": 300,
+   "height": 300,
+   "pivot_x": 0,
+   "pivot_y": 0
+  }
+ ]
+}

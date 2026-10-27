@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Rudolph.pak",
+ "pak_sha256": "0bb66cb18c98d492dbbe0fcbb318f69a9b53564abb3579e61a07ca34787cbc1d",
+ "sheet": 2,
+ "sheets_in_pak": 40,
+ "block_offset": 51780,
+ "block_length": 38274,
+ "bitmap_offset": 51984,
+ "bitmap_length": 38070,
+ "bitmap_sha256": "c25e692e03cb5528ae2c2bf8f3b1ce1f3cf9cc45ae984432c03e1a4b8cfb4765",
+ "bitmap_format": "Windows BMP, 272x136, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  },
+  {
+   "x": 68,
+   "y": 0,
+   "width": 68,
+   "height": 67,
+   "pivot_x": -31,
+   "pivot_y": -61
+  },
+  {
+   "x": 136,
+   "y": 0,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  },
+  {
+   "x": 204,
+   "y": 0,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  },
+  {
+   "x": 0,
+   "y": 68,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  },
+  {
+   "x": 68,
+   "y": 68,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  },
+  {
+   "x": 136,
+   "y": 68,
+   "width": 68,
+   "height": 67,
+   "pivot_x": -31,
+   "pivot_y": -61
+  },
+  {
+   "x": 204,
+   "y": 68,
+   "width": 68,
+   "height": 68,
+   "pivot_x": -31,
+   "pivot_y": -62
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/CBTurret.pak",
+ "pak_sha256": "639602d3045c61949a3b66e3212d9469e3420ab1c3ffdd87325ee885be9f0461",
+ "sheet": 2,
+ "sheets_in_pak": 32,
+ "block_offset": 441288,
+ "block_length": 228548,
+ "bitmap_offset": 441492,
+ "bitmap_length": 228344,
+ "bitmap_sha256": "83d1d347028dc73ad11f381f93bdc959154514bead1e48ca182405c213602282",
+ "bitmap_format": "Windows BMP, 928x82, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 120,
+   "height": 70,
+   "pivot_x": -43,
+   "pivot_y": -63
+  },
+  {
+   "x": 120,
+   "y": 0,
+   "width": 117,
+   "height": 72,
+   "pivot_x": -43,
+   "pivot_y": -65
+  },
+  {
+   "x": 237,
+   "y": 0,
+   "width": 111,
+   "height": 70,
+   "pivot_x": -43,
+   "pivot_y": -63
+  },
+  {
+   "x": 348,
+   "y": 0,
+   "width": 118,
+   "height": 73,
+   "pivot_x": -43,
+   "pivot_y": -66
+  },
+  {
+   "x": 466,
+   "y": 0,
+   "width": 115,
+   "height": 80,
+   "pivot_x": -43,
+   "pivot_y": -73
+  },
+  {
+   "x": 581,
+   "y": 0,
+   "width": 111,
+   "height": 82,
+   "pivot_x": -43,
+   "pivot_y": -75
+  },
+  {
+   "x": 692,
+   "y": 0,
+   "width": 116,
+   "height": 79,
+   "pivot_x": -43,
+   "pivot_y": -72
+  },
+  {
+   "x": 808,
+   "y": 0,
+   "width": 120,
+   "height": 70,
+   "pivot_x": -43,
+   "pivot_y": -63
+  }
+ ]
+}

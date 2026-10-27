@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Devlin.pak",
+ "pak_sha256": "40621ffdfa9aa54d335d8ec6cc4e9eb312efe92d41a8bcf761ffa581034313fb",
+ "sheet": 8,
+ "sheets_in_pak": 16,
+ "block_offset": 73308,
+ "block_length": 11512,
+ "bitmap_offset": 73464,
+ "bitmap_length": 11356,
+ "bitmap_sha256": "66a796430f215c3be267b9502ca2fb88063487ae0da35edac1b83898b6f1b92e",
+ "bitmap_format": "Windows BMP, 150x71, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 35,
+   "height": 70,
+   "pivot_x": -14,
+   "pivot_y": -63
+  },
+  {
+   "x": 35,
+   "y": 0,
+   "width": 40,
+   "height": 71,
+   "pivot_x": -15,
+   "pivot_y": -65
+  },
+  {
+   "x": 75,
+   "y": 0,
+   "width": 35,
+   "height": 70,
+   "pivot_x": -16,
+   "pivot_y": -60
+  },
+  {
+   "x": 110,
+   "y": 0,
+   "width": 40,
+   "height": 71,
+   "pivot_x": -15,
+   "pivot_y": -65
+  }
+ ]
+}

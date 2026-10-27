@@ -1,0 +1,23 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/TreeShadows.pak",
+ "pak_sha256": "72f37e59b2aa1b0c42c2a4613c5cab34439496c796944e2cae216abb20e61103",
+ "sheet": 6,
+ "sheets_in_pak": 46,
+ "block_offset": 25588,
+ "block_length": 1946,
+ "bitmap_offset": 25708,
+ "bitmap_length": 1826,
+ "bitmap_sha256": "fd2c1640ba1b5b947eb1cddb7ff97a381a55fb3ca24af254b08834679c464f21",
+ "bitmap_format": "Windows BMP, 193x63, 1 bpp",
+ "frames": [
+  {
+   "x": 1,
+   "y": 1,
+   "width": 190,
+   "height": 60,
+   "pivot_x": -120,
+   "pivot_y": -55
+  }
+ ]
+}

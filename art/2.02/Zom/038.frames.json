@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Zom.pak",
+ "pak_sha256": "d5289c25a065aa9c091128e2ed269b8b6d641a60d7b08bf2536e987300f71ed9",
+ "sheet": 38,
+ "sheets_in_pak": 40,
+ "block_offset": 827216,
+ "block_length": 41924,
+ "bitmap_offset": 827372,
+ "bitmap_length": 41768,
+ "bitmap_sha256": "9e0760bf6170a7258269f33be6b253418bc214e09d69fc0bf6ca1d4d98a15a78",
+ "bitmap_format": "Windows BMP, 175x79, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 20,
+   "height": 61,
+   "pivot_x": -14,
+   "pivot_y": -55
+  },
+  {
+   "x": 20,
+   "y": 0,
+   "width": 37,
+   "height": 79,
+   "pivot_x": -33,
+   "pivot_y": -73
+  },
+  {
+   "x": 57,
+   "y": 0,
+   "width": 53,
+   "height": 49,
+   "pivot_x": -52,
+   "pivot_y": -42
+  },
+  {
+   "x": 110,
+   "y": 0,
+   "width": 65,
+   "height": 27,
+   "pivot_x": -60,
+   "pivot_y": -15
+  }
+ ]
+}

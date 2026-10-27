@@ -1,0 +1,23 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Catapult.pak",
+ "pak_sha256": "20f874f64b5b9127765151ed9228cbe5900f9558173e7755ad118e3ef5df9545",
+ "sheet": 5,
+ "sheets_in_pak": 40,
+ "block_offset": 121824,
+ "block_length": 33836,
+ "bitmap_offset": 121944,
+ "bitmap_length": 33716,
+ "bitmap_sha256": "23acbbf7a910989ce8b03d39cc41cbb5b74113ea9f1dc393183a132e4897a1c9",
+ "bitmap_format": "Windows BMP, 113x99, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 113,
+   "height": 99,
+   "pivot_x": -53,
+   "pivot_y": -77
+  }
+ ]
+}

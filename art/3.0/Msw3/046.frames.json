@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Msw3.pak",
+ "pak_sha256": "b68e2e9e408a64a905226b0f23c7f848a60df561dcc0455bfb14f63c89ff1204",
+ "sheet": 46,
+ "sheets_in_pak": 56,
+ "block_offset": 481164,
+ "block_length": 6048,
+ "bitmap_offset": 481320,
+ "bitmap_length": 5892,
+ "bitmap_sha256": "51ff267c8bbbce1747f2fccfee3adff6589c79cc31486fd7fd2bb5439a835be4",
+ "bitmap_format": "Windows BMP, 171x28, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 57,
+   "height": 28,
+   "pivot_x": -53,
+   "pivot_y": -54
+  },
+  {
+   "x": 57,
+   "y": 0,
+   "width": 52,
+   "height": 21,
+   "pivot_x": -54,
+   "pivot_y": -42
+  },
+  {
+   "x": 109,
+   "y": 0,
+   "width": 39,
+   "height": 16,
+   "pivot_x": -47,
+   "pivot_y": -31
+  },
+  {
+   "x": 148,
+   "y": 0,
+   "width": 23,
+   "height": 17,
+   "pivot_x": -33,
+   "pivot_y": -25
+  }
+ ]
+}

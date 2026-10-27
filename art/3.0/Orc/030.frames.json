@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Orc.pak",
+ "pak_sha256": "fce8581bb32d263c67e438b9728b736f4a6bdbfacb08c786fbebd49a9f6a76d3",
+ "sheet": 30,
+ "sheets_in_pak": 40,
+ "block_offset": 447124,
+ "block_length": 14298,
+ "bitmap_offset": 447280,
+ "bitmap_length": 14142,
+ "bitmap_sha256": "761c53ee7db835f968069729333ffbbbf9d3a69f8ca7fdf0885247cd9a3b0d98",
+ "bitmap_format": "Windows BMP, 183x71, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 41,
+   "height": 71,
+   "pivot_x": -23,
+   "pivot_y": -67
+  },
+  {
+   "x": 41,
+   "y": 0,
+   "width": 42,
+   "height": 68,
+   "pivot_x": -23,
+   "pivot_y": -64
+  },
+  {
+   "x": 83,
+   "y": 0,
+   "width": 47,
+   "height": 59,
+   "pivot_x": -27,
+   "pivot_y": -55
+  },
+  {
+   "x": 130,
+   "y": 0,
+   "width": 53,
+   "height": 49,
+   "pivot_x": -27,
+   "pivot_y": -45
+  }
+ ]
+}

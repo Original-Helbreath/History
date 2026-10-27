@@ -1,0 +1,676 @@
+{
+ "folder": "3.1",
+ "files": [
+  {
+   "path": "GameDialog/000.frames.json",
+   "stored": "git",
+   "size": 813,
+   "sha256": "60ac09b286524daa65fa7ec258b2879ca5ad58d95b9c9b1ca17a2c98a0a245fe",
+   "what": "GameDialog.pak sheet 0: 3 frames; Windows BMP, 536x380, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 3,
+   "bitmap": {
+    "file": "GameDialog/000.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 204758,
+    "sha256": "6caa1a60af19cc06cd2b1bc8d3ccf0738802f655f5d012076705dffb27f9299e",
+    "pak_offset": 256,
+    "pak_length": 204758,
+    "format": "Windows BMP, 536x380, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 0 of 11: frame table at offset 212, bitmap at offset 256 length 204758, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/001.frames.json",
+   "stored": "git",
+   "size": 3071,
+   "sha256": "1741e434e4ce71b51b8381c9982fb198835261e2f9150b3191c6f17df09990fe",
+   "what": "GameDialog.pak sheet 1: 25 frames; Windows BMP, 619x520, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 25,
+   "bitmap": {
+    "file": "GameDialog/001.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 323478,
+    "sha256": "c2ef71e81c6543889e2046834712958a9bc4611a5769ebbce700b9bd3fd3189f",
+    "pak_offset": 205422,
+    "pak_length": 323478,
+    "format": "Windows BMP, 619x520, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 1 of 11: frame table at offset 205114, bitmap at offset 205422 length 323478, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/002.frames.json",
+   "stored": "git",
+   "size": 923,
+   "sha256": "5af6ecebf5a019f523297e9906c8efe24472bd1d853939093a708934669a795e",
+   "what": "GameDialog.pak sheet 2: 4 frames; Windows BMP, 546x479, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 4,
+   "bitmap": {
+    "file": "GameDialog/002.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 263570,
+    "sha256": "5adbc700b645aeb819cb5c0dbcdcf1f124825446be08b9d07de1006ac817c94c",
+    "pak_offset": 529056,
+    "pak_length": 263570,
+    "format": "Windows BMP, 546x479, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 2 of 11: frame table at offset 529000, bitmap at offset 529056 length 263570, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/003.frames.json",
+   "stored": "git",
+   "size": 1329,
+   "sha256": "864d3ebc68c5d338eeff1c899df04475f501d8474f3b60f2a4782133872ebe4d",
+   "what": "GameDialog.pak sheet 3: 8 frames; Windows BMP, 702x593, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 8,
+   "bitmap": {
+    "file": "GameDialog/003.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 418550,
+    "sha256": "b0e8870db9dad0972062a656d165316aa8749ae5104b630a85664cd7f7f7d2ae",
+    "pak_offset": 792830,
+    "pak_length": 418550,
+    "format": "Windows BMP, 702x593, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 3 of 11: frame table at offset 792726, bitmap at offset 792830 length 418550, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/004.frames.json",
+   "stored": "git",
+   "size": 4965,
+   "sha256": "86bfe4d2c1ce8d9ad38958c25b1128cdbe34a49fb31129ccfa8bd5bd65212ba7",
+   "what": "GameDialog.pak sheet 4: 44 frames; Windows BMP, 596x520, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 44,
+   "bitmap": {
+    "file": "GameDialog/004.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 310998,
+    "sha256": "f8b8034eedc6ff83670845ed29001b9d760a7e97a6ac7648a5ba0642ab01e25d",
+    "pak_offset": 1212016,
+    "pak_length": 310998,
+    "format": "Windows BMP, 596x520, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 4 of 11: frame table at offset 1211480, bitmap at offset 1212016 length 310998, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/005.frames.json",
+   "stored": "git",
+   "size": 1742,
+   "sha256": "e9197e547429e27e693a4f2c10298b9831c62787dedabc73d53165761b7b9f41",
+   "what": "GameDialog.pak sheet 5: 12 frames; Windows BMP, 549x397, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 12,
+   "bitmap": {
+    "file": "GameDialog/005.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 220222,
+    "sha256": "4a9884cd29f5540ce7336b0d58c4678484df28bed759a06c3f4caa29730d9c78",
+    "pak_offset": 1523266,
+    "pak_length": 220222,
+    "format": "Windows BMP, 549x397, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 5 of 11: frame table at offset 1523114, bitmap at offset 1523266 length 220222, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/006.frames.json",
+   "stored": "git",
+   "size": 2211,
+   "sha256": "e1acf7f75b138f6539d8d25b5b0ee0366c8e1b414ec49f736ca698711d353691",
+   "what": "GameDialog.pak sheet 6: 17 frames; Windows BMP, 640x124, 24 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 17,
+   "bitmap": {
+    "file": "GameDialog/006.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 238134,
+    "sha256": "7592a46de708c4ce104c896a3a404becb107fe24dc70aaa855dff54aded94d54",
+    "pak_offset": 1743800,
+    "pak_length": 238134,
+    "format": "Windows BMP, 640x124, 24 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 6 of 11: frame table at offset 1743588, bitmap at offset 1743800 length 238134, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/007.frames.json",
+   "stored": "git",
+   "size": 1429,
+   "sha256": "7fc8734f4109eea189a35b1f9cab1a71ca16e4ef4f4760e810cb6482bea76a89",
+   "what": "GameDialog.pak sheet 7: 9 frames; Windows BMP, 547x377, 24 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 9,
+   "bitmap": {
+    "file": "GameDialog/007.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 619842,
+    "sha256": "6670f7a9a94f7e78cdf92957c702fdd2b8c9bdf32c41d703cdcf3e2292c2cece",
+    "pak_offset": 1982150,
+    "pak_length": 619842,
+    "format": "Windows BMP, 547x377, 24 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 7 of 11: frame table at offset 1982034, bitmap at offset 1982150 length 619842, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/008.frames.json",
+   "stored": "git",
+   "size": 619,
+   "sha256": "08526ebebb308ea92ec69f1e66042600a5558bd305fe061f75c09ff34da01ca0",
+   "what": "GameDialog.pak sheet 8: 1 frames; Windows BMP, 640x480, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 1,
+   "bitmap": {
+    "file": "GameDialog/008.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 308276,
+    "sha256": "901aeaf6528c19c269ca28a12fedbd2afedad4dd309b22a4b8585ec9c708d804",
+    "pak_offset": 2602112,
+    "pak_length": 308276,
+    "format": "Windows BMP, 640x480, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 8 of 11: frame table at offset 2602092, bitmap at offset 2602112 length 308276, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/009.frames.json",
+   "stored": "git",
+   "size": 620,
+   "sha256": "fb66584d781669dbf74103e5119d40c1fb44a6e8d435e5f0b97a5efacfd2a55a",
+   "what": "GameDialog.pak sheet 9: 1 frames; Windows BMP, 640x480, 24 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 1,
+   "bitmap": {
+    "file": "GameDialog/009.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 921656,
+    "sha256": "fe259ee4027a9b5d0a901e928e76c188cddf7cfbaaf2348f820c38d73123b5fa",
+    "pak_offset": 2910508,
+    "pak_length": 921656,
+    "format": "Windows BMP, 640x480, 24 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 9 of 11: frame table at offset 2910488, bitmap at offset 2910508 length 921656, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "GameDialog/010.frames.json",
+   "stored": "git",
+   "size": 620,
+   "sha256": "328c9efcc4329cf4e386bbd8de2652eb8bd248e96ff045efd2b344da0d87b44e",
+   "what": "GameDialog.pak sheet 10: 1 frames; Windows BMP, 526x360, 8 bpp",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "frames": 1,
+   "bitmap": {
+    "file": "GameDialog/010.bmp",
+    "stored": "release Original-Helbreath/History/history-1 History-art-3.1.7z",
+    "size": 191158,
+    "sha256": "b234811214c51e6554a93e1c02a3afb301b81c1dae13a5183d77f3eadc57a98a",
+    "pak_offset": 3832284,
+    "pak_length": 191158,
+    "format": "Windows BMP, 526x360, 8 bpp"
+   },
+   "origins": [
+    {
+     "source": "sprites/3.1/GameDialog.pak in this repo (Wayback Machine capture of the official Helbreath USA site)",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-10-25 00:22:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "SPRITES/GameDialog.pak",
+      "sheet 10 of 11: frame table at offset 3832264, bitmap at offset 3832284 length 191158, copied byte for byte (not decoded or converted)"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  }
+ ]
+}

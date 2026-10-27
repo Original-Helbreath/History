@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/WereWolf.pak",
+ "pak_sha256": "167c8846d6f22d2091648a30e80deca0c0eeab0134072f09dac33b96600c1a63",
+ "sheet": 9,
+ "sheets_in_pak": 40,
+ "block_offset": 192184,
+ "block_length": 41244,
+ "bitmap_offset": 192388,
+ "bitmap_length": 41040,
+ "bitmap_sha256": "714f78472c79ae89d7944210bff9ff4e97f0a0134854c6962bd5e0a098ca78f6",
+ "bitmap_format": "Windows BMP, 409x97, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 65,
+   "height": 88,
+   "pivot_x": -40,
+   "pivot_y": -71
+  },
+  {
+   "x": 65,
+   "y": 0,
+   "width": 59,
+   "height": 91,
+   "pivot_x": -36,
+   "pivot_y": -72
+  },
+  {
+   "x": 124,
+   "y": 0,
+   "width": 48,
+   "height": 94,
+   "pivot_x": -28,
+   "pivot_y": -73
+  },
+  {
+   "x": 172,
+   "y": 0,
+   "width": 44,
+   "height": 97,
+   "pivot_x": -24,
+   "pivot_y": -72
+  },
+  {
+   "x": 216,
+   "y": 0,
+   "width": 43,
+   "height": 96,
+   "pivot_x": -22,
+   "pivot_y": -71
+  },
+  {
+   "x": 259,
+   "y": 0,
+   "width": 43,
+   "height": 97,
+   "pivot_x": -24,
+   "pivot_y": -72
+  },
+  {
+   "x": 302,
+   "y": 0,
+   "width": 48,
+   "height": 94,
+   "pivot_x": -28,
+   "pivot_y": -73
+  },
+  {
+   "x": 350,
+   "y": 0,
+   "width": 59,
+   "height": 91,
+   "pivot_x": -36,
+   "pivot_y": -72
+  }
+ ]
+}

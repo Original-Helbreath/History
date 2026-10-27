@@ -1,0 +1,39 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Crop.pak",
+ "pak_sha256": "2a9cbed2297c575043e5d91ecbcd994d330df7453ba620f511518fbd26fef517",
+ "sheet": 28,
+ "sheets_in_pak": 40,
+ "block_offset": 469568,
+ "block_length": 16758,
+ "bitmap_offset": 469712,
+ "bitmap_length": 16614,
+ "bitmap_sha256": "8a465fb191fdd87926ad9480a164bb505d431a1174a1f2f876d299e0fcf69c15",
+ "bitmap_format": "Windows BMP, 92x60, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 36,
+   "width": 19,
+   "height": 24,
+   "pivot_x": -8,
+   "pivot_y": -13
+  },
+  {
+   "x": 23,
+   "y": 16,
+   "width": 30,
+   "height": 44,
+   "pivot_x": -13,
+   "pivot_y": -30
+  },
+  {
+   "x": 55,
+   "y": 1,
+   "width": 37,
+   "height": 59,
+   "pivot_x": -20,
+   "pivot_y": -42
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/IceGolem.pak",
+ "pak_sha256": "9529e24bd61862332defaae778737ba569fc78a5d22f8fa46bb18d2ad55eb4ad",
+ "sheet": 8,
+ "sheets_in_pak": 40,
+ "block_offset": 442216,
+ "block_length": 68258,
+ "bitmap_offset": 442420,
+ "bitmap_length": 68054,
+ "bitmap_sha256": "1a7daf4fc042962ad6073b9cb7f4e726d0eb2acd351801c38d6c91d264aea05c",
+ "bitmap_format": "Windows BMP, 726x92, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 97,
+   "height": 87,
+   "pivot_x": -49,
+   "pivot_y": -79
+  },
+  {
+   "x": 97,
+   "y": 0,
+   "width": 101,
+   "height": 88,
+   "pivot_x": -51,
+   "pivot_y": -80
+  },
+  {
+   "x": 198,
+   "y": 0,
+   "width": 105,
+   "height": 88,
+   "pivot_x": -53,
+   "pivot_y": -83
+  },
+  {
+   "x": 303,
+   "y": 0,
+   "width": 97,
+   "height": 88,
+   "pivot_x": -49,
+   "pivot_y": -83
+  },
+  {
+   "x": 400,
+   "y": 0,
+   "width": 77,
+   "height": 85,
+   "pivot_x": -39,
+   "pivot_y": -74
+  },
+  {
+   "x": 477,
+   "y": 0,
+   "width": 77,
+   "height": 92,
+   "pivot_x": -39,
+   "pivot_y": -68
+  },
+  {
+   "x": 554,
+   "y": 0,
+   "width": 75,
+   "height": 88,
+   "pivot_x": -38,
+   "pivot_y": -74
+  },
+  {
+   "x": 629,
+   "y": 0,
+   "width": 97,
+   "height": 87,
+   "pivot_x": -49,
+   "pivot_y": -79
+  }
+ ]
+}

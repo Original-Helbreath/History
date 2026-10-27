@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/Clawturtle.pak",
+ "pak_sha256": "c88c52e9ea31e3fc54fe89b05051a53ef4af7e216bd9a2266604da931c73a8a0",
+ "sheet": 27,
+ "sheets_in_pak": 40,
+ "block_offset": 2049844,
+ "block_length": 90656,
+ "bitmap_offset": 2050048,
+ "bitmap_length": 90452,
+ "bitmap_sha256": "3fa8725d70bc04cf422836f257810b37590a449f70fb5d1c06531b029bfe94ae",
+ "bitmap_format": "Windows BMP, 783x114, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 75,
+   "height": 108,
+   "pivot_x": -36,
+   "pivot_y": -101
+  },
+  {
+   "x": 75,
+   "y": 0,
+   "width": 118,
+   "height": 93,
+   "pivot_x": -61,
+   "pivot_y": -86
+  },
+  {
+   "x": 193,
+   "y": 0,
+   "width": 114,
+   "height": 106,
+   "pivot_x": -75,
+   "pivot_y": -99
+  },
+  {
+   "x": 307,
+   "y": 0,
+   "width": 106,
+   "height": 101,
+   "pivot_x": -53,
+   "pivot_y": -94
+  },
+  {
+   "x": 413,
+   "y": 0,
+   "width": 108,
+   "height": 114,
+   "pivot_x": -44,
+   "pivot_y": -107
+  },
+  {
+   "x": 521,
+   "y": 0,
+   "width": 105,
+   "height": 112,
+   "pivot_x": -45,
+   "pivot_y": -105
+  },
+  {
+   "x": 626,
+   "y": 0,
+   "width": 84,
+   "height": 99,
+   "pivot_x": -35,
+   "pivot_y": -92
+  },
+  {
+   "x": 710,
+   "y": 0,
+   "width": 73,
+   "height": 106,
+   "pivot_x": -31,
+   "pivot_y": -99
+  }
+ ]
+}

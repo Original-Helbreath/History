@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Ant.pak",
+ "pak_sha256": "0bc01f5b52035ec94ad3c4c34c18d9cf72a1a0f31841f1eaefd3a4b31c379693",
+ "sheet": 20,
+ "sheets_in_pak": 40,
+ "block_offset": 149324,
+ "block_length": 7492,
+ "bitmap_offset": 149480,
+ "bitmap_length": 7336,
+ "bitmap_sha256": "dc12c92a109b1e1c1dbacd48964000f0c45769f7edd915513527f02ffe8855a3",
+ "bitmap_format": "Windows BMP, 93x26, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 23,
+   "height": 18,
+   "pivot_x": -12,
+   "pivot_y": -14
+  },
+  {
+   "x": 23,
+   "y": 0,
+   "width": 23,
+   "height": 21,
+   "pivot_x": -12,
+   "pivot_y": -14
+  },
+  {
+   "x": 46,
+   "y": 0,
+   "width": 23,
+   "height": 24,
+   "pivot_x": -12,
+   "pivot_y": -14
+  },
+  {
+   "x": 69,
+   "y": 0,
+   "width": 24,
+   "height": 26,
+   "pivot_x": -12,
+   "pivot_y": -13
+  }
+ ]
+}

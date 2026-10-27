@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/3.0/MHammer.pak",
+ "pak_sha256": "4f57f2b1b64f7b715551e05f9b5e95a5f0af405aa9aecb7594aa660af830890b",
+ "sheet": 41,
+ "sheets_in_pak": 56,
+ "block_offset": 340798,
+ "block_length": 5098,
+ "bitmap_offset": 340954,
+ "bitmap_length": 4942,
+ "bitmap_sha256": "1524def9c1b70221393d6143588a6d37605e9bf3c481b2dd5dab6d0e45c05246",
+ "bitmap_format": "Windows BMP, 92x42, 8 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 22,
+   "height": 40,
+   "pivot_x": 5,
+   "pivot_y": -61
+  },
+  {
+   "x": 22,
+   "y": 0,
+   "width": 15,
+   "height": 42,
+   "pivot_x": 4,
+   "pivot_y": -61
+  },
+  {
+   "x": 37,
+   "y": 0,
+   "width": 21,
+   "height": 40,
+   "pivot_x": -8,
+   "pivot_y": -57
+  },
+  {
+   "x": 58,
+   "y": 0,
+   "width": 34,
+   "height": 36,
+   "pivot_x": -20,
+   "pivot_y": -51
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/Cyc.pak",
+ "pak_sha256": "418318f445065ec3c1381234305a01e0ad109dba7b99b853aaecaec3ece9bb66",
+ "sheet": 15,
+ "sheets_in_pak": 40,
+ "block_offset": 1037232,
+ "block_length": 67812,
+ "bitmap_offset": 1037388,
+ "bitmap_length": 67656,
+ "bitmap_sha256": "c2a2d879bb157cde342a4f9928c5b7bba54c99e3a614570fb1eb02d84e3d05ad",
+ "bitmap_format": "Windows BMP, 225x100, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 70,
+   "height": 100,
+   "pivot_x": -42,
+   "pivot_y": -90
+  },
+  {
+   "x": 70,
+   "y": 0,
+   "width": 55,
+   "height": 95,
+   "pivot_x": -34,
+   "pivot_y": -93
+  },
+  {
+   "x": 125,
+   "y": 0,
+   "width": 45,
+   "height": 96,
+   "pivot_x": -26,
+   "pivot_y": -88
+  },
+  {
+   "x": 170,
+   "y": 0,
+   "width": 55,
+   "height": 97,
+   "pivot_x": -34,
+   "pivot_y": -93
+  }
+ ]
+}

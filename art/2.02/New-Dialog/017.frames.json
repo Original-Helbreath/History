@@ -1,0 +1,31 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2.02/New-Dialog.pak",
+ "pak_sha256": "4b3baf1878d8fca45c145c952987e258648018adeea141742b9a2bcc264b2a75",
+ "sheet": 17,
+ "sheets_in_pak": 18,
+ "block_offset": 16316732,
+ "block_length": 779516,
+ "bitmap_offset": 16316864,
+ "bitmap_length": 779384,
+ "bitmap_sha256": "ca3c50421c8896cefee446e5130763dc1a592c25cbec1326c19eedc1ec823cc1",
+ "bitmap_format": "Windows BMP, 791x328, 24 bpp",
+ "frames": [
+  {
+   "x": 24,
+   "y": 26,
+   "width": 376,
+   "height": 244,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 403,
+   "y": 26,
+   "width": 352,
+   "height": 210,
+   "pivot_x": 0,
+   "pivot_y": 0
+  }
+ ]
+}

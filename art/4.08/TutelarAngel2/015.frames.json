@@ -1,0 +1,79 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/4.08/TutelarAngel2.pak",
+ "pak_sha256": "bc6ffa8f59f767ca7dbd4084e3030f3126987c7cc5d0c8c8ec979a3913c44fd0",
+ "sheet": 15,
+ "sheets_in_pak": 48,
+ "block_offset": 228048,
+ "block_length": 14540,
+ "bitmap_offset": 228252,
+ "bitmap_length": 14336,
+ "bitmap_sha256": "d2d432f7396cf286dd56cb8d6f058aa9e4671e6022a434804367594dc1290136",
+ "bitmap_format": "Windows BMP, 135x35, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 16,
+   "height": 35,
+   "pivot_x": -11,
+   "pivot_y": -52
+  },
+  {
+   "x": 16,
+   "y": 0,
+   "width": 14,
+   "height": 34,
+   "pivot_x": -9,
+   "pivot_y": -51
+  },
+  {
+   "x": 30,
+   "y": 0,
+   "width": 15,
+   "height": 34,
+   "pivot_x": -8,
+   "pivot_y": -51
+  },
+  {
+   "x": 45,
+   "y": 0,
+   "width": 17,
+   "height": 34,
+   "pivot_x": -8,
+   "pivot_y": -51
+  },
+  {
+   "x": 62,
+   "y": 0,
+   "width": 16,
+   "height": 34,
+   "pivot_x": -8,
+   "pivot_y": -51
+  },
+  {
+   "x": 78,
+   "y": 0,
+   "width": 17,
+   "height": 33,
+   "pivot_x": -12,
+   "pivot_y": -51
+  },
+  {
+   "x": 95,
+   "y": 0,
+   "width": 20,
+   "height": 33,
+   "pivot_x": -15,
+   "pivot_y": -51
+  },
+  {
+   "x": 115,
+   "y": 0,
+   "width": 20,
+   "height": 35,
+   "pivot_x": -15,
+   "pivot_y": -52
+  }
+ ]
+}
