@@ -13,32 +13,46 @@ as 戰場 (Gamania, 2002). This repo is not a code project: nothing here is buil
 
 ## Layout
 
-| Folder | What | Versions |
-|---|---|---|
-| [`installers/`](installers/) | Official full installers and web launchers, by version and region. The large ones are release assets. | 2.02 (2001), Korea/Japan launchers (2002), USA 3.0 (2003), USA 4.08 (2009), USA full install (2011 capture) |
-| [`patches/`](patches/) | Official patches in version order, as the official sites served them. | 2.23 (2003) to 3.81 (2005), test server (2007) |
-| [`clients/`](clients/) | As-found client installs: what an installed game folder held, per version. The full trees are release archives; the folder keeps listings and the small config files. | 2.02, 3.0 |
-| [`art/`](art/) | Preview PNGs of notable sprite sheets, by subject, with the version each first appears in. | 2.02, 2.23 |
-| [`sources/`](sources/) | Historical source and server-file drops, as the original archives. | 2.03, 2.20, 3.51 |
-| [`tools/`](tools/) | Period utilities the official sites offered (DirectX, unzip tools). Listed and linked, not copied. | 2001-2006 |
-| [`documents/`](documents/) | Timeline, version history, official domains, and the game's own manuals. | 1999-2005 |
+Files are grouped **by type**, then by **version** (`sprites/2.02/`, `sprites/3.0/`, `executables/3.81/`, ...). The original
+install paths are kept in each file's manifest record (its extraction chain). A file is stored **once** per SHA-256, in the
+version where it first appears; the record lists every other version it was found in (`also_in`). A version folder therefore
+shows what that version added or changed. To get a playable folder tree instead, use the as-found client archives in the release.
+
+| Folder | What |
+|---|---|
+| [`documents/`](documents/) | Start here: `timeline.md`, `version-history.md` (every version held, and what is missing), `domains.md`, and the game's own player manuals. |
+| [`executables/`](executables/) | Game clients, launchers, updaters and DLLs; the installers as release assets. |
+| [`sprites/`](sprites/) | `.pak` sprite files. |
+| [`art/`](art/) | PNG previews of notable sprite sheets by subject (Crusade, monsters, NPCs, characters, interface, world, items). |
+| [`maps/`](maps/), [`sounds/`](sounds/), [`music/`](music/), [`fonts/`](fonts/) | Client game data. |
+| [`configs/`](configs/) | `CONTENTS/` game text and tables, `LOGIN.CFG` server addresses, other text. |
+| [`images/`](images/) | Installer artwork and palettes. |
+| [`video/`](video/) | The 2001 Crusade trailer (release asset). |
+| [`archives/`](archives/) | Original archives kept whole: official patches, historical source drops (2.03, 2.20, 3.51), 3.51 server files; disc image and as-found client trees (release assets). |
+| [`tools/`](tools/) | Third-party utilities the official sites offered. Listed and linked, not copied. |
+
+Versions held: 2.02 "Crusade" (2001), 2.23 (2003), 3.0 "The Apocalypse" (2003), 3.1, 3.72, 3.80, 3.81 (2003-2005), a 2007
+test-server client, the 2002 Korean and Japanese launchers, and sources 2.03, 2.19/2.20 and 3.51. See `documents/version-history.md`.
 
 Each folder has a `README.md` (what it holds, which version, date, source URL, SHA-256) and a `MANIFEST.json`.
 
 ## Manifests
 
-Every file in a folder, and every release asset belonging to it, has one record in that folder's `MANIFEST.json`.
-`README.md` and `MANIFEST.json` themselves are this project's own writing and are not listed.
+Every file in a folder, and every release asset belonging to it, has one record in that folder's `MANIFEST.json`
+(`documents/manuals/` has its own). `README.md` and `MANIFEST.json` themselves are not listed.
 
 | Field | Meaning |
 |---|---|
 | `path` | Path relative to the folder, or the asset name for a release asset. |
-| `stored` | `git` (in this repo), or `release <repo>/<tag>` (a GitHub release asset; see below). |
+| `stored` | `git` (in this repo), `release <repo>/<tag>` (a GitHub release asset; see below), or `git <repo> <path>` (kept in another repo). |
 | `size`, `sha256` | Size in bytes and SHA-256 of the file exactly as stored. |
 | `what` | What the file is. |
+| `version`, `region`, `era` | The game version, the region or edition (Korea, International, USA, Japan, ...), and the era (Crusade, Apocalypse, ...) where known. Each is `{value, confidence, basis}`: `verified` (stated by the source, the file's name, a version string or the hosting page), `inferred` (worked out; `basis` says from what), or `unknown`. Taken from the first origin; each origin carries its own. |
+| `also_in` | Other versions in which the same bytes were found. |
+| `origins` | One entry per place the file was found, with the fields below. |
 | `source` | Where it came from: official site, FilePlanet, forum, retail CD, and so on. |
 | `url` | The exact download URL. Wayback captures are given as `https://web.archive.org/web/<timestamp>id_/<original URL>`. `unknown` when not recorded. |
-| `documented` | The file's own date, and `documented_kind` says what that date is: `wayback-capture` (when the Wayback Machine saved it), `archive-entry` (newest entry date inside the archive), `installer-entry` (the date stored for the file in its installer), `document-property` (the date saved in the document), `host-listing` (the date the hosting site shows), or `unknown`. |
+| `documented` | The file's own date, and `documented_kind` says what that date is: `wayback-capture` (when the Wayback Machine saved it), `archive-entry` (newest entry date inside the archive), `installer-entry` (the date stored for the file in its installer), `host-listing` (the date the hosting site shows), `written` (this project's own documents), or `unknown`. 3.0 installer dates are decoded from an undocumented InstallShield field and say so in `notes`. |
 | `downloaded` | The day this project downloaded it, from file-system dates and our download records. |
 | `extracted_from` | The extraction chain from the downloaded file down to this one, outermost first, or `null` when the file is the download itself. |
 | `notes` | Anything else, including what is unverified. |
@@ -50,13 +64,14 @@ Anything that could not be established is written as `unknown`, never guessed.
 Files over 100 MB are not in git. The originals are already release assets of
 [Downloads-Archive](https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals) and are linked
 rather than duplicated. Files that only this repo offers (the 2.02 installer and trailer taken off the retail CD,
-and ready-made as-found client archives) are assets of this repo's own release `history-1`. Each is listed in the
-README and manifest of the folder it belongs to.
+and ready-made as-found client archives of 2.02 and 3.0) are assets of this repo's own release `history-1`. Each is
+listed in the README and manifest of the folder it belongs to.
 
 ## Where it came from
 
-Nothing here was made by this project except the READMEs, the manifests, the documents in `documents/` and the
-preview PNGs in `art/` (decoded from the original `.pak` files without changes). The downloads themselves are kept
+Nothing here was made by this project except the READMEs, the manifests, the three documents in `documents/`, the
+preview PNGs in `art/` (decoded from the original `.pak` files without changes) and the two as-found client archives.
+`.gitattributes` turns off line-ending conversion, so every file checks out byte-for-byte as found. The downloads themselves are kept
 untouched in [Downloads-Archive](https://github.com/Original-Helbreath/Downloads-Archive); the research behind every
 date is in [2.20-Documentation](https://github.com/Original-Helbreath/2.20-Documentation) `research/`.
 

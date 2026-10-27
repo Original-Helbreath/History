@@ -1,0 +1,108 @@
+{
+ "folder": "manuals",
+ "files": [
+  {
+   "path": "2.02/Readme.htm",
+   "stored": "git",
+   "size": 86164,
+   "sha256": "505e380f923d1a3b5562874a878a00bfdb8087e66c3c0bef995f98f0ba796434",
+   "what": "Player manual: Readme.htm",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-05-08 01:08:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "Readme.htm"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/Readme.htm",
+   "stored": "git",
+   "size": 102456,
+   "sha256": "6fcc83feff315e56380c4b200d9c19ce61bcfbba056bb41e9678280b309fcf1b",
+   "what": "Player manual: Readme.htm",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-02-09 13:26:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "Readme.htm"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  }
+ ]
+}
