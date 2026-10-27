@@ -1,6 +1,6 @@
 # video: Video
 
-The Crusade trailer from the 2001 retail CD. It is over 100 MB, so it is a release asset.
+The Crusade trailer from the 2001 international retail CD, and the movie from the 2001 USA retail disc. Both are over 100 MB, so they are release assets.
 
 ## Not in git
 
@@ -9,6 +9,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 | File | Version | Region | Date | Size (bytes) | SHA-256 | Stored |
 |---|---|---|---|---|---|---|
 | `Cru_Helbreath.avi` | 2.02 | International (English) | unknown | 149,659,934 | `19f74d44eae7749a02c8074abeace620bec3974417d8618f342cab36ca1cf502` | release: Original-Helbreath/History/history-1 |
+| `Helmovie.avi` | Crusade, USA retail disc (2001) | USA | 2001-03-20 (iso-entry) | 175,563,058 | `cb452f847c03425df1a25a644333c2a7b59407b67bec222593271bf53418949c` | release: Original-Helbreath/History/history-1 |
 
 
 ## Manifest

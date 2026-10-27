@@ -50,6 +50,57 @@
      }
     }
    ]
+  },
+  {
+   "path": "Helmovie.avi",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 175563058,
+   "sha256": "cb452f847c03425df1a25a644333c2a7b59407b67bec222593271bf53418949c",
+   "what": "Movie from the 2001 USA retail disc; a different file from Cru_Helbreath.avi on the 2001 international CD",
+   "version": {
+    "value": "Crusade, USA retail disc (2001)",
+    "confidence": "inferred",
+    "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "disc title 'The Crusade'"
+   },
+   "origins": [
+    {
+     "source": "redump.org entry 65970 'Helbreath - The Crusade (USA)': BIN/CUE supplied by the project owner, converted MODE2/2352 -> ISO (bin2iso.py)",
+     "url": "unknown",
+     "downloaded": "2026-10-27",
+     "documented": "2001-03-20 13:39:56",
+     "documented_kind": "iso-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA).bin (MODE2/2352)",
+      "Helbreath - The Crusade (USA).iso (ISO 9660)",
+      "Helmovie.avi"
+     ],
+     "version": {
+      "value": "Crusade, USA retail disc (2001)",
+      "confidence": "inferred",
+      "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "disc title 'The Crusade'"
+     }
+    }
+   ]
   }
  ]
 }

@@ -1662,6 +1662,57 @@
     }
    ],
    "notes": "Inno Setup 5.2.3; unpacked into the type folders as version 4.08 with inno5.py (all 728 files matched the installer MD5s). MD5 8839990c498bcd9944ce486d3036eec3 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  },
+  {
+   "path": "usa-2001-setup.exe",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 157269112,
+   "sha256": "2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f",
+   "what": "Installer from the 2001 USA retail disc, renamed from setup.exe for a unique release name; never run",
+   "version": {
+    "value": "Crusade, USA retail disc (2001)",
+    "confidence": "inferred",
+    "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "redump title 'Helbreath - The Crusade (USA)'"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "disc title 'The Crusade'"
+   },
+   "origins": [
+    {
+     "source": "redump.org entry 65970 'Helbreath - The Crusade (USA)': BIN/CUE supplied by the project owner, converted MODE2/2352 -> ISO (bin2iso.py)",
+     "url": "unknown",
+     "downloaded": "2026-10-27",
+     "documented": "2001-05-08 11:53:27",
+     "documented_kind": "iso-entry",
+     "extracted_from": [
+      "Helbreath - The Crusade (USA).bin (MODE2/2352)",
+      "Helbreath - The Crusade (USA).iso (ISO 9660)",
+      "setup.exe"
+     ],
+     "version": {
+      "value": "Crusade, USA retail disc (2001)",
+      "confidence": "inferred",
+      "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "redump title 'Helbreath - The Crusade (USA)'"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "disc title 'The Crusade'"
+     }
+    }
+   ]
   }
  ]
 }
