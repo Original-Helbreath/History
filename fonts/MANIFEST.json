@@ -1,0 +1,553 @@
+{
+ "folder": "fonts",
+ "files": [
+  {
+   "path": "2.02/ENG00.FNT",
+   "stored": "git",
+   "size": 2048,
+   "sha256": "936d85ffd95f923f234dca60573a1d9ac9cff49cb9907bd3898618fb11c51464",
+   "what": "Font: ENG00.FNT",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1998-12-18 06:09:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/ENG00.FNT"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1998-12-18 15:09:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/ENG00.FNT"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/ENG1.FNT",
+   "stored": "git",
+   "size": 4096,
+   "sha256": "dea99493135fa2ae6099739fef014397054f20c67afa30ffb2d2ae09e0097306",
+   "what": "Font: ENG1.FNT",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1993-03-25 09:06:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/ENG1.FNT"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1993-03-25 18:06:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/ENG1.FNT"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/ENG2.FNT",
+   "stored": "git",
+   "size": 4096,
+   "sha256": "532a1553974b7f022ab5eaeb8850aa164703f1105e0bdf3a74385563410f4379",
+   "what": "Font: ENG2.FNT",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1999-06-17 10:42:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/ENG2.FNT"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1999-06-17 19:42:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/ENG2.FNT"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/HAN3.FNT",
+   "stored": "git",
+   "size": 11520,
+   "sha256": "013ea10ad9ed931aee3a81af902361bae6507d2fec12970506bb092b952a349f",
+   "what": "Font: HAN3.FNT",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "2.02",
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1994-09-25 10:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/HAN3.FNT"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1994-09-25 10:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/Han4.fnt"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 19:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/HAN3.FNT"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 19:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/Han4.fnt"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/Hangul00.fnt",
+   "stored": "git",
+   "size": 11520,
+   "sha256": "2183235d32a5900412941c9ee814f62d57ff014c8327a07304cabca5580221bb",
+   "what": "Font: Hangul00.fnt",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "1999-02-08 11:50:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/Hangul00.fnt"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1999-02-08 20:50:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/Hangul00.fnt"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/Hangul01.fnt",
+   "stored": "git",
+   "size": 11520,
+   "sha256": "aa3f9977954ebb3985423d6e38d5cff6a7696ba415fd89fc5f04fcf8747341ab",
+   "what": "Font: Hangul01.fnt",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-09-15 03:35:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "FONTS/Hangul01.fnt"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-09-15 12:35:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "FONTS/Hangul01.fnt"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "folder": "music",
+ "files": [
+  {
+   "path": "2.02/aresden.wav",
+   "stored": "git",
+   "size": 3228446,
+   "sha256": "e99e18c2aa3f53ed7589f2bc3c81c1b19efde13e48066fde4af4bb983aef94bf",
+   "what": "Music track: aresden.wav",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-11-04 02:15:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "MUSIC/aresden.wav"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:15:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/aresden.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/dungeon.wav",
+   "stored": "git",
+   "size": 3669372,
+   "sha256": "ab2abb45fbb3009768f9a2a4c5ff106576dfd2ede2bde49495de1dcafd8bbcaa",
+   "what": "Music track: dungeon.wav",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-11-04 02:18:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "MUSIC/dungeon.wav"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:18:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/dungeon.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/elvine.wav",
+   "stored": "git",
+   "size": 3695250,
+   "sha256": "66612f9257a95957ad3262695d2a6e023678ad0820807715b8c5c3123103ad0f",
+   "what": "Music track: elvine.wav",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-11-04 02:17:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "MUSIC/elvine.wav"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:17:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/elvine.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/MainTm.wav",
+   "stored": "git",
+   "size": 3159590,
+   "sha256": "731263ea97057c4d33f5dbf8f421df8c12bd0b11ee812e43da3646b1debf4c5b",
+   "what": "Music track: MainTm.wav",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-12-13 11:29:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "MUSIC/MainTm.wav"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-13 20:29:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/MainTm.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/middleland.wav",
+   "stored": "git",
+   "size": 2620348,
+   "sha256": "3e23f114f828d035e69f8e509d781fb4966c0cffa3bf89182a0bd1d543066862",
+   "what": "Music track: middleland.wav",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "also_in": [
+    "3.0 'The Apocalypse'"
+   ],
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-12-01 06:02:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "MUSIC/middleland.wav"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-01 15:02:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/middleland.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/abaddon.wav",
+   "stored": "git",
+   "size": 2949372,
+   "sha256": "594e9a8952f785f5bc3b8a0e2715b9f2f413c833788a39f44f302aeb5a7e574e",
+   "what": "Music track: abaddon.wav",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 11:57:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/abaddon.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/Carol.wav",
+   "stored": "git",
+   "size": 2736480,
+   "sha256": "950131e83bdaca0c42815f0262ac7f4dbc64276a8ec0d00a118c019dd605f527",
+   "what": "Music track: Carol.wav",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-12-13 17:47:22",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/Carol.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/druncncity.wav",
+   "stored": "git",
+   "size": 1204052,
+   "sha256": "87cc306a8592474e41acaeaac4f99459fbbdd2de3b2af9adde5312f5cb385909",
+   "what": "Music track: druncncity.wav",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 11:58:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "MUSIC/druncncity.wav"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.72/Carol0.wav",
+   "stored": "git",
+   "size": 3008044,
+   "sha256": "7901c499f65b74c3b5962b517ba4d82e2297ee8bf29d028bce21d4fde7f6fe95",
+   "what": "Music track: Carol0.wav",
+   "version": {
+    "value": "3.72 'Winter'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070117082937id_/http://www.helbreathusa.com:80/hbusa_update_3.7_to_3.72Winter.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-16 17:33:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.7_to_3.72Winter.zip (Zip)",
+      "MUSIC/Carol0.wav"
+     ],
+     "version": {
+      "value": "3.72 'Winter'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.72/Carol1.wav",
+   "stored": "git",
+   "size": 2349878,
+   "sha256": "abeefb30c7d618184047c260c549add22749b9c0a8e89acec486452ddf58614e",
+   "what": "Music track: Carol1.wav",
+   "version": {
+    "value": "3.72 'Winter'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070117082937id_/http://www.helbreathusa.com:80/hbusa_update_3.7_to_3.72Winter.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-16 17:32:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.7_to_3.72Winter.zip (Zip)",
+      "MUSIC/Carol1.wav"
+     ],
+     "version": {
+      "value": "3.72 'Winter'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.72/Carol2.wav",
+   "stored": "git",
+   "size": 2803236,
+   "sha256": "c77b5e990740d1a64bbab75d3260b55d3a75658a9fc64e60eba08b5984a957bb",
+   "what": "Music track: Carol2.wav",
+   "version": {
+    "value": "3.72 'Winter'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070117082937id_/http://www.helbreathusa.com:80/hbusa_update_3.7_to_3.72Winter.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-16 17:32:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.7_to_3.72Winter.zip (Zip)",
+      "MUSIC/Carol2.wav"
+     ],
+     "version": {
+      "value": "3.72 'Winter'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  }
+ ]
+}
