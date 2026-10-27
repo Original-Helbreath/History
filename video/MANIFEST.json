@@ -1,0 +1,55 @@
+{
+ "folder": "video",
+ "files": [
+  {
+   "path": "Cru_Helbreath.avi",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 149659934,
+   "sha256": "19f74d44eae7749a02c8074abeace620bec3974417d8618f342cab36ca1cf502",
+   "what": "'Helbreath Crusade' trailer from the 2001 retail CD",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Movie/Cru_Helbreath.avi"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  }
+ ]
+}

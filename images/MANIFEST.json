@@ -1,0 +1,107 @@
+{
+ "folder": "images",
+ "files": [
+  {
+   "path": "3.0/default.pal",
+   "stored": "git",
+   "size": 1168,
+   "sha256": "8075162db275eb52f5d691b15fc0d970cb007f5bece33ce5db509edf51c1f020",
+   "what": "Image or palette: default.pal",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1999-09-16 10:24:10",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "default.pal"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/Setup.bmp",
+   "stored": "git",
+   "size": 627816,
+   "sha256": "224ad5b317d934ba1c73de14b470b3fccb6591e6948ca2ecbc31f945a41080ef",
+   "what": "Installer splash image of the 3.0 Apocalypse setup",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/Setup.bmp"
+     ],
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  }
+ ]
+}

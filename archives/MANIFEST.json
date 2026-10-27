@@ -1,0 +1,952 @@
+{
+ "folder": "archives",
+ "files": [
+  {
+   "path": "patches/2.23/patch_v223.zip",
+   "stored": "git",
+   "size": 42004965,
+   "sha256": "3591754b347cede67b2235b9cebc809bc536b84586f0205ef579ee2832817e0d",
+   "what": "Official Helbreath USA patch v2.23 (incremental: 60 files, mostly sprites)",
+   "version": {
+    "value": "2.23",
+    "confidence": "verified",
+    "basis": "patch name patch_v223.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "Crusade (Heldenian status unknown)",
+    "confidence": "inferred",
+    "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (helbreathusa.com)",
+     "url": "https://web.archive.org/web/20141104104043id_/http://www.helbreathusa.com/patch_v223.zip",
+     "downloaded": "2026-10-25",
+     "documented": "2014-11-04 10:40:43",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "2.23",
+      "confidence": "verified",
+      "basis": "patch name patch_v223.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "Crusade (Heldenian status unknown)",
+      "confidence": "inferred",
+      "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+     }
+    }
+   ],
+   "notes": "Entry dates 2002-12-21 to 2003-04-16; HelGame.exe dated 2003-04-15 (ASPack-packed)."
+  },
+  {
+   "path": "patches/3.1/Patch_3.0_to_3.1.zip",
+   "stored": "git",
+   "size": 2324091,
+   "sha256": "431889a8244415e3fbb77d83cfaf195059f4c7a5f17f597708c16c3e8e128786",
+   "what": "Helbreath USA patch 3.0 -> 3.1",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2013-06-30 00:12:12",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2003-11-28 01:26:34."
+  },
+  {
+   "path": "patches/3.72/hbusa_update_3.7_to_3.72Winter.zip",
+   "stored": "git",
+   "size": 8094075,
+   "sha256": "09f427d272d607cf63a89d668c350ac798af9aa5050595ebff2c86ecd6586360",
+   "what": "Helbreath USA update 3.7 -> 3.72 (Winter)",
+   "version": {
+    "value": "3.72 'Winter'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070117082937id_/http://www.helbreathusa.com:80/hbusa_update_3.7_to_3.72Winter.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2007-01-17 08:29:37",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "3.72 'Winter'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2004-12-17 10:27:28."
+  },
+  {
+   "path": "patches/3.80/hbusa_update_3.80_WishBall.zip",
+   "stored": "git",
+   "size": 434775,
+   "sha256": "b3921ac32b567fc37c1ca8e0f2402f23a6a75fc745f1d8b95b59f107d61f24a2",
+   "what": "Helbreath USA update 3.80 (Wish Ball)",
+   "version": {
+    "value": "3.80 'Wish Ball'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.80_WishBall.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20130630001712id_/http://www.helbreathusa.com/hbusa_update_3.80_WishBall.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2013-06-30 00:17:12",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "3.80 'Wish Ball'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.80_WishBall.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2005-02-23 14:39:22."
+  },
+  {
+   "path": "patches/3.81/hbusa_update_3.72_to_3.81.zip",
+   "stored": "git",
+   "size": 509676,
+   "sha256": "58354188e3d7a659dfb580c39444b0a195003762909365fd239ea385f13e9977",
+   "what": "Helbreath USA update 3.72 -> 3.81",
+   "version": {
+    "value": "3.81",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.72_to_3.81.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20060707141807id_/http://www.helbreathusa.com:80/hbusa_update_3.72_to_3.81.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2006-07-07 14:18:07",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "3.81",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.72_to_3.81.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2005-07-22 15:53:08."
+  },
+  {
+   "path": "patches/test-server-2007/HelGame.zip",
+   "stored": "git",
+   "size": 388985,
+   "sha256": "4e2a4066c5259ef30eef70b00c163bdfee2d198ab43552a10fcfaf6967aec7e5",
+   "what": "Helbreath USA test-server game executable",
+   "version": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "region": {
+    "value": "USA test server",
+    "confidence": "verified",
+    "basis": "served by test.helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070701032724id_/http://test.helbreathusa.com/Download/HelGame.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2007-07-01 03:27:24",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "region": {
+      "value": "USA test server",
+      "confidence": "verified",
+      "basis": "served by test.helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2007-05-30 09:55:40."
+  },
+  {
+   "path": "patches/update-080105/hbusa_update_080105.zip",
+   "stored": "git",
+   "size": 426166,
+   "sha256": "479c4024c632b7cd2e43e6b73dbc6b41d1e1a42f3c807bfe93f55b2f09cd89ff",
+   "what": "Helbreath USA update named 080105 (version not stated)",
+   "version": {
+    "value": "3.81 or later",
+    "confidence": "inferred",
+    "basis": "entry date 2005-07-22, the same as the 3.81 update; the name 080105 reads as a date"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20060129185006id_/http://www.helbreathusa.com:80/downloads/hbusa_update_080105.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2006-01-29 18:50:06",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "3.81 or later",
+      "confidence": "inferred",
+      "basis": "entry date 2005-07-22, the same as the 3.81 update; the name 080105 reads as a date"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Newest entry date inside: 2005-07-22 15:53:08."
+  },
+  {
+   "path": "server-files/3.51/351configsandsqldump.rar",
+   "stored": "git",
+   "size": 25843,
+   "sha256": "23e2ff1e627e242e30dccdeca67a1f6e9fa480636c5710488bdbd2d8b3865f9e",
+   "what": "3.51 server configuration set, ws1.txt and Crusade/Heldenian SQL scripts",
+   "version": {
+    "value": "3.51",
+    "confidence": "verified",
+    "basis": "archive name"
+   },
+   "region": {
+    "value": "China",
+    "confidence": "inferred",
+    "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+   },
+   "era": {
+    "value": "Heldenian present",
+    "confidence": "verified",
+    "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+   },
+   "origins": [
+    {
+     "source": "Outpost forum (unadvised.net)",
+     "url": "unknown (Outpost forum attachment, unadvised.net/forums; topic not recorded)",
+     "downloaded": "2026-10-25",
+     "documented": "2005-01-07 20:29:26",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "3.51",
+      "confidence": "verified",
+      "basis": "archive name"
+     },
+     "region": {
+      "value": "China",
+      "confidence": "inferred",
+      "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+     },
+     "era": {
+      "value": "Heldenian present",
+      "confidence": "verified",
+      "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+     }
+    }
+   ],
+   "notes": "Outpost topic t=9860 'v3.51 Server Config files and SQL Dump' is the likely post (unverified)."
+  },
+  {
+   "path": "server-files/3.51/351SqlFiles.zip",
+   "stored": "git",
+   "size": 1023666,
+   "sha256": "73d60c74ee680d316c514431e7980dd95b6520224c8255ea4f69d4587e18615a",
+   "what": "Official 3.51-era game server binary HGServer-v3.61-(521).exe (dated 2005-01-07) with MapData text files",
+   "version": {
+    "value": "3.51",
+    "confidence": "verified",
+    "basis": "archive name"
+   },
+   "region": {
+    "value": "China",
+    "confidence": "inferred",
+    "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+   },
+   "era": {
+    "value": "Heldenian present",
+    "confidence": "verified",
+    "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+   },
+   "origins": [
+    {
+     "source": "Outpost forum (unadvised.net)",
+     "url": "unknown (Outpost forum attachment, unadvised.net/forums; topic not recorded)",
+     "downloaded": "2026-10-25",
+     "documented": "2005-07-06 22:49:40",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "3.51",
+      "confidence": "verified",
+      "basis": "archive name"
+     },
+     "region": {
+      "value": "China",
+      "confidence": "inferred",
+      "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+     },
+     "era": {
+      "value": "Heldenian present",
+      "confidence": "verified",
+      "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+     }
+    }
+   ],
+   "notes": "Outpost topic t=9861 'v3.51 Server Files' is the likely post (unverified)."
+  },
+  {
+   "path": "sources/client-2.20/ClientSources.zip",
+   "stored": "git",
+   "size": 1371216,
+   "sha256": "f84ded9c7ab453db06959c0c29467d001fdc66cde2b2f37b3717758788f70362",
+   "what": "Game client source, v2.20",
+   "version": {
+    "value": "2.20",
+    "confidence": "verified",
+    "basis": "Version.h / GlobalDef.h"
+   },
+   "region": {
+    "value": "all regions (chosen at build time: Korea, USA, International; 2.19 for Taiwan/China)",
+    "confidence": "verified",
+    "basis": "Version.h / GlobalDef.h"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Helbreath Xtreme forum, 'Clients Sources Helbreath' bundle",
+     "url": "https://forum.helbreathx.net/files/file/11-clients-sources-helbreath/ (file page; the download link needs a forum login)",
+     "downloaded": "2026-10-25",
+     "documented": "2015-02-15 14:27:14",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "2.20",
+      "confidence": "verified",
+      "basis": "Version.h / GlobalDef.h"
+     },
+     "region": {
+      "value": "all regions (chosen at build time: Korea, USA, International; 2.19 for Taiwan/China)",
+      "confidence": "verified",
+      "basis": "Version.h / GlobalDef.h"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "GitHub's zip of librehelbreath/ClientSources c01544d ('Imported original 2.20 client sources', 2015-02-15)."
+  },
+  {
+   "path": "sources/client-3.51/351clientsrcs.zip",
+   "stored": "git",
+   "size": 1505619,
+   "sha256": "c4f3707bc273fdbe2213de16e2a3896b8448da00d51583c8fa0bc37f4638ecee",
+   "what": "Game client source, v3.51",
+   "version": {
+    "value": "3.51",
+    "confidence": "verified",
+    "basis": "archive name"
+   },
+   "region": {
+    "value": "China",
+    "confidence": "inferred",
+    "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+   },
+   "era": {
+    "value": "Heldenian present",
+    "confidence": "verified",
+    "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+   },
+   "origins": [
+    {
+     "source": "Outpost forum (unadvised.net)",
+     "url": "unknown (Outpost forum attachment, unadvised.net/forums; topic not recorded)",
+     "downloaded": "2026-10-25",
+     "documented": "2006-04-12 22:06:10",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "3.51",
+      "confidence": "verified",
+      "basis": "archive name"
+     },
+     "region": {
+      "value": "China",
+      "confidence": "inferred",
+      "basis": "the Outpost post describes the 3.51 binary as 'hacked from HBChina'"
+     },
+     "era": {
+      "value": "Heldenian present",
+      "confidence": "verified",
+      "basis": "Crusade and Heldenian SQL scripts in the 3.51 config set"
+     }
+    }
+   ],
+   "notes": "Contents not inspected by this project."
+  },
+  {
+   "path": "sources/gate-2.20/2.20gateserver.zip",
+   "stored": "git",
+   "size": 72477,
+   "sha256": "df2b2e5ac8f533c5ec33dd98afd5941e32914342079c7ccf9c6bf3a449b66e5c",
+   "what": "Gate server source, labelled 2.20 (same code as the 2.19 gate)",
+   "version": {
+    "value": "2.19/2.20 (the gate has no version of its own)",
+    "confidence": "verified",
+    "basis": "forum title and librehelbreath commit message"
+   },
+   "region": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "also_in": [
+    "2.19/2.20 (the gate has no version of its own)"
+   ],
+   "origins": [
+    {
+     "source": "Helbreath Xtreme forum, '2.20 GateServer Sources'",
+     "url": "https://forum.helbreathx.net/files/file/12-220-gateserver-sources/ (file page; the download link needs a forum login)",
+     "downloaded": "2026-10-25",
+     "documented": "2005-09-30 05:00:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "2.19/2.20 (the gate has no version of its own)",
+      "confidence": "verified",
+      "basis": "forum title and librehelbreath commit message"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Helbreath Xtreme forum, '2.20 GateServer Sources'",
+     "url": "https://forum.helbreathx.net/files/file/12-220-gateserver-sources/ (file page; the download link needs a forum login)",
+     "downloaded": "2026-10-25",
+     "documented": "2005-09-30 05:00:56",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "notes": "Same bytes, saved under the download name gate220.bin.",
+     "version": {
+      "value": "2.19/2.20 (the gate has no version of its own)",
+      "confidence": "verified",
+      "basis": "forum title and librehelbreath commit message"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Source dates 2004-03-22, VC workspace 2005-09. Identical in all 31 files to librehelbreath/GateServer 0b994cd. Also downloaded as gate220.bin (same bytes)."
+  },
+  {
+   "path": "sources/server-2.03/2.03_hbSource_Source.zip",
+   "stored": "git",
+   "size": 3233513,
+   "sha256": "edbc8a4be34ab26235e3aea5de5aa3a7619c4cb8a421850fe8a927ad869b6b90",
+   "what": "HG game server source, v2.03, with a compiled HGserver.exe",
+   "version": {
+    "value": "2.03",
+    "confidence": "verified",
+    "basis": "archive name and folder '2.03 Source'"
+   },
+   "region": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "SourceForge project hb-online",
+     "url": "https://sourceforge.net/projects/hb-online/files/helbreath/Server_Source/2.03_hbSource_Source.zip/download",
+     "downloaded": "2026-10-25",
+     "documented": "2004-11-20",
+     "documented_kind": "host-listing",
+     "extracted_from": null,
+     "version": {
+      "value": "2.03",
+      "confidence": "verified",
+      "basis": "archive name and folder '2.03 Source'"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Entry dates: Game.cpp and HGserver.exe 2001-08-31, most sources 2001-11-25, workspace files 2003-05-21. Identical (after encoding and line-ending normalisation) to librehelbreath/HGserver 1c98b2f and Helbreath/hgserver-hbxdevteam dfd3bb3."
+  },
+  {
+   "path": "sources/server-2.20/220HGServersrc.zip",
+   "stored": "git",
+   "size": 430614,
+   "sha256": "92d8b3c8368f6140aa518eed4d79f440c087230c53a9f2cc576df1f91af0fb9d",
+   "what": "HG game server source, v2.20 (code only, no data files)",
+   "version": {
+    "value": "2.20",
+    "confidence": "verified",
+    "basis": "Version.h / GlobalDef.h"
+   },
+   "region": {
+    "value": "all regions (chosen at build time: Korea, USA, International; 2.19 for Taiwan/China)",
+    "confidence": "verified",
+    "basis": "Version.h / GlobalDef.h"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Outpost forum (unadvised.net)",
+     "url": "unknown (Outpost forum attachment, unadvised.net/forums; topic not recorded)",
+     "downloaded": "2026-10-25",
+     "documented": "2005-09-26 06:12:06",
+     "documented_kind": "archive-entry",
+     "extracted_from": null,
+     "version": {
+      "value": "2.20",
+      "confidence": "verified",
+      "basis": "Version.h / GlobalDef.h"
+     },
+     "region": {
+      "value": "all regions (chosen at build time: Korea, USA, International; 2.19 for Taiwan/China)",
+      "confidence": "verified",
+      "basis": "Version.h / GlobalDef.h"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "All 68 shared code files identical to librehelbreath/HGserver 1697e41."
+  },
+  {
+   "path": "Helbreath-2.02-retail-client-asfound.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 147958385,
+   "sha256": "5e3a326ae26948346d3610dc6ffd519fe04ace443067d3c50660f941d550defd",
+   "what": "The 2.02 retail install as a ready folder tree (439 files), with installer file dates",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "HelbreatH.iso",
+      "Hb202full_ENG.exe (unpacked with hb_installer_extract.py)",
+      "whole install tree, repacked with 7-Zip by this project"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ],
+   "notes": "Made by this project for convenience; every file in it is also under the type folders."
+  },
+  {
+   "path": "Helbreath-3.0-apocalypse-client-asfound.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 188129963,
+   "sha256": "6e86103cd03ae22338cd3299e6e0b6f5299adf09f2a930b3382f9ec972f7df71",
+   "what": "The 3.0 Apocalypse install as a ready folder tree, as extracted (includes the InstallShield runtime files and empty placeholders)",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (7-Zip)",
+      "Disk1 cabinets (InstallShield 6, is6_extract.py)",
+      "whole install tree, repacked with 7-Zip by this project"
+     ],
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ],
+   "notes": "Made by this project for convenience; extracted file dates were not kept."
+  },
+  {
+   "path": "helbreath-v3.82.zip",
+   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "size": 324026786,
+   "sha256": "961f54a19b326d625b520f21d8368c9417c20e515e94b9275968da623dbc94f8",
+   "what": "Community v3.82 server/client bundle; holds official Siementech MainServer.exe (2002-11-26) and WorldServer.exe (2002-11-29)",
+   "version": {
+    "value": "3.82 (community bundle)",
+    "confidence": "verified",
+    "basis": "archive name"
+   },
+   "region": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file (helbreath-v3.82)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": null,
+     "version": {
+      "value": "3.82 (community bundle)",
+      "confidence": "verified",
+      "basis": "archive name"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Private-server era; kept for the two official log-server binaries. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  },
+  {
+   "path": "HelbreatH.iso",
+   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "size": 361857024,
+   "sha256": "7e1bc9b6b382e626a5be2119612fd46a98a529fa7814c689fb6a3b451f020c9f",
+   "what": "Disc image of the 2001 retail CD 'HelbreatH - The Crusade' (holds Hb202full_ENG.exe and the trailer)",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": null,
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ],
+   "notes": "Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  },
+  {
+   "path": "Helbreath.USA.Install.zip",
+   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "size": 289132524,
+   "sha256": "24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e",
+   "what": "Helbreath USA full install, late 3.8x era (captured 2011)",
+   "version": {
+    "value": "late 3.8x",
+    "confidence": "inferred",
+    "basis": "2011 capture date; not unpacked"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of helbreathusa.com",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2011-07-11 16:14:58",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "late 3.8x",
+      "confidence": "inferred",
+      "basis": "2011 capture date; not unpacked"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Outside 1999-2005; not unpacked here. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  }
+ ]
+}

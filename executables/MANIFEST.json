@@ -1,0 +1,1068 @@
+{
+ "folder": "executables",
+ "files": [
+  {
+   "path": "2.02/Helbreath.exe",
+   "stored": "git",
+   "size": 282624,
+   "sha256": "31356536fa16ee03960e3596ada0a7bfd8a3a8d91344d7aa65d849b4369b0049",
+   "what": "Program or library: Helbreath.exe",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-08-21 07:18:17",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "Helbreath.exe"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/HelGame.exe",
+   "stored": "git",
+   "size": 692224,
+   "sha256": "c9cdd7f76678ecfc489bbcd2c213770d730b3f46b7d6d77a9aeefb29329de2a1",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-08-21 06:59:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/search.dll",
+   "stored": "git",
+   "size": 143360,
+   "sha256": "af86c041e0d663bc455826e3e15d4377b52a1304348874ef354df9ed8ad8bc22",
+   "what": "Program or library: search.dll",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-06-11 03:50:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "search.dll"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/Uninstal.exe",
+   "stored": "git",
+   "size": 49723,
+   "sha256": "e2ec88816d8f80c7edc5ef105f9320ecd3022b89d3e5e665d916458a53c833f4",
+   "what": "Program or library: Uninstal.exe",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "Uninstal.exe"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.02/zlib.dll",
+   "stored": "git",
+   "size": 73728,
+   "sha256": "cf484e35a28e62e206767ef7371066166131abfde254305e7b3e7197ad1a08a3",
+   "what": "Program or library: zlib.dll",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2000-07-03 02:50:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "zlib.dll"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "2.23/HelGame.exe",
+   "stored": "git",
+   "size": 302592,
+   "sha256": "d98018f475c1093a965507b0c219d5aae08a9c2a4168639cc9a4545d6dc6f55f",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "2.23",
+    "confidence": "verified",
+    "basis": "patch name patch_v223.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "Crusade (Heldenian status unknown)",
+    "confidence": "inferred",
+    "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (helbreathusa.com)",
+     "url": "https://web.archive.org/web/20141104104043id_/http://www.helbreathusa.com/patch_v223.zip",
+     "downloaded": "2026-10-25",
+     "documented": "2003-04-15 02:33:24",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "patch_v223.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "2.23",
+      "confidence": "verified",
+      "basis": "patch name patch_v223.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "Crusade (Heldenian status unknown)",
+      "confidence": "inferred",
+      "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/cximage.dll",
+   "stored": "git",
+   "size": 159744,
+   "sha256": "53aef3609bb800ff72ce5ae3cfcad2d1ee68e84f7b275926a0aacb87984c5b77",
+   "what": "Program or library: cximage.dll",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "also_in": [
+    "3.81"
+   ],
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-06-12 10:00:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "cximage.dll"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20060707141807id_/http://www.helbreathusa.com:80/hbusa_update_3.72_to_3.81.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2005-04-11 15:48:54",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.72_to_3.81.zip (Zip)",
+      "cximage.dll"
+     ],
+     "version": {
+      "value": "3.81",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.72_to_3.81.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/Helbreath.exe",
+   "stored": "git",
+   "size": 495704,
+   "sha256": "13c6419ec195659321d3b9ed5a24a3d6657caf68c4e78ddd108c963792e516fc",
+   "what": "Program or library: Helbreath.exe",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-11-11 18:23:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "Helbreath.exe"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/NewHelGame.exe",
+   "stored": "git",
+   "size": 320000,
+   "sha256": "4f2c91c2dd6715804250716e43a1c2b9dec69e7d56c1f1606dac2e85e881b58c",
+   "what": "Program or library: NewHelGame.exe",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-11-11 17:14:28",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "NewHelGame.exe"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/search.dll",
+   "stored": "git",
+   "size": 135168,
+   "sha256": "42cae5fd3bdc359a3bb81316066100afe7d767d276472291c05614119f8c4d13",
+   "what": "Program or library: search.dll",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-10-18 11:24:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "search.dll"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.1/HelGame.exe",
+   "stored": "git",
+   "size": 318976,
+   "sha256": "642029013799f6a57dc776a9f1cd8a36c6faae95007fba91e22515f734b1613d",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20130630001212id_/http://www.helbreathusa.com/Patch_3.0_to_3.1.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-11-28 01:26:34",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Patch_3.0_to_3.1.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.72/HelGame.exe",
+   "stored": "git",
+   "size": 444416,
+   "sha256": "06fe71b7806c3a8cdf11a56b9a9bcff46d76fa7633755e36370b5f9bf3fbe9ed",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "3.72 'Winter'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070117082937id_/http://www.helbreathusa.com:80/hbusa_update_3.7_to_3.72Winter.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 10:27:28",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.7_to_3.72Winter.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "3.72 'Winter'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.7_to_3.72Winter.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.80/HelGame.exe",
+   "stored": "git",
+   "size": 444928,
+   "sha256": "4db2a894b7422af42844f36bcd77eba27a94da2823f474f0d4e76e6dc5bbe783",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "3.80 'Wish Ball'",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.80_WishBall.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20130630001712id_/http://www.helbreathusa.com/hbusa_update_3.80_WishBall.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2005-02-23 14:39:22",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.80_WishBall.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "3.80 'Wish Ball'",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.80_WishBall.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.81/HelGame.exe",
+   "stored": "git",
+   "size": 436224,
+   "sha256": "9b7fe97f7274f68839a362431c2d527d36f650cd5c1a2bd357fd092f230d695e",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "3.81",
+    "confidence": "verified",
+    "basis": "patch name hbusa_update_3.72_to_3.81.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "also_in": [
+    "3.81 or later"
+   ],
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20060707141807id_/http://www.helbreathusa.com:80/hbusa_update_3.72_to_3.81.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2005-07-22 15:53:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_3.72_to_3.81.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "3.81",
+      "confidence": "verified",
+      "basis": "patch name hbusa_update_3.72_to_3.81.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20060129185006id_/http://www.helbreathusa.com:80/downloads/hbusa_update_080105.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2005-07-22 15:53:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "hbusa_update_080105.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "3.81 or later",
+      "confidence": "inferred",
+      "basis": "entry date 2005-07-22, the same as the 3.81 update; the name 080105 reads as a date"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "launcher-japan-2002/Helbreath.exe",
+   "stored": "git",
+   "size": 303104,
+   "sha256": "6e0121311ef9b6a53d14b78c39761dfa88c705095bac1a6c6418b43ad3a45f15",
+   "what": "Launcher offered by the Japanese page of helbreath.com",
+   "version": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "region": {
+    "value": "Japan",
+    "confidence": "verified",
+    "basis": "offered by helbreath.com/japan"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official site helbreath.com",
+     "url": "https://web.archive.org/web/20021031103851id_/http://www.helbreath.com:80/japan/down/Helbreath.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-10-31 10:38:51",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "region": {
+      "value": "Japan",
+      "confidence": "verified",
+      "basis": "offered by helbreath.com/japan"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "launcher-korea-2002/Helbreath.exe",
+   "stored": "git",
+   "size": 307200,
+   "sha256": "7f29e6afc37f9bd032187753c417e31d8ce3897553eda3f2df24f1e6148576f8",
+   "what": "Launcher offered by the official Korean site helbreath.com",
+   "version": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "offered by helbreath.com/downloads, the Korean official site"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official site helbreath.com",
+     "url": "https://web.archive.org/web/20020413091249id_/http://www.helbreath.com:80/downloads/Helbreath.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-04-13 09:12:49",
+     "documented_kind": "wayback-capture",
+     "extracted_from": null,
+     "version": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "offered by helbreath.com/downloads, the Korean official site"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "test-server-2007/HelGame.exe",
+   "stored": "git",
+   "size": 394752,
+   "sha256": "bd35ac76bb053cc31c0b7d2ddaecde6de7f1ad6c0a222736ec6403e739786c6b",
+   "what": "Program or library: HelGame.exe",
+   "version": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "region": {
+    "value": "USA test server",
+    "confidence": "verified",
+    "basis": "served by test.helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site",
+     "url": "https://web.archive.org/web/20070701032724id_/http://test.helbreathusa.com/Download/HelGame.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2007-05-30 09:55:40",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "HelGame.zip (Zip)",
+      "HelGame.exe"
+     ],
+     "version": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "region": {
+      "value": "USA test server",
+      "confidence": "verified",
+      "basis": "served by test.helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "Hb202full_ENG.exe",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 211830945,
+   "sha256": "6f5c3ecda251e85c84ad89b9c06bef24b32f01f060c53ea483762c6aaa52d9a2",
+   "what": "Official 2.02 English full installer ('Helbreath Crusade v2.02')",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-08-21",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe"
+     ],
+     "notes": "Date from archive.org's listing of the ISO.",
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ],
+   "notes": "The installer format is Siementech's own; 7-Zip cannot open it."
+  },
+  {
+   "path": "hbusa_apocalypse.exe",
+   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "size": 241288011,
+   "sha256": "46530f11079f28234da1b64bbbcea17370542986778da809c1b55f8bdf62be15",
+   "what": "Helbreath USA 'The Apocalypse' v3.0 client installer",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-11-14",
+     "documented_kind": "host-listing",
+     "extracted_from": null,
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ],
+   "notes": "MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  },
+  {
+   "path": "helbreathusa_setup_408.exe",
+   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "size": 214673897,
+   "sha256": "923991c374ac25f2fac7f9e482cc61aa188421d8ebc6447e9664efa8f0ca3093",
+   "what": "Helbreath USA v4.08 client installer",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "file name and FilePlanet listing"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name helbreathusa_setup_408.exe"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956)",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2009-04-30",
+     "documented_kind": "host-listing",
+     "extracted_from": null,
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "file name and FilePlanet listing"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name helbreathusa_setup_408.exe"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Outside 1999-2005; not unpacked here. MD5 8839990c498bcd9944ce486d3036eec3 matched. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  }
+ ]
+}
