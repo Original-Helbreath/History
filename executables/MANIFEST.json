@@ -48,7 +48,8 @@
       "value": "Crusade",
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
+     },
+     "install_path": "Helbreath.exe"
     }
    ],
    "notes": "PE link timestamp 2001-08-21 07:18:17 UTC (set by the linker when the program was built)."
@@ -100,7 +101,8 @@
       "value": "Crusade",
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
+     },
+     "install_path": "HelGame.exe"
     }
    ],
    "notes": "PE link timestamp 2001-08-21 06:59:20 UTC (set by the linker when the program was built)."
@@ -152,7 +154,8 @@
       "value": "Crusade",
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
+     },
+     "install_path": "search.dll"
     }
    ],
    "notes": "PE link timestamp 2001-06-11 03:50:26 UTC (set by the linker when the program was built)."
@@ -204,7 +207,8 @@
       "value": "Crusade",
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
+     },
+     "install_path": "Uninstal.exe"
     }
    ],
    "notes": "PE link timestamp 2000-07-06 16:17:01 UTC (set by the linker when the program was built)."
@@ -256,7 +260,8 @@
       "value": "Crusade",
       "confidence": "verified",
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
+     },
+     "install_path": "zlib.dll"
     },
     {
      "source": "2001 USA retail disc 'Helbreath - The Crusade (USA)' (redump 65970), BIN/CUE supplied by the project owner",
@@ -614,7 +619,8 @@
       "value": "Apocalypse",
       "confidence": "verified",
       "basis": "product name"
-     }
+     },
+     "install_path": "cximage.dll"
     },
     {
      "source": "Wayback Machine capture of the official Helbreath USA site",
@@ -667,7 +673,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "cximage.dll"
     },
     {
      "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
@@ -694,7 +701,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "cximage.dll"
     }
    ],
    "notes": "PE link timestamp 2003-01-27 11:28:40 UTC (set by the linker when the program was built)."
@@ -747,7 +755,8 @@
       "value": "Apocalypse",
       "confidence": "verified",
       "basis": "product name"
-     }
+     },
+     "install_path": "Helbreath.exe"
     }
    ],
    "notes": "PE link timestamp 2003-11-11 09:23:30 UTC (set by the linker when the program was built)."
@@ -800,7 +809,8 @@
       "value": "Apocalypse",
       "confidence": "verified",
       "basis": "product name"
-     }
+     },
+     "install_path": "NewHelGame.exe"
     }
    ],
    "notes": "PE link timestamp 2003-11-11 08:14:27 UTC (set by the linker when the program was built)."
@@ -858,7 +868,8 @@
       "value": "Apocalypse",
       "confidence": "verified",
       "basis": "product name"
-     }
+     },
+     "install_path": "search.dll"
     },
     {
      "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
@@ -885,7 +896,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "search.dll"
     },
     {
      "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
@@ -912,7 +924,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "search.dll"
     },
     {
      "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
@@ -1430,7 +1443,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "Helbreath.exe"
     },
     {
      "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
@@ -1457,7 +1471,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "Helbreath.exe"
     }
    ],
    "notes": "PE link timestamp 2003-11-11 12:28:48 UTC (set by the linker when the program was built)."
@@ -1509,7 +1524,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "Helgame.exe"
     }
    ],
    "notes": "PE link timestamp 2008-12-14 16:00:20 UTC (set by the linker when the program was built)."
@@ -1561,7 +1577,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "Helgame.exe"
     }
    ],
    "notes": "PE link timestamp 2010-04-21 09:41:56 UTC (set by the linker when the program was built)."
@@ -1613,7 +1630,8 @@
       "value": "unknown",
       "confidence": "unknown",
       "basis": "not stated by any source"
-     }
+     },
+     "install_path": "unins000.exe"
     }
    ],
    "notes": "PE link timestamp 1992-06-19 22:22:17 UTC (set by the linker when the program was built)."
@@ -1766,7 +1784,7 @@
   },
   {
    "path": "Hb202full_ENG.exe",
-   "stored": "release Original-Helbreath/History/history-1",
+   "stored": "inside history-1 HelbreatH.iso (Hb202full_ENG.exe at the disc root)",
    "size": 211830945,
    "sha256": "6f5c3ecda251e85c84ad89b9c06bef24b32f01f060c53ea483762c6aaa52d9a2",
    "what": "Official 2.02 English full installer ('Helbreath Crusade v2.02')",
@@ -1814,11 +1832,11 @@
      }
     }
    ],
-   "notes": "The installer format is Siementech's own; 7-Zip cannot open it."
+   "notes": "The installer format is Siementech's own; 7-Zip cannot open it. Not a separate release asset: 7-Zip extracts it from HelbreatH.iso byte-exact (SHA-256 checked 2026-10-27)."
   },
   {
    "path": "hbusa_apocalypse.exe",
-   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "stored": "release Original-Helbreath/History/history-1",
    "size": 241288011,
    "sha256": "46530f11079f28234da1b64bbbcea17370542986778da809c1b55f8bdf62be15",
    "what": "Helbreath USA 'The Apocalypse' v3.0 client installer",
@@ -1862,11 +1880,11 @@
      }
     }
    ],
-   "notes": "MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet."
   },
   {
    "path": "helbreathusa_setup_408.exe",
-   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "stored": "release Original-Helbreath/History/history-1",
    "size": 214673897,
    "sha256": "923991c374ac25f2fac7f9e482cc61aa188421d8ebc6447e9664efa8f0ca3093",
    "what": "Helbreath USA v4.08 client installer",
@@ -1910,7 +1928,7 @@
      }
     }
    ],
-   "notes": "Inno Setup 5.2.3; unpacked into the type folders as version 4.08 with inno5.py (all 728 files matched the installer MD5s). MD5 8839990c498bcd9944ce486d3036eec3 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "Inno Setup 5.2.3; unpacked into the type folders as version 4.08 with inno5.py (all 728 files matched the installer MD5s). MD5 8839990c498bcd9944ce486d3036eec3 matched FilePlanet."
   },
   {
    "path": "usa-2001-setup.exe",

@@ -65,11 +65,16 @@ Anything that could not be established is written as `unknown`, never guessed.
 
 ## Release assets (files over 100 MB)
 
-Files over 100 MB are not in git. The originals are already release assets of
-[Downloads-Archive](https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals) and are linked
-rather than duplicated. Files that only this repo offers (the 2.02 installer and trailer taken off the retail CD,
-and ready-made as-found client archives of 2.02 and 3.0) are assets of this repo's own release `history-1`. Each is
-listed in the README and manifest of the folder it belongs to.
+Files over 100 MB are not in git; they are assets of this repo's own release `history-1`. History keeps its own copy
+of every original download: the disc images, installers and zips, the videos, and the per-version art archives. Each is
+listed in the README and manifest of the folder it belongs to. Every original container is kept exactly once, and every
+distinct file has one browsable copy. A container nested inside another kept container (the 2.02 installer inside the
+retail ISO, `SPRITES.zip` inside the 4.12.01 install) is not stored a second time; its manifest row says `inside ...`
+and how 7-Zip extracts it byte-exact.
+
+To rebuild an installed game folder, use `documents/install-layouts/<version>.json` (2.02, 3.0, 4.08, 4.12.01). It
+lists every path the installer wrote, with size, SHA-256, and where its bytes are kept in this repo. Each origin in the
+manifests also carries `install_path`.
 
 ## Where it came from
 

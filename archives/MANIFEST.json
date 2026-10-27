@@ -701,215 +701,8 @@
    "notes": "All 68 shared code files identical to librehelbreath/HGserver 1697e41."
   },
   {
-   "path": "Helbreath-2.02-retail-client-asfound.7z",
-   "stored": "release Original-Helbreath/History/history-1",
-   "size": 147958385,
-   "sha256": "5e3a326ae26948346d3610dc6ffd519fe04ace443067d3c50660f941d550defd",
-   "what": "The 2.02 retail install as a ready folder tree (439 files), with installer file dates",
-   "version": {
-    "value": "2.02",
-    "confidence": "verified",
-    "basis": "installer title 'Helbreath Crusade v2.02'"
-   },
-   "region": {
-    "value": "International (English)",
-    "confidence": "inferred",
-    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
-   },
-   "era": {
-    "value": "Crusade",
-    "confidence": "verified",
-    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-   },
-   "origins": [
-    {
-     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
-     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
-     "downloaded": "2026-10-25",
-     "documented": "unknown",
-     "documented_kind": "unknown",
-     "extracted_from": [
-      "HelbreatH.iso",
-      "Hb202full_ENG.exe (unpacked with hb_installer_extract.py)",
-      "whole install tree, repacked with 7-Zip by this project"
-     ],
-     "version": {
-      "value": "2.02",
-      "confidence": "verified",
-      "basis": "installer title 'Helbreath Crusade v2.02'"
-     },
-     "region": {
-      "value": "International (English)",
-      "confidence": "inferred",
-      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
-     },
-     "era": {
-      "value": "Crusade",
-      "confidence": "verified",
-      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
-     }
-    }
-   ],
-   "notes": "Made by this project for convenience; every file in it is also under the type folders."
-  },
-  {
-   "path": "Helbreath-3.0-apocalypse-client-asfound.7z",
-   "stored": "release Original-Helbreath/History/history-1",
-   "size": 188129963,
-   "sha256": "6e86103cd03ae22338cd3299e6e0b6f5299adf09f2a930b3382f9ec972f7df71",
-   "what": "The 3.0 Apocalypse install as a ready folder tree, as extracted (includes the InstallShield runtime files and empty placeholders)",
-   "version": {
-    "value": "3.0 'The Apocalypse'",
-    "confidence": "verified",
-    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
-   },
-   "region": {
-    "value": "USA",
-    "confidence": "verified",
-    "basis": "file name hbusa_apocalypse.exe"
-   },
-   "era": {
-    "value": "Apocalypse",
-    "confidence": "verified",
-    "basis": "product name"
-   },
-   "origins": [
-    {
-     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
-     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
-     "downloaded": "2026-10-27",
-     "documented": "unknown",
-     "documented_kind": "unknown",
-     "extracted_from": [
-      "hbusa_apocalypse.exe (7-Zip)",
-      "Disk1 cabinets (InstallShield 6, is6_extract.py)",
-      "whole install tree, repacked with 7-Zip by this project"
-     ],
-     "version": {
-      "value": "3.0 'The Apocalypse'",
-      "confidence": "verified",
-      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
-     },
-     "region": {
-      "value": "USA",
-      "confidence": "verified",
-      "basis": "file name hbusa_apocalypse.exe"
-     },
-     "era": {
-      "value": "Apocalypse",
-      "confidence": "verified",
-      "basis": "product name"
-     }
-    }
-   ],
-   "notes": "Made by this project for convenience; extracted file dates were not kept."
-  },
-  {
-   "path": "Helbreath-4.08-usa-client-asfound.7z",
-   "stored": "release Original-Helbreath/History/history-1",
-   "size": 208253392,
-   "sha256": "0fa2f3f3cf7926849b37c404622e37c8b6e5951771d81e26c0a79de3b69d87e0",
-   "what": "The USA 4.08 install as a ready folder tree (728 files, MD5-checked)",
-   "version": {
-    "value": "4.08",
-    "confidence": "verified",
-    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
-   },
-   "region": {
-    "value": "USA",
-    "confidence": "verified",
-    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
-   },
-   "era": {
-    "value": "unknown",
-    "confidence": "unknown",
-    "basis": "not stated by any source"
-   },
-   "origins": [
-    {
-     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
-     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
-     "downloaded": "2026-10-27",
-     "documented": "unknown",
-     "documented_kind": "unknown",
-     "extracted_from": [
-      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, inno5.py)",
-      "whole install tree, repacked with 7-Zip by this project"
-     ],
-     "version": {
-      "value": "4.08",
-      "confidence": "verified",
-      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
-     },
-     "region": {
-      "value": "USA",
-      "confidence": "verified",
-      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
-     },
-     "era": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "basis": "not stated by any source"
-     }
-    }
-   ],
-   "notes": "Made by this project for convenience."
-  },
-  {
-   "path": "Helbreath-4.12.01-usa-client-asfound.7z",
-   "stored": "release Original-Helbreath/History/history-1",
-   "size": 265731185,
-   "sha256": "71c1a87de392336c18f197ce4b9cfa812a0e135ed799373e4230d899106db1a1",
-   "what": "The USA 4.12.01 install as a ready folder tree (734 files)",
-   "version": {
-    "value": "4.12.01",
-    "confidence": "verified",
-    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
-   },
-   "region": {
-    "value": "USA",
-    "confidence": "verified",
-    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
-   },
-   "era": {
-    "value": "unknown",
-    "confidence": "unknown",
-    "basis": "not stated by any source"
-   },
-   "origins": [
-    {
-     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
-     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
-     "downloaded": "2026-10-27",
-     "documented": "unknown",
-     "documented_kind": "unknown",
-     "extracted_from": [
-      "Helbreath USA Install.zip",
-      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
-      "whole install tree, repacked with 7-Zip by this project"
-     ],
-     "version": {
-      "value": "4.12.01",
-      "confidence": "verified",
-      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
-     },
-     "region": {
-      "value": "USA",
-      "confidence": "verified",
-      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
-     },
-     "era": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "basis": "not stated by any source"
-     }
-    }
-   ],
-   "notes": "Made by this project for convenience."
-  },
-  {
    "path": "helbreath-v3.82.zip",
-   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "stored": "release Original-Helbreath/History/history-1",
    "size": 324026786,
    "sha256": "961f54a19b326d625b520f21d8368c9417c20e515e94b9275968da623dbc94f8",
    "what": "Community v3.82 server/client bundle; holds official Siementech MainServer.exe (2002-11-26) and WorldServer.exe (2002-11-29)",
@@ -953,11 +746,11 @@
      }
     }
    ],
-   "notes": "Private-server era; kept for the two official log-server binaries. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "Private-server era; kept for the two official log-server binaries."
   },
   {
    "path": "HelbreatH.iso",
-   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "stored": "release Original-Helbreath/History/history-1",
    "size": 361857024,
    "sha256": "7e1bc9b6b382e626a5be2119612fd46a98a529fa7814c689fb6a3b451f020c9f",
    "what": "Disc image of the 2001 retail CD 'HelbreatH - The Crusade' (holds Hb202full_ENG.exe and the trailer)",
@@ -1000,12 +793,11 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ],
-   "notes": "Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   ]
   },
   {
    "path": "Helbreath.USA.Install.zip",
-   "stored": "release Original-Helbreath/Downloads-Archive/originals",
+   "stored": "release Original-Helbreath/History/history-1",
    "size": 289132524,
    "sha256": "24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e",
    "what": "Helbreath USA 4.12.01 full install (WinRAR self-extractor inside a zip; captured 2011)",
@@ -1049,7 +841,7 @@
      }
     }
    ],
-   "notes": "Unpacked into the type folders as version 4.12.01. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "Unpacked into the type folders as version 4.12.01."
   },
   {
    "path": "History-art-2.02.7z",

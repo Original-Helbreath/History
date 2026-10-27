@@ -27,13 +27,9 @@ Over 100 MB, or kept elsewhere; download from the link given.
 
 | File | Version | Region | Date | Size (bytes) | SHA-256 | Stored |
 |---|---|---|---|---|---|---|
-| `Helbreath-2.02-retail-client-asfound.7z` | 2.02 | International (English) | unknown | 147,958,385 | `5e3a326ae26948346d3610dc6ffd519fe04ace443067d3c50660f941d550defd` | release: Original-Helbreath/History/history-1 |
-| `Helbreath-3.0-apocalypse-client-asfound.7z` | 3.0 'The Apocalypse' | USA | unknown | 188,129,963 | `6e86103cd03ae22338cd3299e6e0b6f5299adf09f2a930b3382f9ec972f7df71` | release: Original-Helbreath/History/history-1 |
-| `Helbreath-4.08-usa-client-asfound.7z` | 4.08 | USA | unknown | 208,253,392 | `0fa2f3f3cf7926849b37c404622e37c8b6e5951771d81e26c0a79de3b69d87e0` | release: Original-Helbreath/History/history-1 |
-| `Helbreath-4.12.01-usa-client-asfound.7z` | 4.12.01 | USA | unknown | 265,731,185 | `71c1a87de392336c18f197ce4b9cfa812a0e135ed799373e4230d899106db1a1` | release: Original-Helbreath/History/history-1 |
-| `helbreath-v3.82.zip` | 3.82 (community bundle) | unknown | unknown | 324,026,786 | `961f54a19b326d625b520f21d8368c9417c20e515e94b9275968da623dbc94f8` | release: Original-Helbreath/Downloads-Archive/originals |
-| `HelbreatH.iso` | 2.02 | International (English) | unknown | 361,857,024 | `7e1bc9b6b382e626a5be2119612fd46a98a529fa7814c689fb6a3b451f020c9f` | release: Original-Helbreath/Downloads-Archive/originals |
-| `Helbreath.USA.Install.zip` | 4.12.01 | USA | 2011-07-11 (wayback-capture) | 289,132,524 | `24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e` | release: Original-Helbreath/Downloads-Archive/originals |
+| `helbreath-v3.82.zip` | 3.82 (community bundle) | unknown | unknown | 324,026,786 | `961f54a19b326d625b520f21d8368c9417c20e515e94b9275968da623dbc94f8` | release: Original-Helbreath/History/history-1 |
+| `HelbreatH.iso` | 2.02 | International (English) | unknown | 361,857,024 | `7e1bc9b6b382e626a5be2119612fd46a98a529fa7814c689fb6a3b451f020c9f` | release: Original-Helbreath/History/history-1 |
+| `Helbreath.USA.Install.zip` | 4.12.01 | USA | 2011-07-11 (wayback-capture) | 289,132,524 | `24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e` | release: Original-Helbreath/History/history-1 |
 | `History-art-2.02.7z` | 2.02 | International (English) | unknown | 130,978,349 | `1b54672e76a72d8c7903d82e52183a3bde21b1dd44cc939a2d6ce6a3a60ef70e` | release: Original-Helbreath/History/history-1 |
 | `History-art-2.23.7z` | 2.23 | USA | unknown | 32,297,000 | `d3b284f37b8173b123a7cc2ec953dc583268a88884b71b1c1b359f30a404fd70` | release: Original-Helbreath/History/history-1 |
 | `History-art-2001-beta.7z` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | unknown | 8,914,028 | `6b1d498f87c7c45268c1678019bb1c416e75fd0f7d8c33ed4cbcadff9da62618` | release: Original-Helbreath/History/history-1 |
@@ -43,13 +39,8 @@ Over 100 MB, or kept elsewhere; download from the link given.
 | `History-art-4.08.7z` | 4.08 | USA | unknown | 30,667,940 | `b00d042bd2491e3961890dedae03db3b3c1683228d3e8c1ad0b8a5d6fc654dee` | release: Original-Helbreath/History/history-1 |
 | `History-art-4.12.01.7z` | 4.12.01 | USA | unknown | 2,285,589 | `e40f5d2ac6137589a0dee5439e929efdb1bf7096939a8143abacc38cacd35220` | release: Original-Helbreath/History/history-1 |
 
-- `Helbreath-2.02-retail-client-asfound.7z`: Made by this project for convenience; every file in it is also under the type folders.
-- `Helbreath-3.0-apocalypse-client-asfound.7z`: Made by this project for convenience; extracted file dates were not kept.
-- `Helbreath-4.08-usa-client-asfound.7z`: Made by this project for convenience.
-- `Helbreath-4.12.01-usa-client-asfound.7z`: Made by this project for convenience.
-- `helbreath-v3.82.zip`: Private-server era; kept for the two official log-server binaries. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
-- `HelbreatH.iso`: Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
-- `Helbreath.USA.Install.zip`: Unpacked into the type folders as version 4.12.01. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
+- `helbreath-v3.82.zip`: Private-server era; kept for the two official log-server binaries.
+- `Helbreath.USA.Install.zip`: Unpacked into the type folders as version 4.12.01.
 - `History-art-2.02.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-2.23.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-2001-beta.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.

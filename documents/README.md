@@ -19,6 +19,10 @@
 | `shipped/4.08/Terms and Conditions.txt` | 4.08 | USA | 2008-07-23 (installer-entry) | 14,626 | `834934410a78b9284f3109cf582f08bc74c8587b97ed90e849688b673d779974` | git |
 | `shipped/4.12.01/releasenotes.txt` | 4.12.01 | USA | 2010-04-23 (archive-entry) | 15,057 | `25187cc4eca5511bf80c4a6126fcd2c62acb84e94cd64776bd51cefffef15173` | git |
 | `shipped/4.12.01/Rules.txt` | 4.12.01 | USA | 2010-09-19 (archive-entry) | 36,507 | `53fe6d3260b7648811e5bbb7ef6f55aa1dcf652f4f662e1de4c1c8dbf7f7354a` | git |
+| `install-layouts/2.02.json` | 2.02 | International (English) | 2026-10-27 (written) | 86,578 | `cc2b039592f000e62e25d178ca00dcdbb7aea2b9eb94e60e025b3b659ef05899` | git |
+| `install-layouts/3.0.json` | 3.0 'The Apocalypse' | USA | 2026-10-27 (written) | 138,579 | `9d24aba2a43c3850bd23c08eaa7f4df6cb5cf3971cbf98c13619f57e081c6162` | git |
+| `install-layouts/4.08.json` | 4.08 | USA | 2026-10-27 (written) | 143,932 | `b66283208162e90ecaf65247a240aa8ae25a45c29e9c81baeee159186fefd071` | git |
+| `install-layouts/4.12.01.json` | 4.12.01 | USA | 2026-10-27 (written) | 145,271 | `38db714dbbeecce88527ed3ac04b59991d9691d92d3561e0f68e9cd598b8d765` | git |
 
 ## Manifest
 

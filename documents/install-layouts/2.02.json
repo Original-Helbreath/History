@@ -1,0 +1,2640 @@
+{
+ "version": "2.02",
+ "note": "The install folder exactly as the installer laid it out: every path, its size and SHA-256, and where its bytes are kept in History. Copy each stored_at file to its install_path to rebuild the install.",
+ "files": [
+  {
+   "install_path": "CONTENTS/badword.txt",
+   "size": 436697,
+   "sha256": "111bf145eb3aba69ea7377d3d3c8ca1409295eadf16b9abaa7680d93e3d03d93",
+   "stored_at": "configs/2.02/badword.txt"
+  },
+  {
+   "install_path": "CONTENTS/BItemcfg.txt",
+   "size": 10234,
+   "sha256": "9085bfc9e7fdc3a4fa4bd5d242bb496dc33ad2fc24e0cc941b33154fc8bee63a",
+   "stored_at": "configs/2.02/BItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents0.txt",
+   "size": 3422,
+   "sha256": "bee2854382905730d9253f4fb480f2d641b51a7aa2b8b42134a16e9fbe143404",
+   "stored_at": "configs/2.02/contents0.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents1.txt",
+   "size": 6953,
+   "sha256": "b2ad027127e9975a2263bd5efaf18bb2dae73ebda9d97da35b83f2da4a0ac1c6",
+   "stored_at": "configs/2.02/contents1.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents10.txt",
+   "size": 11201,
+   "sha256": "9ff95b53b136b5f66beffab0d8af9ea9e0ba49e8c6f4e64939d97c958c366771",
+   "stored_at": "configs/2.02/contents10.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents1000.txt",
+   "size": 1569,
+   "sha256": "e1cb815e2119f830b1be67748b4453b40ba508adb0790864ef14c5853a198e04",
+   "stored_at": "configs/2.02/contents1000.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents121.txt",
+   "size": 71,
+   "sha256": "bdda81968f1f0c75bb8efa4f4d66eaf61308251fd95aebe36e0b3648133d8567",
+   "stored_at": "configs/2.02/contents121.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents122.txt",
+   "size": 8,
+   "sha256": "7c061d2c648b72411606ff3df6b550b2b02ebde8eab32c155cf56ab66d780eef",
+   "stored_at": "configs/2.02/contents122.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents123.txt",
+   "size": 26,
+   "sha256": "0d8a4ede16502c5415541de2852b2e18b26b76b581526d834c64191a64591f0d",
+   "stored_at": "configs/2.02/contents123.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents124.txt",
+   "size": 10,
+   "sha256": "a0488c83abd36232df714226e8b957b50f76f17d3d57e360dc486e39d7c52875",
+   "stored_at": "configs/2.02/contents124.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents134.txt",
+   "size": 91,
+   "sha256": "99e226d00881691d6d0188a6eda2b5e0507c2cad4c049add57f0021dffc2531f",
+   "stored_at": "configs/2.02/contents134.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents144.txt",
+   "size": 185,
+   "sha256": "c47b01de58d5f8bf97d4abb94a07a7de5a2b3b8f4aafecefcfddbf8edc729b2a",
+   "stored_at": "configs/2.02/contents144.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents151.txt",
+   "size": 177,
+   "sha256": "e7b35afae66d4d3519a075eb958c93714b9fcd4b16b0b2c758d438244885b92f",
+   "stored_at": "configs/2.02/contents151.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents152.txt",
+   "size": 105,
+   "sha256": "6a4f006706b9d4fc0491d200c6eeafe07b5040a789847f8c7a3496320194147d",
+   "stored_at": "configs/2.02/contents152.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents153.txt",
+   "size": 234,
+   "sha256": "d304b5d58371eda1c72c1ff82ecf4d2c21a539fa69cfd02630bd80f31b005598",
+   "stored_at": "configs/2.02/contents153.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents154.txt",
+   "size": 137,
+   "sha256": "d08a0182453dddbfdd672f57cf64f9f30589e6b24f55ee6dc48f1bffb8865868",
+   "stored_at": "configs/2.02/contents154.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents155.txt",
+   "size": 211,
+   "sha256": "3dc5da05bea29c0dbf413c0359a33c0e6c71a36e128d400af543cfcf47d7e252",
+   "stored_at": "configs/2.02/contents155.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents156.txt",
+   "size": 338,
+   "sha256": "15f61048070a48f0199705547dd3879332f06d302d17da12274929da133e39ed",
+   "stored_at": "configs/2.02/contents156.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents171.txt",
+   "size": 9,
+   "sha256": "439ed7a1da315cb071049b81c5b217cbc24c8073799dfe75c13f5ad7f96594f6",
+   "stored_at": "configs/2.02/contents171.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents182.txt",
+   "size": 5,
+   "sha256": "df4d4b02de4c4fc19047c9c3a5a3764b522093a88aaaa737b270940626e62e64",
+   "stored_at": "configs/2.02/contents182.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents2.txt",
+   "size": 14061,
+   "sha256": "c2443a64915056c048b7a1549711207314b8d8b709b566c39f30274f291028e7",
+   "stored_at": "configs/2.02/contents2.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents20.txt",
+   "size": 17,
+   "sha256": "5289e48d107b80fedd9009c3881381302304452096254071ae896238a3754b7f",
+   "stored_at": "configs/2.02/contents20.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents21.txt",
+   "size": 178,
+   "sha256": "23d7903565244945da695ffdf92fe48e8174f979316897a8b91fe195900cf358",
+   "stored_at": "configs/2.02/contents21.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents220.txt",
+   "size": 152,
+   "sha256": "913246953590611ecaeae081c55be6e91a4500d27f788824d298b6ca89104775",
+   "stored_at": "configs/2.02/contents220.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents221.txt",
+   "size": 36,
+   "sha256": "0eaa101cfce1ef16b8faf7b9af4e881a4e1f8bbd6c7e4cf6aa70fb569000401e",
+   "stored_at": "configs/2.02/contents221.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents222.txt",
+   "size": 35,
+   "sha256": "e35430f0e2cd2472741575828ef37326ee98e4a4ee2ae45d0602f3064cc10bd9",
+   "stored_at": "configs/2.02/contents222.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents223.txt",
+   "size": 226,
+   "sha256": "60afd5d65ba05b76d44950e8b8a412d0857a415f831ac3ebdeabdc48b6842367",
+   "stored_at": "configs/2.02/contents223.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents224.txt",
+   "size": 158,
+   "sha256": "cad07b97c9086367961b2da279a57934752115e7152b02cdc1cf748cf5063729",
+   "stored_at": "configs/2.02/contents224.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents225.txt",
+   "size": 159,
+   "sha256": "8f8a99cca42a4f7840e701384f60bc68eb4db960eba5f1bc93bc6b86d1d1e350",
+   "stored_at": "configs/2.02/contents225.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents226.txt",
+   "size": 651,
+   "sha256": "2ac72d2ff289bf9793e48e568597656740025d59c3114d52e3ef18c8f2934498",
+   "stored_at": "configs/2.02/contents226.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents27.txt",
+   "size": 126,
+   "sha256": "ab605174b2eda8b4d3466b6925715d74930a24c44e262b4d1d6ced74af1b48d7",
+   "stored_at": "configs/2.02/contents27.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents500.txt",
+   "size": 471,
+   "sha256": "ade88080d1aeea2dc61605719cc1d8d653134bdba6768625b77c139a32cdc6f8",
+   "stored_at": "configs/2.02/contents500.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents800.txt",
+   "size": 366,
+   "sha256": "cb7039f9e498b855c2189208a5cc46f91b8d9367d745f08158f41e07761674ef",
+   "stored_at": "configs/2.02/contents800.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents801.txt",
+   "size": 4050,
+   "sha256": "aa819879b285e7fdafea681dff6dcb3ca7e81fb9fd7f69383ccf66eeeb34db87",
+   "stored_at": "configs/2.02/contents801.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents802.txt",
+   "size": 4051,
+   "sha256": "d55564ff0cc5f1798e5db70d830a2dfffee24ea5820800dfd2f9ac999f15c1a8",
+   "stored_at": "configs/2.02/contents802.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents803.txt",
+   "size": 473,
+   "sha256": "3e1965e3044669a36eb225363d1e86a7c1de3e8c30b6fa0e5c7fd7c6b2d21fd5",
+   "stored_at": "configs/2.02/contents803.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents804.txt",
+   "size": 603,
+   "sha256": "55d01095eefccb45177f8cff2b225b2f1b3ac00255a0084d1ace9633f3a8b3ca",
+   "stored_at": "configs/2.02/contents804.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents805.txt",
+   "size": 1444,
+   "sha256": "89ace15b07f2f12b1241f380ae1d84cdfd9cf717a5d59065c93d91ae60c9992a",
+   "stored_at": "configs/2.02/contents805.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents806.txt",
+   "size": 1336,
+   "sha256": "0226b1ad6b10cf861f1fccb2f397baab3dff97c6c3a8082d9972d221aef3543c",
+   "stored_at": "configs/2.02/contents806.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents807.txt",
+   "size": 583,
+   "sha256": "e7594658fe864e35e50de287b39e501d87f6e0dac7094d4ed011c7a3012b30bb",
+   "stored_at": "configs/2.02/contents807.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents808.txt",
+   "size": 734,
+   "sha256": "35ff3c9a75a028d2e221786aa7009d836a0d17b30dbc05090d9d9e1a88178479",
+   "stored_at": "configs/2.02/contents808.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents809.txt",
+   "size": 323,
+   "sha256": "c63499e2766b6a516f8938a0eeec428368a11692172ff23f05b96a074db93ba8",
+   "stored_at": "configs/2.02/contents809.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents810.txt",
+   "size": 333,
+   "sha256": "e0964b553cc52fbe6bdfa0c2912a117a7efa31c41aae7500227140c98ffd4021",
+   "stored_at": "configs/2.02/contents810.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents811.txt",
+   "size": 689,
+   "sha256": "f751629fd5516e6c014a21fc1621dc7dc540d510260bfb69a9103edb49569425",
+   "stored_at": "configs/2.02/contents811.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents812.txt",
+   "size": 546,
+   "sha256": "58de87e256034b2d449da2f22dadf7de9b255cb92a6ec888f1b2d6b96e43da25",
+   "stored_at": "configs/2.02/contents812.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents813.txt",
+   "size": 1821,
+   "sha256": "793d0766c9083277fd32ce948a5c5ab36007b794209c5d88d8fe7dcc18de4d92",
+   "stored_at": "configs/2.02/contents813.txt"
+  },
+  {
+   "install_path": "CONTENTS/GameMsgList.txt",
+   "size": 3034,
+   "sha256": "7a2a59e429c6fb5678a9feb31ef017df82be6aa171ba96e98ab0a9d2acc7ce3a",
+   "stored_at": "configs/2.02/GameMsgList.txt"
+  },
+  {
+   "install_path": "CONTENTS/ItemName.cfg",
+   "size": 21119,
+   "sha256": "13ce275cb63eef1fffc27bae436b6c41d28833bfb8099e79c46bbe8b2c417871",
+   "stored_at": "configs/2.02/ItemName.cfg"
+  },
+  {
+   "install_path": "CONTENTS/MAGICCFG.TXT",
+   "size": 3664,
+   "sha256": "5442f04ccef034db7750487b33e9d7a0426427faf26e0894c59c6b28893e8247",
+   "stored_at": "configs/2.02/MAGICCFG.TXT"
+  },
+  {
+   "install_path": "CONTENTS/SKILLCFG.TXT",
+   "size": 914,
+   "sha256": "46b5023977896ed258175162d4df28e54d0de47d6fc8027bfeed728c1d4cc42e",
+   "stored_at": "configs/2.02/SKILLCFG.TXT"
+  },
+  {
+   "install_path": "FONTS/ENG00.FNT",
+   "size": 2048,
+   "sha256": "936d85ffd95f923f234dca60573a1d9ac9cff49cb9907bd3898618fb11c51464",
+   "stored_at": "fonts/2.02/ENG00.FNT"
+  },
+  {
+   "install_path": "FONTS/ENG1.FNT",
+   "size": 4096,
+   "sha256": "dea99493135fa2ae6099739fef014397054f20c67afa30ffb2d2ae09e0097306",
+   "stored_at": "fonts/2.02/ENG1.FNT"
+  },
+  {
+   "install_path": "FONTS/ENG2.FNT",
+   "size": 4096,
+   "sha256": "532a1553974b7f022ab5eaeb8850aa164703f1105e0bdf3a74385563410f4379",
+   "stored_at": "fonts/2.02/ENG2.FNT"
+  },
+  {
+   "install_path": "FONTS/HAN3.FNT",
+   "size": 11520,
+   "sha256": "013ea10ad9ed931aee3a81af902361bae6507d2fec12970506bb092b952a349f",
+   "stored_at": "fonts/2.02/HAN3.FNT"
+  },
+  {
+   "install_path": "FONTS/Han4.fnt",
+   "size": 11520,
+   "sha256": "013ea10ad9ed931aee3a81af902361bae6507d2fec12970506bb092b952a349f",
+   "stored_at": "fonts/2.02/HAN3.FNT"
+  },
+  {
+   "install_path": "FONTS/Hangul00.fnt",
+   "size": 11520,
+   "sha256": "2183235d32a5900412941c9ee814f62d57ff014c8327a07304cabca5580221bb",
+   "stored_at": "fonts/2.02/Hangul00.fnt"
+  },
+  {
+   "install_path": "FONTS/Hangul01.fnt",
+   "size": 11520,
+   "sha256": "aa3f9977954ebb3985423d6e38d5cff6a7696ba415fd89fc5f04fcf8747341ab",
+   "stored_at": "fonts/2.02/Hangul01.fnt"
+  },
+  {
+   "install_path": "Helbreath.exe",
+   "size": 282624,
+   "sha256": "31356536fa16ee03960e3596ada0a7bfd8a3a8d91344d7aa65d849b4369b0049",
+   "stored_at": "executables/2.02/Helbreath.exe"
+  },
+  {
+   "install_path": "HelGame.exe",
+   "size": 692224,
+   "sha256": "c9cdd7f76678ecfc489bbcd2c213770d730b3f46b7d6d77a9aeefb29329de2a1",
+   "stored_at": "executables/2.02/HelGame.exe"
+  },
+  {
+   "install_path": "LOGIN.CFG",
+   "size": 80,
+   "sha256": "17a687fb37165c3c939cc2e944f497aadba37a0e3c8041f2767c3f955646f861",
+   "stored_at": "configs/2.02/LOGIN.CFG"
+  },
+  {
+   "install_path": "MAPDATA/arebrk11.amd",
+   "size": 225256,
+   "sha256": "76a2d14d3d636f42f7ddd331fd8e7b948367f5d0c5f37c1c04b47c173374ff6e",
+   "stored_at": "maps/2.02/arebrk11.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk12.amd",
+   "size": 225256,
+   "sha256": "d8becac589873f19426f3ac81bd10caf54aeed6aae8b426366725df46056e6d4",
+   "stored_at": "maps/2.02/arebrk12.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk21.amd",
+   "size": 225256,
+   "sha256": "49a9fe8cf81841086a0e9a303ae3a5a88aac13e16820000185567ef78b07a4cd",
+   "stored_at": "maps/2.02/arebrk21.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk22.amd",
+   "size": 225256,
+   "sha256": "847eaebd077f75bbb6bdad4cd6ba4c66fd4e261ae6de42b6448b37bb5a600662",
+   "stored_at": "maps/2.02/arebrk22.amd"
+  },
+  {
+   "install_path": "MAPDATA/arefarm.amd",
+   "size": 324256,
+   "sha256": "19cf57c01a92fe10e790072665172da48d4461c4283e9239e81fa9d2c15be732",
+   "stored_at": "maps/2.02/arefarm.amd"
+  },
+  {
+   "install_path": "MAPDATA/aremidl.amd",
+   "size": 169256,
+   "sha256": "10ff9b5a5586c41f1b87b079db958fc43f005e573977866c4eb69793214bd8a3",
+   "stored_at": "maps/2.02/aremidl.amd"
+  },
+  {
+   "install_path": "MAPDATA/aremidr.amd",
+   "size": 169256,
+   "sha256": "489eee31d9a0632f935420000edbc3c4c5115f33514a44b43140f3a7b63dd5d9",
+   "stored_at": "maps/2.02/aremidr.amd"
+  },
+  {
+   "install_path": "MAPDATA/ARESDEN.AMD",
+   "size": 1600256,
+   "sha256": "651ab14800fd5e1e3cbb2ea5bc854b2f18e4c1d47f9919792888baa5222a3b24",
+   "stored_at": "maps/2.02/ARESDEN.AMD"
+  },
+  {
+   "install_path": "MAPDATA/aresdend1.amd",
+   "size": 400256,
+   "sha256": "ad75a083b1479c2b512cdde84a5877804dc1fb3bfabf3600e404f597d6c54851",
+   "stored_at": "maps/2.02/aresdend1.amd"
+  },
+  {
+   "install_path": "MAPDATA/areuni.amd",
+   "size": 400256,
+   "sha256": "943b361ef3c69387bf84403f69a007afe72eb972ef07ce6a836fc054d7872842",
+   "stored_at": "maps/2.02/areuni.amd"
+  },
+  {
+   "install_path": "MAPDATA/arewrhus.amd",
+   "size": 100256,
+   "sha256": "27339e0e261ee38ed40b957b50b07c81be52be64ac13bf0b4c10ee0cc86c76a4",
+   "stored_at": "maps/2.02/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/bisle.amd",
+   "size": 685256,
+   "sha256": "239e65dd6996b38d3b40620e0031f12c5a07681400fdd01c5b00a4c88dd67016",
+   "stored_at": "maps/2.02/bisle.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_1.amd",
+   "size": 100256,
+   "sha256": "83376d534976a4a8478906f1257f6da968a120cbb9d962b28693c5d6e96db194",
+   "stored_at": "maps/2.02/bsmith_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_2.amd",
+   "size": 100256,
+   "sha256": "9ae952658daac6d08508c23fb8712ab0f27169ce320885078537844d8809be1d",
+   "stored_at": "maps/2.02/bsmith_2.amd"
+  },
+  {
+   "install_path": "MAPDATA/cath_1.amd",
+   "size": 100256,
+   "sha256": "2f4d7b326b9b3e2d08a04565f251e59c9e62ecb10067700ed2b3e7cdba70cc6a",
+   "stored_at": "maps/2.02/cath_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cath_2.amd",
+   "size": 100256,
+   "sha256": "2f4d7b326b9b3e2d08a04565f251e59c9e62ecb10067700ed2b3e7cdba70cc6a",
+   "stored_at": "maps/2.02/cath_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cityhall_1.amd",
+   "size": 100256,
+   "sha256": "75d43a427f022e7a7f9b005958446cd8e87f782ce476ef86e97215e226ee4e52",
+   "stored_at": "maps/2.02/cityhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cityhall_2.amd",
+   "size": 100256,
+   "sha256": "6f7f60a42188ba6eddefea0030062ca1a9a27a63047bceb3377e7b1e0621a77f",
+   "stored_at": "maps/2.02/cityhall_2.amd"
+  },
+  {
+   "install_path": "MAPDATA/default.amd",
+   "size": 289256,
+   "sha256": "d50084a0bbd10d3e85e8762323d7518d278ba201840954506cb86f0a381cd7e7",
+   "stored_at": "maps/2.02/default.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv2.amd",
+   "size": 2500256,
+   "sha256": "dd9ebc73720d26eb1ebf4788884f7052829257ea7f4307e2aa6624837b0ea04d",
+   "stored_at": "maps/2.02/dglv2.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv3.amd",
+   "size": 1600256,
+   "sha256": "3eeb6bec3885c172f2fff5ffa5a02d8a84eb78cd68187cc50fa2ba0bf8d270f3",
+   "stored_at": "maps/2.02/dglv3.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv4.amd",
+   "size": 1600256,
+   "sha256": "2fa8fc34f7a8325efe2adfd35578b5262541f39f94b1e78844342a13c0c8cd7a",
+   "stored_at": "maps/2.02/dglv4.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk11.amd",
+   "size": 225256,
+   "sha256": "76a2d14d3d636f42f7ddd331fd8e7b948367f5d0c5f37c1c04b47c173374ff6e",
+   "stored_at": "maps/2.02/arebrk11.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk12.amd",
+   "size": 225256,
+   "sha256": "d8becac589873f19426f3ac81bd10caf54aeed6aae8b426366725df46056e6d4",
+   "stored_at": "maps/2.02/arebrk12.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk21.amd",
+   "size": 225256,
+   "sha256": "49a9fe8cf81841086a0e9a303ae3a5a88aac13e16820000185567ef78b07a4cd",
+   "stored_at": "maps/2.02/arebrk21.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk22.amd",
+   "size": 225256,
+   "sha256": "847eaebd077f75bbb6bdad4cd6ba4c66fd4e261ae6de42b6448b37bb5a600662",
+   "stored_at": "maps/2.02/arebrk22.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvfarm.amd",
+   "size": 324256,
+   "sha256": "00f8fd40f7665bce739a0181dbde473084506e841efb6b48455a22ba5394ffa5",
+   "stored_at": "maps/2.02/elvfarm.amd"
+  },
+  {
+   "install_path": "MAPDATA/ELVINE.AMD",
+   "size": 1600256,
+   "sha256": "b6dabcaadfa786943792f455b8abcb5a96ba485ea65f5492e1f073952687eabb",
+   "stored_at": "maps/2.02/ELVINE.AMD"
+  },
+  {
+   "install_path": "MAPDATA/elvined1.amd",
+   "size": 400256,
+   "sha256": "104aae71eb0006a128d4499d1e03d0b85128ee510021f90eac30f7cce07b1a17",
+   "stored_at": "maps/2.02/elvined1.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvmidl.amd",
+   "size": 169256,
+   "sha256": "ab5f8c4cb5bb51fea0577feb321ef41a59fdb7e9ad1544194d07ef0091b7e8fb",
+   "stored_at": "maps/2.02/elvmidl.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvmidr.amd",
+   "size": 169256,
+   "sha256": "fee04e9fcc333b79de8d7500120d18ffa833d2b71b7b241b875e3dcd43eba8ba",
+   "stored_at": "maps/2.02/elvmidr.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvuni.amd",
+   "size": 400256,
+   "sha256": "177ffc38be615e9817bc83607639b05da8f70ed5949ad3db2497f52484c45509",
+   "stored_at": "maps/2.02/elvuni.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvwrhus.amd",
+   "size": 100256,
+   "sha256": "6ef97c5521d56b5c084c1021201b6dec3766d281ac3fb14976efbcc9f6baa632",
+   "stored_at": "maps/2.02/elvwrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone1.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone2.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone3.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone4.amd",
+   "size": 64256,
+   "sha256": "ccad1027c17deb45fc9b4116d90189a156f9dce8cb0325410c5f2056cffc4ea8",
+   "stored_at": "maps/2.02/fightzone4.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone5.amd",
+   "size": 64256,
+   "sha256": "907256dfe6bbdd1f3745b67ea37ab7458b7723db5af75e3de6a3e47174e6b39b",
+   "stored_at": "maps/2.02/fightzone5.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone6.amd",
+   "size": 64256,
+   "sha256": "12113117b4ffaddaacc18f37ff5650eb1640e1bff5a3da24fb147d800d2d6597",
+   "stored_at": "maps/2.02/fightzone6.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone7.amd",
+   "size": 64256,
+   "sha256": "15eba24c22fa5d325750ffa8531b6a8d53b097a3803960b9e5aaaa166cfbfd6d",
+   "stored_at": "maps/2.02/fightzone7.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone8.amd",
+   "size": 64256,
+   "sha256": "f92e6fb6733f3d1091ce14fcb59f42c56c9611c26b31c16a0bee163e8d16fcb3",
+   "stored_at": "maps/2.02/fightzone8.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone9.amd",
+   "size": 64256,
+   "sha256": "ccad1027c17deb45fc9b4116d90189a156f9dce8cb0325410c5f2056cffc4ea8",
+   "stored_at": "maps/2.02/fightzone4.amd"
+  },
+  {
+   "install_path": "MAPDATA/gldhall_1.amd",
+   "size": 100256,
+   "sha256": "b7fa5c7bf83273f849902966d11f9dda3bf382093ce85f593edc3ad2dd65ae1b",
+   "stored_at": "maps/2.02/gldhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gldhall_2.amd",
+   "size": 100256,
+   "sha256": "b7fa5c7bf83273f849902966d11f9dda3bf382093ce85f593edc3ad2dd65ae1b",
+   "stored_at": "maps/2.02/gldhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_1.amd",
+   "size": 100256,
+   "sha256": "b8b75622b884b714988ee0443210b14877d813e20256dd696d3127873a030caa",
+   "stored_at": "maps/2.02/gshop_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_2.amd",
+   "size": 100256,
+   "sha256": "2dd0bd7709acc93baa050d8c1f9205a61a3e29449120015719af2d27e8df08da",
+   "stored_at": "maps/2.02/gshop_2.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone1.amd",
+   "size": 400256,
+   "sha256": "57248c559a454024bf4a1d4408d33cc595964fc4ae0e4a556660ec718e2abcd0",
+   "stored_at": "maps/2.02/huntzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone2.amd",
+   "size": 400256,
+   "sha256": "6ac001fffc3ef40f26306ae479ed00ae96867de3971f12b58230adb98636e3ab",
+   "stored_at": "maps/2.02/huntzone2.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone3.amd",
+   "size": 400256,
+   "sha256": "679a76abb16beb58dfedfd7f71596942f5dbe283f0d4382a0c917976feded5c0",
+   "stored_at": "maps/2.02/huntzone3.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone4.amd",
+   "size": 400256,
+   "sha256": "3e592b1f366f666012038425c10041e82ea91a160ba3d6df6d23b421df8bb844",
+   "stored_at": "maps/2.02/huntzone4.amd"
+  },
+  {
+   "install_path": "MAPDATA/middled1n.amd",
+   "size": 484256,
+   "sha256": "6f22f4ebb42e7fab646fcc1b532c4f68749ff7fe5ba6f558924e4135a6b91f4b",
+   "stored_at": "maps/2.02/middled1n.amd"
+  },
+  {
+   "install_path": "MAPDATA/middled1x.amd",
+   "size": 400256,
+   "sha256": "1bf7a3003e0da17dd01636cc6a0cebc47f6002b146010dcc53824610f6d0a0fd",
+   "stored_at": "maps/2.02/middled1x.amd"
+  },
+  {
+   "install_path": "MAPDATA/middleland.amd",
+   "size": 6790016,
+   "sha256": "0e7aa991af9baf97a8994163ec6ff9d55205a6e9a9fe25e0478fddd034ea05a5",
+   "stored_at": "maps/2.02/middleland.amd"
+  },
+  {
+   "install_path": "MAPDATA/penalty.amd",
+   "size": 225256,
+   "sha256": "1105275b2ffef6bd317596658f35a49e2fd2b35e677344a88e473b582dc67afd",
+   "stored_at": "maps/2.02/penalty.amd"
+  },
+  {
+   "install_path": "MAPDATA/Resurr1.amd",
+   "size": 400256,
+   "sha256": "f5e11a32b71fb936cab4bb7d0827c2cf63e41dbeb8fa9e5c85baa73a32b36464",
+   "stored_at": "maps/2.02/Resurr1.amd"
+  },
+  {
+   "install_path": "MAPDATA/Resurr2.amd",
+   "size": 400256,
+   "sha256": "f5e11a32b71fb936cab4bb7d0827c2cf63e41dbeb8fa9e5c85baa73a32b36464",
+   "stored_at": "maps/2.02/Resurr1.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_1.amd",
+   "size": 100256,
+   "sha256": "27339e0e261ee38ed40b957b50b07c81be52be64ac13bf0b4c10ee0cc86c76a4",
+   "stored_at": "maps/2.02/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_2.amd",
+   "size": 100256,
+   "sha256": "6ef97c5521d56b5c084c1021201b6dec3766d281ac3fb14976efbcc9f6baa632",
+   "stored_at": "maps/2.02/elvwrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wzdtwr_1.amd",
+   "size": 100256,
+   "sha256": "68ea3a4f46eeb5604b30247fec0094ca98f46b8fee8084595d109be9d010c187",
+   "stored_at": "maps/2.02/wzdtwr_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/wzdtwr_2.amd",
+   "size": 100256,
+   "sha256": "494b930b2bf8e75f61c3d7d038f471a1f3b8dc839300f3a9f79bbf25b0ce6851",
+   "stored_at": "maps/2.02/wzdtwr_2.amd"
+  },
+  {
+   "install_path": "MUSIC/aresden.wav",
+   "size": 3228446,
+   "sha256": "e99e18c2aa3f53ed7589f2bc3c81c1b19efde13e48066fde4af4bb983aef94bf",
+   "stored_at": "music/2.02/aresden.wav"
+  },
+  {
+   "install_path": "MUSIC/dungeon.wav",
+   "size": 3669372,
+   "sha256": "ab2abb45fbb3009768f9a2a4c5ff106576dfd2ede2bde49495de1dcafd8bbcaa",
+   "stored_at": "music/2.02/dungeon.wav"
+  },
+  {
+   "install_path": "MUSIC/elvine.wav",
+   "size": 3695250,
+   "sha256": "66612f9257a95957ad3262695d2a6e023678ad0820807715b8c5c3123103ad0f",
+   "stored_at": "music/2.02/elvine.wav"
+  },
+  {
+   "install_path": "MUSIC/MainTm.wav",
+   "size": 3159590,
+   "sha256": "731263ea97057c4d33f5dbf8f421df8c12bd0b11ee812e43da3646b1debf4c5b",
+   "stored_at": "music/2.02/MainTm.wav"
+  },
+  {
+   "install_path": "MUSIC/middleland.wav",
+   "size": 2620348,
+   "sha256": "3e23f114f828d035e69f8e509d781fb4966c0cffa3bf89182a0bd1d543066862",
+   "stored_at": "music/2.02/middleland.wav"
+  },
+  {
+   "install_path": "Readme.htm",
+   "size": 86164,
+   "sha256": "505e380f923d1a3b5562874a878a00bfdb8087e66c3c0bef995f98f0ba796434",
+   "stored_at": "documents/shipped/2.02/Readme.htm"
+  },
+  {
+   "install_path": "search.dll",
+   "size": 143360,
+   "sha256": "af86c041e0d663bc455826e3e15d4377b52a1304348874ef354df9ed8ad8bc22",
+   "stored_at": "executables/2.02/search.dll"
+  },
+  {
+   "install_path": "SOUNDS/C1.WAV",
+   "size": 14674,
+   "sha256": "defa92ff292e37def48e318cd3af9b2a4a0c0e6f7ec78f1cef8fc17963a65149",
+   "stored_at": "sounds/2.02/C1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C10.WAV",
+   "size": 14946,
+   "sha256": "aaf38dee1e07400d03cc8da08b0d674a95b0ff6129d58411d331cd2b526b96a6",
+   "stored_at": "sounds/2.02/C10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C11.WAV",
+   "size": 14476,
+   "sha256": "ddee527a68628bb45b20a2b17c6e1bf158bf3a6bb363b812e7d808e569d0a85d",
+   "stored_at": "sounds/2.02/C11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C12.WAV",
+   "size": 16322,
+   "sha256": "1c56e6c055eab45d4c604bd0be249e7aede5284d678b402571282cd730c07260",
+   "stored_at": "sounds/2.02/C12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C13.WAV",
+   "size": 13046,
+   "sha256": "1f7650696adf4bdc7fdcfc4c53816715033d31b6dcee9160f570d07dcce5d2fe",
+   "stored_at": "sounds/2.02/C13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C14.WAV",
+   "size": 67680,
+   "sha256": "5eed2e1dd99cdc79820e5308a9c679cb2bc2702f0324d0d675c1ef27cec749a1",
+   "stored_at": "sounds/2.02/C14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C15.WAV",
+   "size": 74358,
+   "sha256": "bf851ec651ba4fa4a6c2d3e0bb45d91dc430c49925a5a2b45d95ddc78357e66d",
+   "stored_at": "sounds/2.02/C15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C16.WAV",
+   "size": 90646,
+   "sha256": "7e03e51f4a60ecafc0582f5ed9b253db891ee67699d6605b581668c66e1044b7",
+   "stored_at": "sounds/2.02/C16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C17.WAV",
+   "size": 44220,
+   "sha256": "b0660f053f2408323b7d19d545c357673365704f330a3513479c935d9506bf34",
+   "stored_at": "sounds/2.02/C17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C18.WAV",
+   "size": 41100,
+   "sha256": "cde04c726d016cff1f81d092b3d9d02f1187ae2369e3e31578876b36a937d350",
+   "stored_at": "sounds/2.02/C18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C19.WAV",
+   "size": 50934,
+   "sha256": "f23b6362d32119cc5b9357faee294377b1274e4027d6e3a22b2fa381ea09b718",
+   "stored_at": "sounds/2.02/C19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C2.WAV",
+   "size": 32124,
+   "sha256": "27815f17874e0a65e11eec3e05f132f0e43168a63e883dd8e48f841a482a46d7",
+   "stored_at": "sounds/2.02/C2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C20.WAV",
+   "size": 53050,
+   "sha256": "798387a3d0cc1c264c3c2e7878823f027bfabb8b29f6e3b6c01e339ed76b6fc9",
+   "stored_at": "sounds/2.02/C20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C21.WAV",
+   "size": 82294,
+   "sha256": "634a8045ab17c1debf517c888a4da1bac24627bd3149e0c8bce1fd0cde120f9b",
+   "stored_at": "sounds/2.02/C21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C22.WAV",
+   "size": 26422,
+   "sha256": "56265226901ea9de8a80921efb3f5e07d2f47d7329e85aa94c2ac0750ed5b190",
+   "stored_at": "sounds/2.02/C22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C23.WAV",
+   "size": 46582,
+   "sha256": "b3f67207b91253408afcb75bd261da536ed1d526d2e98ea7c818594653669792",
+   "stored_at": "sounds/2.02/C23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C24.WAV",
+   "size": 46710,
+   "sha256": "14312eb9eda63100f82b48ab015cf6b433bc886f6e065332fcc4448b8b042ea1",
+   "stored_at": "sounds/2.02/C24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C3.WAV",
+   "size": 55050,
+   "sha256": "72bf612c7dcb9bf3c23304b35b49e32a03ae84cf21390d7ecaa04810bc263358",
+   "stored_at": "sounds/2.02/C3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C4.WAV",
+   "size": 7636,
+   "sha256": "922a7122be2068cad21eace27cf8a0e87a996cf59eacf17d8dba7bc8153c7150",
+   "stored_at": "sounds/2.02/C4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C5.WAV",
+   "size": 10838,
+   "sha256": "12e6da0257b1785a1ced56ce8c2818eae2ac85a01ab1aed9484a77be26d14993",
+   "stored_at": "sounds/2.02/C5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C6.WAV",
+   "size": 28726,
+   "sha256": "6a681c469a225a512a55fe26eb3f90064276763ad0a03d0607134dff6a596c0a",
+   "stored_at": "sounds/2.02/C6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C7.WAV",
+   "size": 15062,
+   "sha256": "2e66b8e8133cae064bfdee12f2037e3ae27c5aba6dcb1a2b03203626634e2dc0",
+   "stored_at": "sounds/2.02/C7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C8.WAV",
+   "size": 11174,
+   "sha256": "0f470bbd5b6beeb90b9ef1996bfed9cc693b839660993aa6869cd5c57ecf88d9",
+   "stored_at": "sounds/2.02/C8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C9.WAV",
+   "size": 15760,
+   "sha256": "4bca0517a792ce8e38d8a68a5287696abbe65470594283692e4104938ffc0184",
+   "stored_at": "sounds/2.02/C9.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E1.WAV",
+   "size": 45548,
+   "sha256": "48697f0ccb8e07a886cf9f885b46fbf0395fefb88eda380322ef012c8fcd0012",
+   "stored_at": "sounds/2.02/E1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E10.WAV",
+   "size": 32340,
+   "sha256": "3750a78b5e238c21819de8061354d060b4bd42c3efea1ef2620089d25c6bfe8a",
+   "stored_at": "sounds/2.02/E10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E11.WAV",
+   "size": 20116,
+   "sha256": "e8c7cd9e8569b8a9cdad1aed89288182c279f7d387f1da3137ae4e23c6195802",
+   "stored_at": "sounds/2.02/E11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E12.WAV",
+   "size": 27814,
+   "sha256": "d7996f94047e4247ddf17e261d0b55f1124e0b4ef44f7348ac3e16770ec9ee85",
+   "stored_at": "sounds/2.02/E12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E13.WAV",
+   "size": 7352,
+   "sha256": "d7341f0bb761b2af41cefa4d5bbeb0b77790fc6a57012a6b61acafca4485e328",
+   "stored_at": "sounds/2.02/E13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E14.WAV",
+   "size": 16098,
+   "sha256": "f07b2a3262f63041e998af664c87367e4ebbf400d89934e76392d77b79eb52e4",
+   "stored_at": "sounds/2.02/E14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E15.WAV",
+   "size": 132024,
+   "sha256": "19138229ab9b4f2f5461276c2998edd516b305a570979b0a8d8284004ea373b9",
+   "stored_at": "sounds/2.02/E15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E16.WAV",
+   "size": 148478,
+   "sha256": "c54445bb67371d8cb480b3e780d9b6a740f0866030a03f3e2daedf5f7576c137",
+   "stored_at": "sounds/2.02/E16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E17.WAV",
+   "size": 48794,
+   "sha256": "37f9364fbf074fc0f2ef7b8b085edcdbe5e0a660a637e58b777fb2a7bb081dad",
+   "stored_at": "sounds/2.02/E17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E18.WAV",
+   "size": 66586,
+   "sha256": "ab0e7ec9ead53aa3420c489d851bd223bf1fdc8bd30a436571379be893dea9cd",
+   "stored_at": "sounds/2.02/E18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E19.WAV",
+   "size": 18292,
+   "sha256": "80e0e0be4e6e579d67cd829bff1ee767c464bd3d033cec739b757a47ad870150",
+   "stored_at": "sounds/2.02/E19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E2.WAV",
+   "size": 87056,
+   "sha256": "95ec88431dd679e179daaad97f25cefdc35a514a89208685cad4f0018883aa72",
+   "stored_at": "sounds/2.02/E2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E20.WAV",
+   "size": 22364,
+   "sha256": "81229491ca3f838d7b649deb5597c529288708afe2745db2edc21ae69d34e98d",
+   "stored_at": "sounds/2.02/E20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E21.WAV",
+   "size": 24684,
+   "sha256": "3847f47c2150c676963a110e7c4f2153f52281aca26a5fb00586b3d1fc8d0330",
+   "stored_at": "sounds/2.02/E21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E22.WAV",
+   "size": 58868,
+   "sha256": "a548c74f845e342798b1bd698d945320703de989a0ac9ddb656167fc9bc51f78",
+   "stored_at": "sounds/2.02/E22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E23.WAV",
+   "size": 173820,
+   "sha256": "636d76c8bf58bac4e17e0f70747bd31ad367aea9b999e5525ec046feb111b568",
+   "stored_at": "sounds/2.02/E23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E24.WAV",
+   "size": 132182,
+   "sha256": "fbb8252080fd017904d1974366bcf917f221b8d979610b92a21cddb47ee23295",
+   "stored_at": "sounds/2.02/E24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E25.WAV",
+   "size": 39014,
+   "sha256": "127fec49114c390b797c4a2ae64800079b8503ab54f3001e377e32841f19ff0c",
+   "stored_at": "sounds/2.02/E25.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E26.WAV",
+   "size": 136270,
+   "sha256": "943bedb2db49b6ba8e3ee57f9f946263f4a1d496c691cb941482415f298e7859",
+   "stored_at": "sounds/2.02/E26.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E27.WAV",
+   "size": 216038,
+   "sha256": "06710421afd2cd5c5707f659d3c203a7411c35d5edde255b0127e7485851bfd6",
+   "stored_at": "sounds/2.02/E27.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E28.WAV",
+   "size": 50220,
+   "sha256": "aa5b6f7eadb9e8078aa6ba16533bdc1058be26e69e6dd78721b428182ecea913",
+   "stored_at": "sounds/2.02/E28.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E29.WAV",
+   "size": 44140,
+   "sha256": "ea87a325736d76a2a2b72939b6b2b01a28f3538a72e4bd0a19443217134bb79a",
+   "stored_at": "sounds/2.02/E29.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E3.WAV",
+   "size": 88318,
+   "sha256": "40be808738513bd2e5b90f510e9d34f5789ff963a62d01cc5f2bb4eeb4c63cbf",
+   "stored_at": "sounds/2.02/E3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E30.WAV",
+   "size": 53148,
+   "sha256": "9fd970e00abce88e5b282e2584afe89e59df6e181688b2639803974186a18970",
+   "stored_at": "sounds/2.02/E30.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E31.WAV",
+   "size": 832206,
+   "sha256": "da0a463fa846aeb0c2739989b1ab4aa1608c14ef0b2e1c0059d339c613dd02a3",
+   "stored_at": "sounds/2.02/E31.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E32.WAV",
+   "size": 745680,
+   "sha256": "d741e0ef0f0e3a763d50f7ad9db07a09e87892119151f08bcff2643769304f0b",
+   "stored_at": "sounds/2.02/E32.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E33.WAV",
+   "size": 752568,
+   "sha256": "529c242f123fa8b75a3a94dcf2eede62c79a1b6de2241111ee7663d66ad1e75e",
+   "stored_at": "sounds/2.02/E33.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E34.WAV",
+   "size": 169182,
+   "sha256": "f3b9718ed4d0f7fc0512c382da493b54b98a232f84c7e95928f584c0e80e2bb3",
+   "stored_at": "sounds/2.02/E34.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E35.WAV",
+   "size": 156892,
+   "sha256": "f7cc64d6585519aec56c5465ac58a266624028141485bb815b67f8a555ddf476",
+   "stored_at": "sounds/2.02/E35.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E36.WAV",
+   "size": 23092,
+   "sha256": "205820718fdf6399f3297edc4ff1859bde99ad5c860548236dc86bc729d71b6a",
+   "stored_at": "sounds/2.02/E36.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E37.WAV",
+   "size": 21748,
+   "sha256": "fa4fac34424624dc53e6e544ce300b299b64450cf30a0d3b55aa2d86af563d35",
+   "stored_at": "sounds/2.02/E37.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E38.WAV",
+   "size": 754942,
+   "sha256": "5c8e2e1fa7c3d7fd45b4b555a7ee7b71ef90b3f67f39818a657adca17a4e41d3",
+   "stored_at": "sounds/2.02/E38.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E39.WAV",
+   "size": 503852,
+   "sha256": "19145331b23e039c12076a605808653f2d38948e2fb4f3b1a191e67caf221755",
+   "stored_at": "sounds/2.02/E39.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E4.WAV",
+   "size": 166200,
+   "sha256": "4213ff7fa1a4786fddb64d719fe2956d71a0be1a96444c35a1b429242c6ddcc3",
+   "stored_at": "sounds/2.02/E4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E40.WAV",
+   "size": 207740,
+   "sha256": "7faaaed664790dfb6183010eca80c52cb9f4ef58859100cea5b35c39060ab3f6",
+   "stored_at": "sounds/2.02/E40.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E41.WAV",
+   "size": 160770,
+   "sha256": "6c24a27f0b57744d1fc52fa0a18f8e1add5169571bbddabad1f63631e8859d8e",
+   "stored_at": "sounds/2.02/E41.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E42.WAV",
+   "size": 40382,
+   "sha256": "5ba6fcd502b97ad17e5d02dc4edda39cad613043650eda243d69b91036225197",
+   "stored_at": "sounds/2.02/E42.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E43.WAV",
+   "size": 111948,
+   "sha256": "6ea57d1e5477f6b69bacac7194ae8fad20e8ef85c39dfb3a6c0d78db12df961b",
+   "stored_at": "sounds/2.02/E43.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E44.wav",
+   "size": 213290,
+   "sha256": "53085c8e03ecf4235cda3072d842c7f3ea3ff81d32a4321dfdb4e7f2a1a4d9f0",
+   "stored_at": "sounds/2.02/E44.wav"
+  },
+  {
+   "install_path": "SOUNDS/E45.wav",
+   "size": 51106,
+   "sha256": "e036695e4ef5b1aa100deb2373e54ee569ba10693ec1f82f13e629a550640910",
+   "stored_at": "sounds/2.02/E45.wav"
+  },
+  {
+   "install_path": "SOUNDS/E46.wav",
+   "size": 20502,
+   "sha256": "0a167f797baac1acc438fcadc56c7822ce518d0f8e4a8cee23986688b8b6f154",
+   "stored_at": "sounds/2.02/E46.wav"
+  },
+  {
+   "install_path": "SOUNDS/E47.wav",
+   "size": 55108,
+   "sha256": "ff5d0452df2f91502cc6682cae14e563cf018043fb79018a63f0f06ebd7b41c6",
+   "stored_at": "sounds/2.02/E47.wav"
+  },
+  {
+   "install_path": "SOUNDS/E5.WAV",
+   "size": 131862,
+   "sha256": "5060c79024c2592c80380410265cd887eaef2aea1c6e474dae37464df455ff21",
+   "stored_at": "sounds/2.02/E5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E6.WAV",
+   "size": 131116,
+   "sha256": "ef08b3b8bf0527d730d8625b95b770304bee2269ce4536a314126715fbaa1f6c",
+   "stored_at": "sounds/2.02/E6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E7.WAV",
+   "size": 87924,
+   "sha256": "b45ca13767b8c381b3812556c1d3a9f313e9438aded36647841a75ceb7ee6bf1",
+   "stored_at": "sounds/2.02/E7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E8.WAV",
+   "size": 91860,
+   "sha256": "4bba5344d5477f39aa200576d45bf1e572d608ad31e878ef09e5efdc335519b1",
+   "stored_at": "sounds/2.02/E8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E9.WAV",
+   "size": 130196,
+   "sha256": "d3de90b0ed5cb3685c45871795b610cdb313c3b7bc32231062a67f78b227b096",
+   "stored_at": "sounds/2.02/E9.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M1.WAV",
+   "size": 44242,
+   "sha256": "925b7676998a17c1204e1db69c3295d2c8c12653175c765d2390fabcc83b3c50",
+   "stored_at": "sounds/2.02/M1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M10.WAV",
+   "size": 33376,
+   "sha256": "c8e16bcdf22d0970c4255546f0bee1d280c5d19ca78cf36b9b3d551241f399d4",
+   "stored_at": "sounds/2.02/M10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M11.WAV",
+   "size": 42678,
+   "sha256": "3273df91ae51daca93354729a63f070016bd923b79daa9befdb090888d1ecdf7",
+   "stored_at": "sounds/2.02/M11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M12.WAV",
+   "size": 39092,
+   "sha256": "850b6a6c2e945c6b8fc32ae76d5ba70bd5a737ed5bd0bc1de81cdda03df3ee48",
+   "stored_at": "sounds/2.02/M12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M13.WAV",
+   "size": 48630,
+   "sha256": "6f7afd2aa91aed592124db24e7ffbf1532ee70cd00d8e8148405d40aa1a1a59b",
+   "stored_at": "sounds/2.02/M13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M14.WAV",
+   "size": 11554,
+   "sha256": "ca270b1752243c7037110760016863c1c0020e796abe7bc425e1b37efc6173b5",
+   "stored_at": "sounds/2.02/M14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M15.WAV",
+   "size": 23478,
+   "sha256": "394f05f4fea5ecb1ccbf564c8fd767b62299fb289fd8bc600eebc43ffcc89930",
+   "stored_at": "sounds/2.02/M15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M16.WAV",
+   "size": 66340,
+   "sha256": "3eeab99ccfdc5295f7bfa35e0f132c7ac56fc4949b8b6818bcc623119570a619",
+   "stored_at": "sounds/2.02/M16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M17.WAV",
+   "size": 65472,
+   "sha256": "43b03a4ac34731ef9d96b86187167251454ab83e71fa174588e9d6db2be6ebc3",
+   "stored_at": "sounds/2.02/M17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M18.WAV",
+   "size": 47276,
+   "sha256": "64d4a79d0ac1910717a675ee2b44cb6458e800b4d8ac90cd549fb3ec3e682aa8",
+   "stored_at": "sounds/2.02/M18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M19.WAV",
+   "size": 71212,
+   "sha256": "fc6ec3f88a8ce30e23462ce88ec7d720cece969b9632a5d2ca8f3822a58d9179",
+   "stored_at": "sounds/2.02/M19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M2.WAV",
+   "size": 27628,
+   "sha256": "035e21370ad9954eef0d5b7b63b8886601a543f27827fc01fe775c932bc118f9",
+   "stored_at": "sounds/2.02/M2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M20.WAV",
+   "size": 87340,
+   "sha256": "a512336c73b86d031f7c41a65590972e1459ada761425f129c38c14b80b4447e",
+   "stored_at": "sounds/2.02/M20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M21.WAV",
+   "size": 36332,
+   "sha256": "d57f632731b2cd4a5311caf75eb45b98e6956382dd4f1f529755dd6a988d274d",
+   "stored_at": "sounds/2.02/M21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M22.WAV",
+   "size": 34804,
+   "sha256": "3e81f65ed3e035d145cae2a983fe4e1fda3d53a1c8159a6a3f0967dbc18a3de3",
+   "stored_at": "sounds/2.02/M22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M23.WAV",
+   "size": 34180,
+   "sha256": "b851b3dfea331402921fde7b2a2f27c59cf6f7f58ec0ee043a9fd00e97e6434c",
+   "stored_at": "sounds/2.02/M23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M24.WAV",
+   "size": 44452,
+   "sha256": "86ad75301305051c8c212cb337adcb5ea860e22ae94e955e225368c4c767cf7e",
+   "stored_at": "sounds/2.02/M24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M25.WAV",
+   "size": 36722,
+   "sha256": "50c722787d079a4c88c19477a51eedc1f521cf3a6961bce0c10d7cf058f082b7",
+   "stored_at": "sounds/2.02/M25.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M26.WAV",
+   "size": 21634,
+   "sha256": "a2cd82fd1cfab14214e62a1b91b4e0fb81ffd16093190b625aa973e0b8cb1c7e",
+   "stored_at": "sounds/2.02/M26.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M27.WAV",
+   "size": 26520,
+   "sha256": "d16f5db52824666a63a3f6b26ad9d4f660b089340ae09b51e004aa44cc44219f",
+   "stored_at": "sounds/2.02/M27.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M28.WAV",
+   "size": 35360,
+   "sha256": "6ab93293e02793eb488c795666b84cc9aabaaf0437d8d28ef8c5966796cafd74",
+   "stored_at": "sounds/2.02/M28.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M29.WAV",
+   "size": 37956,
+   "sha256": "b2ac2a3b87915b99e1d2fd9d4780527bd2a277d1f3d621fc0266d86c0bb9ac72",
+   "stored_at": "sounds/2.02/M29.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M3.WAV",
+   "size": 43776,
+   "sha256": "59a26bf64a0e96fc90d3a3162b2afe4ec0c8fcf5535b978c2666ad575dc66cd2",
+   "stored_at": "sounds/2.02/M3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M30.WAV",
+   "size": 44934,
+   "sha256": "91b105abec9b2542e833ea443d1267719eb1741996bff7ef9963787cda4c7f7a",
+   "stored_at": "sounds/2.02/M30.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M31.WAV",
+   "size": 31620,
+   "sha256": "d77430a81b65ff207095659b4bf540330811b11e3c3e79ea1fa657290e117ffa",
+   "stored_at": "sounds/2.02/M31.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M32.WAV",
+   "size": 35980,
+   "sha256": "73b402cff5318dd441dd81c3e7dd48203c8aee00cb38dccecca56ecf588ec18b",
+   "stored_at": "sounds/2.02/M32.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M33.WAV",
+   "size": 67468,
+   "sha256": "73338e9b7e277ad5ab160d797eeafa76cf84d2bcee660a8987bfa595bc977b37",
+   "stored_at": "sounds/2.02/M33.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M34.WAV",
+   "size": 55540,
+   "sha256": "1613c5b2842f79ad2cbb24ca0db7058d039e48ac06804d46dcb85da821d32529",
+   "stored_at": "sounds/2.02/M34.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M35.WAV",
+   "size": 39348,
+   "sha256": "5af915b97291ab1e7bdaade04364125b311aa030c6996aff772561414266ab2c",
+   "stored_at": "sounds/2.02/M35.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M36.WAV",
+   "size": 50620,
+   "sha256": "42c667339fbe4fcb9b8517dd104fd15492b6c8b4bdede01c3fd7474d5f8d0ad4",
+   "stored_at": "sounds/2.02/M36.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M37.WAV",
+   "size": 64666,
+   "sha256": "83fded15aa5710128b1d8b9ef9bf4ddebec2cef4b32f00d31bb959285d4a1aab",
+   "stored_at": "sounds/2.02/M37.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M38.WAV",
+   "size": 32260,
+   "sha256": "5ec80fc4411214e124cce50d20a13220f845a329a47123ddbf798162a37b8919",
+   "stored_at": "sounds/2.02/M38.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M39.WAV",
+   "size": 42442,
+   "sha256": "fe403907238d4727065436c5cb9501eec70c4181eac7b465dfe17c49a30ed1a7",
+   "stored_at": "sounds/2.02/M39.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M4.WAV",
+   "size": 66302,
+   "sha256": "e672ac9a8fe2a1ee9bbdaf00433eca270bc8947804631eb8c0670239c8e35be7",
+   "stored_at": "sounds/2.02/M4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M40.WAV",
+   "size": 67978,
+   "sha256": "687b6595ad06fa2b78b834a64d53c74fe87b15c5800ffd0e8f790441bfa1958e",
+   "stored_at": "sounds/2.02/M40.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M41.WAV",
+   "size": 66548,
+   "sha256": "4a4bbe8fa80116d5afc49c8574195982b576416e67590a6ecf2198600dd50eba",
+   "stored_at": "sounds/2.02/M41.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M42.WAV",
+   "size": 44104,
+   "sha256": "066dc4ed16eaed6173cbfd5d7936e1d83617a3849174a3477c82b011b23797fb",
+   "stored_at": "sounds/2.02/M42.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M43.WAV",
+   "size": 37866,
+   "sha256": "1c18486364f657dd867cdced225cf8357c72ddb4ab0e55542fe7acdb60cea623",
+   "stored_at": "sounds/2.02/M43.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M44.WAV",
+   "size": 82440,
+   "sha256": "920da864ca92cae2f422d5ced0534c5a676285726e039f20055abd888abcdc6a",
+   "stored_at": "sounds/2.02/M44.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M45.WAV",
+   "size": 86470,
+   "sha256": "3748898b8814c6e1bedec9d19a210a3fb234094c2cecad80dc0cde49a2d99cc1",
+   "stored_at": "sounds/2.02/M45.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M46.WAV",
+   "size": 61044,
+   "sha256": "63f02f4fc9554b772790f95407d80d40ca1f6da572c542834936804c3961362f",
+   "stored_at": "sounds/2.02/M46.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M47.WAV",
+   "size": 44498,
+   "sha256": "93e4abf14a2daea70927a2440754649c604b618dae4e49e89281b3806f27d9d7",
+   "stored_at": "sounds/2.02/M47.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M48.WAV",
+   "size": 18382,
+   "sha256": "d9656d09230ab6ce9c700c34b231ef4024c4e1f05ade96100f7d5d97c15a38eb",
+   "stored_at": "sounds/2.02/M48.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M49.WAV",
+   "size": 40054,
+   "sha256": "2a76907310dc3f9c2c8886ee8119857f23faaeb8c88e7f90f4ff64b1e90461b0",
+   "stored_at": "sounds/2.02/M49.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M5.WAV",
+   "size": 68220,
+   "sha256": "76d0fab9ca6766bd442e0f451697a932961652db611c608fff6a5c6b043f7272",
+   "stored_at": "sounds/2.02/M5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M50.WAV",
+   "size": 77262,
+   "sha256": "c6385a94e411a388c8ddb3538a1c172befd2f3708baaeb8ad1983efe7ec745f3",
+   "stored_at": "sounds/2.02/M50.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M51.WAV",
+   "size": 62670,
+   "sha256": "4d758a8a79c6c2711e17ba072fd54d6edc85e8caa9609810fca9a65f5b1a7dff",
+   "stored_at": "sounds/2.02/M51.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M52.WAV",
+   "size": 34974,
+   "sha256": "52f6a27ffff371adba86eec9728c4d143e17d1827423aee5ec4b65eb9e535219",
+   "stored_at": "sounds/2.02/M52.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M53.WAV",
+   "size": 21582,
+   "sha256": "1236427edcd37d8f89510b0cf7c7b6e84874b9aed4afade3afcdaaed2bdd959e",
+   "stored_at": "sounds/2.02/M53.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M54.WAV",
+   "size": 81762,
+   "sha256": "fa4c6cfa7e4436f473e0d90113dd18c18fc319a725ffed627c55cbe1eafd8120",
+   "stored_at": "sounds/2.02/M54.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M55.WAV",
+   "size": 101300,
+   "sha256": "ce655b11d0d65096de93cecbb58e1a913ffc9493ba3ae2a4adf110d39288a939",
+   "stored_at": "sounds/2.02/M55.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M56.WAV",
+   "size": 180868,
+   "sha256": "9ab6d6d1334139c64ddb0df459325a88efd42dc7e46e65e54ecaadfa820c9b87",
+   "stored_at": "sounds/2.02/M56.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M57.WAV",
+   "size": 28388,
+   "sha256": "baf55d65cf38ded1d5aafee83e1b49f3b3c49720298d318e6045073ee428d419",
+   "stored_at": "sounds/2.02/M57.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M58.WAV",
+   "size": 53804,
+   "sha256": "526ba269a5d4740d1c866d734f0f073d35d87d15f9eab7de99bc66405bdce247",
+   "stored_at": "sounds/2.02/M58.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M59.WAV",
+   "size": 73588,
+   "sha256": "91e3d63e88e6dbc8864e4e06646ea761e784c5f1587962de303297362174ceaa",
+   "stored_at": "sounds/2.02/M59.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M6.WAV",
+   "size": 44220,
+   "sha256": "520f213deae438b42cc009eb364dfd90f77d2753d30b18015f80a7cfd99def24",
+   "stored_at": "sounds/2.02/M6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M60.WAV",
+   "size": 64116,
+   "sha256": "978722c2805c94df89f7775a48bfec1969a2366710a41787a7a7196526e78437",
+   "stored_at": "sounds/2.02/M60.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M61.WAV",
+   "size": 72638,
+   "sha256": "fd0c24218e27dc891927889c27acecd2771f791fc77ad716cbb34a1721e296d9",
+   "stored_at": "sounds/2.02/M61.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M62.WAV",
+   "size": 65654,
+   "sha256": "df23d49424114aeb7c2c73d53c73b62e6f2b5f00aca580ef94e144abda73462e",
+   "stored_at": "sounds/2.02/M62.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M63.wav",
+   "size": 53366,
+   "sha256": "c32bb94a1f676bd362e5d8d2ea7e62682ab57d3689733e46448ae69aa6ac13fb",
+   "stored_at": "sounds/2.02/M63.wav"
+  },
+  {
+   "install_path": "SOUNDS/M64.wav",
+   "size": 59050,
+   "sha256": "c002e144be01c4e7e34f009c191248dfecc4be2e4c151e4086cb1659d771ee80",
+   "stored_at": "sounds/2.02/M64.wav"
+  },
+  {
+   "install_path": "SOUNDS/M65.wav",
+   "size": 41514,
+   "sha256": "7873f179d09313b4a0a14f96356a1340d5777c2cbc99e50708c295ecae9ea1d0",
+   "stored_at": "sounds/2.02/M65.wav"
+  },
+  {
+   "install_path": "SOUNDS/M66.wav",
+   "size": 82548,
+   "sha256": "fb2d5494284a838b08698c09e25df17de811bd78a8f0a6e3106f194c221e55cc",
+   "stored_at": "sounds/2.02/M66.wav"
+  },
+  {
+   "install_path": "SOUNDS/M67.wav",
+   "size": 29626,
+   "sha256": "d39eecdea5535132d5b45b16abdb96726163b464766c351abe63730e6aefddf3",
+   "stored_at": "sounds/2.02/M67.wav"
+  },
+  {
+   "install_path": "SOUNDS/M68.wav",
+   "size": 43580,
+   "sha256": "bbf3396627b0684ade2f7506cdb67b48dc03b53e9d6ede902b987e27baa4ad36",
+   "stored_at": "sounds/2.02/M68.wav"
+  },
+  {
+   "install_path": "SOUNDS/M69.wav",
+   "size": 30848,
+   "sha256": "f91ccf76e1ac6589791ac83dcacf06acde317096f8832b9cc179830b229a25b6",
+   "stored_at": "sounds/2.02/M69.wav"
+  },
+  {
+   "install_path": "SOUNDS/M7.WAV",
+   "size": 30520,
+   "sha256": "1d4b5cf3458ef89ce7ee7db3be9a6571e299125d567d34efd83b1ec4f44ec4dc",
+   "stored_at": "sounds/2.02/M7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M70.wav",
+   "size": 103694,
+   "sha256": "b60cc5c6a90e00687747fc17f9964e293006e792f57ac2e2859630ec6ace552f",
+   "stored_at": "sounds/2.02/M70.wav"
+  },
+  {
+   "install_path": "SOUNDS/M8.WAV",
+   "size": 66188,
+   "sha256": "efdfb290e9516b2d209ae6f221d01fa08b81fd5ff038f1dd5a24d96740bba87b",
+   "stored_at": "sounds/2.02/M8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M9.WAV",
+   "size": 48012,
+   "sha256": "74d225d69c73e0dc34051dcc631d0ae8254a289409f378ca9b75a91e2aac2918",
+   "stored_at": "sounds/2.02/M9.WAV"
+  },
+  {
+   "install_path": "SPRITES/ABS.pak",
+   "size": 5751268,
+   "sha256": "4f489f84e7962246d6a71396e2a21304312981431d7fa861422ea0fef48f47b0",
+   "stored_at": "sprites/2.02/ABS.pak"
+  },
+  {
+   "install_path": "SPRITES/Amp.pak",
+   "size": 877084,
+   "sha256": "8cafe1b6ac6e35d99f5d2931f1d4a3fbee275d11430a0da6486b762f80d32a10",
+   "stored_at": "sprites/2.02/Amp.pak"
+  },
+  {
+   "install_path": "SPRITES/Ant.pak",
+   "size": 291956,
+   "sha256": "0bc01f5b52035ec94ad3c4c34c18d9cf72a1a0f31841f1eaefd3a4b31c379693",
+   "stored_at": "sprites/2.02/Ant.pak"
+  },
+  {
+   "install_path": "SPRITES/BG.pak",
+   "size": 8833152,
+   "sha256": "547888c40e1b1930488069d9a949dbd39bc7aa67563ede4b3a011a410ce71d04",
+   "stored_at": "sprites/2.02/BG.pak"
+  },
+  {
+   "install_path": "SPRITES/Bm.pak",
+   "size": 4000560,
+   "sha256": "03539e39534459588fa0c14645a68503b9c1307eab266a1db5a27798ab90ca69",
+   "stored_at": "sprites/2.02/Bm.pak"
+  },
+  {
+   "install_path": "SPRITES/Bw.pak",
+   "size": 3088016,
+   "sha256": "6770f5dabc00a2bc3df847aa26699ee75cf2a589480a8bc3fb853ee473f71a36",
+   "stored_at": "sprites/2.02/Bw.pak"
+  },
+  {
+   "install_path": "SPRITES/Catapult.pak",
+   "size": 3569148,
+   "sha256": "20f874f64b5b9127765151ed9228cbe5900f9558173e7755ad118e3ef5df9545",
+   "stored_at": "sprites/2.02/Catapult.pak"
+  },
+  {
+   "install_path": "SPRITES/Cla.pak",
+   "size": 1628848,
+   "sha256": "d9cf76ce1254247658ddadefff88e5166e122196d85c03fc658b187755afb650",
+   "stored_at": "sprites/2.02/Cla.pak"
+  },
+  {
+   "install_path": "SPRITES/CruEffect1.pak",
+   "size": 3765232,
+   "sha256": "9df83b669cade8fbb1b8da2c767148973a0da47fe921c566c8f2442aeaf9a601",
+   "stored_at": "sprites/2.02/CruEffect1.pak"
+  },
+  {
+   "install_path": "SPRITES/CruObj1.pak",
+   "size": 1422160,
+   "sha256": "50b1006806dabe72aafff47d440e1ead9dd200a763bb0ea13c1382126977d261",
+   "stored_at": "sprites/2.02/CruObj1.pak"
+  },
+  {
+   "install_path": "SPRITES/Cyc.pak",
+   "size": 3362948,
+   "sha256": "418318f445065ec3c1381234305a01e0ad109dba7b99b853aaecaec3ece9bb66",
+   "stored_at": "sprites/2.02/Cyc.pak"
+  },
+  {
+   "install_path": "SPRITES/Demon.pak",
+   "size": 10587148,
+   "sha256": "8ac160ba8184fff3219b62b238777ecc32eb7a8eca0906201a7c660f732513a9",
+   "stored_at": "sprites/2.02/Demon.pak"
+  },
+  {
+   "install_path": "SPRITES/Detector.pak",
+   "size": 1776568,
+   "sha256": "667c2606acf0fa880af35f6c9fa5e743413945c53b2d9a1e10b33987126455e3",
+   "stored_at": "sprites/2.02/Detector.pak"
+  },
+  {
+   "install_path": "SPRITES/dummy.pak",
+   "size": 618944,
+   "sha256": "0559c6d25d2faabfcdae1fcd2c7b83eb253b1acf1fdd08dece8659777ffaeefe",
+   "stored_at": "sprites/2.02/dummy.pak"
+  },
+  {
+   "install_path": "SPRITES/EFFECT.PAK",
+   "size": 1618776,
+   "sha256": "ab6a9b398294907f839e3aa02ed34892cb19c128d490aa9c9102822426914265",
+   "stored_at": "sprites/2.02/EFFECT.PAK"
+  },
+  {
+   "install_path": "SPRITES/EFFECT2.PAK",
+   "size": 451206,
+   "sha256": "5757d6b7b604394512a9f01926971490f3283543d8773adc283e33029d8b4837",
+   "stored_at": "sprites/2.02/EFFECT2.PAK"
+  },
+  {
+   "install_path": "SPRITES/EFFECT3.PAK",
+   "size": 2235796,
+   "sha256": "4c3dcd90daac3418e252507408bba643d8a98b3d85dc648d946d46ef18c3a1e3",
+   "stored_at": "sprites/2.02/EFFECT3.PAK"
+  },
+  {
+   "install_path": "SPRITES/effect4.pak",
+   "size": 1398346,
+   "sha256": "1d1c64389294ab6978178086a54fc91bdec01a2a980824e2c6bb7db0b5a2da9c",
+   "stored_at": "sprites/2.02/effect4.pak"
+  },
+  {
+   "install_path": "SPRITES/effect5.pak",
+   "size": 2111002,
+   "sha256": "176172fe971842c6b1b64bcb5ce40ea79f7819c09944f3444e44a8910fadfb06",
+   "stored_at": "sprites/2.02/effect5.pak"
+  },
+  {
+   "install_path": "SPRITES/ESG.pak",
+   "size": 681224,
+   "sha256": "09be0e7c477142e261c8749e56904088258609d8e437b1a97b4e273152dc77a6",
+   "stored_at": "sprites/2.02/ESG.pak"
+  },
+  {
+   "install_path": "SPRITES/Gandlf.pak",
+   "size": 469060,
+   "sha256": "7ba0fb560e417de4a35ba587a8c6c62b2cee7e46369984248bfffb37f7a6cdb0",
+   "stored_at": "sprites/2.02/Gandlf.pak"
+  },
+  {
+   "install_path": "SPRITES/GHK.pak",
+   "size": 3949396,
+   "sha256": "4b177e60a2fc8184f5d4c4ba9ac2de18b1b4dc30537ebbdffec9c1285893be96",
+   "stored_at": "sprites/2.02/GHK.pak"
+  },
+  {
+   "install_path": "SPRITES/GHKABS.pak",
+   "size": 7658940,
+   "sha256": "b3a7a12bc9f932149d742c8772705f51c0bc7b3a4a74cc576835570c9e31520d",
+   "stored_at": "sprites/2.02/GHKABS.pak"
+  },
+  {
+   "install_path": "SPRITES/GMG.pak",
+   "size": 1451784,
+   "sha256": "8613869af9ef083d0a544b51ed2a9ff64f0021d52420e2ef61d430bf29378794",
+   "stored_at": "sprites/2.02/GMG.pak"
+  },
+  {
+   "install_path": "SPRITES/GOL.PAK",
+   "size": 2635788,
+   "sha256": "a9650efea0cd79bb121d2aa7697ddcdc9683167bdf98b4e301c0118959026f77",
+   "stored_at": "sprites/2.02/GOL.PAK"
+  },
+  {
+   "install_path": "SPRITES/GT-Arrow.pak",
+   "size": 2614996,
+   "sha256": "61e2899741bf0bff4a00f137091d1355dccc1a95cb5bde53895d5506750a3512",
+   "stored_at": "sprites/2.02/GT-Arrow.pak"
+  },
+  {
+   "install_path": "SPRITES/GT-Cannon.pak",
+   "size": 1940920,
+   "sha256": "353cc5d44baf8ea5bc5195152a583bbd73ffceb0808cbb3ab594bbf3fdea9ed3",
+   "stored_at": "sprites/2.02/GT-Cannon.pak"
+  },
+  {
+   "install_path": "SPRITES/Guard.pak",
+   "size": 1918476,
+   "sha256": "38d5ebaeec8e1ad63d975733c5f8ca41a6eb35554cd28950a9060c3ac8a78b5b",
+   "stored_at": "sprites/2.02/Guard.pak"
+  },
+  {
+   "install_path": "SPRITES/Helb.pak",
+   "size": 1309028,
+   "sha256": "c539e256bff594f662bebaa4dff78a47da93a13ceb2efccd517023364bdf5f51",
+   "stored_at": "sprites/2.02/Helb.pak"
+  },
+  {
+   "install_path": "SPRITES/Hellclaw.pak",
+   "size": 12062012,
+   "sha256": "78e9fbea3836a56913930cb3eba0a5b9bd4f9cd50a6d833888f8e2b7a3ebfe57",
+   "stored_at": "sprites/2.02/Hellclaw.pak"
+  },
+  {
+   "install_path": "SPRITES/Howard.pak",
+   "size": 473808,
+   "sha256": "a768666981fac7e71d8968b234f3cd1f9732423361301531674f9626769cb7be",
+   "stored_at": "sprites/2.02/Howard.pak"
+  },
+  {
+   "install_path": "SPRITES/interface.pak",
+   "size": 160976,
+   "sha256": "6cebdc4d93512359851a6a57b9ced81b3654fe4fd5e21ef6b6c388b874c259ca",
+   "stored_at": "sprites/2.02/interface.pak"
+  },
+  {
+   "install_path": "SPRITES/interface2.pak",
+   "size": 1809836,
+   "sha256": "b9017b9056b52013eee2d8b6456de1d2c0c0518e19b263d74931df6968fd8267",
+   "stored_at": "sprites/2.02/interface2.pak"
+  },
+  {
+   "install_path": "SPRITES/item-dynamic.pak",
+   "size": 196992,
+   "sha256": "47ea1fd50b497a9fd0ac40a9b12c8c6c29eb44f56a1d2a593e394a3af915e274",
+   "stored_at": "sprites/2.02/item-dynamic.pak"
+  },
+  {
+   "install_path": "SPRITES/item-equipM.pak",
+   "size": 833404,
+   "sha256": "e4c0fe64eee22a39460549ebf2d4d476252a98d47de7b6dbd9c900d23af71abf",
+   "stored_at": "sprites/2.02/item-equipM.pak"
+  },
+  {
+   "install_path": "SPRITES/item-equipW.pak",
+   "size": 656676,
+   "sha256": "dbd1bb505c3cb41a0b894087ed7c4c991770c766bac864674c745d1a2c98325d",
+   "stored_at": "sprites/2.02/item-equipW.pak"
+  },
+  {
+   "install_path": "SPRITES/item-ground.pak",
+   "size": 450242,
+   "sha256": "177791cf4633a693180a62169eafcc5fcb11c28250e92b67492171c572b5fbdc",
+   "stored_at": "sprites/2.02/item-ground.pak"
+  },
+  {
+   "install_path": "SPRITES/item-pack.pak",
+   "size": 1445688,
+   "sha256": "02ba12d8e03351ec6f91805f51cbc356e7c919019133028e85848a05ffe3a03a",
+   "stored_at": "sprites/2.02/item-pack.pak"
+  },
+  {
+   "install_path": "SPRITES/Kennedy.pak",
+   "size": 403800,
+   "sha256": "0f4195b18f53f1f4625160c0b6cffa4230514ae9efc3864c02fb6a16d03d7f7e",
+   "stored_at": "sprites/2.02/Kennedy.pak"
+  },
+  {
+   "install_path": "SPRITES/Liche.pak",
+   "size": 4734480,
+   "sha256": "923e28fc71cc9cb03a319e8ce6682e7ed1003be4e1d73b45548e71bd0fcf242b",
+   "stored_at": "sprites/2.02/Liche.pak"
+  },
+  {
+   "install_path": "SPRITES/LWB.pak",
+   "size": 11620408,
+   "sha256": "90c56dc71b957c8a6d75d317a3afb3234800b57f9c6867e198a62f52554a837a",
+   "stored_at": "sprites/2.02/LWB.pak"
+  },
+  {
+   "install_path": "SPRITES/ManaCollector.pak",
+   "size": 1638488,
+   "sha256": "6d9b9add8d71493b1e7194733c35ba839077586336f9d540370fad9cccf8b4c9",
+   "stored_at": "sprites/2.02/ManaCollector.pak"
+  },
+  {
+   "install_path": "SPRITES/ManaStone.pak",
+   "size": 859784,
+   "sha256": "8b23662118c0d0044976f5810ba1a82d88fd8aeafdf313068cf3a83de402c757",
+   "stored_at": "sprites/2.02/ManaStone.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles1.pak",
+   "size": 29611922,
+   "sha256": "fc4f9a7412d1c8a68cd9bda42d3f6be5baf263af298d9d57118c87404bc5443c",
+   "stored_at": "sprites/2.02/maptiles1.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles2.pak",
+   "size": 13880604,
+   "sha256": "85566522a5af7c8800fdc1904abd37046425456690bf21b5bc2a9115bc661f5b",
+   "stored_at": "sprites/2.02/maptiles2.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles3.pak",
+   "size": 4626874,
+   "sha256": "acca0f43b8a4670e24c70c9cf866fc7f9e4976d0706ed2a0ab42e6084b386bde",
+   "stored_at": "sprites/2.02/maptiles3.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles353-361.pak",
+   "size": 8328362,
+   "sha256": "5507c773303f029cfc145c07181e441406f62a0c7e797a846dc8ef6223552440",
+   "stored_at": "sprites/2.02/maptiles353-361.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles4.pak",
+   "size": 9253744,
+   "sha256": "60439522dda6b27a9f8ffdd243b1205c0778a495c026c6bf08e4bb64c5f9dc07",
+   "stored_at": "sprites/2.02/maptiles4.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles5.pak",
+   "size": 17582092,
+   "sha256": "42011a4ae91d32e6f1240452febdb1354b7f8c026c9f2e1c265f5cfb2d732995",
+   "stored_at": "sprites/2.02/maptiles5.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles6.pak",
+   "size": 3701512,
+   "sha256": "e1f14ec9f712efcfcc4736afaf4386bccaae3f4d4d34e1c311503e5b4a5f6c93",
+   "stored_at": "sprites/2.02/maptiles6.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe1.pak",
+   "size": 620336,
+   "sha256": "0f6b1706ce2f7c49893ff4addc98b93c8ed18f3455c9963cd4b93fc2d96a276e",
+   "stored_at": "sprites/2.02/MAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe2.pak",
+   "size": 805152,
+   "sha256": "8f60a6c95b74b03272c8ca17f026c93d802aace06c71aa8165c4d0674fbc8667",
+   "stored_at": "sprites/2.02/MAxe2.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe3.pak",
+   "size": 555856,
+   "sha256": "cc2ee1545d0de65e04e0deb6b7ee033e8bb0917e3de6a97badf3e727804bc442",
+   "stored_at": "sprites/2.02/MAxe3.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe4.pak",
+   "size": 552688,
+   "sha256": "7960ec66597835e79a5586f00fcf7b6981c995499288137995833173c880b338",
+   "stored_at": "sprites/2.02/MAxe4.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe5.pak",
+   "size": 879944,
+   "sha256": "82d7a8c69ef9bf6106bbb688676797e205ce5ccc5f34135025e6f58cae03ecef",
+   "stored_at": "sprites/2.02/MAxe5.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe6.pak",
+   "size": 1026788,
+   "sha256": "a7b61fc7fb4c0c86bb59c6c78664f3dd1c9404c343e651aae8a5930cccf52b6a",
+   "stored_at": "sprites/2.02/MAxe6.pak"
+  },
+  {
+   "install_path": "SPRITES/Mbo.pak",
+   "size": 2165716,
+   "sha256": "361fc0dcd4cd6fc1b24e4f0da9c6857cbd3e59e4b0882d807b631dc1c10822a9",
+   "stored_at": "sprites/2.02/Mbo.pak"
+  },
+  {
+   "install_path": "SPRITES/MCHoses.pak",
+   "size": 2508180,
+   "sha256": "ef20b286b762e0c42d5273bf1a29aba6c6bb4fe9af0a52ebdec8af9b10f5c628",
+   "stored_at": "sprites/2.02/MCHoses.pak"
+  },
+  {
+   "install_path": "SPRITES/MCMail.pak",
+   "size": 2697844,
+   "sha256": "61f19242073ed33d59ae05bd2dc9975ca142e08e1b672624f46f51190dc72898",
+   "stored_at": "sprites/2.02/MCMail.pak"
+  },
+  {
+   "install_path": "SPRITES/MdfyObjects.pak",
+   "size": 922322,
+   "sha256": "463686a1eb28a0edea7dfa7f8b87f171925a9d068c0c3e673e2ac7d2989f086a",
+   "stored_at": "sprites/2.02/MdfyObjects.pak"
+  },
+  {
+   "install_path": "SPRITES/mdfytiles.pak",
+   "size": 1850768,
+   "sha256": "d43c9f43c40e90dbafcd796f4b01e172eacefa28c3f407c047cc0b8ebb507d67",
+   "stored_at": "sprites/2.02/mdfytiles.pak"
+  },
+  {
+   "install_path": "SPRITES/MHauberk.pak",
+   "size": 2277260,
+   "sha256": "dde2a5d1dc1bbdc6fefef1d3fe82aeac73fb9e211fb6b0508de13fb6ecf54f87",
+   "stored_at": "sprites/2.02/MHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm1.pak",
+   "size": 310416,
+   "sha256": "ec0ebcbdec6b47d7ee07ace6911dbfac4c00e5c40058108d4a62da2bdf3486c1",
+   "stored_at": "sprites/2.02/MHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm2.pak",
+   "size": 323328,
+   "sha256": "4cf25636e5a26e220b8fbc1fddc7a445842ae790cf834fad1378ef57983e88f4",
+   "stored_at": "sprites/2.02/MHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm3.pak",
+   "size": 273220,
+   "sha256": "309744e8a1eadfbf9beab67680260e275305f4e54c8df8365617468946742b8a",
+   "stored_at": "sprites/2.02/MHelm3.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm4.pak",
+   "size": 207452,
+   "sha256": "078c7eb63982ec8879738f288b61838aaf24bb1cee6eeb3969973410193298c9",
+   "stored_at": "sprites/2.02/MHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm5.pak",
+   "size": 306428,
+   "sha256": "0c3fd2bb643ca73f7223c614ccbbced0b6673cdcb331d9e7194b41644678ff20",
+   "stored_at": "sprites/2.02/MHelm5.pak"
+  },
+  {
+   "install_path": "SPRITES/Mhr.pak",
+   "size": 1347384,
+   "sha256": "bf5e20dd6c3733022a2f9d2d95c203f262fe58ffc3a91e497144d2141132fd94",
+   "stored_at": "sprites/2.02/Mhr.pak"
+  },
+  {
+   "install_path": "SPRITES/MHTrouser.pak",
+   "size": 762660,
+   "sha256": "5b47e8f7e117b07224bc9c751f14402c7805a05201a087394c35530962aa81f2",
+   "stored_at": "sprites/2.02/MHTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/MLarmor.pak",
+   "size": 1458568,
+   "sha256": "a86eecbfe3eb22b2bcceff9fb518b94c594e3904e7b09ddf9bbcc90bcc5d9a12",
+   "stored_at": "sprites/2.02/MLarmor.pak"
+  },
+  {
+   "install_path": "SPRITES/MLBoots.pak",
+   "size": 1558780,
+   "sha256": "288811ff41cba108410c3631ee9eacf4bf068fb116353b9a79d96dee661ced65",
+   "stored_at": "sprites/2.02/MLBoots.pak"
+  },
+  {
+   "install_path": "SPRITES/MLeggings.pak",
+   "size": 2491912,
+   "sha256": "6ff5163ff225750e680d78d3083a2a1e98e6eeb8784553e065a127cbeb74f5ae",
+   "stored_at": "sprites/2.02/MLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle01.pak",
+   "size": 3333888,
+   "sha256": "c37e57c38c258d1d1c7dbb3ad6e728ea699e555b42d9f5f930f91b6e5047c52d",
+   "stored_at": "sprites/2.02/Mmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle02.pak",
+   "size": 3331188,
+   "sha256": "07d4ecf2b1ee46f8dd97226a95ee6e21cf25b30629d5ed3f480bf1042b845d72",
+   "stored_at": "sprites/2.02/Mmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle03.pak",
+   "size": 3332308,
+   "sha256": "1ae5c96f7bde4281d27f31a23e41cd1a75d767cea4470038c4ebd9603f941af0",
+   "stored_at": "sprites/2.02/Mmantle03.pak"
+  },
+  {
+   "install_path": "SPRITES/MPickAxe1.pak",
+   "size": 718332,
+   "sha256": "9b3723ee15c25f115a2102cad3008c91bb447cfb78875e361d4c3113edd79498",
+   "stored_at": "sprites/2.02/MPickAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MPMail.pak",
+   "size": 1947716,
+   "sha256": "073aed2b95b438889d72caa9149011e067ad4f358d9e722220e8c53e36aba842",
+   "stored_at": "sprites/2.02/MPMail.pak"
+  },
+  {
+   "install_path": "SPRITES/Mpt.pak",
+   "size": 2104952,
+   "sha256": "b91d57867e6bfc16cb7b9d1c209389725f8d4487b46b6358bd3a6e4d88f6fc1d",
+   "stored_at": "sprites/2.02/Mpt.pak"
+  },
+  {
+   "install_path": "SPRITES/MPTWK.PAK",
+   "size": 22120,
+   "sha256": "ee6f2ca78bde9d3df6450351d794bd4073d8e7d51f4e652117a3995a5522b2a7",
+   "stored_at": "sprites/2.02/MPTWK.PAK"
+  },
+  {
+   "install_path": "SPRITES/Mrobe1.pak",
+   "size": 4592752,
+   "sha256": "7bc1d9e0399e6b9f46aba4681902ecc7ca6c1f904e16379f6c9f607da321979a",
+   "stored_at": "sprites/2.02/Mrobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/Msh.pak",
+   "size": 6381848,
+   "sha256": "d6361d1d8e7789ebfd53dc038754581237a7c44e91b0e18ec39174cd876cb731",
+   "stored_at": "sprites/2.02/Msh.pak"
+  },
+  {
+   "install_path": "SPRITES/MShirt.pak",
+   "size": 1768668,
+   "sha256": "0d5d875d890fb6857baf90ce5c84b9c1a7f1ccfeea0d2fba3ebf2a4838fef36a",
+   "stored_at": "sprites/2.02/MShirt.pak"
+  },
+  {
+   "install_path": "SPRITES/MShoes.pak",
+   "size": 958420,
+   "sha256": "e1f5014bfb84364d0b88d7be109b25ac8468aa6c12477b7b6c403a9e8c746b37",
+   "stored_at": "sprites/2.02/MShoes.pak"
+  },
+  {
+   "install_path": "SPRITES/MSMail.pak",
+   "size": 1761480,
+   "sha256": "eb14927fb2493cbe82198271ae6e3f1663f456187b65e98f2d767a37c335b5bf",
+   "stored_at": "sprites/2.02/MSMail.pak"
+  },
+  {
+   "install_path": "SPRITES/MStaff1.pak",
+   "size": 1362324,
+   "sha256": "3f928a0bda9d64cbabc21b09bc7620dfbb0f6d6f29461a5d8735b990d8dbba8e",
+   "stored_at": "sprites/2.02/MStaff1.pak"
+  },
+  {
+   "install_path": "SPRITES/MStaff2.pak",
+   "size": 1115848,
+   "sha256": "05b51bf777088c77cc8324f64be159c2ffc1589103f83b21aab00c2411ad2e75",
+   "stored_at": "sprites/2.02/MStaff2.pak"
+  },
+  {
+   "install_path": "SPRITES/Msw.pak",
+   "size": 11892024,
+   "sha256": "677e366502cdce08c98efdb22f95010798923567674e0e328ca352f8451b3f6b",
+   "stored_at": "sprites/2.02/Msw.pak"
+  },
+  {
+   "install_path": "SPRITES/MTrouser.pak",
+   "size": 1848848,
+   "sha256": "66a840971a92d0f1ace0893ddfef4051fc03da4a66125b2e8730761c50300ac2",
+   "stored_at": "sprites/2.02/MTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/MTunic.pak",
+   "size": 1854052,
+   "sha256": "c6f8842a409a736183d85265c6e884c3c8f0525e9c5a69e868fe67e03ef6c5af",
+   "stored_at": "sprites/2.02/MTunic.pak"
+  },
+  {
+   "install_path": "SPRITES/New-Dialog.pak",
+   "size": 17096248,
+   "sha256": "4b3baf1878d8fca45c145c952987e258648018adeea141742b9a2bcc264b2a75",
+   "stored_at": "sprites/2.02/New-Dialog.pak"
+  },
+  {
+   "install_path": "SPRITES/newiconp.pak",
+   "size": 173102,
+   "sha256": "54528fef3c2add502626804835ea52bf43e2795bfb107a4f6a2421754cf1fc8e",
+   "stored_at": "sprites/2.02/newiconp.pak"
+  },
+  {
+   "install_path": "SPRITES/newmaps.pak",
+   "size": 2487888,
+   "sha256": "161f65e72ce313029c99e0b9934fc10dfbfc5206acbb56ca9b055c6433484884",
+   "stored_at": "sprites/2.02/newmaps.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects1.pak",
+   "size": 10140754,
+   "sha256": "5d7369989f10ffa001e28d31b219061a467a2604d81185455de9f2d615614403",
+   "stored_at": "sprites/2.02/Objects1.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects2.pak",
+   "size": 3586472,
+   "sha256": "ea15de2500f8ee21a45b66cb2a44750704f5f78fdf7b433d49509f669af97580",
+   "stored_at": "sprites/2.02/Objects2.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects3.pak",
+   "size": 3687996,
+   "sha256": "5319247ef168e4a27102488ae09376abb45f8d751f40a61f5a6b013b0a391676",
+   "stored_at": "sprites/2.02/Objects3.pak"
+  },
+  {
+   "install_path": "SPRITES/objects4.pak",
+   "size": 921830,
+   "sha256": "4ffa710303496c521d65baaa49aae00a45be7280a12bd4c57af1c1e4a9cc831d",
+   "stored_at": "sprites/2.02/objects4.pak"
+  },
+  {
+   "install_path": "SPRITES/Orc.pak",
+   "size": 1696344,
+   "sha256": "0d4c8de3775d08a0e59e51e368267825792f8c06d80f18cee8ece24f921612c4",
+   "stored_at": "sprites/2.02/Orc.pak"
+  },
+  {
+   "install_path": "SPRITES/Orge.pak",
+   "size": 8500736,
+   "sha256": "e4c272e38bbe6276cccd4d24b07aa1dc7b3fc587b9b57569c80ed47fc4328a57",
+   "stored_at": "sprites/2.02/Orge.pak"
+  },
+  {
+   "install_path": "SPRITES/Scp.pak",
+   "size": 1748716,
+   "sha256": "df3ef9a81eaaee4853999bbcc9ad0ad2298223e474fe224ed0e93f3e37d77f1b",
+   "stored_at": "sprites/2.02/Scp.pak"
+  },
+  {
+   "install_path": "SPRITES/SHOPKPR.PAK",
+   "size": 237744,
+   "sha256": "9e56de98c38c94c5aa16f55786fac9f68441053a64b17c4745595615bddf8051",
+   "stored_at": "sprites/2.02/SHOPKPR.PAK"
+  },
+  {
+   "install_path": "SPRITES/Sinside1.pak",
+   "size": 24985068,
+   "sha256": "9b30a2bdd0166be9f6e5740edf2290bf5f5d8679d2f6951c025c98f3f6e240c7",
+   "stored_at": "sprites/2.02/Sinside1.pak"
+  },
+  {
+   "install_path": "SPRITES/SKE.PAK",
+   "size": 1388084,
+   "sha256": "aabae3db834505a90e92b9e5e08a76977a623df3b787fee0763403542405b317",
+   "stored_at": "sprites/2.02/SKE.PAK"
+  },
+  {
+   "install_path": "SPRITES/SLM.PAK",
+   "size": 697000,
+   "sha256": "1001e7fe4973acd64f93a2ebf9915421db587b5eec9fed6039bf991ea4e3b989",
+   "stored_at": "sprites/2.02/SLM.PAK"
+  },
+  {
+   "install_path": "SPRITES/SPRFONTS.PAK",
+   "size": 256504,
+   "sha256": "cc7e30c33a8c48607d18cb8cc9693f04837727a90cafb9a4e6ad8f3bbb300e4f",
+   "stored_at": "sprites/2.02/SPRFONTS.PAK"
+  },
+  {
+   "install_path": "SPRITES/Stalker.pak",
+   "size": 6597092,
+   "sha256": "ec8ed8be435b7de419f947a02f3840bf2ca329572f1534e66fbcc84bfcf56a43",
+   "stored_at": "sprites/2.02/Stalker.pak"
+  },
+  {
+   "install_path": "SPRITES/Structures1.pak",
+   "size": 18507454,
+   "sha256": "44381e04f2f69197dc07f1ab348f6a3ff506f13dcc87d737e49ea98e1cc51087",
+   "stored_at": "sprites/2.02/Structures1.pak"
+  },
+  {
+   "install_path": "SPRITES/structures2.pak",
+   "size": 16656716,
+   "sha256": "7418fb62fcdd67cce218e798900545582cb13fe57845e11dca79aa5d73c49d3b",
+   "stored_at": "sprites/2.02/structures2.pak"
+  },
+  {
+   "install_path": "SPRITES/Tigerworm.pak",
+   "size": 13907808,
+   "sha256": "198a5449483221fa30e59bf00827ed59dfe44cc2bc22ffa7fe18aa5d4d4084cd",
+   "stored_at": "sprites/2.02/Tigerworm.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile223-225.pak",
+   "size": 2766018,
+   "sha256": "be5c6e0ae31119f0ae8096fcdf8bfe5be7883c70369f2ba92874207174948948",
+   "stored_at": "sprites/2.02/Tile223-225.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile363-366.pak",
+   "size": 3701506,
+   "sha256": "ed3ac3712293909410a36ab3f2bc1b3693c2bb51dc47d47caf1e5ad73bdf6f0f",
+   "stored_at": "sprites/2.02/Tile363-366.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile370-381.pak",
+   "size": 7613136,
+   "sha256": "0a58b548bc839eae2596a90c528fcf85e5abf6755f2570b67810d74e1ee19ef1",
+   "stored_at": "sprites/2.02/Tile370-381.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile382-387.pak",
+   "size": 4765364,
+   "sha256": "08b92907e9f42f89d757ff1d340e57efb52dab3e5ca4572a435504c6b598a2fc",
+   "stored_at": "sprites/2.02/Tile382-387.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile388-402.pak",
+   "size": 13880600,
+   "sha256": "e1714ad89ceb93ebc157218b084b9502dcc98388cb292c0f42a41ad48daa9388",
+   "stored_at": "sprites/2.02/Tile388-402.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile403-405.pak",
+   "size": 2776140,
+   "sha256": "eb69d340b55f620848e3b0d9f2992c13fe8a80f8da84d3fb2c1dbb5181100d94",
+   "stored_at": "sprites/2.02/Tile403-405.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile406-421.pak",
+   "size": 14805976,
+   "sha256": "c22cd3fd45b2743bcab2d65a62b9b32fe7c0743b966e711b40e6a0a72ffcf0b1",
+   "stored_at": "sprites/2.02/Tile406-421.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile422-426.pak",
+   "size": 4236366,
+   "sha256": "3cda981fc870455d626999fcae2eeb886c13f848a8a1b45593d7e9b8ac4cb379",
+   "stored_at": "sprites/2.02/Tile422-426.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile422-429.pak",
+   "size": 6495464,
+   "sha256": "070be37453845f418a1c841f42fc51559c9fe4e3ad1b5a98229626e7011e7f73",
+   "stored_at": "sprites/2.02/Tile422-429.pak"
+  },
+  {
+   "install_path": "SPRITES/TK.pak",
+   "size": 3852368,
+   "sha256": "fbadf00f856e86db7bfd01321d8dcb676a12d5fe84cf9a4c8d4bb3a7e75c5514",
+   "stored_at": "sprites/2.02/TK.pak"
+  },
+  {
+   "install_path": "SPRITES/Tom.pak",
+   "size": 501404,
+   "sha256": "9071edca1f74d8c2bb773622c7f44c76f3ca55cb7c01b2658bb466d254188df3",
+   "stored_at": "sprites/2.02/Tom.pak"
+  },
+  {
+   "install_path": "SPRITES/TREES1.PAK",
+   "size": 5446820,
+   "sha256": "2f751184e1d656fed492325faeb653b0cffd33cad75427333166d11721c40684",
+   "stored_at": "sprites/2.02/TREES1.PAK"
+  },
+  {
+   "install_path": "SPRITES/TreeShadows.pak",
+   "size": 88442,
+   "sha256": "98fd87a6ee2fc3ddbfa7a5c562ea7f2236452c30d7b7918caca811380b9bd198",
+   "stored_at": "sprites/2.02/TreeShadows.pak"
+  },
+  {
+   "install_path": "SPRITES/Troll.pak",
+   "size": 5106124,
+   "sha256": "458e5f87ef1a1deb92184dd422662ddf9d6b96f8df0bfff06bb1e65a7411c7ff",
+   "stored_at": "sprites/2.02/Troll.pak"
+  },
+  {
+   "install_path": "SPRITES/Unicorn.pak",
+   "size": 2954024,
+   "sha256": "67a56ec90026000e868e502f0162960ad9958b928aab13dc2256cbf96daba305",
+   "stored_at": "sprites/2.02/Unicorn.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe1.pak",
+   "size": 320164,
+   "sha256": "6595127aeb9aadad1fe7d89c63b803fb5b0e81b56fe3bd196764db301697f496",
+   "stored_at": "sprites/2.02/WAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe2.pak",
+   "size": 489344,
+   "sha256": "48715eb7f19fd34295b08fe86fdea6216d6799a7ed92e694740d1e1f8726a615",
+   "stored_at": "sprites/2.02/WAxe2.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe3.pak",
+   "size": 445208,
+   "sha256": "0a0293a9729f47bb536ffc81a715317c212b735d07be547f376bce941c30489e",
+   "stored_at": "sprites/2.02/WAxe3.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe4.pak",
+   "size": 456744,
+   "sha256": "48c6a55e1348ee56aef1b4a556ceaae6ef087e2dfadf6e95a7116c7c5b7d64eb",
+   "stored_at": "sprites/2.02/WAxe4.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe5.pak",
+   "size": 589656,
+   "sha256": "31a411a8358bb3d19e25bf816a2d1ba6908bfb9417ef8015796d6989dc95fabd",
+   "stored_at": "sprites/2.02/WAxe5.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe6.pak",
+   "size": 1011844,
+   "sha256": "88ee4324890412daba221924d7eff8a522c5628acc92d01c08fa0628a1a6f553",
+   "stored_at": "sprites/2.02/WAxe6.pak"
+  },
+  {
+   "install_path": "SPRITES/Wbo.pak",
+   "size": 1706016,
+   "sha256": "aa0b09d3392e933457008d08fcb698e83609aee067bbf089e282b5eb1f0ed4e0",
+   "stored_at": "sprites/2.02/Wbo.pak"
+  },
+  {
+   "install_path": "SPRITES/WBodice1.pak",
+   "size": 484276,
+   "sha256": "19cb10463b36255716fca9806ee325eadbab6f574899587e8c6d4bb36a6a0479",
+   "stored_at": "sprites/2.02/WBodice1.pak"
+  },
+  {
+   "install_path": "SPRITES/WBodice2.pak",
+   "size": 700416,
+   "sha256": "1a6a0d3f83fd551e21e950b586778e6eab841431989bff9fff90a2c8bb330879",
+   "stored_at": "sprites/2.02/WBodice2.pak"
+  },
+  {
+   "install_path": "SPRITES/WChemiss.pak",
+   "size": 1831144,
+   "sha256": "1ad2e8e7a4110b235183e91131d1501b40970e1c39abab70c5fb464606f8787b",
+   "stored_at": "sprites/2.02/WChemiss.pak"
+  },
+  {
+   "install_path": "SPRITES/WCHoses.pak",
+   "size": 2037252,
+   "sha256": "0f2172a2ebb56bc42b4312b4fde99c842c72c3e9f5c3f300b50c7666b79f1370",
+   "stored_at": "sprites/2.02/WCHoses.pak"
+  },
+  {
+   "install_path": "SPRITES/WCMail.pak",
+   "size": 1710972,
+   "sha256": "f59e6d3b424fc5f9ce0f9f5b564d2bf8006536715150ab00133057a58ce54ba0",
+   "stored_at": "sprites/2.02/WCMail.pak"
+  },
+  {
+   "install_path": "SPRITES/WereWolf.pak",
+   "size": 3682380,
+   "sha256": "0e20879c55ceaa8088fd98dcb70f1a865cd6402b3a4ad47b9195540638fd08d9",
+   "stored_at": "sprites/2.02/WereWolf.pak"
+  },
+  {
+   "install_path": "SPRITES/WHauberk.pak",
+   "size": 1773044,
+   "sha256": "abf33e855363196d289ce7107ee6098cc7a6c3266ae81ee2f04022e8b3db4290",
+   "stored_at": "sprites/2.02/WHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/WHelm1.pak",
+   "size": 265596,
+   "sha256": "8e611d1dd780d73e91cb703349b9ec740fdaa74f230f250826468c83b3cb9c36",
+   "stored_at": "sprites/2.02/WHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHelm2.pak",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "stored_at": "empty file (recreate as 0 bytes)"
+  },
+  {
+   "install_path": "SPRITES/WHelm3.pak",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "stored_at": "empty file (recreate as 0 bytes)"
+  },
+  {
+   "install_path": "SPRITES/WHelm4.pak",
+   "size": 179392,
+   "sha256": "c7e3996093694e545d2d1c306b44cb2462beb3330eb5179fb765b80db5acea65",
+   "stored_at": "sprites/2.02/WHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/WHelm5.pak",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "stored_at": "empty file (recreate as 0 bytes)"
+  },
+  {
+   "install_path": "SPRITES/Whr.pak",
+   "size": 1610336,
+   "sha256": "f1cddf4e2d7694efcc162231a7f42a341871b1f933838e11bfbf584012ea2cfe",
+   "stored_at": "sprites/2.02/Whr.pak"
+  },
+  {
+   "install_path": "SPRITES/WHTrouser.pak",
+   "size": 633572,
+   "sha256": "66d31ef43cf98ee9e83a45d46d1d12c5215c0bf5fbbe80445e7ce521dbddc5db",
+   "stored_at": "sprites/2.02/WHTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/William.pak",
+   "size": 356560,
+   "sha256": "a6a20612eacde1ed52496cbea132f1658064c66e8cb4f34327e48cbabc584688",
+   "stored_at": "sprites/2.02/William.pak"
+  },
+  {
+   "install_path": "SPRITES/WLarmor.pak",
+   "size": 1073000,
+   "sha256": "93902deeedf9076f5e625444eff9b51b6867240034ac68b20d232fbdd2c71a40",
+   "stored_at": "sprites/2.02/WLarmor.pak"
+  },
+  {
+   "install_path": "SPRITES/WLBoots.pak",
+   "size": 1102740,
+   "sha256": "3bf2ffc3a99b18764cd7654ab1573a3fefb3aa39b12152961b42de905539a9d4",
+   "stored_at": "sprites/2.02/WLBoots.pak"
+  },
+  {
+   "install_path": "SPRITES/WLeggings.pak",
+   "size": 1940084,
+   "sha256": "eca835e259e92e780c2b779de3326952472600c74a67dd3dfdf1a61c5d3a921b",
+   "stored_at": "sprites/2.02/WLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/Wm.pak",
+   "size": 4000560,
+   "sha256": "23225c46971615f7be6c1eef312a591ad196201fb83ebfe156a82de4af77db0f",
+   "stored_at": "sprites/2.02/Wm.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle01.pak",
+   "size": 2761280,
+   "sha256": "c55f9f36cc2835a14e4a33071c682ff68b8d39fc56cff99899876b3487bb2caa",
+   "stored_at": "sprites/2.02/Wmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle02.pak",
+   "size": 2760252,
+   "sha256": "4e32393c1dba8d1ef344c79954b1894640a3036257dcf6f0becc35fa76b12566",
+   "stored_at": "sprites/2.02/Wmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle03.pak",
+   "size": 2764704,
+   "sha256": "393f09e4acae01a561308c8577adb141f275666f6d5215239a408c594dbf20c5",
+   "stored_at": "sprites/2.02/Wmantle03.pak"
+  },
+  {
+   "install_path": "SPRITES/WPickAxe1.pak",
+   "size": 657440,
+   "sha256": "900b5660711eb7cc3ef51654937f8a17cf8ac9c77cda2782b3d7f46832cba4cf",
+   "stored_at": "sprites/2.02/WPickAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WPMail.pak",
+   "size": 1125620,
+   "sha256": "8c8e418e42ed38ac2a3d1bccf43cf7812c3780a6a83a182f1b01a311f2582c87",
+   "stored_at": "sprites/2.02/WPMail.pak"
+  },
+  {
+   "install_path": "SPRITES/Wpt.pak",
+   "size": 3336184,
+   "sha256": "50c835f50b88a74bc84aa66de3ad2aa3b899557050b7dfdc174ee9f870df9e59",
+   "stored_at": "sprites/2.02/Wpt.pak"
+  },
+  {
+   "install_path": "SPRITES/Wrobe1.pak",
+   "size": 3437004,
+   "sha256": "62880cf2dcfeda1e827f6bae74d82de4599e6202b36e337ac9057d00422127b7",
+   "stored_at": "sprites/2.02/Wrobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsh.pak",
+   "size": 5120404,
+   "sha256": "7e42ae40441b70fb928ee30878dae46b2546c2a5c84c435bbc37d1cc514b786e",
+   "stored_at": "sprites/2.02/Wsh.pak"
+  },
+  {
+   "install_path": "SPRITES/WShirt.pak",
+   "size": 1329668,
+   "sha256": "0721e39cfad9e7468bfcfb97450249da8ce408460c57f92c3b10c9941025acf7",
+   "stored_at": "sprites/2.02/WShirt.pak"
+  },
+  {
+   "install_path": "SPRITES/WShoes.pak",
+   "size": 678576,
+   "sha256": "a28ab622525dd67669cc2c3f5e69a633af2d87f0538420989d3f34b08c213919",
+   "stored_at": "sprites/2.02/WShoes.pak"
+  },
+  {
+   "install_path": "SPRITES/WSkirt.pak",
+   "size": 2079124,
+   "sha256": "e4bafeb7e833e5fdce5627fb3199ba752606aa06e71b681dbc647f77010e2cb0",
+   "stored_at": "sprites/2.02/WSkirt.pak"
+  },
+  {
+   "install_path": "SPRITES/WSMail.pak",
+   "size": 1236688,
+   "sha256": "2f758a0d3e10161ad75131a2a64222342e0b4ca7e003c718be18f8c3fab66ef2",
+   "stored_at": "sprites/2.02/WSMail.pak"
+  },
+  {
+   "install_path": "SPRITES/WStaff1.pak",
+   "size": 1217180,
+   "sha256": "cd81f4cf06ed37dfeca1bfa13c35a3445596e67b35eb3e25ef3c2526292a3391",
+   "stored_at": "sprites/2.02/WStaff1.pak"
+  },
+  {
+   "install_path": "SPRITES/WStaff2.pak",
+   "size": 987960,
+   "sha256": "6b2d5cdbf26351b1a6adec479c5dc2152c7dde75aff257f53ccf12370d523a20",
+   "stored_at": "sprites/2.02/WStaff2.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsw.pak",
+   "size": 9383756,
+   "sha256": "69a3e9ded507f3afd52f7fefdaa9bae5ec2c8fae2132ba0056bd9e4074a6970b",
+   "stored_at": "sprites/2.02/Wsw.pak"
+  },
+  {
+   "install_path": "SPRITES/WTrouser.pak",
+   "size": 1528836,
+   "sha256": "b8a0dad445c32effd745bb0eef13b5c25111661285c72cd939b7597cc6bee03c",
+   "stored_at": "sprites/2.02/WTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/Ww.pak",
+   "size": 3088016,
+   "sha256": "5d545dfeb19a2e732a348ed98741d248ee4704bc09eb9305053a1e17e842f453",
+   "stored_at": "sprites/2.02/Ww.pak"
+  },
+  {
+   "install_path": "SPRITES/Ym.pak",
+   "size": 4000560,
+   "sha256": "56c26f20ddad0ccffb7a732046879ef8ca4945e82f32a044f4243d067f8de115",
+   "stored_at": "sprites/2.02/Ym.pak"
+  },
+  {
+   "install_path": "SPRITES/Yw.pak",
+   "size": 3088016,
+   "sha256": "e7d795965c249eee360ae3af4ebd6e0031d2c3514e500230d6ebd3ef2c284e98",
+   "stored_at": "sprites/2.02/Yw.pak"
+  },
+  {
+   "install_path": "SPRITES/Zom.pak",
+   "size": 904632,
+   "sha256": "d5289c25a065aa9c091128e2ed269b8b6d641a60d7b08bf2536e987300f71ed9",
+   "stored_at": "sprites/2.02/Zom.pak"
+  },
+  {
+   "install_path": "Uninstal.exe",
+   "size": 49723,
+   "sha256": "e2ec88816d8f80c7edc5ef105f9320ecd3022b89d3e5e665d916458a53c833f4",
+   "stored_at": "executables/2.02/Uninstal.exe"
+  },
+  {
+   "install_path": "zlib.dll",
+   "size": 73728,
+   "sha256": "cf484e35a28e62e206767ef7371066166131abfde254305e7b3e7197ad1a08a3",
+   "stored_at": "executables/2.02/zlib.dll"
+  }
+ ]
+}

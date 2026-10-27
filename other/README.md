@@ -17,9 +17,9 @@ Over 100 MB, or kept elsewhere; download from the link given.
 
 | File | Version | Region | Date | Size (bytes) | SHA-256 | Stored |
 |---|---|---|---|---|---|---|
-| `4.12.01-SPRITES.zip` | 4.12.01 | USA | 2009-07-17 (archive-entry) | 56,542,388 | `166831d4df3e0603f0b79414c7768ab07e505cad8dc034d8ea9cff7d39783782` | release: Original-Helbreath/History/history-1 |
+| `4.12.01-SPRITES.zip` | 4.12.01 | USA | 2009-07-17 (archive-entry) | 56,542,388 | `166831d4df3e0603f0b79414c7768ab07e505cad8dc034d8ea9cff7d39783782` | inside history-1 Helbreath.USA.Install.zip (Helbreath USA Install.exe -> SPRITES/SPRITES.zip) |
 
-- `4.12.01-SPRITES.zip`: Kept out of git to stay near the size budget: every pak in it is stored loose under sprites/ (one copy per SHA-256).
+- `4.12.01-SPRITES.zip`: Kept out of git to stay near the size budget: every pak in it is stored loose under sprites/ (one copy per SHA-256). Not a separate release asset: 7-Zip extracts it from the zip and its RAR self-extractor byte-exact (SHA-256 checked 2026-10-27); every pak in it is stored loose under sprites/.
 
 ## Manifest
 
