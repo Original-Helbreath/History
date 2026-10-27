@@ -36,6 +36,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 | `Helbreath.USA.Install.zip` | 4.12.01 | USA | 2011-07-11 (wayback-capture) | 289,132,524 | `24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e` | release: Original-Helbreath/Downloads-Archive/originals |
 | `History-art-2.02.7z` | 2.02 | International (English) | unknown | 130,978,349 | `1b54672e76a72d8c7903d82e52183a3bde21b1dd44cc939a2d6ce6a3a60ef70e` | release: Original-Helbreath/History/history-1 |
 | `History-art-2.23.7z` | 2.23 | USA | unknown | 32,297,000 | `d3b284f37b8173b123a7cc2ec953dc583268a88884b71b1c1b359f30a404fd70` | release: Original-Helbreath/History/history-1 |
+| `History-art-2001-beta.7z` | pre-2.02 'Helbreath Beta' (built 2001-05-08) | USA | unknown | 8,914,028 | `6b1d498f87c7c45268c1678019bb1c416e75fd0f7d8c33ed4cbcadff9da62618` | release: Original-Helbreath/History/history-1 |
 | `History-art-3.0.7z` | 3.0 'The Apocalypse' | USA | unknown | 129,622,239 | `192811d5d2fc9338c3ce969d257894ce6c9bee2dc2ab328e29f8d07de9daf509` | release: Original-Helbreath/History/history-1 |
 | `History-art-3.1.7z` | 3.1 | USA | unknown | 1,652,676 | `24cf08a1e5cd49d1c16a07fc973dc1dca93516dd1fd70c819ac5bb307659f079` | release: Original-Helbreath/History/history-1 |
 | `History-art-3.82-bundle.7z` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | unknown | 16,985,016 | `8bcac404e9b74c3fb7f4d3378c612412acc33d173eda3ecb9ad836716f365c09` | release: Original-Helbreath/History/history-1 |
@@ -51,6 +52,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 - `Helbreath.USA.Install.zip`: Unpacked into the type folders as version 4.12.01. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
 - `History-art-2.02.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-2.23.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
+- `History-art-2001-beta.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-3.0.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-3.1.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.
 - `History-art-3.82-bundle.7z`: Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest.

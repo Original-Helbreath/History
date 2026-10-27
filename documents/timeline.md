@@ -11,6 +11,7 @@ Conflicting dates are shown side by side, not resolved.
 | 1999-08-01 / 1999-09-04 / 1999-11 | Conflicting "release" dates | Wikipedia mirror; GameFAQs; Ruliweb | verified (the conflict) |
 | 2000-05-13 | English version shown at E3, Los Angeles | gamechosun.co.kr/webzine/article/view.php?no=915 | verified |
 | 2001-05-07 / 05-08 | Player manual (`Readme.htm`) written and saved | document properties, `documents/manuals/2.02/Readme.htm` | verified (file property) |
+| 2001-05-08 | "Helbreath Beta" client built (HelGame.exe); shipped on the 2001 USA retail disc "Helbreath - The Crusade (USA)" | PE link timestamp; installer title; redump 65970 | verified (PE header, installer title) |
 | 2001-07 | "Helbreath Crusade" expansion announced | gamemeca.com gid=3605 | verified |
 | 2001-08-21 | 2.02 English full installer `Hb202full_ENG.exe` built ("Helbreath Crusade v2.02") | archive.org listing of the retail ISO | verified |
 | 2001-08-31 | 2.03 game server built (`Game.cpp`, `HGserver.exe`) | entry dates in the 2.03 source zip | verified (file date) |

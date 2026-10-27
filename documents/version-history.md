@@ -5,6 +5,7 @@ One row per version, oldest first. Dates are the files' own (see `timeline.md` f
 
 | Version | Region / edition | Date | What survives | Folder | Source |
 |---|---|---|---|---|---|
+| pre-2.02 "Helbreath Beta" | USA (redump title "Helbreath - The Crusade (USA)") | built 2001-05-08 (HelGame.exe PE date) | Full install from the 2001 USA retail disc (390 files; 324 identical to 2.02, which is a strict superset); pre-Crusade: none of the 49 Crusade-only 2.02 files | `2001-beta` | redump 65970 BIN/CUE, supplied by the project owner |
 | 2.02 "Crusade" | International (English); inferred from the installer name `_ENG` and the 2001 date | 2001-08-21 | Full retail install (439 files) and trailer | `2.02` | 2001 retail CD, archive.org |
 | 2.03 | not stated | 2001-08-31 | Game server source and build | `archives/sources/server-2.03` | SourceForge hb-online |
 | launcher, 2002 | Korea | captured 2002-04-13 | `Helbreath.exe` from helbreath.com | `launcher-korea-2002` | Wayback |

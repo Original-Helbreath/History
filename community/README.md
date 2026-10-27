@@ -8,6 +8,7 @@ Material made or changed by the Helbreath private-server community, kept apart f
 |---|---|---|---|---|---|---|
 | `3.82-bundle/` | 478 | 18,400,941 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |
 | `archives/` | 4 | 26,087,502 | modern C++/vcpkg client rewrite (2022) | community | 2015-02-11 to 2022-12-21 | https://forum.helbreathx.net/files/file/11-clients-sources-helbreath/ (file page; the download link needs a forum login); https://forum.helbreathx.net/files/file/9-helbreathusazip-206-mb/ (file page; the download link needs a forum login) |
+| `models/` | 6 | 3,574,660 | community 3D model (fan-made) | community | 2021-10-05 to 2021-10-05 | unknown |
 
 Per-file sizes, SHA-256, dates and extraction chains are in `MANIFEST.json`.
 
