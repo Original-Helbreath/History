@@ -805,6 +805,109 @@
    "notes": "Made by this project for convenience; extracted file dates were not kept."
   },
   {
+   "path": "Helbreath-4.08-usa-client-asfound.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 208253392,
+   "sha256": "0fa2f3f3cf7926849b37c404622e37c8b6e5951771d81e26c0a79de3b69d87e0",
+   "what": "The USA 4.08 install as a ready folder tree (728 files, MD5-checked)",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, inno5.py)",
+      "whole install tree, repacked with 7-Zip by this project"
+     ],
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Made by this project for convenience."
+  },
+  {
+   "path": "Helbreath-4.12.01-usa-client-asfound.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 265731185,
+   "sha256": "71c1a87de392336c18f197ce4b9cfa812a0e135ed799373e4230d899106db1a1",
+   "what": "The USA 4.12.01 install as a ready folder tree (734 files)",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "Helbreath USA Install.zip",
+      "Helbreath USA Install.exe (WinRAR self-extractor, 7-Zip)",
+      "whole install tree, repacked with 7-Zip by this project"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Made by this project for convenience."
+  },
+  {
    "path": "helbreath-v3.82.zip",
    "stored": "release Original-Helbreath/Downloads-Archive/originals",
    "size": 324026786,
@@ -905,11 +1008,11 @@
    "stored": "release Original-Helbreath/Downloads-Archive/originals",
    "size": 289132524,
    "sha256": "24f5e10fb17b08b323fc3fba1374996d7538f7dd838da163bdfe8ad0fd443d9e",
-   "what": "Helbreath USA full install, late 3.8x era (captured 2011)",
+   "what": "Helbreath USA 4.12.01 full install (WinRAR self-extractor inside a zip; captured 2011)",
    "version": {
-    "value": "late 3.8x",
-    "confidence": "inferred",
-    "basis": "2011 capture date; not unpacked"
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt inside the install, top entry 'Helbreath USA 4.12.01'"
    },
    "region": {
     "value": "USA",
@@ -930,9 +1033,9 @@
      "documented_kind": "wayback-capture",
      "extracted_from": null,
      "version": {
-      "value": "late 3.8x",
-      "confidence": "inferred",
-      "basis": "2011 capture date; not unpacked"
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt inside the install, top entry 'Helbreath USA 4.12.01'"
      },
      "region": {
       "value": "USA",
@@ -946,7 +1049,364 @@
      }
     }
    ],
-   "notes": "Outside 1999-2005; not unpacked here. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "Unpacked into the type folders as version 4.12.01. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+  },
+  {
+   "path": "History-art-2.02.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 130978349,
+   "sha256": "1b54672e76a72d8c7903d82e52183a3bde21b1dd44cc939a2d6ce6a3a60ef70e",
+   "what": "Every sheet bitmap of the 2.02 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (6132 sheets)",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/2.02",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/2.02/*.pak",
+      "bitmap byte ranges listed in art/2.02/MANIFEST.json"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-2.23.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 32297000,
+   "sha256": "d3b284f37b8173b123a7cc2ec953dc583268a88884b71b1c1b359f30a404fd70",
+   "what": "Every sheet bitmap of the 2.23 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (576 sheets)",
+   "version": {
+    "value": "2.23",
+    "confidence": "verified",
+    "basis": "patch name patch_v223.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "Crusade (Heldenian status unknown)",
+    "confidence": "inferred",
+    "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/2.23",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/2.23/*.pak",
+      "bitmap byte ranges listed in art/2.23/MANIFEST.json"
+     ],
+     "version": {
+      "value": "2.23",
+      "confidence": "verified",
+      "basis": "patch name patch_v223.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "Crusade (Heldenian status unknown)",
+      "confidence": "inferred",
+      "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-3.0.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 129622239,
+   "sha256": "192811d5d2fc9338c3ce969d257894ce6c9bee2dc2ab328e29f8d07de9daf509",
+   "what": "Every sheet bitmap of the 3.0 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (9583 sheets)",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/3.0",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/3.0/*.pak",
+      "bitmap byte ranges listed in art/3.0/MANIFEST.json"
+     ],
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-3.1.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 1652676,
+   "sha256": "24cf08a1e5cd49d1c16a07fc973dc1dca93516dd1fd70c819ac5bb307659f079",
+   "what": "Every sheet bitmap of the 3.1 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (11 sheets)",
+   "version": {
+    "value": "3.1",
+    "confidence": "verified",
+    "basis": "patch name Patch_3.0_to_3.1.zip"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/3.1",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/3.1/*.pak",
+      "bitmap byte ranges listed in art/3.1/MANIFEST.json"
+     ],
+     "version": {
+      "value": "3.1",
+      "confidence": "verified",
+      "basis": "patch name Patch_3.0_to_3.1.zip"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-3.82-bundle.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 16985016,
+   "sha256": "8bcac404e9b74c3fb7f4d3378c612412acc33d173eda3ecb9ad836716f365c09",
+   "what": "Every sheet bitmap of the 3.82-bundle paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (460 sheets)",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/3.82-bundle",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/3.82-bundle/*.pak",
+      "bitmap byte ranges listed in art/3.82-bundle/MANIFEST.json"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-4.08.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 30667940,
+   "sha256": "b00d042bd2491e3961890dedae03db3b3c1683228d3e8c1ad0b8a5d6fc654dee",
+   "what": "Every sheet bitmap of the 4.08 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (1047 sheets)",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/4.08",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/4.08/*.pak",
+      "bitmap byte ranges listed in art/4.08/MANIFEST.json"
+     ],
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
+  },
+  {
+   "path": "History-art-4.12.01.7z",
+   "stored": "release Original-Helbreath/History/history-1",
+   "size": 2285589,
+   "sha256": "e40f5d2ac6137589a0dee5439e929efdb1bf7096939a8143abacc38cacd35220",
+   "what": "Every sheet bitmap of the 4.12.01 paks, byte for byte as stored in each pak, as <pak>/<sheet>.bmp (53 sheets)",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "this project: bitmaps cut from the paks under sprites/4.12.01",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "sprites/4.12.01/*.pak",
+      "bitmap byte ranges listed in art/4.12.01/MANIFEST.json"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "Repacked by this project; verify any bitmap with its offset, length and SHA-256 in the art manifest."
   }
  ]
 }

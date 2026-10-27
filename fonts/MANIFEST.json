@@ -23,7 +23,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -80,6 +83,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1998-12-18 14:09:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/ENG00.FNT"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1998-12-18 15:09:46",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/ENG00.FNT"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/ENG00.FNT"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -105,7 +188,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -162,6 +248,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1993-03-25 17:06:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/ENG1.FNT"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1993-03-25 18:06:48",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/ENG1.FNT"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/ENG1.FNT"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -187,7 +353,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -244,6 +413,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1999-06-17 18:42:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/ENG2.FNT"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1999-06-17 19:42:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/ENG2.FNT"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/ENG2.FNT"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -270,7 +519,10 @@
    },
    "also_in": [
     "2.02",
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -382,6 +634,166 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 18:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/HAN3.FNT"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 18:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/Han4.fnt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 19:11:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/HAN3.FNT"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1994-09-25 19:11:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/Han4.fnt"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/HAN3.FNT"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/Han4.fnt"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -407,7 +819,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -464,6 +879,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "1999-02-08 19:50:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/Hangul00.fnt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "1999-02-08 20:50:14",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/Hangul00.fnt"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/Hangul00.fnt"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -489,7 +984,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -545,6 +1043,86 @@
       "value": "Apocalypse",
       "confidence": "verified",
       "basis": "product name"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-09-15 11:35:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "FONTS/Hangul01.fnt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-09-15 12:35:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "FONTS/Hangul01.fnt"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/FONTS/Hangul01.fnt"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
      }
     }
    ]

@@ -20,6 +20,14 @@ Every `.exe` and `.dll`: game clients (`HelGame.exe`, `NewHelGame.exe`), launche
 | `3.72/HelGame.exe` | 3.72 'Winter' | USA | 2004-12-17 (archive-entry) | 444,416 | `06fe71b7806c3a8cdf11a56b9a9bcff46d76fa7633755e36370b5f9bf3fbe9ed` | git |
 | `3.80/HelGame.exe` | 3.80 'Wish Ball' | USA | 2005-02-23 (archive-entry) | 444,928 | `4db2a894b7422af42844f36bcd77eba27a94da2823f474f0d4e76e6dc5bbe783` | git |
 | `3.81/HelGame.exe` | 3.81 | USA | 2005-07-22 (archive-entry) | 436,224 | `9b7fe97f7274f68839a362431c2d527d36f650cd5c1a2bd357fd092f230d695e` | git |
+| `3.82-bundle/GateServer.exe` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 (archive-entry) | 86,016 | `6a4a540e5c798063e539e38a8a29b27420273478972dcb0e5dc5fef59621e471` | git |
+| `3.82-bundle/Helbreath.exe` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 (archive-entry) | 321,536 | `51071bf5524720b33a835dc6424d718f60276c98a7b263f17bd2be05be45f065` | git |
+| `3.82-bundle/MainServer.exe` | official Main Log / World Log server, 2.19/2.20 era | unknown | 2020-04-26 (archive-entry) | 393,216 | `9e79b5fdda12a0fe07d1e2a3d2fc4863ad2681feb50aaa55869e33ce70ee2a24` | git |
+| `3.82-bundle/WorldServer.exe` | official Main Log / World Log server, 2.19/2.20 era | unknown | 2020-04-26 (archive-entry) | 106,496 | `1cf95991524081ece784ebb5d8ee6741ad60ca2bc9b9b1631d67c0fcb683082d` | git |
+| `4.08/Helbreath.exe` | 4.08 | USA | 2007-06-16 (installer-entry) | 495,704 | `6b6f71c0ac0121e1582d9446eca32c2233904d77ca6367caf899928c62b2d027` | git |
+| `4.08/Helgame.exe` | 4.08 | USA | 2008-12-14 (installer-entry) | 420,864 | `139f816eddd643345704bf5733c3a2d39c82b3608afe1fa7b1608bb099da0c30` | git |
+| `4.12.01/Helgame.exe` | 4.12.01 | USA | 2010-04-23 (archive-entry) | 412,672 | `d5c0a6e5f9c45b6ddb2f9f1ca7038a98458ae9a6715cf275fb1e52119e59ac34` | git |
+| `4.12.01/unins000.exe` | 4.12.01 | USA | 2008-12-31 (archive-entry) | 695,578 | `880c830bcd1e792c89bb5bf963cd42dd868b6d6031b86c613268e934931509fd` | git |
 | `launcher-japan-2002/Helbreath.exe` | unknown | Japan | 2002-10-31 (wayback-capture) | 303,104 | `6e0121311ef9b6a53d14b78c39761dfa88c705095bac1a6c6418b43ad3a45f15` | git |
 | `launcher-korea-2002/Helbreath.exe` | unknown | Korea | 2002-04-13 (wayback-capture) | 307,200 | `7f29e6afc37f9bd032187753c417e31d8ce3897553eda3f2df24f1e6148576f8` | git |
 | `test-server-2007/HelGame.exe` | unknown | USA test server | 2007-05-30 (archive-entry) | 394,752 | `bd35ac76bb053cc31c0b7d2ddaecde6de7f1ad6c0a222736ec6403e739786c6b` | git |
@@ -36,7 +44,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 
 - `Hb202full_ENG.exe`: The installer format is Siementech's own; 7-Zip cannot open it.
 - `hbusa_apocalypse.exe`: MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
-- `helbreathusa_setup_408.exe`: Outside 1999-2005; not unpacked here. MD5 8839990c498bcd9944ce486d3036eec3 matched. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
+- `helbreathusa_setup_408.exe`: Inno Setup 5.2.3; unpacked into the type folders as version 4.08 with inno5.py (all 728 files matched the installer MD5s). MD5 8839990c498bcd9944ce486d3036eec3 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
 
 ## Manifest
 

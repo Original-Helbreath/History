@@ -50,7 +50,8 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2001-08-21 07:18:17 UTC (set by the linker when the program was built)."
   },
   {
    "path": "2.02/HelGame.exe",
@@ -101,7 +102,8 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2001-08-21 06:59:20 UTC (set by the linker when the program was built)."
   },
   {
    "path": "2.02/search.dll",
@@ -152,7 +154,8 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2001-06-11 03:50:26 UTC (set by the linker when the program was built)."
   },
   {
    "path": "2.02/Uninstal.exe",
@@ -203,7 +206,8 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2000-07-06 16:17:01 UTC (set by the linker when the program was built)."
   },
   {
    "path": "2.02/zlib.dll",
@@ -254,7 +258,8 @@
       "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2000-07-03 02:50:23 UTC (set by the linker when the program was built)."
   },
   {
    "path": "2.23/HelGame.exe",
@@ -304,7 +309,8 @@
       "basis": "entry dates 2002-12 to 2003-04, after the 2.02 Crusade build"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2003-04-15 06:33:22 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.0/cximage.dll",
@@ -328,7 +334,9 @@
     "basis": "product name"
    },
    "also_in": [
-    "3.81"
+    "3.81",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -384,8 +392,63 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-06-12 02:00:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record; call-filter decoded {'flip': False, 'skip_always': True, 'blocks': True})",
+      "cximage.dll"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-06-12 03:00:36",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "cximage.dll"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2003-01-27 11:28:40 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.0/Helbreath.exe",
@@ -437,7 +500,8 @@
       "basis": "product name"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2003-11-11 09:23:30 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.0/NewHelGame.exe",
@@ -489,7 +553,8 @@
       "basis": "product name"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2003-11-11 08:14:27 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.0/search.dll",
@@ -512,6 +577,11 @@
     "confidence": "verified",
     "basis": "product name"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
@@ -540,8 +610,89 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-10-18 10:24:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record; call-filter decoded {'flip': False, 'skip_always': True, 'blocks': True})",
+      "search.dll"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2002-10-18 11:24:12",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "search.dll"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/search.dll"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2002-10-14 13:46:40 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.1/HelGame.exe",
@@ -591,7 +742,8 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2003-11-28 06:26:33 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.72/HelGame.exe",
@@ -641,7 +793,8 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2004-12-17 01:27:27 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.80/HelGame.exe",
@@ -691,7 +844,8 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2005-02-23 05:39:20 UTC (set by the linker when the program was built)."
   },
   {
    "path": "3.81/HelGame.exe",
@@ -770,7 +924,450 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2005-07-22 06:53:05 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "3.82-bundle/GateServer.exe",
+   "stored": "git",
+   "size": 86016,
+   "sha256": "6a4a540e5c798063e539e38a8a29b27420273478972dcb0e5dc5fef59621e471",
+   "what": "Program or library: GateServer.exe",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Server/GateServer.exe"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2002-11-28 09:03:44 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "3.82-bundle/Helbreath.exe",
+   "stored": "git",
+   "size": 321536,
+   "sha256": "51071bf5524720b33a835dc6424d718f60276c98a7b263f17bd2be05be45f065",
+   "what": "Program or library: Helbreath.exe",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/Helbreath.exe"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2006-06-29 07:35:46 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "3.82-bundle/MainServer.exe",
+   "stored": "git",
+   "size": 393216,
+   "sha256": "9e79b5fdda12a0fe07d1e2a3d2fc4863ad2681feb50aaa55869e33ce70ee2a24",
+   "what": "Program or library: MainServer.exe",
+   "version": {
+    "value": "official Main Log / World Log server, 2.19/2.20 era",
+    "confidence": "verified",
+    "basis": "PE link timestamps 2002-11-26 (MainServer) and 2002-11-29 (WorldServer); 1,935 / 1,330 Korean string runs"
+   },
+   "region": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Server/Core/MainServer.exe"
+     ],
+     "version": {
+      "value": "official Main Log / World Log server, 2.19/2.20 era",
+      "confidence": "verified",
+      "basis": "PE link timestamps 2002-11-26 (MainServer) and 2002-11-29 (WorldServer); 1,935 / 1,330 Korean string runs"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2002-11-26 07:46:55 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "3.82-bundle/WorldServer.exe",
+   "stored": "git",
+   "size": 106496,
+   "sha256": "1cf95991524081ece784ebb5d8ee6741ad60ca2bc9b9b1631d67c0fcb683082d",
+   "what": "Program or library: WorldServer.exe",
+   "version": {
+    "value": "official Main Log / World Log server, 2.19/2.20 era",
+    "confidence": "verified",
+    "basis": "PE link timestamps 2002-11-26 (MainServer) and 2002-11-29 (WorldServer); 1,935 / 1,330 Korean string runs"
+   },
+   "region": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Server/Core/WorldServer.exe"
+     ],
+     "version": {
+      "value": "official Main Log / World Log server, 2.19/2.20 era",
+      "confidence": "verified",
+      "basis": "PE link timestamps 2002-11-26 (MainServer) and 2002-11-29 (WorldServer); 1,935 / 1,330 Korean string runs"
+     },
+     "region": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2002-11-29 07:25:43 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "4.08/Helbreath.exe",
+   "stored": "git",
+   "size": 495704,
+   "sha256": "6b6f71c0ac0121e1582d9446eca32c2233904d77ca6367caf899928c62b2d027",
+   "what": "Program or library: Helbreath.exe",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "also_in": [
+    "4.12.01"
+   ],
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2007-06-16 10:15:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record; call-filter decoded {'flip': False, 'skip_always': True, 'blocks': True})",
+      "Helbreath.exe"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2007-06-16 11:15:36",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "Helbreath.exe"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2003-11-11 12:28:48 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "4.08/Helgame.exe",
+   "stored": "git",
+   "size": 420864,
+   "sha256": "139f816eddd643345704bf5733c3a2d39c82b3608afe1fa7b1608bb099da0c30",
+   "what": "Program or library: Helgame.exe",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-12-14 17:15:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record; call-filter decoded {'flip': False, 'skip_always': True, 'blocks': True})",
+      "Helgame.exe"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2008-12-14 16:00:20 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "4.12.01/Helgame.exe",
+   "stored": "git",
+   "size": 412672,
+   "sha256": "d5c0a6e5f9c45b6ddb2f9f1ca7038a98458ae9a6715cf275fb1e52119e59ac34",
+   "what": "Program or library: Helgame.exe",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2010-04-23 09:08:16",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "Helgame.exe"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 2010-04-21 09:41:56 UTC (set by the linker when the program was built)."
+  },
+  {
+   "path": "4.12.01/unins000.exe",
+   "stored": "git",
+   "size": 695578,
+   "sha256": "880c830bcd1e792c89bb5bf963cd42dd868b6d6031b86c613268e934931509fd",
+   "what": "Program or library: unins000.exe",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2008-12-31 00:02:38",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "unins000.exe"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ],
+   "notes": "PE link timestamp 1992-06-19 22:22:17 UTC (set by the linker when the program was built)."
   },
   {
    "path": "launcher-japan-2002/Helbreath.exe",
@@ -817,7 +1414,8 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2002-10-09 06:25:18 UTC (set by the linker when the program was built)."
   },
   {
    "path": "launcher-korea-2002/Helbreath.exe",
@@ -864,7 +1462,8 @@
       "basis": "not stated by any source"
      }
     }
-   ]
+   ],
+   "notes": "PE link timestamp 2002-03-01 11:49:09 UTC (set by the linker when the program was built)."
   },
   {
    "path": "test-server-2007/HelGame.exe",
@@ -1025,12 +1624,12 @@
    "version": {
     "value": "4.08",
     "confidence": "verified",
-    "basis": "file name and FilePlanet listing"
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
    },
    "region": {
     "value": "USA",
     "confidence": "verified",
-    "basis": "file name helbreathusa_setup_408.exe"
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
    },
    "era": {
     "value": "unknown",
@@ -1048,12 +1647,12 @@
      "version": {
       "value": "4.08",
       "confidence": "verified",
-      "basis": "file name and FilePlanet listing"
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
      },
      "region": {
       "value": "USA",
       "confidence": "verified",
-      "basis": "file name helbreathusa_setup_408.exe"
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
      },
      "era": {
       "value": "unknown",
@@ -1062,7 +1661,7 @@
      }
     }
    ],
-   "notes": "Outside 1999-2005; not unpacked here. MD5 8839990c498bcd9944ce486d3036eec3 matched. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
+   "notes": "Inno Setup 5.2.3; unpacked into the type folders as version 4.08 with inno5.py (all 728 files matched the installer MD5s). MD5 8839990c498bcd9944ce486d3036eec3 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals"
   }
  ]
 }

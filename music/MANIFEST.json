@@ -23,7 +23,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -80,6 +83,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 10:15:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/aresden.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:15:52",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/aresden.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/aresden.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -105,7 +188,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -162,6 +248,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 10:18:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/dungeon.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:18:26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/dungeon.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/dungeon.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -187,7 +353,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -244,6 +413,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 10:17:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/elvine.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-11-04 11:17:30",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/elvine.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/elvine.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -269,7 +518,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -326,6 +578,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-13 19:29:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/MainTm.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-13 20:29:24",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/MainTm.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/MainTm.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -351,7 +683,10 @@
     "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
    },
    "also_in": [
-    "3.0 'The Apocalypse'"
+    "3.0 'The Apocalypse'",
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
    ],
    "origins": [
     {
@@ -408,6 +743,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-01 14:02:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/middleland.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2000-12-01 15:02:20",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/middleland.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/middleland.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -432,6 +847,11 @@
     "confidence": "verified",
     "basis": "product name"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
@@ -460,6 +880,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 10:57:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/abaddon.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 11:57:58",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/abaddon.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/abaddon.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -484,6 +984,11 @@
     "confidence": "verified",
     "basis": "product name"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
@@ -512,6 +1017,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-12-13 16:47:22",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/Carol.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2002-12-13 17:47:22",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/Carol.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/Carol.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -536,6 +1121,11 @@
     "confidence": "verified",
     "basis": "product name"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
@@ -564,6 +1154,86 @@
       "confidence": "verified",
       "basis": "product name"
      }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 10:58:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/druncncity.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2003-09-29 11:58:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/druncncity.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/druncncity.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
     }
    ]
   },
@@ -588,6 +1258,11 @@
     "confidence": "unknown",
     "basis": "not stated by any source"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "Wayback Machine capture of the official Helbreath USA site",
@@ -608,6 +1283,86 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 06:33:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/Carol0.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 07:33:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/Carol0.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/Carol0.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
      },
      "era": {
       "value": "unknown",
@@ -638,6 +1393,11 @@
     "confidence": "unknown",
     "basis": "not stated by any source"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "Wayback Machine capture of the official Helbreath USA site",
@@ -658,6 +1418,86 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 06:32:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/Carol1.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 07:32:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/Carol1.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/Carol1.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
      },
      "era": {
       "value": "unknown",
@@ -688,6 +1528,11 @@
     "confidence": "unknown",
     "basis": "not stated by any source"
    },
+   "also_in": [
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "4.08",
+    "4.12.01"
+   ],
    "origins": [
     {
      "source": "Wayback Machine capture of the official Helbreath USA site",
@@ -708,6 +1553,586 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "served by helbreathusa.com"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 06:32:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "MUSIC/Carol2.wav"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2004-12-17 07:32:08",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "MUSIC/Carol2.wav"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    },
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/Carol2.wav"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/avatar.mp3",
+   "stored": "git",
+   "size": 5066187,
+   "sha256": "69b71255983cef39384dba94e5c18c172ba08a92fa2aac1cbcc02d2f6c908162",
+   "what": "Music track: avatar.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/avatar.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/crusade.mp3",
+   "stored": "git",
+   "size": 3185486,
+   "sha256": "08fdc2e6a4d444cf5ee569ff763f1df0f6fcdce40ad1b86ff383eeb35f45f8af",
+   "what": "Music track: crusade.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/crusade.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost.mp3",
+   "stored": "git",
+   "size": 5194187,
+   "sha256": "a7b7a129c8f01335fa55fa1d35cdbc2c0e6c9d23bbd78d4d3d74054b515da640",
+   "what": "Music track: lost.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost1.mp3",
+   "stored": "git",
+   "size": 4661289,
+   "sha256": "9798c1916eaf5975568bc7bea6482e24f2634fc8e53a9a205ba8cc49f9d3028f",
+   "what": "Music track: lost1.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost1.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost2.mp3",
+   "stored": "git",
+   "size": 4432457,
+   "sha256": "e59a463b08df2a6bc0c838cd220e51c523a2858b1591e6ad737f1ad618ff3b6a",
+   "what": "Music track: lost2.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost2.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost3.mp3",
+   "stored": "git",
+   "size": 4499330,
+   "sha256": "203cfbc7232e64318eb41f489cd9720be3bf1a0f34d09e02b5cede2d77a1fadd",
+   "what": "Music track: lost3.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost3.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost4.mp3",
+   "stored": "git",
+   "size": 4649796,
+   "sha256": "ff51b9ee04317b053f05ee8bcfad9942ccf3e74492d81dd65aa29068351b91c4",
+   "what": "Music track: lost4.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost4.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost5.mp3",
+   "stored": "git",
+   "size": 4632555,
+   "sha256": "61d5357c61194285df31d42f32f456aa99e60ca859cb00b3fd0329d4512fc2a4",
+   "what": "Music track: lost5.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost5.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/lost6.mp3",
+   "stored": "git",
+   "size": 5041758,
+   "sha256": "ce3cbbed07e07929e9da57bbb16c1389fae527ea65a8d4bd37298c75a119302e",
+   "what": "Music track: lost6.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/lost6.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.82-bundle/stadium.mp3",
+   "stored": "git",
+   "size": 3620328,
+   "sha256": "1c7059d9e6f6d5f2224e72e861d3ee591c7a6d35002f1eae53d53ba430460031",
+   "what": "Music track: stadium.mp3",
+   "version": {
+    "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "confidence": "verified",
+    "basis": "archive name and entry dates"
+   },
+   "region": {
+    "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+    "confidence": "verified",
+    "basis": "Client/Helbreath/LOGIN.CFG"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "community forum file helbreath-v3.82.zip (a GitHub zip of the relivehelbreath/helbreath-v3.82 repo)",
+     "url": "unknown",
+     "downloaded": "2026-10-25",
+     "documented": "2020-04-26",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "helbreath-v3.82.zip (Zip)",
+      "helbreath-v3.82-master/Client/Helbreath/MUSIC/stadium.mp3"
+     ],
+     "version": {
+      "value": "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+      "confidence": "verified",
+      "basis": "archive name and entry dates"
+     },
+     "region": {
+      "value": "community private server; its LOGIN.CFG points to 51.15.15.123:12981",
+      "confidence": "verified",
+      "basis": "Client/Helbreath/LOGIN.CFG"
      },
      "era": {
       "value": "unknown",
