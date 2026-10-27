@@ -128,6 +128,38 @@
      "extracted_from": null
     }
    ]
+  },
+  {
+   "path": "2.02-installer-table.txt",
+   "stored": "git",
+   "size": 44465,
+   "sha256": "75256a6659b04aee55a96f2bb8f469e43b95cefbcd2f1306c6ae4609cfd4bf3c",
+   "what": "File table of the 2.02 installer Hb202full_ENG.exe as read by Tools installer/hb_installer_extract.py: per file the size, packed size, file time, stored checksum, flags and raw bytes",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title"
+   },
+   "origins": [
+    {
+     "source": "this project: written by hb_installer_extract.py when the 2.02 installer was unpacked; first kept in Downloads-Archive retail_2001/extracted_listing.txt",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "2026-10-25",
+     "documented_kind": "written",
+     "extracted_from": null
+    }
+   ]
   }
  ]
 }
