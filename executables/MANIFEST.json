@@ -1670,9 +1670,9 @@
    "sha256": "2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f",
    "what": "Installer from the 2001 USA retail disc, renamed from setup.exe for a unique release name; never run",
    "version": {
-    "value": "Crusade, USA retail disc (2001)",
-    "confidence": "inferred",
-    "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+    "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Beta'; HelGame.exe PE timestamp 2001-05-08 (2.02: 2001-08-21); 2.02 is a strict superset of its 390 files; disc titled 'The Crusade' but has no Crusade content"
    },
    "region": {
     "value": "USA",
@@ -1680,9 +1680,9 @@
     "basis": "redump title 'Helbreath - The Crusade (USA)'"
    },
    "era": {
-    "value": "Crusade",
+    "value": "pre-Crusade beta (shipped on a disc titled The Crusade)",
     "confidence": "verified",
-    "basis": "disc title 'The Crusade'"
+    "basis": "none of the 49 Crusade-only 2.02 files (catapult, manastone, crueffect sprites, Crusade maps) are present"
    },
    "origins": [
     {
@@ -1697,9 +1697,9 @@
       "setup.exe"
      ],
      "version": {
-      "value": "Crusade, USA retail disc (2001)",
-      "confidence": "inferred",
-      "basis": "disc title 'Helbreath - The Crusade (USA)' (redump 65970) and file dates 2001-03 to 2001-05; client version not yet read"
+      "value": "pre-2.02 'Helbreath Beta' (built 2001-05-08)",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Beta'; HelGame.exe PE timestamp 2001-05-08 (2.02: 2001-08-21); 2.02 is a strict superset of its 390 files; disc titled 'The Crusade' but has no Crusade content"
      },
      "region": {
       "value": "USA",
@@ -1707,9 +1707,9 @@
       "basis": "redump title 'Helbreath - The Crusade (USA)'"
      },
      "era": {
-      "value": "Crusade",
+      "value": "pre-Crusade beta (shipped on a disc titled The Crusade)",
       "confidence": "verified",
-      "basis": "disc title 'The Crusade'"
+      "basis": "none of the 49 Crusade-only 2.02 files (catapult, manastone, crueffect sprites, Crusade maps) are present"
      }
     }
    ]

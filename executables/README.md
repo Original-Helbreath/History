@@ -41,7 +41,7 @@ Over 100 MB, or kept elsewhere; download from the link given.
 | `Hb202full_ENG.exe` | 2.02 | International (English) | 2001-08-21 (installer-entry) | 211,830,945 | `6f5c3ecda251e85c84ad89b9c06bef24b32f01f060c53ea483762c6aaa52d9a2` | release: Original-Helbreath/History/history-1 |
 | `hbusa_apocalypse.exe` | 3.0 'The Apocalypse' | USA | 2003-11-14 (host-listing) | 241,288,011 | `46530f11079f28234da1b64bbbcea17370542986778da809c1b55f8bdf62be15` | release: Original-Helbreath/Downloads-Archive/originals |
 | `helbreathusa_setup_408.exe` | 4.08 | USA | 2009-04-30 (host-listing) | 214,673,897 | `923991c374ac25f2fac7f9e482cc61aa188421d8ebc6447e9664efa8f0ca3093` | release: Original-Helbreath/Downloads-Archive/originals |
-| `usa-2001-setup.exe` | Crusade, USA retail disc (2001) | USA | 2001-05-08 (iso-entry) | 157,269,112 | `2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f` | release: Original-Helbreath/History/history-1 |
+| `usa-2001-setup.exe` | pre-2.02 'Helbreath Beta' (2001-05-08) | USA | 2001-05-08 (iso-entry) | 157,269,112 | `2915984ce2a7bc7b9b49e73dc12e5c06daa3ba38df73f617fe87120913545a0f` | release: Original-Helbreath/History/history-1 |
 
 - `Hb202full_ENG.exe`: The installer format is Siementech's own; 7-Zip cannot open it.
 - `hbusa_apocalypse.exe`: MD5 81431f5c33f98b153ad6fc43b89292b5 matched FilePlanet. Download: https://github.com/Original-Helbreath/Downloads-Archive/releases/tag/originals
