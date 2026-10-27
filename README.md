@@ -20,26 +20,30 @@ shows what that version added or changed. To get a playable folder tree instead,
 
 | Folder | What |
 |---|---|
-| [`documents/`](documents/) | Start here: `timeline.md`, `version-history.md` (every version held, and what is missing), `domains.md`, and the game's own player manuals. |
-| [`executables/`](executables/) | Game clients, launchers, updaters and DLLs; the installers as release assets. |
+| [`documents/`](documents/) | Start here: `timeline.md`, `version-history.md` (every version held, and what is missing), `domains.md`, and `shipped/` (manuals, release notes, rules shipped with the game). |
+| [`executables/`](executables/) | Game clients, launchers, updaters, server binaries and DLLs; the installers as release assets. |
 | [`sprites/`](sprites/) | `.pak` sprite files. |
-| [`art/`](art/) | PNG previews of notable sprite sheets by subject (Crusade, monsters, NPCs, characters, interface, world, items). |
+| [`art/`](art/) | Every sheet of every pak, by version then pak: the bitmap as stored in the pak (byte for byte, as release archives) and its frame table as JSON (in git). |
 | [`maps/`](maps/), [`sounds/`](sounds/), [`music/`](music/), [`fonts/`](fonts/) | Client game data. |
 | [`configs/`](configs/) | `CONTENTS/` game text and tables, `LOGIN.CFG` server addresses, other text. |
 | [`images/`](images/) | Installer artwork and palettes. |
 | [`video/`](video/) | The 2001 Crusade trailer (release asset). |
-| [`archives/`](archives/) | Original archives kept whole: official patches, historical source drops (2.03, 2.20, 3.51), 3.51 server files; disc image and as-found client trees (release assets). |
+| [`other/`](other/) | Anything else a client shipped (uninstaller data, updater list). |
+| [`archives/`](archives/) | Original archives kept whole: official patches, historical source drops (2.03, 2.20, 3.51), 3.51 server files; disc image, as-found client trees and art archives (release assets). |
+| [`community/`](community/) | **Not official.** Private-server community material: modern drops (2022 HBX client, rewrites, a web shop) and the community 3.82 bundle's server files and sources. |
 | [`tools/`](tools/) | Third-party utilities the official sites offered. Listed and linked, not copied. |
 
 Versions held: 2.02 "Crusade" (2001), 2.23 (2003), 3.0 "The Apocalypse" (2003), 3.1, 3.72, 3.80, 3.81 (2003-2005), a 2007
-test-server client, the 2002 Korean and Japanese launchers, and sources 2.03, 2.19/2.20 and 3.51. See `documents/version-history.md`.
+test-server client, USA 4.08 (2009) and 4.12.01 (2010), the 2002 Korean and Japanese launchers, sources 2.03, 2.19/2.20 and
+3.51, and the community 3.82 bundle (version folder `3.82-bundle`). See `documents/version-history.md`.
 
 Each folder has a `README.md` (what it holds, which version, date, source URL, SHA-256) and a `MANIFEST.json`.
 
 ## Manifests
 
 Every file in a folder, and every release asset belonging to it, has one record in that folder's `MANIFEST.json`
-(`documents/manuals/` has its own). `README.md` and `MANIFEST.json` themselves are not listed.
+(`documents/shipped/` and each `art/<version>/` have their own). An `art` row also has `frames` (frame count) and
+`bitmap` (the sheet's bitmap: file name, release archive, size, SHA-256, and `pak_offset` / `pak_length` inside its pak). `README.md` and `MANIFEST.json` themselves are not listed.
 
 | Field | Meaning |
 |---|---|
@@ -70,7 +74,9 @@ listed in the README and manifest of the folder it belongs to.
 ## Where it came from
 
 Nothing here was made by this project except the READMEs, the manifests, the three documents in `documents/`, the
-preview PNGs in `art/` (decoded from the original `.pak` files without changes) and the two as-found client archives.
+frame-table JSON files in `art/` (extracted metadata), and the release archives it repacked (as-found client trees and art).
+The 4.08 install was unpacked with a standard-library Inno Setup reader written for this archive; every file matched the MD5
+the installer stores.
 `.gitattributes` turns off line-ending conversion, so every file checks out byte-for-byte as found. The downloads themselves are kept
 untouched in [Downloads-Archive](https://github.com/Original-Helbreath/Downloads-Archive); the research behind every
 date is in [2.20-Documentation](https://github.com/Original-Helbreath/2.20-Documentation) `research/`.

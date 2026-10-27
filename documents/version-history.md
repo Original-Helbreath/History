@@ -18,8 +18,9 @@ One row per version, oldest first. Dates are the files' own (see `timeline.md` f
 | 3.80 "Wish Ball" | USA | 2005-02-23 | Update: `HelGame.exe` | `3.80` | Wayback |
 | 3.81 | USA | 2005-07-22 | Update from 3.72 | `3.81` | Wayback |
 | test server | USA | 2007-05-30 | `HelGame.exe` | `test-server-2007` | Wayback |
-| late 3.8x | USA | captured 2011-07-11 | Full install zip (release asset, not unpacked) | - | Wayback |
-| 4.08 | USA | 2009-04-30 | Installer (release asset, not unpacked) | - | FilePlanet |
+| 4.08 | USA | 2009-04-30 (FilePlanet); file times to 2009 | Full install (728 files; Inno Setup 5.2.3, unpacked with a stdlib extractor, every file MD5-checked) and release notes back to earlier 4.0x | `4.08` | FilePlanet |
+| 4.12.01 | USA | zip entry 2010-09-19, captured 2011-07-11 | Full install (734 files; WinRAR self-extractor) with release notes, plus the shipped `SPRITES.zip` | `4.12.01` | Wayback |
+| 3.82 community bundle | community private server (`LOGIN.CFG` 51.15.15.123) | zip entries 2020-04-26 | Client data, official Main/World Log binaries (2002), community server files and sources | `3.82-bundle`, `community/3.82-bundle` | community forum |
 
 Missing: every patch between 2.02 and 2.23 (2.03 to 2.22) and between 3.1 and 3.7, and any Korean, Japanese or
 Taiwanese full client. The 2.20 client source loads 48 sprite paks that neither 2.02 nor 2.23 provides; most of

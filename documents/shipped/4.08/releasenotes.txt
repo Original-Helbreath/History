@@ -1,0 +1,137 @@
+Helbreath USA 4.08 Releasenotes:
+================================
+* Removed the dialog box of "you've entered a battle zone" from appearing.
+* Includes Christmas update.
+* Includes Air-Blast (Effect 5, Slide 6), (Sound E7) (Not available for players yet).
+* Fixed Manufacturing from dropping Minerals.
+* Fixed Alchemy from eating food items.
+* Fixed the dash-ability for all LongSword weapons.
+
+Helbreath USA 4.07 Releasenotes:
+================================
+* This was a beta-release for testing purposes only. Not released into the public.
+* 4.08 is 4.07 with some extra fixes and a different version number.
+
+Helbreath USA 4.06 Releasenotes:
+================================
+* Fixed the dash-ability for all LongSword weapons.
+* Fixed the double-click bug when using alchemy bowl.
+* Christmas PAK files released.
+
+
+Helbreath USA 4.05 Releasenotes:
+================================
+* Friends list has been enabled (Control F).
+  /friend Name to add a friend and /rfriend Name to remove.
+* Show buffs feature has been added /showbuffs to enable or disable.
+* Halloween event pak files and cfgs added.
+* Reversed the pot use back to original (small -> big -> super).
+* Fixed ability to pass or drop Slates while already using one.
+* Fixed Change Play Mode, for Crusades, at City Hall.
+* Changed color of GM messages to Yellow.
+* Fixed crashing of EKs during the crusade.
+* Added “Halloween” monsters.
+* Fixed Storm Bringer dash.
+* Fixed the dead Ice Wyvern body.
+
+/showbuffs Feature:
+General Status:
+* Force Recall Timer  
+Buffs:
+* Show Protection Spells (PFA/PFM/AMP/DFS)  
+* Show Invisibility  
+* Show Berzerk  
+* Show Slate timer  
+
+Friend List Feature:
+Controls:
+Control + F = Display Friend List Dialog Box 
+/friend CharacterName = Add Friend to Friend List 
+/rfriend CharacterName = Remove Friend from Friend List 
+Click Friend from Friend List = Auto Whisper Mode with that Friend
+ 
+Helbreath USA 4.04 Releasenotes:
+================================
+* Temporary: Fishing has been disabled.
+* Temporary: Salmon has been added to the shop.
+* Temporary: Fishing Manual and Rod have been removed from the shop.
+* Corrected several shop and blacksmith prices.
+* Preparation has been made to prevent crashing for upcoming spells.
+* Updated damage dice and endurance of items in the blacksmith.
+* Corrected some spelling errors in itemnames.
+* Renamed the Khaki dye to Bronze dye.
+* Fixed the message at the top when entering enemy buildings.
+* Client no longer allows to upgrade pendants without the required magestic points.
+* Corrections have been made to the FPS Cap.
+* Able to place farming seeds while holding a hoe.
+* Mini map no longer shows in Maze.
+* Removed the ability to use slates during Crusades.
+* Added Neutral Attack Mode (Control N) (4.03 release).
+* HP Slate color darkened (4.03 release).
+* Level limit of 55 added to most unique items (4.03 release).
+
+Helbreath USA 4.03 Releasenotes:
+================================
+* Added animation for upcoming new spell (Not released yet).
+* Removed "Hero Items" from displaying as green items.
+* Super Potions have been added to the Insert and Delete keys.
+* Order of chugging for Insert and Delete has changes (Super, Big, Small).
+* Name of Giant Plant has been corrected, previously Giant Tree.
+* Ice Wyvern shows Ice Storm effect when it dies.
+* Count in questbox has been corrected.
+* Previously unable to buy MIM in the shop, this has been fixed.
+* Several itemnames are changed.
+* Ability to run into enemy buildings has been corrected.
+* Fixed RM20 Crafting Item Issue.
+* Corrected FPS.
+* Added Neutral Auto Attack Mode.
+* Removed Kharki from game.
+* New colour added, Bronze.
+* Changed Black to a TRUE Black.
+* Mass Illusion Magic has had the cost corrected on client side.
+* Increased the client deletion level to 100.
+
+Helbreath USA 4.02 Releasenotes:
+================================
+* Illusion Movement bugs have been fixed.
+* Mass Illusion Movement bugs have been fixed.
+* Issues regarding mana use and display for Black Temple Wand have been fixed.
+* Pressing INSERT uses big pots before small pots.
+* Forgotten releasenote: IceWyvern is transparant (Ghost effect).
+* BlackMageTemple has been renamed to "Dragon Wand of Legend".
+* BlackKnightTemple has been renamed to "Temple Sword of Legends".
+* MS of "Dragon Wand of Legend" has been updated from MS28 to MS32.
+* DMG dice of "Temple Sword of Legends" is updated from 2D10+2/2D12+2 to 4D7+1/4D8+1.
+
+Helbreath USA 4.01 Releasenotes:
+================================
+* Gold Dye is working again, all old "Gold" items are shown as gold again. 
+* Manacost of spells with DK wands is corrected. 
+* FPS has been doubled from 4.00. 
+* More special items added as "green". 
+* Possibility to start multiple HB clients, this in order to safely transfer items from and to your accounts. 
+* Ability to delete characters below 101, instead of below 81. 
+* Some messages have changed to be more easily read. 
+* Illusion-Movement and Mass-Illusion-Movement have been temporarily disabled.
+
+Helbreath USA 4.00 Releasenotes:
+================================
+* Special items show as green in the warehouse list.
+* Clients timestamp in screen shot has been improved.
+* Sparkles on Angels has been removed to reduce lag for players.
+* When changing stats, available points has been changed to green and proposed changes have been changed to red. 
+* Corpse of larger monsters has been changed. 
+* Druncnian City high detail made visually easier on the eyes.
+
+* Fix: Game loads on the first attempt.
+* Fix: All sound works in game.
+* Fix: Change button is visible (Changing STATS with majestic points).
+* Fix: EK notification is correct (Killed enemy Name of Guild).
+* Fix: Spells learned with INT angel will stay after changing maps.
+* Fix: Rain now shows correctly in all maps. 
+* Fix: Snow now shows correctly in Ice Bound. 
+* Fix: Changing maps no longer causes bindings to become unset. 
+* Fix: Change password function in client will now take you to the iEnt account maintenance site. 
+* Fix: Moving from one PvP zone from another no longer repeats the message.
+* Fix: Name of party member shows correctly (Name, Party Member).
+       Party still needs to be remade if changing maps.

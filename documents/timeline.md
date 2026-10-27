@@ -1,4 +1,4 @@
-# Helbreath timeline, 1999-2007
+# Helbreath timeline, 1999-2011
 
 Every row names its source. **verified** = read on the source page or in the file itself; **reported** = a search
 summary or a community-edited mirror only; **inferred** = worked out from file dates, with the reasoning given.
@@ -38,7 +38,9 @@ Conflicting dates are shown side by side, not resolved.
 | 2005-07 | Helbreath USA 14-day free trial | forums.mmorpg.com discussion 44426 | verified |
 | 2006-05 | iEntertainment cease-and-desist letters to private servers | Wikipedia mirror | reported |
 | 2007-05-30 | USA test server serves a new HelGame.exe | entry date in `test.helbreathusa.com/Download/HelGame.zip` | verified (file date) |
-| 2009-04-30 | Helbreath USA v4.08 installer on FilePlanet | fileplanet.download.it p-52956 | verified |
+| 2009-04-30 | Helbreath USA v4.08 installer on FilePlanet ("Helbreath USA 4.08", iEntertainment) | fileplanet.download.it p-52956; Inno Setup header | verified |
+| 2010-09-19 | Helbreath USA full install packed (release notes up to 4.12.01) | zip entry date and `releasenotes.txt` | verified (file date) |
+| 2011-07-11 | helbreathusa.com still serves the full install | Wayback capture | verified (capture) |
 
 Not found: the closing date of any official service; any dated source for the 2.1x builds; the date Heldenian
 was introduced (the earliest Heldenian material held here is the 3.51 server's SQL scripts, about 2005).

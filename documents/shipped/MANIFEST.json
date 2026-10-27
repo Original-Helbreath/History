@@ -1,0 +1,516 @@
+{
+ "folder": "shipped",
+ "files": [
+  {
+   "path": "2.02/Readme.htm",
+   "stored": "git",
+   "size": 86164,
+   "sha256": "505e380f923d1a3b5562874a878a00bfdb8087e66c3c0bef995f98f0ba796434",
+   "what": "Document shipped with the game: Readme.htm",
+   "version": {
+    "value": "2.02",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade v2.02'"
+   },
+   "region": {
+    "value": "International (English)",
+    "confidence": "inferred",
+    "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+   },
+   "era": {
+    "value": "Crusade",
+    "confidence": "verified",
+    "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+   },
+   "origins": [
+    {
+     "source": "archive.org item helbreath-the_crusade-2001: the 2001 retail CD 'HelbreatH - The Crusade'",
+     "url": "https://archive.org/download/helbreath-the_crusade-2001/HelbreatH.iso",
+     "downloaded": "2026-10-25",
+     "documented": "2001-05-08 01:08:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "HelbreatH.iso (ISO 9660)",
+      "Hb202full_ENG.exe (Siementech installer payload, unpacked with Tools installer/hb_installer_extract.py)",
+      "Readme.htm"
+     ],
+     "version": {
+      "value": "2.02",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade v2.02'"
+     },
+     "region": {
+      "value": "International (English)",
+      "confidence": "inferred",
+      "basis": "installer name Hb202full_ENG and its 2001 date; the English server opened 2001-09, the USA service only in 2003"
+     },
+     "era": {
+      "value": "Crusade",
+      "confidence": "verified",
+      "basis": "installer title 'Helbreath Crusade'; Crusade expansion announced 2001-07"
+     }
+    }
+   ]
+  },
+  {
+   "path": "3.0/Readme.htm",
+   "stored": "git",
+   "size": 102456,
+   "sha256": "6fcc83feff315e56380c4b200d9c19ce61bcfbba056bb41e9678280b309fcf1b",
+   "what": "Document shipped with the game: Readme.htm",
+   "version": {
+    "value": "3.0 'The Apocalypse'",
+    "confidence": "verified",
+    "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "file name hbusa_apocalypse.exe"
+   },
+   "era": {
+    "value": "Apocalypse",
+    "confidence": "verified",
+    "basis": "product name"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
+     "url": "https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2002-02-09 13:26:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "hbusa_apocalypse.exe (self-extractor, unpacked with 7-Zip)",
+      "Disk1/data1.hdr + data1.cab + data2.cab (InstallShield 6, unpacked with is6_extract.py)",
+      "Readme.htm"
+     ],
+     "notes": "Date decoded from the InstallShield 6 file descriptor (DOS date at offset 0x44, time at 0x46); the field layout is inferred, not documented.",
+     "version": {
+      "value": "3.0 'The Apocalypse'",
+      "confidence": "verified",
+      "basis": "FilePlanet listing 'Helbreath: The Apocalypse v3.0'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "file name hbusa_apocalypse.exe"
+     },
+     "era": {
+      "value": "Apocalypse",
+      "confidence": "verified",
+      "basis": "product name"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/Conduct Rules.doc",
+   "stored": "git",
+   "size": 46080,
+   "sha256": "578fa486257f37758c4481979cc6a569256bc0702c71cc7d43bf1b3f8f4de27d",
+   "what": "Document shipped with the game: Conduct Rules.doc",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-07-23 10:27:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "CONDUCT/Conduct Rules.doc"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/Conduct Rules.txt",
+   "stored": "git",
+   "size": 14467,
+   "sha256": "6464f1cf3e39ccbe48ef1542c62275bcb365253617d0ebaf1737980dc505a574",
+   "what": "Document shipped with the game: Conduct Rules.txt",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-07-23 10:27:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "CONDUCT/Conduct Rules.txt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/Helbreath_128.ico",
+   "stored": "git",
+   "size": 6518,
+   "sha256": "71e22884b67eb49d4164dc68304d03c8220be77dabc3aa453cee25cbf90621df",
+   "what": "Document shipped with the game: Helbreath_128.ico",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2007-06-16 10:21:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "CONDUCT/Helbreath_128.ico"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/releasenotes.txt",
+   "stored": "git",
+   "size": 6332,
+   "sha256": "0334aeda44347216bbcff42134d755277143e02e653031d20757d4c379eb7aa8",
+   "what": "Document shipped with the game: releasenotes.txt",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-12-14 18:08:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "releasenotes.txt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/Terms and Conditions.doc",
+   "stored": "git",
+   "size": 43520,
+   "sha256": "2e8f8e27954c00fddb7801f2adaf18e302e08c5d8eb9d7f787c4ccac27a8b317",
+   "what": "Document shipped with the game: Terms and Conditions.doc",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-07-23 10:28:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "CONDUCT/Terms and Conditions.doc"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.08/Terms and Conditions.txt",
+   "stored": "git",
+   "size": 14626,
+   "sha256": "834934410a78b9284f3109cf582f08bc74c8587b97ed90e849688b673d779974",
+   "what": "Document shipped with the game: Terms and Conditions.txt",
+   "version": {
+    "value": "4.08",
+    "confidence": "verified",
+    "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
+     "url": "https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe",
+     "downloaded": "2026-10-27",
+     "documented": "2008-07-23 10:29:28",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "helbreathusa_setup_408.exe (Inno Setup 5.2.3, unpacked with inno5.py; MD5 matched the installer's record)",
+      "CONDUCT/Terms and Conditions.txt"
+     ],
+     "notes": "Date is the file time stored in the Inno Setup location entry (UTC).",
+     "version": {
+      "value": "4.08",
+      "confidence": "verified",
+      "basis": "Inno Setup AppVerName 'Helbreath USA 4.08' and releasenotes.txt"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.12.01/releasenotes.txt",
+   "stored": "git",
+   "size": 15057,
+   "sha256": "25187cc4eca5511bf80c4a6126fcd2c62acb84e94cd64776bd51cefffef15173",
+   "what": "Document shipped with the game: releasenotes.txt",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2010-04-23 09:09:38",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "releasenotes.txt"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  },
+  {
+   "path": "4.12.01/Rules.txt",
+   "stored": "git",
+   "size": 36507,
+   "sha256": "53fe6d3260b7648811e5bbb7ef6f55aa1dcf652f4f662e1de4c1c8dbf7f7354a",
+   "what": "Document shipped with the game: Rules.txt",
+   "version": {
+    "value": "4.12.01",
+    "confidence": "verified",
+    "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+   },
+   "region": {
+    "value": "USA",
+    "confidence": "verified",
+    "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "Wayback Machine capture of the official Helbreath USA site (full install)",
+     "url": "https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip",
+     "downloaded": "2026-10-27",
+     "documented": "2010-09-19 20:51:00",
+     "documented_kind": "archive-entry",
+     "extracted_from": [
+      "Helbreath USA Install.zip (Zip, entry 2010-09-19)",
+      "Helbreath USA Install.exe (WinRAR self-extractor, RAR archive at offset 100864, unpacked with 7-Zip; CRCs verified)",
+      "Rules.txt"
+     ],
+     "version": {
+      "value": "4.12.01",
+      "confidence": "verified",
+      "basis": "releasenotes.txt in the install, top entry 'Helbreath USA 4.12.01'"
+     },
+     "region": {
+      "value": "USA",
+      "confidence": "verified",
+      "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     }
+    }
+   ]
+  }
+ ]
+}
