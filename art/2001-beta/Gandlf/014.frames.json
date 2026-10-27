@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/Gandlf.pak",
+ "pak_sha256": "064f55447dab1cb5911df40f2e034e57bf6b35d1b11fd6a9932c80cae4c9b753",
+ "sheet": 14,
+ "sheets_in_pak": 16,
+ "block_offset": 392092,
+ "block_length": 29192,
+ "bitmap_offset": 392248,
+ "bitmap_length": 29036,
+ "bitmap_sha256": "37a6252b62299aa485dd78711d51707206f3861b8c1f33c84b2f377f4c42e5fc",
+ "bitmap_format": "Windows BMP, 140x69, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 33,
+   "height": 69,
+   "pivot_x": -18,
+   "pivot_y": -64
+  },
+  {
+   "x": 33,
+   "y": 0,
+   "width": 28,
+   "height": 67,
+   "pivot_x": -14,
+   "pivot_y": -62
+  },
+  {
+   "x": 61,
+   "y": 0,
+   "width": 51,
+   "height": 58,
+   "pivot_x": -29,
+   "pivot_y": -53
+  },
+  {
+   "x": 112,
+   "y": 0,
+   "width": 28,
+   "height": 66,
+   "pivot_x": -14,
+   "pivot_y": -62
+  }
+ ]
+}

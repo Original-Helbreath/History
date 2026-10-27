@@ -1,0 +1,55 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/interface.pak",
+ "pak_sha256": "2d2e4a8fcfd15b120fca3d784498ebbfb92bfe21cff510f401ffd9963b52a898",
+ "sheet": 16,
+ "sheets_in_pak": 17,
+ "block_offset": 4941716,
+ "block_length": 1080882,
+ "bitmap_offset": 4941884,
+ "bitmap_length": 1080714,
+ "bitmap_sha256": "302580929ce6e324a19059ce03e4744fd474e88476be8df4247a5bc97d018ba6",
+ "bitmap_format": "Windows BMP, 620x581, 24 bpp",
+ "frames": [
+  {
+   "x": 323,
+   "y": 287,
+   "width": 290,
+   "height": 290,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 324,
+   "y": 0,
+   "width": 290,
+   "height": 290,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 10,
+   "y": 1,
+   "width": 290,
+   "height": 290,
+   "pivot_x": 0,
+   "pivot_y": 0
+  },
+  {
+   "x": 309,
+   "y": 104,
+   "width": 10,
+   "height": 11,
+   "pivot_x": -4,
+   "pivot_y": -4
+  },
+  {
+   "x": 309,
+   "y": 116,
+   "width": 10,
+   "height": 11,
+   "pivot_x": -4,
+   "pivot_y": -5
+  }
+ ]
+}

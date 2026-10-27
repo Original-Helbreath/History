@@ -1,0 +1,31 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/item-ground.pak",
+ "pak_sha256": "aeb71a3caed84c35a307159177b2e660324c65d8c5177db10bb66a19a54e6979",
+ "sheet": 1,
+ "sheets_in_pak": 19,
+ "block_offset": 47166,
+ "block_length": 4420,
+ "bitmap_offset": 47298,
+ "bitmap_length": 4288,
+ "bitmap_sha256": "00359a7dff44fa7d9dfeb082db7b545f5f7922dc4facb6e0cb3084c3766ac81e",
+ "bitmap_format": "Windows BMP, 61x23, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 28,
+   "height": 23,
+   "pivot_x": -16,
+   "pivot_y": -13
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 33,
+   "height": 23,
+   "pivot_x": -21,
+   "pivot_y": -14
+  }
+ ]
+}

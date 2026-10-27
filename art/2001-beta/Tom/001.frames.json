@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/Tom.pak",
+ "pak_sha256": "de14b6a83ddc33a550f0f520badd6905ebf3e48debe940328c052c45a401e283",
+ "sheet": 1,
+ "sheets_in_pak": 2,
+ "block_offset": 26650,
+ "block_length": 19712,
+ "bitmap_offset": 26806,
+ "bitmap_length": 19556,
+ "bitmap_sha256": "7a033a71ea1406cf12797822b7d65af5f8cec970f087d44e8e2537578ede223f",
+ "bitmap_format": "Windows BMP, 166x39, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 2,
+   "width": 44,
+   "height": 33,
+   "pivot_x": -58,
+   "pivot_y": -33
+  },
+  {
+   "x": 46,
+   "y": 1,
+   "width": 37,
+   "height": 33,
+   "pivot_x": -51,
+   "pivot_y": -37
+  },
+  {
+   "x": 84,
+   "y": 2,
+   "width": 38,
+   "height": 37,
+   "pivot_x": -54,
+   "pivot_y": -36
+  },
+  {
+   "x": 123,
+   "y": 0,
+   "width": 43,
+   "height": 36,
+   "pivot_x": -58,
+   "pivot_y": -35
+  }
+ ]
+}

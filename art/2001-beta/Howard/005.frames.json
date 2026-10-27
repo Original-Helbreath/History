@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/Howard.pak",
+ "pak_sha256": "13fbe85c623003b127af74a1abd39e8a51d61ca61edf1ea4ee0245d3512269ed",
+ "sheet": 5,
+ "sheets_in_pak": 16,
+ "block_offset": 98816,
+ "block_length": 20804,
+ "bitmap_offset": 98972,
+ "bitmap_length": 20648,
+ "bitmap_sha256": "d7b5e9b7163b68347ac169801667ef94b832ae2b14f5dc381ec1618125d64cf6",
+ "bitmap_format": "Windows BMP, 104x66, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 26,
+   "height": 66,
+   "pivot_x": -19,
+   "pivot_y": -62
+  },
+  {
+   "x": 26,
+   "y": 0,
+   "width": 26,
+   "height": 65,
+   "pivot_x": -19,
+   "pivot_y": -61
+  },
+  {
+   "x": 52,
+   "y": 0,
+   "width": 26,
+   "height": 65,
+   "pivot_x": -19,
+   "pivot_y": -61
+  },
+  {
+   "x": 78,
+   "y": 0,
+   "width": 26,
+   "height": 65,
+   "pivot_x": -19,
+   "pivot_y": -61
+  }
+ ]
+}

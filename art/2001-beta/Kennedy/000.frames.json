@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/Kennedy.pak",
+ "pak_sha256": "3a45ec51c7f32ae70a63420732389812136d41cc1b212969943448b63135a4de",
+ "sheet": 0,
+ "sheets_in_pak": 2,
+ "block_offset": 40,
+ "block_length": 11348,
+ "bitmap_offset": 196,
+ "bitmap_length": 11192,
+ "bitmap_sha256": "254212f62132453eeb3fb4ddd07535a06bdf1ac9bf4abdafdeb8f1a4368e58b3",
+ "bitmap_format": "Windows BMP, 116x32, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 29,
+   "height": 32,
+   "pivot_x": -69,
+   "pivot_y": -44
+  },
+  {
+   "x": 30,
+   "y": 0,
+   "width": 29,
+   "height": 32,
+   "pivot_x": -68,
+   "pivot_y": -44
+  },
+  {
+   "x": 59,
+   "y": 0,
+   "width": 29,
+   "height": 32,
+   "pivot_x": -68,
+   "pivot_y": -44
+  },
+  {
+   "x": 88,
+   "y": 0,
+   "width": 28,
+   "height": 32,
+   "pivot_x": -68,
+   "pivot_y": -44
+  }
+ ]
+}

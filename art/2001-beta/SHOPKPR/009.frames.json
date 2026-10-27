@@ -1,0 +1,47 @@
+{
+ "note": "Extracted metadata, not an original file: the frame table of this sheet as read from the pak.",
+ "pak": "sprites/2001-beta/SHOPKPR.PAK",
+ "pak_sha256": "4a684fc736e89f169f9a58b194d6d935ab48ce7b7875621b3b986b26ec77dc8a",
+ "sheet": 9,
+ "sheets_in_pak": 16,
+ "block_offset": 147956,
+ "block_length": 17204,
+ "bitmap_offset": 148112,
+ "bitmap_length": 17048,
+ "bitmap_sha256": "743496f79b449beeb50da977ac16d56dc91435fc7ffaa43d2794e3b26f49467f",
+ "bitmap_format": "Windows BMP, 95x59, 24 bpp",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 28,
+   "height": 56,
+   "pivot_x": -14,
+   "pivot_y": -53
+  },
+  {
+   "x": 28,
+   "y": 0,
+   "width": 21,
+   "height": 57,
+   "pivot_x": -10,
+   "pivot_y": -54
+  },
+  {
+   "x": 49,
+   "y": 0,
+   "width": 21,
+   "height": 59,
+   "pivot_x": -10,
+   "pivot_y": -53
+  },
+  {
+   "x": 70,
+   "y": 0,
+   "width": 25,
+   "height": 55,
+   "pivot_x": -12,
+   "pivot_y": -54
+  }
+ ]
+}
