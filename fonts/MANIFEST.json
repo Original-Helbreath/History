@@ -27,6 +27,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -197,6 +198,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1998-12-18 06:09:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/ENG00.FNT"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/ENG00.FNT"
     }
    ]
   },
@@ -226,6 +256,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -396,6 +427,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1993-03-25 09:06:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/ENG1.FNT"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/ENG1.FNT"
     }
    ]
   },
@@ -425,6 +485,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -595,6 +656,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1999-06-17 10:42:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/ENG2.FNT"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/ENG2.FNT"
     }
    ]
   },
@@ -625,6 +715,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -963,6 +1054,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1994-09-25 10:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/HAN3.FNT"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/HAN3.FNT"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1994-09-25 10:11:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/Han4.fnt"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/Han4.fnt"
     }
    ]
   },
@@ -992,6 +1141,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1162,6 +1312,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "1999-02-08 11:50:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/Hangul00.fnt"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/Hangul00.fnt"
     }
    ]
   },
@@ -1191,6 +1370,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1361,6 +1541,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-09-15 03:35:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "FONTS/Hangul01.fnt"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "FONTS/Hangul01.fnt"
     }
    ]
   }

@@ -1,6 +1,6 @@
 # music: Music
 
-Client music tracks (`MUSIC/*.wav`), by the version they first appear in.
+Client music tracks (`MUSIC/*.wav`), by the version they first appear in. The `korea-2024/` tracks are obfuscated as shipped (not plain RIFF WAVE; the scheme was not worked out) and are kept as found.
 
 ## Files
 
@@ -27,6 +27,19 @@ Client music tracks (`MUSIC/*.wav`), by the version they first appear in.
 | `3.82-bundle/lost5.mp3` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 (archive-entry) | 4,632,555 | `61d5357c61194285df31d42f32f456aa99e60ca859cb00b3fd0329d4512fc2a4` | git |
 | `3.82-bundle/lost6.mp3` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 (archive-entry) | 5,041,758 | `ce3cbbed07e07929e9da57bbb16c1389fae527ea65a8d4bd37298c75a119302e` | git |
 | `3.82-bundle/stadium.mp3` | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 (archive-entry) | 3,620,328 | `1c7059d9e6f6d5f2224e72e861d3ee591c7a6d35002f1eae53d53ba430460031` | git |
+| `korea-2024/abaddon.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,949,374 | `93d511478dbf3492330a8bd59726c82383f6e3dc308826d3b7fb31a0738421f2` | git |
+| `korea-2024/aresden.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 3,228,448 | `2e359bf37cb132873568d93682b27ef5cd6876e86e8804b34752bd262351f751` | git |
+| `korea-2024/Carol.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,736,482 | `1fe4966123beadd64b61d3b42538d14b6866ccbf07c7d5b34a62e66adcbef9a3` | git |
+| `korea-2024/Carol0.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 3,008,046 | `e26233623a1157685718fad631e0ab46de0b6a84258464523d7784cea05b3c8b` | git |
+| `korea-2024/Carol1.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,349,880 | `a609a8590b24d40f1c00e5b2124cf0150e21383c4fb2808a291542a46f6265a9` | git |
+| `korea-2024/Carol2.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,803,238 | `d312f8352e533c0b625c5860057909b51ff4dd0c328102fe4a53fe6d8d254570` | git |
+| `korea-2024/druncncity.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 1,204,054 | `9fb86a6845d7ce8ee4bf0354731d561244f39d7bdbfcb5c1ed83139d542a0e08` | git |
+| `korea-2024/dungeon.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 3,669,374 | `944b3b25a0376cea93b152baa404fab2c2843a3524942649cccf297f4d87f653` | git |
+| `korea-2024/elvine.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 3,695,252 | `7918f2f4c0c94b0e30ca31781fa56a87d14c99c0749a1ec364520299d7356432` | git |
+| `korea-2024/MainTm.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 3,159,592 | `8b2730dc20e14624672e3008d73fd2225f4c50a3dd396a639eb71062adf84254` | git |
+| `korea-2024/middleland.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,620,350 | `37c2c5538a880cb76cc0ccf7d0d49ead610e25f2dbed143a9ea63b05a363a670` | git |
+| `korea-2024/oldaresden.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,795,246 | `ec7b36a528a368856add421ab4f9df3396d4ba76bb1554201e0d07be3b2eb86f` | git |
+| `korea-2024/oldelvine.wav` | Korea 2024-09-27 client (no version number stated) | Korea | 2010-04-27 (installer-entry) | 2,809,646 | `a9eaf06026a35f2b8bc47233e5f01af9facd9d322d715d4c06f3b206c6290a99` | git |
 
 ## Manifest
 

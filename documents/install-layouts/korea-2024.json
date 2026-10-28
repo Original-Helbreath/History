@@ -1,0 +1,5184 @@
+{
+ "version": "korea-2024",
+ "note": "The install folder exactly as the installer laid it out: every path, its size and SHA-256, and where its bytes are kept in History. Copy each stored_at file to its install_path to rebuild the install.",
+ "files": [
+  {
+   "install_path": "CONTENTS/AItemcfg.txt",
+   "size": 3730,
+   "sha256": "b0cf90b9821652382a256f2e89df5f2e4ff1276607648ab99c8e6373e0bec92e",
+   "stored_at": "configs/korea-2024/AItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/badword.txt",
+   "size": 1499,
+   "sha256": "846e59154ce250f331d17e551779785f6d3d19c919b8d32b0688517aff7f2025",
+   "stored_at": "configs/korea-2024/badword.txt"
+  },
+  {
+   "install_path": "CONTENTS/BItemcfg.txt",
+   "size": 15688,
+   "sha256": "fa2a5073f00adf79b6cd65bb7a180c609315efa7a97163a6a0a7c43558cf2872",
+   "stored_at": "configs/korea-2024/BItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/CItemcfg.txt",
+   "size": 10495,
+   "sha256": "07832a0553f3fcb02b6f2263e0aef640cdc1befdd748039a3091352388eb9d52",
+   "stored_at": "configs/korea-2024/CItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents0.txt",
+   "size": 2580,
+   "sha256": "02ed26c1cf45a2b10c20a52ae8cf1169402f78194326a98d5581de5ebde587c5",
+   "stored_at": "configs/korea-2024/contents0.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents1.txt",
+   "size": 3239,
+   "sha256": "2c0a10cecc11dd0a85a6c4abf65fca07b2cfc57e52a07729042583cc653f0d33",
+   "stored_at": "configs/korea-2024/contents1.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents10.txt",
+   "size": 11067,
+   "sha256": "14425bba67dede54add7b59736ae6e3feefabb18f45b94af94f4bb710a041da5",
+   "stored_at": "configs/korea-2024/contents10.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents100.txt",
+   "size": 1443,
+   "sha256": "f213510973ac07952115335693f18662797b885a6957b06dfb5149bcbcf276eb",
+   "stored_at": "configs/korea-2024/contents100.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents1000.txt",
+   "size": 2302,
+   "sha256": "2116158c2c4a3ab15757fbdaa8baed2906e29ab5c67afe81a2a0c05e36936631",
+   "stored_at": "configs/korea-2024/contents1000.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents101.txt",
+   "size": 1970,
+   "sha256": "453a460d223996bc2df8b05a3d5a1d6965aea41ea018823562fc6d8b8e2bc373",
+   "stored_at": "configs/korea-2024/contents101.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents102.txt",
+   "size": 3229,
+   "sha256": "12283ca4f10e2f462d1ed081863005ff4c8b751584b8766d3f3124583e652029",
+   "stored_at": "configs/korea-2024/contents102.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents103.txt",
+   "size": 1135,
+   "sha256": "eda30786750629f5a47d29fc51074d43017f68a20f4ccf678a926f566edef4ff",
+   "stored_at": "configs/korea-2024/contents103.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents11.txt",
+   "size": 1322,
+   "sha256": "7b57453c66f8948934ccf7db6c69d959253ab7949ac0f89ef8ae834f4f0e3d93",
+   "stored_at": "configs/korea-2024/contents11.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents12.txt",
+   "size": 2054,
+   "sha256": "4ae30a3e5e2f9e7dcc04774e853f14a5758b580f23e9829c0a2884e1507695fd",
+   "stored_at": "configs/korea-2024/contents12.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents121.txt",
+   "size": 68,
+   "sha256": "9352ddf1a46931f0a0a394b763105f2d7a1695963b273ebf90b733ff62c45e63",
+   "stored_at": "configs/korea-2024/contents121.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents122.txt",
+   "size": 8,
+   "sha256": "7c061d2c648b72411606ff3df6b550b2b02ebde8eab32c155cf56ab66d780eef",
+   "stored_at": "configs/2.02/contents122.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents123.txt",
+   "size": 22,
+   "sha256": "073501a09ea4aee5f49941c07c3cba5fac2d6a459a5fd67ec24f302fb4012b4c",
+   "stored_at": "configs/korea-2024/contents123.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents124.txt",
+   "size": 614,
+   "sha256": "f680df9169cd645694c4f14f7f454f2daccf5a478a3ae6389f968b471a463b9d",
+   "stored_at": "configs/korea-2024/contents124.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents13.txt",
+   "size": 1044,
+   "sha256": "bd45daad97b1e36b825e2fa8682cb46a6b879045f616df6dac7d9dc41d485d8f",
+   "stored_at": "configs/korea-2024/contents13.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents134.txt",
+   "size": 56,
+   "sha256": "46ac48862866b64778bd206cb4c0114deb7a580c63eb2f3e93f5571c3bcbeecf",
+   "stored_at": "configs/korea-2024/contents134.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents14.txt",
+   "size": 1248,
+   "sha256": "5323be106704254a9f1aff1b726b6cb0ab4bc4153bb8d06e98c6da4014cca5da",
+   "stored_at": "configs/korea-2024/contents14.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents144.txt",
+   "size": 128,
+   "sha256": "91d03161c45dd6ef84c582c33adce876a88f56b096688f7bc9853e802b7791c6",
+   "stored_at": "configs/korea-2024/contents144.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents15.txt",
+   "size": 324,
+   "sha256": "06d8e09cc0e789051cfd256ded9b9b31e5b8c2213a8cd1b88d564f6b2514d842",
+   "stored_at": "configs/korea-2024/contents15.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents151.txt",
+   "size": 505,
+   "sha256": "5fa00f03a03a2e2f434d6dc6fd47ff89429aec47dda3f7d973dc2795fc38c061",
+   "stored_at": "configs/korea-2024/contents151.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents152.txt",
+   "size": 921,
+   "sha256": "8a74183a0ab50febce22650b1b2dd32ba99f88177e630441241bfe0238fcd0f2",
+   "stored_at": "configs/korea-2024/contents152.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents153.txt",
+   "size": 645,
+   "sha256": "39fb507b4151378df1f5bb989bd58ad315031e03359c25a42d189db06999dc97",
+   "stored_at": "configs/korea-2024/contents153.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents154.txt",
+   "size": 131,
+   "sha256": "b7c9357cea5faee468f1121356155f9154df42ac6b9b30971ac75526948b87ac",
+   "stored_at": "configs/korea-2024/contents154.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents155.txt",
+   "size": 687,
+   "sha256": "119adf9012cbf1806907f0c60101d44d890c6dddbb4b5c2e9c92f72e47ecbb1a",
+   "stored_at": "configs/korea-2024/contents155.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents156.txt",
+   "size": 583,
+   "sha256": "29413947214232afa623cb46c6c733936a5f07cb6cfc44a35e8b59634da6c725",
+   "stored_at": "configs/korea-2024/contents156.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents16.txt",
+   "size": 7689,
+   "sha256": "d2e55a75e78ee51540b33121fb9953959f49dddb32f5044b70938002d8d5cb9e",
+   "stored_at": "configs/korea-2024/contents16.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents171.txt",
+   "size": 9,
+   "sha256": "439ed7a1da315cb071049b81c5b217cbc24c8073799dfe75c13f5ad7f96594f6",
+   "stored_at": "configs/2.02/contents171.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents182.txt",
+   "size": 7,
+   "sha256": "453b4d74a943b375d82856076869c27f6d487a2a1429823ff18924dd46294fd5",
+   "stored_at": "configs/2001-beta/contents182.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents183.txt",
+   "size": 455,
+   "sha256": "9a6c8476aecae0710f06df803e8fab703281788fac80a97e3fdfb29f4ab53309",
+   "stored_at": "configs/korea-2024/contents183.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents2.txt",
+   "size": 5076,
+   "sha256": "10b5a4fac869eba57e834ebfb9dba9f4bad52c10b5cd0795601af641551858e3",
+   "stored_at": "configs/korea-2024/contents2.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents20.txt",
+   "size": 26,
+   "sha256": "03913b6521f3141be8ae9000394853175f38dd0f65259b5e04201c05cb57073c",
+   "stored_at": "configs/korea-2024/contents20.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents21.txt",
+   "size": 128,
+   "sha256": "d540a3a2b2dd44aa1013bb33ca7b9978f94751b368ac9dd96cd4b4d23575ab82",
+   "stored_at": "configs/korea-2024/contents21.txt"
+  },
+  {
+   "install_path": "CONTENTS/Contents217.txt",
+   "size": 2705,
+   "sha256": "52e9d33ca64d5fa31f19ce8cac7259c75c3b556dd86add2c456640622a5417f1",
+   "stored_at": "configs/korea-2024/Contents217.txt"
+  },
+  {
+   "install_path": "CONTENTS/Contents218.txt",
+   "size": 1064,
+   "sha256": "b5f5836cb7604e1ab38f83d6782b23c04573712aa09e123a2d22d9edf4e58d20",
+   "stored_at": "configs/korea-2024/Contents218.txt"
+  },
+  {
+   "install_path": "CONTENTS/Contents219.txt",
+   "size": 1364,
+   "sha256": "6d30401d0fe0795cd79f39385f13da5c79ef41ee8a842c8d8b600397b968e075",
+   "stored_at": "configs/korea-2024/Contents219.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents22.txt",
+   "size": 74,
+   "sha256": "ac1b15ba9071385b8d7ee22520679219e847a524de97e178d1d25d29e8c1e928",
+   "stored_at": "configs/korea-2024/contents22.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents220.txt",
+   "size": 879,
+   "sha256": "e8857ff79462fde780b166a344d411cba6e243ac455e20334e4e2c4fce24578c",
+   "stored_at": "configs/korea-2024/contents220.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents221.txt",
+   "size": 140,
+   "sha256": "0244359c08b97ec1d9b02be3833b9d56e983a134c32212040447af4212d689bc",
+   "stored_at": "configs/korea-2024/contents221.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents222.txt",
+   "size": 138,
+   "sha256": "6ecbd412f9fbab1b3f2ba0fe0fe1f9bbe013d052c878b4222749d7daf9ef4c1a",
+   "stored_at": "configs/korea-2024/contents222.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents223.txt",
+   "size": 881,
+   "sha256": "dc0cbde16ce6025d8e4276e4cad38ee220d8d2345f5eb88713d265df5c99b712",
+   "stored_at": "configs/korea-2024/contents223.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents224.txt",
+   "size": 235,
+   "sha256": "412966034856359db89ef2e3a1b340c1195cb0dd6a14924de47fca2479edeaac",
+   "stored_at": "configs/korea-2024/contents224.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents225.txt",
+   "size": 236,
+   "sha256": "d67916e828cf211a64cc0671281cee6df6b4a54a21c80206be97650ce5d7289c",
+   "stored_at": "configs/korea-2024/contents225.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents226.txt",
+   "size": 586,
+   "sha256": "e51f909f2d71d7bf361b20697d0f119c3005132b21b864b3b88ada566aced7b9",
+   "stored_at": "configs/korea-2024/contents226.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents27.txt",
+   "size": 124,
+   "sha256": "69152ff7476962435cad61006a6a143690a2608103fb40879ee2486560a3da39",
+   "stored_at": "configs/korea-2024/contents27.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents3.txt",
+   "size": 5409,
+   "sha256": "885d04c2a26d489a9cba8095c86bad04b37cec04cea3c7278f3236143203df4a",
+   "stored_at": "configs/korea-2024/contents3.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents4.txt",
+   "size": 9607,
+   "sha256": "b041550fb6ed1a6e044d7800264a61d1dd260ffee1a876a6932ea0c7dd8aa0bd",
+   "stored_at": "configs/korea-2024/contents4.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents5.txt",
+   "size": 3186,
+   "sha256": "7d99845f5371c3bc9d80ac4b6b2aa8e4537b7c479c924623452f17d97c1b1cd8",
+   "stored_at": "configs/korea-2024/contents5.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents500.txt",
+   "size": 378,
+   "sha256": "77f2e5cb34e80ca3b8a356ab9afcd0254f7a90fededc4a9592d43863a7cc1279",
+   "stored_at": "configs/korea-2024/contents500.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents6.txt",
+   "size": 3186,
+   "sha256": "cc37cfac082c4c9465df5530642f837306da98c22f321b5d62e104b331732e30",
+   "stored_at": "configs/korea-2024/contents6.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents7.txt",
+   "size": 5286,
+   "sha256": "d48db3fdcb89433ca22f69c9e00fdb0674089f370407ec9e476ce26a4cb03412",
+   "stored_at": "configs/korea-2024/contents7.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents8.txt",
+   "size": 9607,
+   "sha256": "2d6bae6008a455e729b13a2e73b5dad94ed01b05521386bcf2e405cfb9ddd58f",
+   "stored_at": "configs/korea-2024/contents8.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents800.txt",
+   "size": 338,
+   "sha256": "cdc76e69e270c0347b699c6852ddb3b1689b8e2491e070654cb90db64d1cb33e",
+   "stored_at": "configs/korea-2024/contents800.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents801.txt",
+   "size": 3802,
+   "sha256": "a90855c6e67dce4c9a80ef49ff7819512800309545b6ecb1254be7b56279e407",
+   "stored_at": "configs/korea-2024/contents801.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents802.txt",
+   "size": 3790,
+   "sha256": "867cccbac3ed2d9f2324255bb9a09c5294c508894320c9cdebb5fd454ffad78f",
+   "stored_at": "configs/korea-2024/contents802.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents803.txt",
+   "size": 492,
+   "sha256": "82c755e3216798627f711448cc99cd5e20da597d88e70b670531a85383c5a0eb",
+   "stored_at": "configs/korea-2024/contents803.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents804.txt",
+   "size": 633,
+   "sha256": "26bd5a09c6a64cab2d35c7f78333189b8d08e48c76566a1b18f38a82080fa49a",
+   "stored_at": "configs/korea-2024/contents804.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents805.txt",
+   "size": 1325,
+   "sha256": "40c91e8aaf8008a46b7c0f6918c3de4e24cd2b1369326cc48a38b6290ba66268",
+   "stored_at": "configs/korea-2024/contents805.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents806.txt",
+   "size": 1089,
+   "sha256": "d9aa4b7d17fc9cf380cefa216bf44e66c03b59a6dfeb08f5fd0da5ddbbf3a9be",
+   "stored_at": "configs/korea-2024/contents806.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents807.txt",
+   "size": 651,
+   "sha256": "5b9a00d76c6fd71aed1851ff7fb87fbcdc29ed63e3b0c710da43c57c07820156",
+   "stored_at": "configs/korea-2024/contents807.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents808.txt",
+   "size": 798,
+   "sha256": "62d0ca5e129b68fd434f403570ddb721d28baad53974991802169a40b92e1d64",
+   "stored_at": "configs/korea-2024/contents808.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents809.txt",
+   "size": 342,
+   "sha256": "153e3250fb85d73626e242caaf6b2b69a74bffc7cc60d4ea1e2fcf7bcca43fd0",
+   "stored_at": "configs/korea-2024/contents809.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents810.txt",
+   "size": 445,
+   "sha256": "7564c9fa18547e563e0ffad5fbbf963a760633567840b8755de14606d5dc6a16",
+   "stored_at": "configs/korea-2024/contents810.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents811.txt",
+   "size": 594,
+   "sha256": "3748fca82d57f07260b20569b3ee616ed25c8136a30972447f0e985698a385f9",
+   "stored_at": "configs/korea-2024/contents811.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents812.txt",
+   "size": 560,
+   "sha256": "494113175d315b660fdacb259eda11f47887b7f9e5387ddda3d30f91d958ddc0",
+   "stored_at": "configs/korea-2024/contents812.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents813.txt",
+   "size": 1665,
+   "sha256": "6c47e767405c6a3401bbb3bcbaa30e3804474788a89ac5fa9c3179d5ab41c2c4",
+   "stored_at": "configs/korea-2024/contents813.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents9.txt",
+   "size": 3186,
+   "sha256": "66a5eac555eb8e846f8d2bc5766dcdea077dc16abc13cf315048613f19926dd0",
+   "stored_at": "configs/korea-2024/contents9.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents900.txt",
+   "size": 2047,
+   "sha256": "ef643d89635696a73e0d63e63a1b56d52d73cd9070d0ced7088f5d7422c5d924",
+   "stored_at": "configs/korea-2024/contents900.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents901.txt",
+   "size": 693,
+   "sha256": "31ca20465104305060e582ec1a9afa7546c82c5780fbd867357c80489d15c6f2",
+   "stored_at": "configs/korea-2024/contents901.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents902.txt",
+   "size": 1120,
+   "sha256": "8270b14057dc96da44532ab66498cfd12b9c5f4c04c0689bda05625f8910c82c",
+   "stored_at": "configs/korea-2024/contents902.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents903.txt",
+   "size": 3359,
+   "sha256": "a04e54032a1325b7e20cb72f8e0d432d03f642a0a18b1b5800db9e27a8f8d6bc",
+   "stored_at": "configs/korea-2024/contents903.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents904.txt",
+   "size": 1540,
+   "sha256": "68bb98ae5ee94d9795afd8a3240e9cacf83f988594f1ea63e7b34b2f644a9f00",
+   "stored_at": "configs/korea-2024/contents904.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents905.txt",
+   "size": 773,
+   "sha256": "e5cab017094232966f2e59884a23f7102c048a528340898d8548458491ad0e64",
+   "stored_at": "configs/korea-2024/contents905.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents906.txt",
+   "size": 3575,
+   "sha256": "af095af7d8859bd01e6810b24b49ea24b5c88267b8bab58c3a5208832c20fac0",
+   "stored_at": "configs/korea-2024/contents906.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents907.txt",
+   "size": 1058,
+   "sha256": "65b93ff3cffb1265b7ff92e9bc17427c044d033f4d00a4189a57a3c7ebe11895",
+   "stored_at": "configs/korea-2024/contents907.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents908.txt",
+   "size": 1732,
+   "sha256": "c176979b7c58037d61c8beb137f0ac71fd90030dca71b33594c4574a8b1e45de",
+   "stored_at": "configs/korea-2024/contents908.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents909.txt",
+   "size": 983,
+   "sha256": "ec8df1a680d8cc9630ea00b8f83df589608e2dde6c4bef5f8d5355c457831f67",
+   "stored_at": "configs/korea-2024/contents909.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents910.txt",
+   "size": 3956,
+   "sha256": "f922a3a971e3b0c1939ec88d25efe70a7bcb9eeb290ae85b5f40df7d4164a7da",
+   "stored_at": "configs/korea-2024/contents910.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents911.txt",
+   "size": 779,
+   "sha256": "f5e0613c62a651b194f89016ce5ea6074c1ff73d5e0e0df5a7e48ff0a8ff2afa",
+   "stored_at": "configs/korea-2024/contents911.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents912.txt",
+   "size": 3518,
+   "sha256": "1d620b7b3e5265af31d294b505c18ed53f950d7835e2db8a63b9ccd56f26ad6a",
+   "stored_at": "configs/korea-2024/contents912.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents913.txt",
+   "size": 2476,
+   "sha256": "653211663e4d9ba9c87b824421f839ced3954c61e28554f402d630fd7ccd486d",
+   "stored_at": "configs/korea-2024/contents913.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents914.txt",
+   "size": 3735,
+   "sha256": "3486f37353323b215c1797302130f2acbe5489a0fac8767a497952961884ed1b",
+   "stored_at": "configs/korea-2024/contents914.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents915.txt",
+   "size": 4550,
+   "sha256": "bed35dbc86295aac15528ce77d290c571bc6da1607ac66d434a3aafcff064e39",
+   "stored_at": "configs/korea-2024/contents915.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents99.txt",
+   "size": 3186,
+   "sha256": "8891e51d7862608010b2eeb06fe36d5e43a87abc83de795f7cf33916177a0574",
+   "stored_at": "configs/korea-2024/contents99.txt"
+  },
+  {
+   "install_path": "CONTENTS/contents999.txt",
+   "size": 334,
+   "sha256": "1368b165d2c4d837be37360a5acbf946360603725be4f7971cddce8fa3e9ba04",
+   "stored_at": "configs/korea-2024/contents999.txt"
+  },
+  {
+   "install_path": "CONTENTS/Curse.txt",
+   "size": 3224,
+   "sha256": "ed82b73a839b891610324c67231b3811fcca46fa5d0813597d8262cff7f74202",
+   "stored_at": "configs/korea-2024/Curse.txt"
+  },
+  {
+   "install_path": "CONTENTS/EItemcfg.txt",
+   "size": 7212,
+   "sha256": "dc7889d01101da82d5f8f6b0a75b7755dd7248bc424a2f3bad13dc86a5df4f60",
+   "stored_at": "configs/korea-2024/EItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/EKItemcfg.txt",
+   "size": 333,
+   "sha256": "2ef948cab2f36232384fb86e866e80bd3d38da9d1ea063810b2ceccbbc68b84a",
+   "stored_at": "configs/korea-2024/EKItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/ExpItemcfg.txt",
+   "size": 282,
+   "sha256": "f19bb2f48a7b991c15fa52bd03a64eed8df2fcf83ad4e744f8ef4c07f48eccb7",
+   "stored_at": "configs/korea-2024/ExpItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/GameMsgList.txt",
+   "size": 3395,
+   "sha256": "983880f16903157a2832f5f9634f51a8f119fc15ccbd2c793d13ca2d004c75ad",
+   "stored_at": "configs/korea-2024/GameMsgList.txt"
+  },
+  {
+   "install_path": "CONTENTS/HelpItemcfg.txt",
+   "size": 4731,
+   "sha256": "79dffae057deb89d2aa0d099ec812fce2f210ffdd65f795ca0d2b5060deb00da",
+   "stored_at": "configs/korea-2024/HelpItemcfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/HelpMessage.txt",
+   "size": 13621,
+   "sha256": "d3e140ed7f2c6c274b787b5b5974bf84033d777955608bf55e21b66111a6e924",
+   "stored_at": "configs/korea-2024/HelpMessage.txt"
+  },
+  {
+   "install_path": "CONTENTS/ItemName.cfg",
+   "size": 46097,
+   "sha256": "dd6f7ccbb4f862616ee94eae3b4371576f33b90bbed9138b3b9d75cb46049436",
+   "stored_at": "configs/korea-2024/ItemName.cfg"
+  },
+  {
+   "install_path": "CONTENTS/MAGICCFG.TXT",
+   "size": 5100,
+   "sha256": "511d145ddff0516875b4537191b3d3c6ff680b720f94d09d7e8ea473f3267a95",
+   "stored_at": "configs/korea-2024/MAGICCFG.TXT"
+  },
+  {
+   "install_path": "CONTENTS/NMagiccfg.txt",
+   "size": 860,
+   "sha256": "9f83001664619db240b7dcc4f4d1dffeb673262c513b341fd04445ac2c3af5a3",
+   "stored_at": "configs/korea-2024/NMagiccfg.txt"
+  },
+  {
+   "install_path": "CONTENTS/SKILLCFG.TXT",
+   "size": 904,
+   "sha256": "2e8ec5d5bf57644e5d5e8bca057788236cd644150e476ad9d73ef5a817eb3593",
+   "stored_at": "configs/korea-2024/SKILLCFG.TXT"
+  },
+  {
+   "install_path": "CryptoDLL.dll",
+   "size": 282624,
+   "sha256": "42a40d3a650e156b39e266563dad9036514fb07e43d630e28709ef8cc4b2233a",
+   "stored_at": "executables/korea-2024/CryptoDLL.dll"
+  },
+  {
+   "install_path": "cximage.dll",
+   "size": 159744,
+   "sha256": "53aef3609bb800ff72ce5ae3cfcad2d1ee68e84f7b275926a0aacb87984c5b77",
+   "stored_at": "executables/3.0/cximage.dll"
+  },
+  {
+   "install_path": "FONTS/ENG00.FNT",
+   "size": 2048,
+   "sha256": "936d85ffd95f923f234dca60573a1d9ac9cff49cb9907bd3898618fb11c51464",
+   "stored_at": "fonts/2.02/ENG00.FNT"
+  },
+  {
+   "install_path": "FONTS/ENG1.FNT",
+   "size": 4096,
+   "sha256": "dea99493135fa2ae6099739fef014397054f20c67afa30ffb2d2ae09e0097306",
+   "stored_at": "fonts/2.02/ENG1.FNT"
+  },
+  {
+   "install_path": "FONTS/ENG2.FNT",
+   "size": 4096,
+   "sha256": "532a1553974b7f022ab5eaeb8850aa164703f1105e0bdf3a74385563410f4379",
+   "stored_at": "fonts/2.02/ENG2.FNT"
+  },
+  {
+   "install_path": "FONTS/HAN3.FNT",
+   "size": 11520,
+   "sha256": "013ea10ad9ed931aee3a81af902361bae6507d2fec12970506bb092b952a349f",
+   "stored_at": "fonts/2.02/HAN3.FNT"
+  },
+  {
+   "install_path": "FONTS/Han4.fnt",
+   "size": 11520,
+   "sha256": "013ea10ad9ed931aee3a81af902361bae6507d2fec12970506bb092b952a349f",
+   "stored_at": "fonts/2.02/HAN3.FNT"
+  },
+  {
+   "install_path": "FONTS/Hangul00.fnt",
+   "size": 11520,
+   "sha256": "2183235d32a5900412941c9ee814f62d57ff014c8327a07304cabca5580221bb",
+   "stored_at": "fonts/2.02/Hangul00.fnt"
+  },
+  {
+   "install_path": "FONTS/Hangul01.fnt",
+   "size": 11520,
+   "sha256": "aa3f9977954ebb3985423d6e38d5cff6a7696ba415fd89fc5f04fcf8747341ab",
+   "stored_at": "fonts/2.02/Hangul01.fnt"
+  },
+  {
+   "install_path": "Helbreath.exe",
+   "size": 1895832,
+   "sha256": "a7f6bb54c34855f206fd0e054ba5c6e57d921885c1c2819572d2797ae8d3969d",
+   "stored_at": "executables/korea-2024/Helbreath.exe"
+  },
+  {
+   "install_path": "HelGame.exe",
+   "size": 1179136,
+   "sha256": "f0d85632a1ddb503d1abde50a2d4a5774d349d92b17570c8b29fad86c351a432",
+   "stored_at": "executables/korea-2024/HelGame.exe"
+  },
+  {
+   "install_path": "MAPDATA/2ndmiddle.amd",
+   "size": 625256,
+   "sha256": "b07671ddbb1f688c321961c1f9efc06ae6561696c8d78d94c8602301076cbdc2",
+   "stored_at": "maps/korea-2024/2ndmiddle.amd"
+  },
+  {
+   "install_path": "MAPDATA/Abaddon.amd",
+   "size": 400256,
+   "sha256": "1ac9dc8d4b88cce8116b3cc715a1daa90cc5206ba74bc5ff9c73f996ec374022",
+   "stored_at": "maps/3.0/Abaddon.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk11.amd",
+   "size": 225256,
+   "sha256": "76a2d14d3d636f42f7ddd331fd8e7b948367f5d0c5f37c1c04b47c173374ff6e",
+   "stored_at": "maps/2.02/arebrk11.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk12.amd",
+   "size": 225256,
+   "sha256": "d8becac589873f19426f3ac81bd10caf54aeed6aae8b426366725df46056e6d4",
+   "stored_at": "maps/2.02/arebrk12.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk21.amd",
+   "size": 225256,
+   "sha256": "49a9fe8cf81841086a0e9a303ae3a5a88aac13e16820000185567ef78b07a4cd",
+   "stored_at": "maps/2.02/arebrk21.amd"
+  },
+  {
+   "install_path": "MAPDATA/arebrk22.amd",
+   "size": 225256,
+   "sha256": "847eaebd077f75bbb6bdad4cd6ba4c66fd4e261ae6de42b6448b37bb5a600662",
+   "stored_at": "maps/2.02/arebrk22.amd"
+  },
+  {
+   "install_path": "MAPDATA/arefarm.amd",
+   "size": 625256,
+   "sha256": "b6611dfd77621466488b7b0abb3dadb42bc889066d935d43f45f81f72fa9be96",
+   "stored_at": "maps/4.08/arefarm.amd"
+  },
+  {
+   "install_path": "MAPDATA/arejail.amd",
+   "size": 240256,
+   "sha256": "6091256b774db52d8f68b5e99857f501bc773f7773f50c87841b927fe179dd19",
+   "stored_at": "maps/korea-2024/arejail.amd"
+  },
+  {
+   "install_path": "MAPDATA/aremidl.amd",
+   "size": 169256,
+   "sha256": "10ff9b5a5586c41f1b87b079db958fc43f005e573977866c4eb69793214bd8a3",
+   "stored_at": "maps/2.02/aremidl.amd"
+  },
+  {
+   "install_path": "MAPDATA/aremidr.amd",
+   "size": 169256,
+   "sha256": "489eee31d9a0632f935420000edbc3c4c5115f33514a44b43140f3a7b63dd5d9",
+   "stored_at": "maps/2.02/aremidr.amd"
+  },
+  {
+   "install_path": "MAPDATA/ARESDEN.AMD",
+   "size": 900256,
+   "sha256": "56bfa67f443e266d236a1bd58771972db76545a5e0d596fe223eae9c33331e9a",
+   "stored_at": "maps/4.08/ARESDEN.AMD"
+  },
+  {
+   "install_path": "MAPDATA/aresdend1.amd",
+   "size": 400256,
+   "sha256": "ff001a02b9a42c8291661be0749b3ff36d257eaade5b6fc06fd642051286298f",
+   "stored_at": "maps/korea-2024/aresdend1.amd"
+  },
+  {
+   "install_path": "MAPDATA/areuni.amd",
+   "size": 400256,
+   "sha256": "943b361ef3c69387bf84403f69a007afe72eb972ef07ce6a836fc054d7872842",
+   "stored_at": "maps/2.02/areuni.amd"
+  },
+  {
+   "install_path": "MAPDATA/arewrhus.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/bisle.amd",
+   "size": 685256,
+   "sha256": "34293bea2da545a36ea3a0372d1b374c1492bf45840e69365538d90cd483b544",
+   "stored_at": "maps/3.0/bisle.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_1.amd",
+   "size": 100256,
+   "sha256": "f17f393db7f1875bd1f9470f8dbd9364835889f4c867829394c382a4d03828ec",
+   "stored_at": "maps/3.0/bsmith_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_1f.amd",
+   "size": 100256,
+   "sha256": "f17f393db7f1875bd1f9470f8dbd9364835889f4c867829394c382a4d03828ec",
+   "stored_at": "maps/3.0/bsmith_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_2.amd",
+   "size": 100256,
+   "sha256": "f17f393db7f1875bd1f9470f8dbd9364835889f4c867829394c382a4d03828ec",
+   "stored_at": "maps/3.0/bsmith_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/bsmith_2f.amd",
+   "size": 100256,
+   "sha256": "f17f393db7f1875bd1f9470f8dbd9364835889f4c867829394c382a4d03828ec",
+   "stored_at": "maps/3.0/bsmith_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/BTField.amd",
+   "size": 900256,
+   "sha256": "abfda216bdc721e184f0f156e518246da6bf19200d40b7f23aeb52385a812895",
+   "stored_at": "maps/korea-2024/BTField.amd"
+  },
+  {
+   "install_path": "MAPDATA/cath_1.amd",
+   "size": 100256,
+   "sha256": "2f4d7b326b9b3e2d08a04565f251e59c9e62ecb10067700ed2b3e7cdba70cc6a",
+   "stored_at": "maps/2.02/cath_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cath_2.amd",
+   "size": 100256,
+   "sha256": "2f4d7b326b9b3e2d08a04565f251e59c9e62ecb10067700ed2b3e7cdba70cc6a",
+   "stored_at": "maps/2.02/cath_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cityhall_1.amd",
+   "size": 100256,
+   "sha256": "5fee6aa1334401bd8c954fca89bb596f42f6badf6016b753cce0d3b47b697773",
+   "stored_at": "maps/korea-2024/cityhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/cityhall_2.amd",
+   "size": 100256,
+   "sha256": "928ee50d57b3dc7bb4e62c5cc83f22093be1d4802b8b0e51d314b6c00e3a9801",
+   "stored_at": "maps/korea-2024/cityhall_2.amd"
+  },
+  {
+   "install_path": "MAPDATA/Cmdhall_1.amd",
+   "size": 100256,
+   "sha256": "732622f1850d192d1b156ceaf0c624cac1243caeec8648e134f1b9fba121f7f5",
+   "stored_at": "maps/4.08/Cmdhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/Cmdhall_2.amd",
+   "size": 100256,
+   "sha256": "732622f1850d192d1b156ceaf0c624cac1243caeec8648e134f1b9fba121f7f5",
+   "stored_at": "maps/4.08/Cmdhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/default.amd",
+   "size": 289256,
+   "sha256": "b3340c2f3abc5c779ccb31553a867588fe29da6f3d158f70bed118e05d854795",
+   "stored_at": "maps/korea-2024/default.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv2.amd",
+   "size": 2500256,
+   "sha256": "f3413250390d67de04d2590a020e75ea616255455d3481d33afccaf1e674782e",
+   "stored_at": "maps/3.0/dglv2.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv3.amd",
+   "size": 1600256,
+   "sha256": "dbdba2c153251177cfce1672ab7077e8e3f716d1e2dce492e1597a1e1d099be6",
+   "stored_at": "maps/3.0/dglv3.amd"
+  },
+  {
+   "install_path": "MAPDATA/dglv4.amd",
+   "size": 1600256,
+   "sha256": "d12b99f03d6954577ea28df2319f29c75c4c62c74a5f0566b15abfd42cdc0c38",
+   "stored_at": "maps/3.0/dglv4.amd"
+  },
+  {
+   "install_path": "MAPDATA/DruncnCity.amd",
+   "size": 400256,
+   "sha256": "df0f52b12f7200043cd4b132be82a1addf9202957d39d6c8c6357f2a5d99b383",
+   "stored_at": "maps/3.0/DruncnCity.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk11.amd",
+   "size": 225256,
+   "sha256": "76a2d14d3d636f42f7ddd331fd8e7b948367f5d0c5f37c1c04b47c173374ff6e",
+   "stored_at": "maps/2.02/arebrk11.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk12.amd",
+   "size": 225256,
+   "sha256": "d8becac589873f19426f3ac81bd10caf54aeed6aae8b426366725df46056e6d4",
+   "stored_at": "maps/2.02/arebrk12.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk21.amd",
+   "size": 225256,
+   "sha256": "49a9fe8cf81841086a0e9a303ae3a5a88aac13e16820000185567ef78b07a4cd",
+   "stored_at": "maps/2.02/arebrk21.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvbrk22.amd",
+   "size": 225256,
+   "sha256": "847eaebd077f75bbb6bdad4cd6ba4c66fd4e261ae6de42b6448b37bb5a600662",
+   "stored_at": "maps/2.02/arebrk22.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvfarm.amd",
+   "size": 625256,
+   "sha256": "9321eb40d87e2fefd52a3d5e733127e12a5b0928eabed1b9a2de0ac6fabf4c4c",
+   "stored_at": "maps/4.08/elvfarm.amd"
+  },
+  {
+   "install_path": "MAPDATA/ELVINE.AMD",
+   "size": 900256,
+   "sha256": "8fb5f62ac0a2b8a1f4b867866efa56515a77ab67fbd5e33d50a8d8b642238996",
+   "stored_at": "maps/4.08/ELVINE.AMD"
+  },
+  {
+   "install_path": "MAPDATA/elvined1.amd",
+   "size": 400256,
+   "sha256": "1e322df54da9fbfd4807f25057a76ceecd204e65f6370508834319e5f15688d0",
+   "stored_at": "maps/3.0/elvined1.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvjail.amd",
+   "size": 240256,
+   "sha256": "3c98f46268bccc1a22e8067d668dce56e1709a1d8b7110ef878e68aaa6f50e4d",
+   "stored_at": "maps/korea-2024/elvjail.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvmidl.amd",
+   "size": 169256,
+   "sha256": "ab5f8c4cb5bb51fea0577feb321ef41a59fdb7e9ad1544194d07ef0091b7e8fb",
+   "stored_at": "maps/2.02/elvmidl.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvmidr.amd",
+   "size": 169256,
+   "sha256": "fee04e9fcc333b79de8d7500120d18ffa833d2b71b7b241b875e3dcd43eba8ba",
+   "stored_at": "maps/2.02/elvmidr.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvuni.amd",
+   "size": 400256,
+   "sha256": "177ffc38be615e9817bc83607639b05da8f70ed5949ad3db2497f52484c45509",
+   "stored_at": "maps/2.02/elvuni.amd"
+  },
+  {
+   "install_path": "MAPDATA/elvwrhus.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone1.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone10.amd",
+   "size": 64256,
+   "sha256": "c3f9299021f5efde2ec7f62b2b0cdb2d723a696800b134c76dc52e557f2e4bc6",
+   "stored_at": "maps/3.0/fightzone10.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone2.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone3.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone4.amd",
+   "size": 64256,
+   "sha256": "ccad1027c17deb45fc9b4116d90189a156f9dce8cb0325410c5f2056cffc4ea8",
+   "stored_at": "maps/2.02/fightzone4.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone5.amd",
+   "size": 144256,
+   "sha256": "18875eff28cef621f94e33e1da8fce845b8c4030dcf066bda77b7ca778d6b143",
+   "stored_at": "maps/3.0/fightzone5.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone6.amd",
+   "size": 144256,
+   "sha256": "93a40d994e15cacf76480e79e49d9e7e0db4386cecd587e21315daa5e4c21df3",
+   "stored_at": "maps/3.0/fightzone6.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone7.amd",
+   "size": 144256,
+   "sha256": "28eb7b7f0f100cbc6b170301f676c99b4632e0791cd57c68322a3fa94e577429",
+   "stored_at": "maps/3.0/fightzone7.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone8.amd",
+   "size": 144256,
+   "sha256": "cc6f2980e6dd2fb1e0ca9f12182249e3f24d9e2d548368fef8a6b9fb030a00de",
+   "stored_at": "maps/3.0/fightzone8.amd"
+  },
+  {
+   "install_path": "MAPDATA/fightzone9.amd",
+   "size": 100256,
+   "sha256": "8df950113e7e6aef8bff2c0adac4931e83e69a484d7f5f9cd9eb0756dfc377e1",
+   "stored_at": "maps/2.02/fightzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gldhall_1.amd",
+   "size": 100256,
+   "sha256": "a669d80a58c5262dc020902669fbc5a31292afba52c0629e5f1c69c32edb2fe0",
+   "stored_at": "maps/3.0/gldhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gldhall_2.amd",
+   "size": 100256,
+   "sha256": "a669d80a58c5262dc020902669fbc5a31292afba52c0629e5f1c69c32edb2fe0",
+   "stored_at": "maps/3.0/gldhall_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/GodH.amd",
+   "size": 625256,
+   "sha256": "5bc6196a7fbed4af7dcaf501397249f3b9d830dab6eadcd16a6389219a50bba4",
+   "stored_at": "maps/4.08/GodH.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_1.amd",
+   "size": 100256,
+   "sha256": "6bf5ca867d93f7ae880bc5d59610dd19a18a6e64607560f1f70920b9e96e607e",
+   "stored_at": "maps/3.0/gshop_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_1f.amd",
+   "size": 100256,
+   "sha256": "6bf5ca867d93f7ae880bc5d59610dd19a18a6e64607560f1f70920b9e96e607e",
+   "stored_at": "maps/3.0/gshop_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_2.amd",
+   "size": 100256,
+   "sha256": "6bf5ca867d93f7ae880bc5d59610dd19a18a6e64607560f1f70920b9e96e607e",
+   "stored_at": "maps/3.0/gshop_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/gshop_2f.amd",
+   "size": 100256,
+   "sha256": "6bf5ca867d93f7ae880bc5d59610dd19a18a6e64607560f1f70920b9e96e607e",
+   "stored_at": "maps/3.0/gshop_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/HRampart.amd",
+   "size": 400256,
+   "sha256": "7bc80719bb47bebf511cbdd9b8d4aeaadfe3b6482e30428668e3c2fd8e9508f8",
+   "stored_at": "maps/4.08/HRampart.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone1.amd",
+   "size": 400256,
+   "sha256": "0744b67d7647efacfc64a377d4e30675aa93d2e8df9764923c5c50e42918db84",
+   "stored_at": "maps/korea-2024/huntzone1.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone2.amd",
+   "size": 400256,
+   "sha256": "6ac001fffc3ef40f26306ae479ed00ae96867de3971f12b58230adb98636e3ab",
+   "stored_at": "maps/2.02/huntzone2.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone3.amd",
+   "size": 400256,
+   "sha256": "fd15c15ded1105207209d99feb6f501806ec4f42340f4b61182c471735d72d56",
+   "stored_at": "maps/korea-2024/huntzone3.amd"
+  },
+  {
+   "install_path": "MAPDATA/huntzone4.amd",
+   "size": 400256,
+   "sha256": "3e592b1f366f666012038425c10041e82ea91a160ba3d6df6d23b421df8bb844",
+   "stored_at": "maps/2.02/huntzone4.amd"
+  },
+  {
+   "install_path": "MAPDATA/icebound.amd",
+   "size": 900256,
+   "sha256": "8833110c62f955f13c67e2b0ceddf39abbaece9a2f1cdffed5a468395e093f5d",
+   "stored_at": "maps/korea-2024/icebound.amd"
+  },
+  {
+   "install_path": "MAPDATA/inferniaA.amd",
+   "size": 225256,
+   "sha256": "35bf5d273f27c9936a115c6bdf08cad4b2a7d5b5a7cd0050a8dce83368030e4e",
+   "stored_at": "maps/3.0/inferniaA.amd"
+  },
+  {
+   "install_path": "MAPDATA/inferniaB.amd",
+   "size": 225256,
+   "sha256": "e88945db9c19b5500800337113100d7453bfcbf50e65ecd67b2426d44990491b",
+   "stored_at": "maps/3.0/inferniaB.amd"
+  },
+  {
+   "install_path": "MAPDATA/maze.amd",
+   "size": 400256,
+   "sha256": "af0504da7340b7b66cb29804194e79caac4c74ad3196299c4dc0613f41eac5cb",
+   "stored_at": "maps/3.0/maze.AMD"
+  },
+  {
+   "install_path": "MAPDATA/middled1n.amd",
+   "size": 484256,
+   "sha256": "a9f5716fdb8adabd83ea7de9a9ffaad7e3148811c9eaa321fba87c319821c1f3",
+   "stored_at": "maps/korea-2024/middled1n.amd"
+  },
+  {
+   "install_path": "MAPDATA/middled1x.amd",
+   "size": 400256,
+   "sha256": "1bf7a3003e0da17dd01636cc6a0cebc47f6002b146010dcc53824610f6d0a0fd",
+   "stored_at": "maps/2.02/middled1x.amd"
+  },
+  {
+   "install_path": "MAPDATA/middleland.amd",
+   "size": 2746016,
+   "sha256": "608e4d53cf109ad12f7f3598caf2b91170f47a7eaa855f4285d15e323a9d10d4",
+   "stored_at": "maps/korea-2024/middleland.amd"
+  },
+  {
+   "install_path": "MAPDATA/oldaresden.amd",
+   "size": 784256,
+   "sha256": "57be9f27436e105b81c7b346e208f9f10800a36de325a7187d3705f7570d4409",
+   "stored_at": "maps/korea-2024/oldaresden.amd"
+  },
+  {
+   "install_path": "MAPDATA/oldelvine.amd",
+   "size": 685256,
+   "sha256": "cfc1d2d78bca35a3662c19702d43ee584ef6734a772907a1fcc78e091b02713d",
+   "stored_at": "maps/korea-2024/oldelvine.amd"
+  },
+  {
+   "install_path": "MAPDATA/penalty.amd",
+   "size": 225256,
+   "sha256": "1105275b2ffef6bd317596658f35a49e2fd2b35e677344a88e473b582dc67afd",
+   "stored_at": "maps/2.02/penalty.amd"
+  },
+  {
+   "install_path": "MAPDATA/procella.amd",
+   "size": 625256,
+   "sha256": "1ae813c1589c71268ecaa94e64390f0872fdde52b86f3416c5bd07f1d9abce36",
+   "stored_at": "maps/3.0/procella.amd"
+  },
+  {
+   "install_path": "MAPDATA/Resurr1.amd",
+   "size": 400256,
+   "sha256": "f5e11a32b71fb936cab4bb7d0827c2cf63e41dbeb8fa9e5c85baa73a32b36464",
+   "stored_at": "maps/2.02/Resurr1.amd"
+  },
+  {
+   "install_path": "MAPDATA/Resurr2.amd",
+   "size": 400256,
+   "sha256": "f5e11a32b71fb936cab4bb7d0827c2cf63e41dbeb8fa9e5c85baa73a32b36464",
+   "stored_at": "maps/2.02/Resurr1.amd"
+  },
+  {
+   "install_path": "MAPDATA/Toh1.amd",
+   "size": 625256,
+   "sha256": "aef0e52f31dee4ec6021a2badc9693e98ed33370464a00b2c36b2eeba514b26a",
+   "stored_at": "maps/3.0/Toh1.amd"
+  },
+  {
+   "install_path": "MAPDATA/Toh2.amd",
+   "size": 900256,
+   "sha256": "f268d03fbb504f551fa92129682f2554633493cb73d2a2ec839f026688915e69",
+   "stored_at": "maps/4.08/Toh2.amd"
+  },
+  {
+   "install_path": "MAPDATA/Toh3.amd",
+   "size": 900256,
+   "sha256": "ebb43cc4ef605043deedd70ee4144c4f2a1abf7dac9a57e21a6ab70ff5235456",
+   "stored_at": "maps/3.0/Toh3.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_1.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_1f.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_2.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wrhus_2f.amd",
+   "size": 100256,
+   "sha256": "c21ff35254d6801f98c5bbb7630590c7414c731670c8788b1a1bc4c0b6660a34",
+   "stored_at": "maps/4.08/arewrhus.amd"
+  },
+  {
+   "install_path": "MAPDATA/wzdtwr_1.amd",
+   "size": 100256,
+   "sha256": "68ea3a4f46eeb5604b30247fec0094ca98f46b8fee8084595d109be9d010c187",
+   "stored_at": "maps/2.02/wzdtwr_1.amd"
+  },
+  {
+   "install_path": "MAPDATA/wzdtwr_2.amd",
+   "size": 100256,
+   "sha256": "494b930b2bf8e75f61c3d7d038f471a1f3b8dc839300f3a9f79bbf25b0ce6851",
+   "stored_at": "maps/2.02/wzdtwr_2.amd"
+  },
+  {
+   "install_path": "mfc90u.dll",
+   "size": 1162744,
+   "sha256": "e30aabb518361fbeaf8068ffc786845ee84abbf1f71ae7d2733a11286531595a",
+   "stored_at": "executables/korea-2024/mfc90u.dll"
+  },
+  {
+   "install_path": "msvcp100.dll",
+   "size": 431936,
+   "sha256": "972fd609d31aded22502a01c3ee1f3e23f5769392c7ca3c36a402dc7c44e0af8",
+   "stored_at": "executables/korea-2024/msvcp100.dll"
+  },
+  {
+   "install_path": "msvcr100.dll",
+   "size": 758592,
+   "sha256": "43af6d081b5ded0bd3b1b269719b3a63400da25a805d46d579c4dd2a77861ba1",
+   "stored_at": "executables/korea-2024/msvcr100.dll"
+  },
+  {
+   "install_path": "msvcr90.dll",
+   "size": 655872,
+   "sha256": "ed0170d3de86da33e02bfa1605eec8ff6010583481b1c530843867c1939d2185",
+   "stored_at": "executables/korea-2024/msvcr90.dll"
+  },
+  {
+   "install_path": "MUSIC/abaddon.wav",
+   "size": 2949374,
+   "sha256": "93d511478dbf3492330a8bd59726c82383f6e3dc308826d3b7fb31a0738421f2",
+   "stored_at": "music/korea-2024/abaddon.wav"
+  },
+  {
+   "install_path": "MUSIC/aresden.wav",
+   "size": 3228448,
+   "sha256": "2e359bf37cb132873568d93682b27ef5cd6876e86e8804b34752bd262351f751",
+   "stored_at": "music/korea-2024/aresden.wav"
+  },
+  {
+   "install_path": "MUSIC/Carol.wav",
+   "size": 2736482,
+   "sha256": "1fe4966123beadd64b61d3b42538d14b6866ccbf07c7d5b34a62e66adcbef9a3",
+   "stored_at": "music/korea-2024/Carol.wav"
+  },
+  {
+   "install_path": "MUSIC/Carol0.wav",
+   "size": 3008046,
+   "sha256": "e26233623a1157685718fad631e0ab46de0b6a84258464523d7784cea05b3c8b",
+   "stored_at": "music/korea-2024/Carol0.wav"
+  },
+  {
+   "install_path": "MUSIC/Carol1.wav",
+   "size": 2349880,
+   "sha256": "a609a8590b24d40f1c00e5b2124cf0150e21383c4fb2808a291542a46f6265a9",
+   "stored_at": "music/korea-2024/Carol1.wav"
+  },
+  {
+   "install_path": "MUSIC/Carol2.wav",
+   "size": 2803238,
+   "sha256": "d312f8352e533c0b625c5860057909b51ff4dd0c328102fe4a53fe6d8d254570",
+   "stored_at": "music/korea-2024/Carol2.wav"
+  },
+  {
+   "install_path": "MUSIC/druncncity.wav",
+   "size": 1204054,
+   "sha256": "9fb86a6845d7ce8ee4bf0354731d561244f39d7bdbfcb5c1ed83139d542a0e08",
+   "stored_at": "music/korea-2024/druncncity.wav"
+  },
+  {
+   "install_path": "MUSIC/dungeon.wav",
+   "size": 3669374,
+   "sha256": "944b3b25a0376cea93b152baa404fab2c2843a3524942649cccf297f4d87f653",
+   "stored_at": "music/korea-2024/dungeon.wav"
+  },
+  {
+   "install_path": "MUSIC/elvine.wav",
+   "size": 3695252,
+   "sha256": "7918f2f4c0c94b0e30ca31781fa56a87d14c99c0749a1ec364520299d7356432",
+   "stored_at": "music/korea-2024/elvine.wav"
+  },
+  {
+   "install_path": "MUSIC/MainTm.wav",
+   "size": 3159592,
+   "sha256": "8b2730dc20e14624672e3008d73fd2225f4c50a3dd396a639eb71062adf84254",
+   "stored_at": "music/korea-2024/MainTm.wav"
+  },
+  {
+   "install_path": "MUSIC/middleland.wav",
+   "size": 2620350,
+   "sha256": "37c2c5538a880cb76cc0ccf7d0d49ead610e25f2dbed143a9ea63b05a363a670",
+   "stored_at": "music/korea-2024/middleland.wav"
+  },
+  {
+   "install_path": "MUSIC/oldaresden.wav",
+   "size": 2795246,
+   "sha256": "ec7b36a528a368856add421ab4f9df3396d4ba76bb1554201e0d07be3b2eb86f",
+   "stored_at": "music/korea-2024/oldaresden.wav"
+  },
+  {
+   "install_path": "MUSIC/oldelvine.wav",
+   "size": 2809646,
+   "sha256": "a9eaf06026a35f2b8bc47233e5f01af9facd9d322d715d4c06f3b206c6290a99",
+   "stored_at": "music/korea-2024/oldelvine.wav"
+  },
+  {
+   "install_path": "MUSIC/vssver.scc",
+   "size": 208,
+   "sha256": "e37762f4baa4266068394e04f1a8fb461a2e6d633b4888f24c51e1da0354ce68",
+   "stored_at": "other/korea-2024/music/vssver.scc"
+  },
+  {
+   "install_path": "search.dll",
+   "size": 135168,
+   "sha256": "42cae5fd3bdc359a3bb81316066100afe7d767d276472291c05614119f8c4d13",
+   "stored_at": "executables/3.0/search.dll"
+  },
+  {
+   "install_path": "SOUNDS/C1.WAV",
+   "size": 14676,
+   "sha256": "c80be081df49b978932cf177795eba226c3938d14fe1b8b3478e219a40e9a995",
+   "stored_at": "sounds/korea-2024/C1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C10.WAV",
+   "size": 14948,
+   "sha256": "68f50cf883e8d32db45847457998e563a732b2de723619e444a6541fea97670c",
+   "stored_at": "sounds/korea-2024/C10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C11.WAV",
+   "size": 14478,
+   "sha256": "e38c31cadaca6e633c187ad5b34db7d438f2d47a5f5cb8d565ce35d0d601c5d0",
+   "stored_at": "sounds/korea-2024/C11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C12.WAV",
+   "size": 16324,
+   "sha256": "f6a3bb1469a1c3e22d226760ec592c2c6d329af311ae3bd7b87dd388ff6301b8",
+   "stored_at": "sounds/korea-2024/C12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C13.WAV",
+   "size": 13048,
+   "sha256": "8745c0c38dc007ee7ad037dab075066fb6f70d5d293c08e9ec497bb47c313188",
+   "stored_at": "sounds/korea-2024/C13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C14.WAV",
+   "size": 67682,
+   "sha256": "2b71ae8407d8831d2f6a0fc7e55c89901e3a437fe2973a1d4077c0788813d3ff",
+   "stored_at": "sounds/korea-2024/C14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C15.WAV",
+   "size": 74360,
+   "sha256": "764879583f307236e0772f9ce0cf1fbbcfd9445821b89f62ca98704fcf2edcd6",
+   "stored_at": "sounds/korea-2024/C15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C16.WAV",
+   "size": 90648,
+   "sha256": "0469331c794dc35b13fd6f456dd0b6a65c0c034258826cf7f063bd94c4e05735",
+   "stored_at": "sounds/korea-2024/C16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C17.WAV",
+   "size": 44222,
+   "sha256": "1e03f56eaf30e1a4e128975af9e58819a65cd6e6a2871bdf8e1a3fde425ac460",
+   "stored_at": "sounds/korea-2024/C17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C18.WAV",
+   "size": 41102,
+   "sha256": "0179b2869071c6a36b1bb47d8382a4fd1325789b30dc8b58983f412616c2c99a",
+   "stored_at": "sounds/korea-2024/C18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C19.WAV",
+   "size": 50936,
+   "sha256": "2543650ab0508c493968b97c93f7f2548c62992f54e9f7f229b156e63f57c3e0",
+   "stored_at": "sounds/korea-2024/C19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C2.WAV",
+   "size": 32126,
+   "sha256": "816eb8e68546c1bf4734627f8c2374f60d0417944acb0982229620252a67a08a",
+   "stored_at": "sounds/korea-2024/C2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C20.WAV",
+   "size": 55798,
+   "sha256": "45cb490e14283ca8a4224a3dfbc7b2fb63bd83234d500494014f8004f1cc45a5",
+   "stored_at": "sounds/korea-2024/C20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C21.WAV",
+   "size": 82296,
+   "sha256": "065dc246e0d6352df493f65456088a5d773170b3e35e127f6aa1726351c4d5ff",
+   "stored_at": "sounds/korea-2024/C21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C22.WAV",
+   "size": 26424,
+   "sha256": "daeab35ffd9fec550fa4fba87aaef5d43596fe7edf7f1c8eab550f05d85ef79d",
+   "stored_at": "sounds/korea-2024/C22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C23.WAV",
+   "size": 46584,
+   "sha256": "c12af5ab43d45fe2213b10307e9e1af8ef6fa9ba11d4d1b126dacac72a2db00f",
+   "stored_at": "sounds/korea-2024/C23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C24.WAV",
+   "size": 46712,
+   "sha256": "ab6f9796a5a42eacddafec3cf30146e8f4e312fd27e7fce89df1cb2d3ade5ba5",
+   "stored_at": "sounds/korea-2024/C24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C3.WAV",
+   "size": 55052,
+   "sha256": "c911e8601152b9c5b608918422437aeb841956a6dd662fedec7e25e0eb184629",
+   "stored_at": "sounds/korea-2024/C3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C4.WAV",
+   "size": 7638,
+   "sha256": "c0a69b3cd5d4052ddd1cdee7fba1cd47fad179a541fd0964df231a8d0a1ceca3",
+   "stored_at": "sounds/korea-2024/C4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C5.WAV",
+   "size": 10840,
+   "sha256": "206452b3bc4cc4e4757766a031943e823c6cdf48e3ca2ac5f59479363ec607f3",
+   "stored_at": "sounds/korea-2024/C5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C6.WAV",
+   "size": 28728,
+   "sha256": "f1cd1c7a20b1c1700824c4725799df022e09e761098ec44fdb9ca2bad835322f",
+   "stored_at": "sounds/korea-2024/C6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C7.WAV",
+   "size": 15064,
+   "sha256": "a4b3b58a6ef79bdf75b4e8d07a41e32a32648b3024ec6fbc08de988f448c5156",
+   "stored_at": "sounds/korea-2024/C7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C8.WAV",
+   "size": 11176,
+   "sha256": "377a549c661902fb5f5fc4846c23ef47150084cd3c48beeb441c9e47f0cd715b",
+   "stored_at": "sounds/korea-2024/C8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/C9.WAV",
+   "size": 15762,
+   "sha256": "9b936567e0b6c1fa119bf49461a9d65138363149fa32a85190695b7e8697ce5d",
+   "stored_at": "sounds/korea-2024/C9.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E1.WAV",
+   "size": 45550,
+   "sha256": "610e64ef6de0b4e2a0b3fadd77db9aa566a788f51bc1a7c93e650a514ee43953",
+   "stored_at": "sounds/korea-2024/E1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E10.WAV",
+   "size": 32342,
+   "sha256": "472c202b98a28798cff76070cd02306a22007a71511c000f0b50a688737dd21e",
+   "stored_at": "sounds/korea-2024/E10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E11.WAV",
+   "size": 20118,
+   "sha256": "885de76ffab11996d0a003d78c386942538b052f6ff2df88defd186a7de60f07",
+   "stored_at": "sounds/korea-2024/E11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E12.WAV",
+   "size": 27816,
+   "sha256": "def1150198ceb29cf16a1184e1da940e3ee3d9e1a6e438b305b40e23dd872dda",
+   "stored_at": "sounds/korea-2024/E12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E13.WAV",
+   "size": 7354,
+   "sha256": "a63a720f74a48518e475d9cf91436d7752a7e70a88be97d911e116326b7bcbc8",
+   "stored_at": "sounds/korea-2024/E13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E14.WAV",
+   "size": 16100,
+   "sha256": "9510c3d69825d92286e452421061c3d1027143bc07c818a1e7e5d63cde0eec53",
+   "stored_at": "sounds/korea-2024/E14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E15.WAV",
+   "size": 132026,
+   "sha256": "00caf3fa49aeb76421d3af85360f85508ff7195736bf802fdfbfcfa92ce0f579",
+   "stored_at": "sounds/korea-2024/E15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E16.WAV",
+   "size": 148480,
+   "sha256": "366485dd0cc3858e373c51238e7f4d5008e1b761d8f4a204d2d6be3737e23a02",
+   "stored_at": "sounds/korea-2024/E16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E17.WAV",
+   "size": 48796,
+   "sha256": "8f34ee721d29d7f993b39c3e8aa3e9206fc657a56ef3f6fab2c6948e2e8e9d77",
+   "stored_at": "sounds/korea-2024/E17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E18.WAV",
+   "size": 66588,
+   "sha256": "37f90e37b03d83269dc46b2b31e50e59ecfb5af1827df99fd3c90dd1eb265345",
+   "stored_at": "sounds/korea-2024/E18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E19.WAV",
+   "size": 18294,
+   "sha256": "82e4678ca7fb63e7ce8eea7858cbfa59426845d1a8103e768859ea772c15d150",
+   "stored_at": "sounds/korea-2024/E19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E2.WAV",
+   "size": 87058,
+   "sha256": "fe6992d684ea686d2ea5cb830b014d7802b881063dbb87c17d595dc1d5847e78",
+   "stored_at": "sounds/korea-2024/E2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E20.WAV",
+   "size": 22366,
+   "sha256": "1025c93919859e32c67493762e55f67027036c86197bccb239c883c33008813e",
+   "stored_at": "sounds/korea-2024/E20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E21.WAV",
+   "size": 24686,
+   "sha256": "98e65aa3a89616ab20935d46dab822dc582f807f4ada82eb40dfe79ae8fcb79b",
+   "stored_at": "sounds/korea-2024/E21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E22.WAV",
+   "size": 58870,
+   "sha256": "de9eea75b68bf0ce0585ac72dcee127b610e866bbadd168f5e0189d0b8a8db3b",
+   "stored_at": "sounds/korea-2024/E22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E23.WAV",
+   "size": 173822,
+   "sha256": "1973c188a0d7e644a6c70525c14f58486c196beb666f8778c5cd31f620eb9f8d",
+   "stored_at": "sounds/korea-2024/E23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E24.WAV",
+   "size": 132184,
+   "sha256": "fafce1faf1e93891e293e439eb512c4ae15ae9f2938d0e7c6ea20c7174c1bbf8",
+   "stored_at": "sounds/korea-2024/E24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E25.WAV",
+   "size": 39016,
+   "sha256": "93384c376dd21c93e0eedd6a36513d8db8abc267bf904bc39de5aaf8aaa232a5",
+   "stored_at": "sounds/korea-2024/E25.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E26.WAV",
+   "size": 136272,
+   "sha256": "c4adabe27b5433139c25be5754fc20d94a13b19d8d12b670ff98f96371241e00",
+   "stored_at": "sounds/korea-2024/E26.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E27.WAV",
+   "size": 216040,
+   "sha256": "a4101e7807f766173560cb8496dbff0c42b95ef8c06684ba033734e4c2365507",
+   "stored_at": "sounds/korea-2024/E27.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E28.WAV",
+   "size": 50222,
+   "sha256": "0cad1006fbd93e9146ab97dc8c12300b754265d5234dfa9bc29b82344b1db339",
+   "stored_at": "sounds/korea-2024/E28.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E29.WAV",
+   "size": 44142,
+   "sha256": "bc8be38c479d9025ff4342ccdd335624984a950ad622d5e54efef9af25af83b8",
+   "stored_at": "sounds/korea-2024/E29.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E3.WAV",
+   "size": 88320,
+   "sha256": "77bf4cc61ffc7fddb52e4fd40e9fc197a235f7fcaacdff0b8984d663570add90",
+   "stored_at": "sounds/korea-2024/E3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E30.WAV",
+   "size": 53150,
+   "sha256": "085c294e6cd7496db8a133c294d3e9999307a00661afbe29828f1ce1f35c4ec3",
+   "stored_at": "sounds/korea-2024/E30.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E31.WAV",
+   "size": 832208,
+   "sha256": "41c8bd4058f1115e9e86c66b23e41e6f599d25d4e28dcf8b198c4db12589bab4",
+   "stored_at": "sounds/korea-2024/E31.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E32.WAV",
+   "size": 745682,
+   "sha256": "9d88afcbc66713944c2e03466da25900a6cd780f395dfb46da666dec3f36c975",
+   "stored_at": "sounds/korea-2024/E32.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E33.WAV",
+   "size": 752570,
+   "sha256": "cb68dfac41865b45d1bb3cee560354e1474e9de82343ab512b1560f093a60b37",
+   "stored_at": "sounds/korea-2024/E33.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E34.WAV",
+   "size": 169184,
+   "sha256": "d33f54429631877b4ab00933175af35084452464e1d373dd9abf5bf08c1495ac",
+   "stored_at": "sounds/korea-2024/E34.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E35.WAV",
+   "size": 156894,
+   "sha256": "775d2a00bfaaa92f1d41b47a316793395f975e286628da6c29f7d45ef21e39cd",
+   "stored_at": "sounds/korea-2024/E35.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E36.WAV",
+   "size": 23094,
+   "sha256": "fcee888be7e195ba06678d4ea7e66fc6e5535390b331966b27da9544a8ce39c0",
+   "stored_at": "sounds/korea-2024/E36.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E37.WAV",
+   "size": 21750,
+   "sha256": "056ae08cc3eb5c4c41be5b925b36c7e8fd5fb60a2bf2f09a85f4057a20c104fb",
+   "stored_at": "sounds/korea-2024/E37.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E38.WAV",
+   "size": 754944,
+   "sha256": "2f6667049a288a5bb4f97d827ab2a8db40a937ea1afa85cd72fb9400c55f3825",
+   "stored_at": "sounds/korea-2024/E38.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E39.WAV",
+   "size": 503854,
+   "sha256": "efa038ffb8d1014c6d30dd97c6a5e3bba457a0027cad57cd0e5e70c6900caebf",
+   "stored_at": "sounds/korea-2024/E39.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E4.WAV",
+   "size": 166202,
+   "sha256": "a87fb141c46e86e210676c3ce1712feff18031da5a4ff05e0dc1c3b7ec2ec4b6",
+   "stored_at": "sounds/korea-2024/E4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E40.WAV",
+   "size": 207742,
+   "sha256": "7da5e493cc76cd9148c827fd67855dcc6e40d2a3da52fefeee908a16cd93c19a",
+   "stored_at": "sounds/korea-2024/E40.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E41.WAV",
+   "size": 160772,
+   "sha256": "a449d9fe25b684ef75ab363da064b89272506877b6854a4fcd1bbfc4b3af475c",
+   "stored_at": "sounds/korea-2024/E41.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E42.WAV",
+   "size": 40384,
+   "sha256": "be932345725bbad20824488a5a124d053b68f68b83b57d756124c94278bdc89e",
+   "stored_at": "sounds/korea-2024/E42.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E43.WAV",
+   "size": 111950,
+   "sha256": "364fc03d7b00d7206dc826edef4b73d3d007e5ebf1a8b91b4d6a7c185ba322ab",
+   "stored_at": "sounds/korea-2024/E43.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E44.wav",
+   "size": 213292,
+   "sha256": "b27a0c6b5102eaae4c3b962fe6e88a5671d625dd2314c7b252081f2101a561b4",
+   "stored_at": "sounds/korea-2024/E44.wav"
+  },
+  {
+   "install_path": "SOUNDS/E45.wav",
+   "size": 51108,
+   "sha256": "097ee12f8f2a250b96cc7f4a00da8d24064ac3708df6883de79ca697947babc4",
+   "stored_at": "sounds/korea-2024/E45.wav"
+  },
+  {
+   "install_path": "SOUNDS/E46.wav",
+   "size": 20504,
+   "sha256": "7896077ae01dcb9799024ce4251c0d4f0c1fbe91ee2478333b74e5976f662c72",
+   "stored_at": "sounds/korea-2024/E46.wav"
+  },
+  {
+   "install_path": "SOUNDS/E47.wav",
+   "size": 55110,
+   "sha256": "375c1b7b341c22017c6ad39adcc8b620ebf07301adbafb24a697aab8493e6e13",
+   "stored_at": "sounds/korea-2024/E47.wav"
+  },
+  {
+   "install_path": "SOUNDS/E48.wav",
+   "size": 217534,
+   "sha256": "7d0ad37d1f3be803322ab8a03d0635f3875dd7106248b2e2d1c5b4ab3825ceef",
+   "stored_at": "sounds/korea-2024/E48.wav"
+  },
+  {
+   "install_path": "SOUNDS/E49.wav",
+   "size": 75814,
+   "sha256": "0f9d74b3e4ea0972d1766ffa9220a0cb6aff1db751fcdbfcb40f77b5a0edc052",
+   "stored_at": "sounds/korea-2024/E49.wav"
+  },
+  {
+   "install_path": "SOUNDS/E5.WAV",
+   "size": 131864,
+   "sha256": "55910214f60cd8d169a27def4ce394a2b2e4df50256a2d4a86679a28897555be",
+   "stored_at": "sounds/korea-2024/E5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E50.wav",
+   "size": 54240,
+   "sha256": "7e88c921116b5e8d162ce5ee2b7161e6c2c5559af2f7f9ff88f7fa91c27cff1f",
+   "stored_at": "sounds/korea-2024/E50.wav"
+  },
+  {
+   "install_path": "SOUNDS/E51.wav",
+   "size": 648786,
+   "sha256": "3761d04062a35f0d1e270dad7d641ed5d8d3b0adc06c97a2bac201e9a0143fa0",
+   "stored_at": "sounds/korea-2024/E51.wav"
+  },
+  {
+   "install_path": "SOUNDS/E52.wav",
+   "size": 417838,
+   "sha256": "8c986b79824697ee339e22288bcc56dd2ce8ca9cc2bb1eabaea510273de55afd",
+   "stored_at": "sounds/korea-2024/E52.wav"
+  },
+  {
+   "install_path": "SOUNDS/E53.wav",
+   "size": 565294,
+   "sha256": "ddea1853c1e4c09bae17c864facbc54218d4b7a1fa9cd853be010d681fc66426",
+   "stored_at": "sounds/korea-2024/E53.wav"
+  },
+  {
+   "install_path": "SOUNDS/E54.WAV",
+   "size": 76080,
+   "sha256": "a47fa51c77d4555a19445fd9afee8daab790d4b7b053b0bd0e7aad86f291f9f8",
+   "stored_at": "sounds/korea-2024/E54.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E55.WAV",
+   "size": 80290,
+   "sha256": "17d3fa278f9602df2599d598da4fd1775404952732d2f7d678f600377ebba184",
+   "stored_at": "sounds/korea-2024/E55.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E56.wav",
+   "size": 175674,
+   "sha256": "6b75ecf6b254f773cbd1fc30b61279b60ba3f54574f4f4e0da875683731083f8",
+   "stored_at": "sounds/korea-2024/E56.wav"
+  },
+  {
+   "install_path": "SOUNDS/E6.WAV",
+   "size": 131118,
+   "sha256": "7b86a68d6723898622021f58125bf621b29d5ff038af2a1406593911d40cfe26",
+   "stored_at": "sounds/korea-2024/E6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E7.WAV",
+   "size": 87926,
+   "sha256": "a10db6f059990dabdea5f081f65c93c272a65b0c034c2b2fb831571ed27f5052",
+   "stored_at": "sounds/korea-2024/E7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E8.WAV",
+   "size": 91862,
+   "sha256": "7fd588e06c17abfed0148f0224ecd1a195607cbdc83e3519c211c5db01dbaab8",
+   "stored_at": "sounds/korea-2024/E8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/E9.WAV",
+   "size": 130198,
+   "sha256": "3ab734970c5fa94f319d86fe377a1209d9410b359f668974a0fbe3a4bb262daf",
+   "stored_at": "sounds/korea-2024/E9.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M1.WAV",
+   "size": 44244,
+   "sha256": "84314baa08ec3c1a27a92f42e3af0ae19558d33c089229297fae2bbd77ca5179",
+   "stored_at": "sounds/korea-2024/M1.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M10.WAV",
+   "size": 33378,
+   "sha256": "2ec7c9f4102383639a36051171d7c5dcd787bb3a2274a95d4650cb71a47b7d85",
+   "stored_at": "sounds/korea-2024/M10.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M100.wav",
+   "size": 27090,
+   "sha256": "3e04f49d7f10129ab4af4d4206264dd70e6eba52aa3fef06f12d2256014d4d41",
+   "stored_at": "sounds/korea-2024/M100.wav"
+  },
+  {
+   "install_path": "SOUNDS/M101.wav",
+   "size": 24106,
+   "sha256": "654ff1b7e0d3e34ca8e33b1b574018c701ef129747f66226ab33184c79723ba5",
+   "stored_at": "sounds/korea-2024/M101.wav"
+  },
+  {
+   "install_path": "SOUNDS/M102.wav",
+   "size": 60462,
+   "sha256": "5e3c75a75c4bfafa6dc85bed71670688a83210e67b3824f179c0cd833ab2c7f1",
+   "stored_at": "sounds/korea-2024/M102.wav"
+  },
+  {
+   "install_path": "SOUNDS/M103.wav",
+   "size": 106542,
+   "sha256": "3cd26602f22820a320a7d199478b351bd25b22864b26ce36750fd9c1aab15deb",
+   "stored_at": "sounds/korea-2024/M103.wav"
+  },
+  {
+   "install_path": "SOUNDS/M104.wav",
+   "size": 75578,
+   "sha256": "a9a5fd26555359a454036625c7ac7225386cd1bb670d4714f385909bfc6a3d02",
+   "stored_at": "sounds/korea-2024/M104.wav"
+  },
+  {
+   "install_path": "SOUNDS/M105.wav",
+   "size": 229496,
+   "sha256": "144519b5e191b6093523a0eceaabca7afe585205c2033623c1aa905901f60cd3",
+   "stored_at": "sounds/korea-2024/M105.wav"
+  },
+  {
+   "install_path": "SOUNDS/M106.wav",
+   "size": 498808,
+   "sha256": "2070ac720a33506910a39a820a7cf743003132030470d5a9034460b4cc7552e9",
+   "stored_at": "sounds/korea-2024/M106.wav"
+  },
+  {
+   "install_path": "SOUNDS/M107.wav",
+   "size": 325678,
+   "sha256": "e85396b35172cb71097672a66936cd10aa21b1ba424926d208aeb585f5401676",
+   "stored_at": "sounds/korea-2024/M107.wav"
+  },
+  {
+   "install_path": "SOUNDS/M108.wav",
+   "size": 139384,
+   "sha256": "ea45ea3f441f38f9aa4d9b2e479195ed690da8f2713e85c1d3d7bd32f88ce51c",
+   "stored_at": "sounds/korea-2024/M108.wav"
+  },
+  {
+   "install_path": "SOUNDS/M109.wav",
+   "size": 108408,
+   "sha256": "34b4ecdea3f7860df7702a76957473cef1034815d8362adf13324b2c71981477",
+   "stored_at": "sounds/korea-2024/M109.wav"
+  },
+  {
+   "install_path": "SOUNDS/M11.WAV",
+   "size": 42680,
+   "sha256": "4b9e8f266f29bdd94def1b29172f17437474107c34b73cb9c7d3beec2d5b8243",
+   "stored_at": "sounds/korea-2024/M11.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M110.wav",
+   "size": 76536,
+   "sha256": "36119a46b607d7e25911fd4605241841986f9d94534636021f71c4c25d621b7c",
+   "stored_at": "sounds/korea-2024/M110.wav"
+  },
+  {
+   "install_path": "SOUNDS/M111.wav",
+   "size": 156280,
+   "sha256": "1ae379f98d2fd1b14200453fd8467a46fba59ef0f2520c2f0099d5a4e6a75adb",
+   "stored_at": "sounds/korea-2024/M111.wav"
+  },
+  {
+   "install_path": "SOUNDS/M112.wav",
+   "size": 85624,
+   "sha256": "18697cf0642980b6f46c36812836c5598072a91337c9afb5fa8cbaf5eb9780f9",
+   "stored_at": "sounds/korea-2024/M112.wav"
+  },
+  {
+   "install_path": "SOUNDS/M113.wav",
+   "size": 169340,
+   "sha256": "e0d750f59903f26ab813eb88f030e0c9bb21c5c7a4447c454948e0b1e29ed798",
+   "stored_at": "sounds/korea-2024/M113.wav"
+  },
+  {
+   "install_path": "SOUNDS/M114.wav",
+   "size": 440440,
+   "sha256": "0ded945ce3facd6cf3e0583578c532f60c089409976b2dbc8afc465268b41eaf",
+   "stored_at": "sounds/korea-2024/M114.wav"
+  },
+  {
+   "install_path": "SOUNDS/M115.wav",
+   "size": 180856,
+   "sha256": "0dffee400623adbc504fb6cccbb4b4a8208ad45fed9217c12818668fa6e90285",
+   "stored_at": "sounds/korea-2024/M115.wav"
+  },
+  {
+   "install_path": "SOUNDS/M116.wav",
+   "size": 162936,
+   "sha256": "ad1cce9c514018b796f9185da8abedd701801e288ac67451a87119d960a18c38",
+   "stored_at": "sounds/korea-2024/M116.wav"
+  },
+  {
+   "install_path": "SOUNDS/M117.wav",
+   "size": 101752,
+   "sha256": "9d80930ce061926741c848c670480791340b334a433ba6ab60108261b1f8e116",
+   "stored_at": "sounds/korea-2024/M117.wav"
+  },
+  {
+   "install_path": "SOUNDS/M118.wav",
+   "size": 150136,
+   "sha256": "22effb8df46b2f95deffc959b50e579453a42a4b7f3f6576dbace8fcc7c9ac52",
+   "stored_at": "sounds/korea-2024/M118.wav"
+  },
+  {
+   "install_path": "SOUNDS/M119.wav",
+   "size": 122962,
+   "sha256": "473ff20d6c969abe2a3e1cb3ffdb185b5b63039a933961c84d6aff1ee3937dae",
+   "stored_at": "sounds/korea-2024/M119.wav"
+  },
+  {
+   "install_path": "SOUNDS/M12.WAV",
+   "size": 39094,
+   "sha256": "6f9a9301fa0eba3470f465499859676be904473d55f6a21bac781a833477361c",
+   "stored_at": "sounds/korea-2024/M12.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M120.wav",
+   "size": 133752,
+   "sha256": "700c8337d1f4774e87eeff27b6e412f4825c90b37aaf984364d13e7263e17f75",
+   "stored_at": "sounds/korea-2024/M120.wav"
+  },
+  {
+   "install_path": "SOUNDS/M121.wav",
+   "size": 187512,
+   "sha256": "16092bb20718507f45e7c904115689564bea9bca70112ccad9f54abd9e050b77",
+   "stored_at": "sounds/korea-2024/M121.wav"
+  },
+  {
+   "install_path": "SOUNDS/M122.wav",
+   "size": 215160,
+   "sha256": "8e9d55395348eb703d5988dc3b31a9c728cd045dcd38cb43197dbca481d5e17f",
+   "stored_at": "sounds/korea-2024/M122.wav"
+  },
+  {
+   "install_path": "SOUNDS/M123.wav",
+   "size": 188536,
+   "sha256": "b29502edaaa495f436d3281f421a6773f4b7c22b6264dc4f8de985ab94a6c8c1",
+   "stored_at": "sounds/korea-2024/M123.wav"
+  },
+  {
+   "install_path": "SOUNDS/M124.wav",
+   "size": 59004,
+   "sha256": "6cdedeaf3605710c2da054e78619816fc11df89e4b2974da5323cb392d4c2e6e",
+   "stored_at": "sounds/korea-2024/M124.wav"
+  },
+  {
+   "install_path": "SOUNDS/M125.wav",
+   "size": 189260,
+   "sha256": "5f1a07c9816a3efbba983c817b12dbdf230e2f61f19be2eed70872e336a5e2de",
+   "stored_at": "sounds/korea-2024/M125.wav"
+  },
+  {
+   "install_path": "SOUNDS/M126.wav",
+   "size": 192632,
+   "sha256": "f556d1108c78eb4d9c438a8248eadc9d42c703f6d6765d1042a51abbc1bfcf3a",
+   "stored_at": "sounds/korea-2024/M126.wav"
+  },
+  {
+   "install_path": "SOUNDS/M127.wav",
+   "size": 71800,
+   "sha256": "0575d7d332f55c4c5eb43ff2548080fbebfad6d7873d20d07248b205a449dbb4",
+   "stored_at": "sounds/korea-2024/M127.wav"
+  },
+  {
+   "install_path": "SOUNDS/M128.wav",
+   "size": 162428,
+   "sha256": "e5fdc11a5ac14be1e2a9da5650d81a7a16e0617868bf200982a55eb4c8560a19",
+   "stored_at": "sounds/korea-2024/M128.wav"
+  },
+  {
+   "install_path": "SOUNDS/M129.wav",
+   "size": 199916,
+   "sha256": "64ea9c594577774382e044e396e2f403c6eb1c563c1f860182500059805e9a25",
+   "stored_at": "sounds/korea-2024/M129.wav"
+  },
+  {
+   "install_path": "SOUNDS/M13.WAV",
+   "size": 48632,
+   "sha256": "3c2d616f693549562406ef815880f5f79b7292c74ed6e6e8e9cf8ab297a334e7",
+   "stored_at": "sounds/korea-2024/M13.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M130.wav",
+   "size": 348280,
+   "sha256": "0959b3a3693e712eaf555d34685c7e2a3f8a15489d285dc99d91209a3c37d4f5",
+   "stored_at": "sounds/korea-2024/M130.wav"
+  },
+  {
+   "install_path": "SOUNDS/M131.wav",
+   "size": 162004,
+   "sha256": "2734ab16ef569a78d6787cbea5b3dd5f728b8ea42b378ec7fa69c6a6cfa32b6e",
+   "stored_at": "sounds/korea-2024/M131.wav"
+  },
+  {
+   "install_path": "SOUNDS/M132.wav",
+   "size": 46620,
+   "sha256": "001add25b5481ac35aca007638d1436aa4c43ee3385cfe77ceed7c8ff9ebc371",
+   "stored_at": "sounds/korea-2024/M132.wav"
+  },
+  {
+   "install_path": "SOUNDS/M133.wav",
+   "size": 126108,
+   "sha256": "56f8e893a86bc9b55d94166491b4d62dfd24143ed6a499c8d78631a107d9ec3e",
+   "stored_at": "sounds/korea-2024/M133.wav"
+  },
+  {
+   "install_path": "SOUNDS/M134.wav",
+   "size": 196068,
+   "sha256": "8dd56b1b69b9cd7990097b247d44d14b6ad8e9a7df09bdd161606b13ce34fe82",
+   "stored_at": "sounds/korea-2024/M134.wav"
+  },
+  {
+   "install_path": "SOUNDS/M135.wav",
+   "size": 82344,
+   "sha256": "2326b563369a4e06cb93d3236c29893246a5f85e51e90ff3d724193d063682be",
+   "stored_at": "sounds/korea-2024/M135.wav"
+  },
+  {
+   "install_path": "SOUNDS/M136.wav",
+   "size": 280370,
+   "sha256": "7bb79a60c9b2b69c7503698e3dcf99d53e1fc6b05e70ad9ae2eab40a8def754f",
+   "stored_at": "sounds/korea-2024/M136.wav"
+  },
+  {
+   "install_path": "SOUNDS/M137.wav",
+   "size": 137970,
+   "sha256": "43ddc04aa4818d12f86f694f4a899f54e1c59e6dd09c598947ab96e0f2068a85",
+   "stored_at": "sounds/korea-2024/M137.wav"
+  },
+  {
+   "install_path": "SOUNDS/M138.wav",
+   "size": 495362,
+   "sha256": "51a4a86747739ddeabdcb0d9aaf14c52775aed30d30ace98219e8075f13ea95d",
+   "stored_at": "sounds/korea-2024/M138.wav"
+  },
+  {
+   "install_path": "SOUNDS/M139.wav",
+   "size": 812930,
+   "sha256": "a7fced2c2756ae846d24de33424e706a636ded4e5016886d0431476fa4c60d05",
+   "stored_at": "sounds/korea-2024/M139.wav"
+  },
+  {
+   "install_path": "SOUNDS/M14.WAV",
+   "size": 11556,
+   "sha256": "9cdbccc45476fbd1e53510c26fbad387ddaa8c09294e9b9babd18cd0dad67a0e",
+   "stored_at": "sounds/korea-2024/M14.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M140.wav",
+   "size": 65478,
+   "sha256": "ada0e80e3dbaa20ed968f7baae8203382ee35eacd5fffa3e8037b67aa775840e",
+   "stored_at": "sounds/korea-2024/M140.wav"
+  },
+  {
+   "install_path": "SOUNDS/M141.wav",
+   "size": 117208,
+   "sha256": "0300e275a89ac46ea52e84228df5e2a0b5e5a6f72b8257782bc4b475b78b37db",
+   "stored_at": "sounds/korea-2024/M141.wav"
+  },
+  {
+   "install_path": "SOUNDS/M142.wav",
+   "size": 18128,
+   "sha256": "53fcc039b59222cb65781ee862deb157feaa2439b733cf469dd90c6b1bd72733",
+   "stored_at": "sounds/korea-2024/M142.wav"
+  },
+  {
+   "install_path": "SOUNDS/M143.wav",
+   "size": 54552,
+   "sha256": "ba9c634843bd9abf46b4f72e037efc4e59aca683939317328e082d75b742ef1f",
+   "stored_at": "sounds/korea-2024/M143.wav"
+  },
+  {
+   "install_path": "SOUNDS/M144.wav",
+   "size": 133752,
+   "sha256": "d06eb821e78744d9a16d3e9f0b55c4de54c5a3a31c559378347726f4933c548f",
+   "stored_at": "sounds/korea-2024/M144.wav"
+  },
+  {
+   "install_path": "SOUNDS/M145.wav",
+   "size": 137200,
+   "sha256": "07881d3430e9e9de67a6c78d2c5b270e3c691e199fcba9ba902f609dfcbe0007",
+   "stored_at": "sounds/korea-2024/M145.wav"
+  },
+  {
+   "install_path": "SOUNDS/M146.wav",
+   "size": 77378,
+   "sha256": "ab4c3dc4e1bdcd0ecf7024ad124dc967aba27d16f80b3aac19d22483106d88c7",
+   "stored_at": "sounds/korea-2024/M146.wav"
+  },
+  {
+   "install_path": "SOUNDS/M147.wav",
+   "size": 45236,
+   "sha256": "6517de669da71d68dd3eee94f67f1cd7d77883df209e98a773af7b5fa68a0dbf",
+   "stored_at": "sounds/korea-2024/M147.wav"
+  },
+  {
+   "install_path": "SOUNDS/M148.wav",
+   "size": 50508,
+   "sha256": "1e811f336c0837a2ae6a2616d8eae49b0d0de5df31897e650f085fa7ae5f4b3a",
+   "stored_at": "sounds/korea-2024/M148.wav"
+  },
+  {
+   "install_path": "SOUNDS/M149.wav",
+   "size": 194212,
+   "sha256": "7b999b6eff9cd142642d949e5d04583cebf270fa110b27050b6970e52ae9aa10",
+   "stored_at": "sounds/korea-2024/M149.wav"
+  },
+  {
+   "install_path": "SOUNDS/M15.WAV",
+   "size": 23480,
+   "sha256": "f0bfead6550c6e842d3d23ae066dfc925ed53869da52845f6da3832268685a80",
+   "stored_at": "sounds/korea-2024/M15.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M150.wav",
+   "size": 65500,
+   "sha256": "101bf33b363728dfc5ac362b25760ee0980d8be7a93f9209d3f14f7b656e0419",
+   "stored_at": "sounds/korea-2024/M150.wav"
+  },
+  {
+   "install_path": "SOUNDS/M151.wav",
+   "size": 73226,
+   "sha256": "f8c29df7f5e0b68544b76d967a93e761722bf739dcf24dd633e646e8e6f3da20",
+   "stored_at": "sounds/korea-2024/M151.wav"
+  },
+  {
+   "install_path": "SOUNDS/M152.wav",
+   "size": 86962,
+   "sha256": "4701030db7e87977c0aa5d516fdf12858f5a79925f3428424306f028ebebcd45",
+   "stored_at": "sounds/korea-2024/M152.wav"
+  },
+  {
+   "install_path": "SOUNDS/M153.wav",
+   "size": 86394,
+   "sha256": "b686ae1a69038e1bcab9d090bca3780d82624ae448ad1ffe7e77a4e8ec3e4ab3",
+   "stored_at": "sounds/korea-2024/M153.wav"
+  },
+  {
+   "install_path": "SOUNDS/M154.wav",
+   "size": 87162,
+   "sha256": "6163b9a0c1b2453a0c90561b5884c3d6154f4a0b9f8b672234d8bf9f70fd5d76",
+   "stored_at": "sounds/korea-2024/M154.wav"
+  },
+  {
+   "install_path": "SOUNDS/M155.wav",
+   "size": 73226,
+   "sha256": "96ceba77a704bc54ee6aec39ed96c7b48ed516b6e6e52fd77105f66816415d5d",
+   "stored_at": "sounds/korea-2024/M155.wav"
+  },
+  {
+   "install_path": "SOUNDS/M156.wav",
+   "size": 86962,
+   "sha256": "7878420f19b2bb4a1ac056385d4192bceea21fb5a3365720517856c98d92d736",
+   "stored_at": "sounds/korea-2024/M156.wav"
+  },
+  {
+   "install_path": "SOUNDS/M16.WAV",
+   "size": 66342,
+   "sha256": "13e91f55722acf9eee2b6950fb5d9e644f0af96e208c06ef44b5fa6a71b6951a",
+   "stored_at": "sounds/korea-2024/M16.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M17.WAV",
+   "size": 65474,
+   "sha256": "6039ec4449a7e0cddf965115753cca61a77822ca67177ade2eed34cc7bab81a5",
+   "stored_at": "sounds/korea-2024/M17.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M18.WAV",
+   "size": 47278,
+   "sha256": "4d3a281c2e5b9d8356329d29b11823d9df277869dc0ed45a4c6e8193bf36d895",
+   "stored_at": "sounds/korea-2024/M18.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M19.WAV",
+   "size": 71214,
+   "sha256": "f2db1969a8db923f1e21fdcedef1737860e8deac66de9378919695807c1d4033",
+   "stored_at": "sounds/korea-2024/M19.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M2.WAV",
+   "size": 27630,
+   "sha256": "6670f1760c23fddede128def1bdf9d6b687d64a3a4fd6fc5c2c66acef0ba31c1",
+   "stored_at": "sounds/korea-2024/M2.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M20.WAV",
+   "size": 87342,
+   "sha256": "1c9801b910b79a67cb13b0106d76afd111eb3bd79941957e0e2402e31d9c1b47",
+   "stored_at": "sounds/korea-2024/M20.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M21.WAV",
+   "size": 36334,
+   "sha256": "ecbf97685bf92bb8521d87ac76b1282a2e378db8d0eeaf4ad0970a1a024c05a5",
+   "stored_at": "sounds/korea-2024/M21.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M22.WAV",
+   "size": 34806,
+   "sha256": "a860e3f173f65b8f4af1923a084ec3b7c5573411442208fcb7df2050098ad817",
+   "stored_at": "sounds/korea-2024/M22.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M23.WAV",
+   "size": 34182,
+   "sha256": "239425228efd7161e1b5e1379fad10d2d221e8a47e17330659aa1995f92ff52f",
+   "stored_at": "sounds/korea-2024/M23.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M24.WAV",
+   "size": 44454,
+   "sha256": "2e4857cc7056bb1c39b29bacf0c9503f32b189a6eb89710d658a004e8edecd05",
+   "stored_at": "sounds/korea-2024/M24.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M25.WAV",
+   "size": 36724,
+   "sha256": "28d584beea162fe5b3974f9adca2304d78d2fb44398b642dceddc6a67ed9884f",
+   "stored_at": "sounds/korea-2024/M25.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M26.WAV",
+   "size": 21636,
+   "sha256": "1ed650aba77f1b7a5540155abc15060874b97cac55da6d5f1de81a0101f6abb6",
+   "stored_at": "sounds/korea-2024/M26.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M27.WAV",
+   "size": 26522,
+   "sha256": "d1ea694fb95734d4718b69a4faed07c89c36b73b00c6a659de7667a272780db0",
+   "stored_at": "sounds/korea-2024/M27.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M28.WAV",
+   "size": 35362,
+   "sha256": "14d137c1313987b90e876ac27d6bebe3978eaa9be75a4384ec7c0ddadddddeef",
+   "stored_at": "sounds/korea-2024/M28.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M29.WAV",
+   "size": 37958,
+   "sha256": "d5a22da70020ceee6cf72ebb1042ad0710b0a76969de69fed6e90a4fa2d34882",
+   "stored_at": "sounds/korea-2024/M29.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M3.WAV",
+   "size": 43778,
+   "sha256": "b26831b780760aa5144a476e3d3c1196a610c94818c62ad3dc0e86207f2c74cf",
+   "stored_at": "sounds/korea-2024/M3.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M30.WAV",
+   "size": 44936,
+   "sha256": "658db3bb7a99bed467694c588c3dd0d25a80f22ac69ed9153e519baa20698025",
+   "stored_at": "sounds/korea-2024/M30.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M31.WAV",
+   "size": 31622,
+   "sha256": "7cb1f24159ec4eeb2efce77f8876645c2e0dc6a0825b4d80cdd9a9e52690ac24",
+   "stored_at": "sounds/korea-2024/M31.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M32.WAV",
+   "size": 35982,
+   "sha256": "b08d6154185b1c3ea58dcdaf79b60f46087ae1c10ab79aec8c61209fecce329f",
+   "stored_at": "sounds/korea-2024/M32.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M33.WAV",
+   "size": 67470,
+   "sha256": "65aebee2d9dcdf6abb0d0c119588d00419398d7a48bfa636f4a735861557edce",
+   "stored_at": "sounds/korea-2024/M33.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M34.WAV",
+   "size": 55542,
+   "sha256": "f539d2642fdd8c876300319878fbbdd9a7d611148e3dcab54ba6498af6c6d208",
+   "stored_at": "sounds/korea-2024/M34.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M35.WAV",
+   "size": 39350,
+   "sha256": "924c4467b7976483948c856f7f0e6e44d5388c2a207787115ecaa97d81f914e2",
+   "stored_at": "sounds/korea-2024/M35.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M36.WAV",
+   "size": 50622,
+   "sha256": "e5164b953151bac7ea7d80ec41e32d6271bbc8f5e23b2cee1a87b3f7430f74f2",
+   "stored_at": "sounds/korea-2024/M36.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M37.WAV",
+   "size": 64668,
+   "sha256": "65691ddc76b48e2d72e8c13e73b6c91ba6d948bb8c21f47864d07319bb3e1475",
+   "stored_at": "sounds/korea-2024/M37.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M38.WAV",
+   "size": 32262,
+   "sha256": "16ae9abed7aafd3a6d6a27cdd0b0cc6a44f3ace4bd869f3d3cebe04f0aed38b0",
+   "stored_at": "sounds/korea-2024/M38.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M39.WAV",
+   "size": 42444,
+   "sha256": "300ad1af5afd10955a8950ed1d75ee87674086ac381266133eabb07b2b83d438",
+   "stored_at": "sounds/korea-2024/M39.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M4.WAV",
+   "size": 66304,
+   "sha256": "ceb5245a281963a18b7280d27b458c349272f03a1119a7095873a9acdd2bf5f7",
+   "stored_at": "sounds/korea-2024/M4.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M40.WAV",
+   "size": 67980,
+   "sha256": "92df52bd52ca5708f035aab35118f9c212de43dbad2522c977015be7dbfe9431",
+   "stored_at": "sounds/korea-2024/M40.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M41.WAV",
+   "size": 66550,
+   "sha256": "d97c78276898dc1e35e166b8fc5e3a80d701cdad558d5a602877b4a1104e2bce",
+   "stored_at": "sounds/korea-2024/M41.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M42.WAV",
+   "size": 44106,
+   "sha256": "2eccfc8dc98c7a5321da74640be16b39b03dfa2ba609663fc18d5a835cee44ab",
+   "stored_at": "sounds/korea-2024/M42.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M43.WAV",
+   "size": 37868,
+   "sha256": "dc1681dcbb948b451631ffb7f7c907bba1779cd2a800b9d7fbc3b5a9f0da8f90",
+   "stored_at": "sounds/korea-2024/M43.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M44.WAV",
+   "size": 82442,
+   "sha256": "6f1e83d0f26ba682ee8c8f8f1a0ced696dc57efdefab6c88dda934337d1d4587",
+   "stored_at": "sounds/korea-2024/M44.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M45.WAV",
+   "size": 86472,
+   "sha256": "06b84b5734329525f336be7f3fe8d2683307901de42c7fcbbb54067ec1d36a44",
+   "stored_at": "sounds/korea-2024/M45.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M46.WAV",
+   "size": 61046,
+   "sha256": "e4b57f77a15fedc734c896624af054bf52ab7b55d6ae4af912359614704f619a",
+   "stored_at": "sounds/korea-2024/M46.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M47.WAV",
+   "size": 44500,
+   "sha256": "10d32f5999f4a18efd96eb131b7139bac8eea6c9f785f831b760a051e8781927",
+   "stored_at": "sounds/korea-2024/M47.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M48.WAV",
+   "size": 18384,
+   "sha256": "0c235e56278dc4b0c524056e78078423769d65ef9d29ecce7635dda5b4948926",
+   "stored_at": "sounds/korea-2024/M48.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M49.WAV",
+   "size": 40056,
+   "sha256": "63ec827897fee8f18ad48d75ea08531e5c33e8d7d7bfb30fa1483ef5f016a9de",
+   "stored_at": "sounds/korea-2024/M49.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M5.WAV",
+   "size": 68222,
+   "sha256": "906c40009e2f40d4b94b17e2d4ebd934da611ffbd83981411a9786dbe9dfbd38",
+   "stored_at": "sounds/korea-2024/M5.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M50.WAV",
+   "size": 77264,
+   "sha256": "69d60f2ce131beeb878b9375f8f66cb8f6fd6798b2b1e52d17a8b3e0c4c88f94",
+   "stored_at": "sounds/korea-2024/M50.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M51.WAV",
+   "size": 62672,
+   "sha256": "2b8e12d9ce95bc1a113d1f3916cb337f6d75f0092b3deaecdeb8c1798dec9e2c",
+   "stored_at": "sounds/korea-2024/M51.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M52.WAV",
+   "size": 34976,
+   "sha256": "a2fffc89f7593672f18031631ccd2e7f4e9a386049dd89ba1914bca6fd8eb4b2",
+   "stored_at": "sounds/korea-2024/M52.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M53.WAV",
+   "size": 21584,
+   "sha256": "98d6e9215cdee91434ae2caab2ef861ee33d324d9bde55f7636203a14b83b334",
+   "stored_at": "sounds/korea-2024/M53.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M54.WAV",
+   "size": 81764,
+   "sha256": "99180dd52c0c24c0409657756173c51eecc26698c5a16dd4fce7e47f78c3cf2a",
+   "stored_at": "sounds/korea-2024/M54.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M55.WAV",
+   "size": 101302,
+   "sha256": "70b3c0cb7237836463eb643c3c95ebaa82ccf3899c8dc35d90886e46967fc03a",
+   "stored_at": "sounds/korea-2024/M55.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M56.WAV",
+   "size": 180870,
+   "sha256": "55ddfec20d9062c266424dd77a0d50801f54b6fff85e6a9030aaa402f01f2377",
+   "stored_at": "sounds/korea-2024/M56.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M57.WAV",
+   "size": 28390,
+   "sha256": "a9aaa095ce5eb2b830872a361c5d49aa1a8c22cf505e615727f61dfc382c1ee6",
+   "stored_at": "sounds/korea-2024/M57.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M58.WAV",
+   "size": 53806,
+   "sha256": "ebb772fa194ca5b462470c9339dbe1c9fb16ec010d1df56f0be9e83ece6c53a5",
+   "stored_at": "sounds/korea-2024/M58.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M59.WAV",
+   "size": 73590,
+   "sha256": "769b20abf6e50d458f66565ac732ef3e7577259b77a7600c2107568bcde2c5e1",
+   "stored_at": "sounds/korea-2024/M59.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M6.WAV",
+   "size": 44222,
+   "sha256": "d727802f863b83794b809f95013f61246271edf1dff5923c40f6f32cc7991c9e",
+   "stored_at": "sounds/korea-2024/M6.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M60.WAV",
+   "size": 64118,
+   "sha256": "aa95379d52a1f9b42ca6b4ec24cd9dafd168cb31d460c4911fa2b18eef891813",
+   "stored_at": "sounds/korea-2024/M60.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M61.WAV",
+   "size": 72640,
+   "sha256": "c75433012db58b1d0f63c3330f01fa23d5403cb4f7af99ae4d2b956b97787e19",
+   "stored_at": "sounds/korea-2024/M61.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M62.WAV",
+   "size": 65656,
+   "sha256": "587f43f602c5657a0f07fd7f5e1715b621ac1915dceba00b28d34a6a49909d29",
+   "stored_at": "sounds/korea-2024/M62.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M63.wav",
+   "size": 53368,
+   "sha256": "5d2d9f478c6b0059c824a58cf42934d9c126f576b3cfb4b8906524bdc89d845d",
+   "stored_at": "sounds/korea-2024/M63.wav"
+  },
+  {
+   "install_path": "SOUNDS/M64.wav",
+   "size": 59052,
+   "sha256": "0864116e05c0bdb97be2a5063bb998509e06fc60392e0d710afd3fb5fdb55be8",
+   "stored_at": "sounds/korea-2024/M64.wav"
+  },
+  {
+   "install_path": "SOUNDS/M65.wav",
+   "size": 41516,
+   "sha256": "86df3792290b89e96c8802d5825b6e8c2ae90265176d6d98a326bd3eae40e64e",
+   "stored_at": "sounds/korea-2024/M65.wav"
+  },
+  {
+   "install_path": "SOUNDS/M66.wav",
+   "size": 82550,
+   "sha256": "256e16f189e74bf74e54dd0288f916003ebdecd6b688ce109d59e8f7d555aebf",
+   "stored_at": "sounds/korea-2024/M66.wav"
+  },
+  {
+   "install_path": "SOUNDS/M67.wav",
+   "size": 29628,
+   "sha256": "af90bece985f093e17cd44d4ac617db34df0c9921f4624aaf300ef8849d87a6a",
+   "stored_at": "sounds/korea-2024/M67.wav"
+  },
+  {
+   "install_path": "SOUNDS/M68.wav",
+   "size": 43582,
+   "sha256": "d3bd247f500b2dc9531e44bf39f3a273a53579cafe18d10778747b0bd101987a",
+   "stored_at": "sounds/korea-2024/M68.wav"
+  },
+  {
+   "install_path": "SOUNDS/M69.wav",
+   "size": 30850,
+   "sha256": "2cdb4823f167b54a9a784a5e974881cac974fe58cb6c049da4accbe76cc44ce9",
+   "stored_at": "sounds/korea-2024/M69.wav"
+  },
+  {
+   "install_path": "SOUNDS/M7.WAV",
+   "size": 30522,
+   "sha256": "b16ca10f4f33171426241035f813752fff293aa2e279d960a5de5f99381cc9cf",
+   "stored_at": "sounds/korea-2024/M7.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M70.wav",
+   "size": 103696,
+   "sha256": "907e80f0b6563d3e072c301c4ebc8246497dce79abc4299758c7a9214da6262f",
+   "stored_at": "sounds/korea-2024/M70.wav"
+  },
+  {
+   "install_path": "SOUNDS/M71.wav",
+   "size": 29866,
+   "sha256": "a5c8804449948c410d6d95c5e01afbdf0989a47051aeaab4ff21316a76e8cb1a",
+   "stored_at": "sounds/korea-2024/M71.wav"
+  },
+  {
+   "install_path": "SOUNDS/M72.wav",
+   "size": 12714,
+   "sha256": "f15b5d8273d548e17160c89edfe7e7a2f13e72af2ac8598a86a73225d5a010a1",
+   "stored_at": "sounds/korea-2024/M72.wav"
+  },
+  {
+   "install_path": "SOUNDS/M73.wav",
+   "size": 44028,
+   "sha256": "06aa5c4ef7b9f374b88691844d75c702f6d9cdba1fd944d859e13fd51dbf0f17",
+   "stored_at": "sounds/korea-2024/M73.wav"
+  },
+  {
+   "install_path": "SOUNDS/M74.wav",
+   "size": 39560,
+   "sha256": "50ecc5e11449b0ee8997c68f70268cee1380bc3d729516023c1d0de76312cca9",
+   "stored_at": "sounds/korea-2024/M74.wav"
+  },
+  {
+   "install_path": "SOUNDS/M75.wav",
+   "size": 61396,
+   "sha256": "56bf7ff0030822e70bacf8450025d34fccda2946ca1a0dce6253981e647afbbe",
+   "stored_at": "sounds/korea-2024/M75.wav"
+  },
+  {
+   "install_path": "SOUNDS/M76.wav",
+   "size": 51946,
+   "sha256": "f605783f8d72c23ec78e025803c4d53bb02a36ec82999e81188c68f4b0c10d88",
+   "stored_at": "sounds/korea-2024/M76.wav"
+  },
+  {
+   "install_path": "SOUNDS/M77.wav",
+   "size": 20076,
+   "sha256": "9f31df0de590072a1a8def4833ef6b3293603c2e50f5d5999510d13bedcd33e8",
+   "stored_at": "sounds/korea-2024/M77.wav"
+  },
+  {
+   "install_path": "SOUNDS/M78.wav",
+   "size": 30068,
+   "sha256": "914293bcc56c4ae599df73fc4d54c92608ae74722baaf8922d36a2d5c8264c29",
+   "stored_at": "sounds/korea-2024/M78.wav"
+  },
+  {
+   "install_path": "SOUNDS/M79.wav",
+   "size": 22826,
+   "sha256": "c69ebf205545156b87687c67d4566de1e95c1a624ea6cf37804b537df5ba6c69",
+   "stored_at": "sounds/korea-2024/M79.wav"
+  },
+  {
+   "install_path": "SOUNDS/M8.WAV",
+   "size": 66190,
+   "sha256": "b63eba4e21b8c3d977d8b321b570fb18d34ab2fa47ffa3de0b85dc4684b53d06",
+   "stored_at": "sounds/korea-2024/M8.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M80.wav",
+   "size": 32346,
+   "sha256": "1927e13084bb3943e062acadf52e666c70ebadd0af1a82df6e92e21f894031ba",
+   "stored_at": "sounds/korea-2024/M80.wav"
+  },
+  {
+   "install_path": "SOUNDS/M81.wav",
+   "size": 31812,
+   "sha256": "f9fc8401738e533cd609d9cd7a2f9941850ae245a8605b64c9ef3bf0115b4b04",
+   "stored_at": "sounds/korea-2024/M81.wav"
+  },
+  {
+   "install_path": "SOUNDS/M82.wav",
+   "size": 60178,
+   "sha256": "b7ecddbfdec494a22f77624c857fea4f67164a1649df5b10d994a7749d50c256",
+   "stored_at": "sounds/korea-2024/M82.wav"
+  },
+  {
+   "install_path": "SOUNDS/M83.wav",
+   "size": 85828,
+   "sha256": "52e979bd865681653b771343fdd374792807d61c17fe56e850f36c9056c7e641",
+   "stored_at": "sounds/korea-2024/M83.wav"
+  },
+  {
+   "install_path": "SOUNDS/M84.wav",
+   "size": 60506,
+   "sha256": "b06457c0b0cd4bbc11c1e9b514ae0eb2ac0b151e1cf133822d71b8362b9f8d1a",
+   "stored_at": "sounds/korea-2024/M84.wav"
+  },
+  {
+   "install_path": "SOUNDS/M85.wav",
+   "size": 56532,
+   "sha256": "8a34eb8bcdf5e5b7bf58146df913b359624316aceadb7eec27e52d745ccc5979",
+   "stored_at": "sounds/korea-2024/M85.wav"
+  },
+  {
+   "install_path": "SOUNDS/M86.wav",
+   "size": 80472,
+   "sha256": "18784170ee770f17fe77a966d564c1aeaabfabbb45ac18e4d01de9bade132a39",
+   "stored_at": "sounds/korea-2024/M86.wav"
+  },
+  {
+   "install_path": "SOUNDS/M87.wav",
+   "size": 43834,
+   "sha256": "dfbfbd7c860ee3e4187cc5de420903512cd62caea74ddc8766f3af8ce589ef63",
+   "stored_at": "sounds/korea-2024/M87.wav"
+  },
+  {
+   "install_path": "SOUNDS/M88.wav",
+   "size": 63496,
+   "sha256": "b068d4a888fe862710afcdb4e4429c4f0e33ce97c8f13f8bb67306dd059fef53",
+   "stored_at": "sounds/korea-2024/M88.wav"
+  },
+  {
+   "install_path": "SOUNDS/M89.wav",
+   "size": 22986,
+   "sha256": "04957a2bb6fbde530b455e2da2dadb696d52fba04383d0807ec25fde458ed323",
+   "stored_at": "sounds/korea-2024/M89.wav"
+  },
+  {
+   "install_path": "SOUNDS/M9.WAV",
+   "size": 48014,
+   "sha256": "d4e82ccf62a44d19bce54db860f05369eaf009127c99c6f708bf798811d9a9f4",
+   "stored_at": "sounds/korea-2024/M9.WAV"
+  },
+  {
+   "install_path": "SOUNDS/M90.wav",
+   "size": 75980,
+   "sha256": "b3bce77bc744c5f5fa8932b7eccbdb7328f566f1a09776c820464b53a355fdb2",
+   "stored_at": "sounds/korea-2024/M90.wav"
+  },
+  {
+   "install_path": "SOUNDS/M91.wav",
+   "size": 44154,
+   "sha256": "899c9c059a1d66be7693594fda727252e019d375b168763708c3d0160a688107",
+   "stored_at": "sounds/korea-2024/M91.wav"
+  },
+  {
+   "install_path": "SOUNDS/M92.wav",
+   "size": 46126,
+   "sha256": "e1ea4f33d111ab5f84ca8ba8699f0e59887a2bf761d344683855f36f6b3614a2",
+   "stored_at": "sounds/korea-2024/M92.wav"
+  },
+  {
+   "install_path": "SOUNDS/M93.wav",
+   "size": 48572,
+   "sha256": "a0cdf41885cfe1762ab16ab2d88d3f57af247f98d895cf084dccd988e56a0912",
+   "stored_at": "sounds/korea-2024/M93.wav"
+  },
+  {
+   "install_path": "SOUNDS/M94.wav",
+   "size": 68570,
+   "sha256": "75bfde596cc55f716a0c381fae3432e16086d64bb9e8bb3b5108d29fb7a03579",
+   "stored_at": "sounds/korea-2024/M94.wav"
+  },
+  {
+   "install_path": "SOUNDS/M95.wav",
+   "size": 40188,
+   "sha256": "ca7a7e621921fd63f27c230f8699d4addd64012a33fed461af954ed57b5178cd",
+   "stored_at": "sounds/korea-2024/M95.wav"
+  },
+  {
+   "install_path": "SOUNDS/M96.wav",
+   "size": 46204,
+   "sha256": "166376508f8675b5a625462cd6950b535c98891b9933678deeddb366a1bbb237",
+   "stored_at": "sounds/korea-2024/M96.wav"
+  },
+  {
+   "install_path": "SOUNDS/M97.wav",
+   "size": 47852,
+   "sha256": "134253955a1b1620595d0db5ded79125ec9e1916179cafb318aed33bb516aff7",
+   "stored_at": "sounds/korea-2024/M97.wav"
+  },
+  {
+   "install_path": "SOUNDS/M98.wav",
+   "size": 42148,
+   "sha256": "ed473bc52259035eae6d2a9a1055c77a6ac4e59e67f6f39b295e62a0d385a9ef",
+   "stored_at": "sounds/korea-2024/M98.wav"
+  },
+  {
+   "install_path": "SOUNDS/M99.wav",
+   "size": 214762,
+   "sha256": "931bf1c0758b2fef7d3f7cee1a36d47303be8b22ab71cbed52090ee1a20dba7c",
+   "stored_at": "sounds/korea-2024/M99.wav"
+  },
+  {
+   "install_path": "SOUNDS/tts001.wav",
+   "size": 129696,
+   "sha256": "8623a02a4966b69f2a96844d3957983c158138d82ed9c7a44f126099e4817f52",
+   "stored_at": "sounds/korea-2024/tts001.wav"
+  },
+  {
+   "install_path": "SOUNDS/vssver.scc",
+   "size": 3744,
+   "sha256": "68327f9a052fcbec15b41ca141070cd02f7ebb22ca5502890856929ae687d45d",
+   "stored_at": "other/korea-2024/sounds/vssver.scc"
+  },
+  {
+   "install_path": "SPRITES/ABS.pak",
+   "size": 1967756,
+   "sha256": "84664257d0b286e70ebcfdf09c0d9e46deb89ce2b7e1f516179c7dd88b5d0c7a",
+   "stored_at": "sprites/korea-2024/ABS.pak"
+  },
+  {
+   "install_path": "SPRITES/ACannon.pak",
+   "size": 7069356,
+   "sha256": "d5ea03937d0f50f694b1db273c1c99c7c3b3cc4ed5906f3ee3cc720b5b596582",
+   "stored_at": "sprites/korea-2024/ACannon.pak"
+  },
+  {
+   "install_path": "SPRITES/AMmantle01.pak",
+   "size": 3082700,
+   "sha256": "c0c8edb23aa662e27e8f063767b11346505db4972992f5f292bb2a747a228373",
+   "stored_at": "sprites/korea-2024/AMmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/AMmantle02.pak",
+   "size": 3082700,
+   "sha256": "22133a5862aaac53f909ac92d7aa90881bd24a0a361497e63e4b0bb780ac4b4e",
+   "stored_at": "sprites/korea-2024/AMmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Amp.pak",
+   "size": 341228,
+   "sha256": "65750d05c496cce2015bde998e604ff57f36c848ec60b4de7691aa0719903d8c",
+   "stored_at": "sprites/korea-2024/Amp.pak"
+  },
+  {
+   "install_path": "SPRITES/Ant.pak",
+   "size": 166280,
+   "sha256": "bed470d7ef699c7372fe085770e2ac2663bfae8ecd147678be25fb8fcc7d5f11",
+   "stored_at": "sprites/korea-2024/Ant.pak"
+  },
+  {
+   "install_path": "SPRITES/AWmantle01.pak",
+   "size": 2283180,
+   "sha256": "442133336399b096bc40c21a27d49f2ba61af85fb5b47682aa51d2e01c5e3ac1",
+   "stored_at": "sprites/korea-2024/AWmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/AWmantle02.pak",
+   "size": 2283180,
+   "sha256": "35889035460ef0c642659f4826e1ff14818f595154788f1371990e4d4f436b2a",
+   "stored_at": "sprites/korea-2024/AWmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Babarian.pak",
+   "size": 4090588,
+   "sha256": "2f5244701e08277373f9a7ff701c95ded12bf0d0b5bab3b64609f439747de902",
+   "stored_at": "sprites/korea-2024/Babarian.pak"
+  },
+  {
+   "install_path": "SPRITES/Barlog.pak",
+   "size": 9818372,
+   "sha256": "6243d830fb53a82387ccb644dd3151b950d82b6a6632e021e31b388e7f99421b",
+   "stored_at": "sprites/korea-2024/Barlog.pak"
+  },
+  {
+   "install_path": "SPRITES/Beholder.pak",
+   "size": 2673356,
+   "sha256": "aa87a976e22580a6023c2e7ba620a5733ffee100d3f2aca64a83d3617eb20c62",
+   "stored_at": "sprites/korea-2024/Beholder.pak"
+  },
+  {
+   "install_path": "SPRITES/BG.pak",
+   "size": 5892680,
+   "sha256": "40e290cfe2572ed70acbef546d54c1578fc82fb799dada8cc8d5bd5ac48fbf77",
+   "stored_at": "sprites/korea-2024/BG.pak"
+  },
+  {
+   "install_path": "SPRITES/Bishop.pak",
+   "size": 164376,
+   "sha256": "a3c67635931bbb0954683cb35454d01838ca7203daee3a93a39c6f0db8b85165",
+   "stored_at": "sprites/korea-2024/Bishop.pak"
+  },
+  {
+   "install_path": "SPRITES/Bm.pak",
+   "size": 1453932,
+   "sha256": "ffc8dd520721470ab692274731822a77ed06a48950ade388899cfee0a06bf0a7",
+   "stored_at": "sprites/korea-2024/Bm.pak"
+  },
+  {
+   "install_path": "SPRITES/Bunny.pak",
+   "size": 252472,
+   "sha256": "65a5482a64786b8651362a9ea2d84f4f6b34138136436b4831dfce264081099f",
+   "stored_at": "sprites/korea-2024/Bunny.pak"
+  },
+  {
+   "install_path": "SPRITES/Bw.pak",
+   "size": 1150048,
+   "sha256": "db7c2273d4f2b11f42e87ed766ce935ab3f4474d6c8027d1f7f729b9e244744b",
+   "stored_at": "sprites/korea-2024/Bw.pak"
+  },
+  {
+   "install_path": "SPRITES/CanPlant.pak",
+   "size": 1335228,
+   "sha256": "4d3754a1c7b4e82356e8c16ac8aa5d5e1805af7c81b62eefe69aaeb2069722bf",
+   "stored_at": "sprites/korea-2024/CanPlant.pak"
+  },
+  {
+   "install_path": "SPRITES/Cat.pak",
+   "size": 428140,
+   "sha256": "f98557fdbc9f576c299971cd1a6b4b83413456ea77e157bd6a65f1e3cc228194",
+   "stored_at": "sprites/korea-2024/Cat.pak"
+  },
+  {
+   "install_path": "SPRITES/Catapult.pak",
+   "size": 1241460,
+   "sha256": "ff708e9956b808c9faa35dc72d85b3ba32a520f07381f32f697026f946aafb1c",
+   "stored_at": "sprites/korea-2024/Catapult.pak"
+  },
+  {
+   "install_path": "SPRITES/CBTurret.pak",
+   "size": 6113004,
+   "sha256": "5ae291c3ea58e16a482917fce147846da7dc5b278fa8130d82fa19a7c2236e34",
+   "stored_at": "sprites/korea-2024/CBTurret.pak"
+  },
+  {
+   "install_path": "SPRITES/Centaurus.pak",
+   "size": 6111060,
+   "sha256": "86ba67bddaf85999815d676e78dbeea3bf095f80c0a43f3190eb4add20f37299",
+   "stored_at": "sprites/korea-2024/Centaurus.pak"
+  },
+  {
+   "install_path": "SPRITES/Cla.pak",
+   "size": 592532,
+   "sha256": "f1c3e72b5c2d7e20acd96c23a44dec003eb5472a8f51574eab4235b542efc592",
+   "stored_at": "sprites/korea-2024/Cla.pak"
+  },
+  {
+   "install_path": "SPRITES/Clawturtle.pak",
+   "size": 6084584,
+   "sha256": "1c1d02a77ee1484ec874d5b84417722214b3db96d136f2ff164702dea1a580db",
+   "stored_at": "sprites/korea-2024/Clawturtle.pak"
+  },
+  {
+   "install_path": "SPRITES/Crop.pak",
+   "size": 670664,
+   "sha256": "83426393a6145773debc9193c8ca8bc89d53d2e85ff8517aa2cfcafc4b523224",
+   "stored_at": "sprites/korea-2024/Crop.pak"
+  },
+  {
+   "install_path": "SPRITES/CruEffect1.pak",
+   "size": 3765232,
+   "sha256": "e12c668e8346b8d63f70d467a29b60b12f6372f7349f5fa7c5a4f8a7598cc1bf",
+   "stored_at": "sprites/korea-2024/CruEffect1.pak"
+  },
+  {
+   "install_path": "SPRITES/CruObj1.pak",
+   "size": 477716,
+   "sha256": "b9f0087a49275322853b4bb9b801fc0958c61814fb5ef7ee746dfdf365faa206",
+   "stored_at": "sprites/korea-2024/CruObj1.pak"
+  },
+  {
+   "install_path": "SPRITES/Cyc.pak",
+   "size": 3362948,
+   "sha256": "2b28085fdd27ca959111448c49c8d136a659b7d23b9a2c7595ab2f20d09164c1",
+   "stored_at": "sprites/korea-2024/Cyc.pak"
+  },
+  {
+   "install_path": "SPRITES/Danny.pak",
+   "size": 3691360,
+   "sha256": "4b5234cd0955865b7da948339dbf17eef183e8d35a76f63b9ad31813e891815a",
+   "stored_at": "sprites/korea-2024/Danny.pak"
+  },
+  {
+   "install_path": "SPRITES/DarkBunny.pak",
+   "size": 252472,
+   "sha256": "85d1da86f863ee17bc2c3d33dc5e01d3c8a8bcd53fe7317dae217dcd06f6a6df",
+   "stored_at": "sprites/korea-2024/DarkBunny.pak"
+  },
+  {
+   "install_path": "SPRITES/DarkElf.pak",
+   "size": 2487444,
+   "sha256": "d4543f57d1b5d8271dca941522d34fe6b229a172681bf33dcd80c59bd6fa5bb0",
+   "stored_at": "sprites/korea-2024/DarkElf.pak"
+  },
+  {
+   "install_path": "SPRITES/DarkKnight.pak",
+   "size": 3705340,
+   "sha256": "20e3a7fd5fa7e6c39052d5ebf47a64e4b6e9983068146544bc03b47f0289903c",
+   "stored_at": "sprites/korea-2024/DarkKnight.pak"
+  },
+  {
+   "install_path": "SPRITES/Demon.pak",
+   "size": 3582460,
+   "sha256": "41a308bb12710bc2c85b0f43203d730302a1990921d2e60f05d36ac13777e262",
+   "stored_at": "sprites/korea-2024/Demon.pak"
+  },
+  {
+   "install_path": "SPRITES/Detector.pak",
+   "size": 641080,
+   "sha256": "9fef3b09be886e7cd02b40b591f6d39205460e43b132ec52de57f2626cd9f20a",
+   "stored_at": "sprites/korea-2024/Detector.pak"
+  },
+  {
+   "install_path": "SPRITES/Devlin.pak",
+   "size": 161412,
+   "sha256": "7d6490c2bad7edb83c8882fa70b0f40b76cc53ab539f3158ac4bcb6706229f6f",
+   "stored_at": "sprites/korea-2024/Devlin.pak"
+  },
+  {
+   "install_path": "SPRITES/dialogtext.pak",
+   "size": 1567328,
+   "sha256": "5865e1bd4ae30b265ae7988d49c200c9972e92b733af004f0cf6e3c171feeec2",
+   "stored_at": "sprites/korea-2024/dialogtext.pak"
+  },
+  {
+   "install_path": "SPRITES/DialogText2.pak",
+   "size": 1048556,
+   "sha256": "1f0e53d57ce3b3a95a789525897d1b8bdef42542d5e565eb16053d708eb683b8",
+   "stored_at": "sprites/korea-2024/DialogText2.pak"
+  },
+  {
+   "install_path": "SPRITES/DireBoar.pak",
+   "size": 2050116,
+   "sha256": "887f54adcccc41adcb7f815116ad3b48b73fa681038bd4d22addb7048c207a27",
+   "stored_at": "sprites/korea-2024/DireBoar.pak"
+  },
+  {
+   "install_path": "SPRITES/dummy.pak",
+   "size": 244264,
+   "sha256": "d8a01ec8bb6936d5cf9a37af5324cb8abde2ec9b08c47544113ee3c9fb5ca4ce",
+   "stored_at": "sprites/korea-2024/dummy.pak"
+  },
+  {
+   "install_path": "SPRITES/DvGoblin.pak",
+   "size": 1111904,
+   "sha256": "d321a3baa7834fbdfec437b1ee0df1eaf040326bac750721c1efa2ff466b37d1",
+   "stored_at": "sprites/korea-2024/DvGoblin.pak"
+  },
+  {
+   "install_path": "SPRITES/EFFECT.PAK",
+   "size": 1623346,
+   "sha256": "3ed40e2a3fe924d68aff4a68a716c2a3f608a1ea2c5b17bbe38d5622cb3ed15b",
+   "stored_at": "sprites/korea-2024/EFFECT.PAK"
+  },
+  {
+   "install_path": "SPRITES/effect10.pak",
+   "size": 554516,
+   "sha256": "ebdba0ff0affe830a7b1e716ae01d7fa0eea7be5be04c854a6b137cab277d9de",
+   "stored_at": "sprites/korea-2024/effect10.pak"
+  },
+  {
+   "install_path": "SPRITES/Effect11.pak",
+   "size": 7577804,
+   "sha256": "2f799913baead12d8ba3b9fc993c175f5fb038f6d3a5445c0e820f487ad577e2",
+   "stored_at": "sprites/korea-2024/Effect11.pak"
+  },
+  {
+   "install_path": "SPRITES/effect11s.pak",
+   "size": 2933796,
+   "sha256": "ace7a422d31e056a2cbae8fa4488ae336c681f54b5e9a48f518d832e1a69b9a3",
+   "stored_at": "sprites/korea-2024/effect11s.pak"
+  },
+  {
+   "install_path": "SPRITES/Effect12.pak",
+   "size": 529272,
+   "sha256": "87e7f02a5258ce41d66512ac50325ba4c7a1928cb113dbaf9706e1c7ea2df2a0",
+   "stored_at": "sprites/korea-2024/Effect12.pak"
+  },
+  {
+   "install_path": "SPRITES/Effect13.pak",
+   "size": 3304312,
+   "sha256": "af9f98df3e77b51285619bb429c9bf59bb63f0200ce85570945a0e9d17412fcb",
+   "stored_at": "sprites/korea-2024/Effect13.pak"
+  },
+  {
+   "install_path": "SPRITES/EFFECT2.PAK",
+   "size": 451206,
+   "sha256": "e83613adc9ed07cab57371afbf1ddd14c8930bb9053b667f8f220f8c1705b704",
+   "stored_at": "sprites/korea-2024/EFFECT2.PAK"
+  },
+  {
+   "install_path": "SPRITES/EFFECT3.PAK",
+   "size": 2235796,
+   "sha256": "93892b45cbcfbb7741a3df8cc9142d560ed47550baaa5c85eec3f2d7d48303a7",
+   "stored_at": "sprites/korea-2024/EFFECT3.PAK"
+  },
+  {
+   "install_path": "SPRITES/effect4.pak",
+   "size": 1398346,
+   "sha256": "199c05682c1567e4ca7b6a160c297dd77d6ef7d01bd4028bf0f734238da3ddc4",
+   "stored_at": "sprites/korea-2024/effect4.pak"
+  },
+  {
+   "install_path": "SPRITES/effect5.pak",
+   "size": 2111002,
+   "sha256": "4fead545395442fc694fd0d57d5c75a6e37f421960a8aa7efef2bec2142b4474",
+   "stored_at": "sprites/korea-2024/effect5.pak"
+  },
+  {
+   "install_path": "SPRITES/effect6.pak",
+   "size": 1649692,
+   "sha256": "2a65c5e08acf36ecd1a2317c61eebefcefbf34eb14708d7b919d136610986b37",
+   "stored_at": "sprites/korea-2024/effect6.pak"
+  },
+  {
+   "install_path": "SPRITES/Effect7.pak",
+   "size": 2104244,
+   "sha256": "a256e3a905ed46436d50767f154b74b78db399d04a3c5403063122a14055c6cf",
+   "stored_at": "sprites/korea-2024/Effect7.pak"
+  },
+  {
+   "install_path": "SPRITES/Effect8.pak",
+   "size": 2031608,
+   "sha256": "9e91cb127966804525d82c7ee4c0460156ca3df382dcd8254f4bb506873ebfd4",
+   "stored_at": "sprites/korea-2024/Effect8.pak"
+  },
+  {
+   "install_path": "SPRITES/effect9.pak",
+   "size": 1909178,
+   "sha256": "01159506c8d8a48f9aacc4af3c71230cc5fe9bcf9ef9ca1c7bab6bc514a3626f",
+   "stored_at": "sprites/korea-2024/effect9.pak"
+  },
+  {
+   "install_path": "SPRITES/ElfMaster.pak",
+   "size": 2372604,
+   "sha256": "55721330cee9def020f0700ab7a2fc3f79d62d23a605f005ac33927503194145",
+   "stored_at": "sprites/korea-2024/ElfMaster.pak"
+  },
+  {
+   "install_path": "SPRITES/ESG.pak",
+   "size": 272824,
+   "sha256": "066d03060647428ee6513ef3ee33026aa649ffb19b1a0e9a0d08de69ec2bae58",
+   "stored_at": "sprites/korea-2024/ESG.pak"
+  },
+  {
+   "install_path": "SPRITES/Ettin.pak",
+   "size": 3247908,
+   "sha256": "191b138f7f2b54e22545bd7caa58277c16527c63a2b2faf7c245f22759efc05e",
+   "stored_at": "sprites/korea-2024/Ettin.pak"
+  },
+  {
+   "install_path": "SPRITES/FeedBack.pak",
+   "size": 727506,
+   "sha256": "dc61f35e7deca1585741b9715bc2296dccbab8b27d0cb46df887c4efdf719afd",
+   "stored_at": "sprites/korea-2024/FeedBack.pak"
+  },
+  {
+   "install_path": "SPRITES/FireWyvern.pak",
+   "size": 27486532,
+   "sha256": "407031a95800a929961ffc3d591239076782d5534c274897b5f3b04e7f66a1a1",
+   "stored_at": "sprites/korea-2024/FireWyvern.pak"
+  },
+  {
+   "install_path": "SPRITES/frost.pak",
+   "size": 1853384,
+   "sha256": "7e59cd18466442b73c8686f927877c699e1bcd1aa9076388c1c99b4905a819eb",
+   "stored_at": "sprites/korea-2024/frost.pak"
+  },
+  {
+   "install_path": "SPRITES/gagoyle.pak",
+   "size": 13292612,
+   "sha256": "8ab6fe79a69ce021600a8a2060e988b4cbfadcb2356135138c0440a186311ca0",
+   "stored_at": "sprites/korea-2024/gagoyle.pak"
+  },
+  {
+   "install_path": "SPRITES/Gail.pak",
+   "size": 144720,
+   "sha256": "f53c5beb691ed543b969f98fa52e8d01e620ed9b4836fedcd6c525b1477c627e",
+   "stored_at": "sprites/korea-2024/Gail.pak"
+  },
+  {
+   "install_path": "SPRITES/GameDialog.pak",
+   "size": 8143226,
+   "sha256": "92b1676871b2cf4277ffada3da6fb09a10f17dd920c9614831e9d1264624e86a",
+   "stored_at": "sprites/korea-2024/GameDialog.pak"
+  },
+  {
+   "install_path": "SPRITES/GameGrade.pak",
+   "size": 308128,
+   "sha256": "269cfbe4ab597447598728fc3dff1dd83d5fbe2f41779ed15f92e8d12d492360",
+   "stored_at": "sprites/korea-2024/GameGrade.pak"
+  },
+  {
+   "install_path": "SPRITES/Gandlf.pak",
+   "size": 313156,
+   "sha256": "197a20271e389d2fa45fd0fd57a82dfb14737a624313fac2cb8173a5693c17cc",
+   "stored_at": "sprites/korea-2024/Gandlf.pak"
+  },
+  {
+   "install_path": "SPRITES/Gate.pak",
+   "size": 5809676,
+   "sha256": "5f3af147e54de9bd116cb7007cc0defc23b9a6c05fdb2bf9214f6017f469b846",
+   "stored_at": "sprites/korea-2024/Gate.pak"
+  },
+  {
+   "install_path": "SPRITES/GHK.pak",
+   "size": 1368208,
+   "sha256": "ba325e7dc71ff89ae71e718f7ac311faf29ed8435ee6ba95c9e6546848f5012f",
+   "stored_at": "sprites/korea-2024/GHK.pak"
+  },
+  {
+   "install_path": "SPRITES/GHKABS.pak",
+   "size": 5109548,
+   "sha256": "7c2d15f2e1af250ec16aa340e39cecf0db56ccfe10e517745b9309391f830661",
+   "stored_at": "sprites/korea-2024/GHKABS.pak"
+  },
+  {
+   "install_path": "SPRITES/GhostAba.pak",
+   "size": 9484500,
+   "sha256": "4581c7629a6de6c6a3412b676e2718e6c14d518eeaee7a1d033b839031ce5c33",
+   "stored_at": "sprites/korea-2024/GhostAba.pak"
+  },
+  {
+   "install_path": "SPRITES/GiantCrayfish.pak",
+   "size": 2840784,
+   "sha256": "4c234a2d9fdabda76662e65e1e2f23e22997f1d1288ba645b68b3d72010dfb1d",
+   "stored_at": "sprites/korea-2024/GiantCrayfish.pak"
+  },
+  {
+   "install_path": "SPRITES/GiantFrog.pak",
+   "size": 1688664,
+   "sha256": "109179da6676fe2ae03ba22db40539eda098211ec110018387f7538fd63ede57",
+   "stored_at": "sprites/korea-2024/GiantFrog.pak"
+  },
+  {
+   "install_path": "SPRITES/GiantLizard.pak",
+   "size": 8429848,
+   "sha256": "96a3de99c055307c71520a06e8d0ea71ddd1b0516a777b6ef90581bfa97139ba",
+   "stored_at": "sprites/korea-2024/GiantLizard.pak"
+  },
+  {
+   "install_path": "SPRITES/GiantPlant.pak",
+   "size": 5078392,
+   "sha256": "e7975c2e9110bbd29a21ac2ffb7710006723ded413dac560cbf6c3a039f0bd09",
+   "stored_at": "sprites/korea-2024/GiantPlant.pak"
+  },
+  {
+   "install_path": "SPRITES/GMG.pak",
+   "size": 545464,
+   "sha256": "7117d72c8f641f9ef501f9b07bc48b17d61c3f958d438f1fd94baaced4833abe",
+   "stored_at": "sprites/korea-2024/GMG.pak"
+  },
+  {
+   "install_path": "SPRITES/GmGoblin.pak",
+   "size": 1112092,
+   "sha256": "ec46c40bdaec16cded11a2532af5c54e676712a4fa595dc2ebf152b8590c3250",
+   "stored_at": "sprites/korea-2024/GmGoblin.pak"
+  },
+  {
+   "install_path": "SPRITES/Goblin.pak",
+   "size": 1108164,
+   "sha256": "99c4f5bf78f0ccfa4029795be3df77ebcc7f3998fa79a8a3694afe6637ba7965",
+   "stored_at": "sprites/korea-2024/Goblin.pak"
+  },
+  {
+   "install_path": "SPRITES/GOL.PAK",
+   "size": 928984,
+   "sha256": "5abc250728da10e8f50037f5f78156333ee3b3cba0ffa1f7722dd3e8f2cd579d",
+   "stored_at": "sprites/korea-2024/GOL.PAK"
+  },
+  {
+   "install_path": "SPRITES/GrandMother.pak",
+   "size": 604904,
+   "sha256": "065308aed37925a40d403ab193eecd721141d25945b5c77e136602bf88262a95",
+   "stored_at": "sprites/korea-2024/GrandMother.pak"
+  },
+  {
+   "install_path": "SPRITES/GT-Arrow.pak",
+   "size": 923604,
+   "sha256": "eab03bd1591ee77c7e327d5a14d1a1dcbcc857a93a011603f207da0f75ccae65",
+   "stored_at": "sprites/korea-2024/GT-Arrow.pak"
+  },
+  {
+   "install_path": "SPRITES/GT-Cannon.pak",
+   "size": 700696,
+   "sha256": "36a7f76614582f9f2c2d8c9ac8a0c144f1495b13582890abad73a36b8f8103c8",
+   "stored_at": "sprites/korea-2024/GT-Cannon.pak"
+  },
+  {
+   "install_path": "SPRITES/Guard.pak",
+   "size": 1918476,
+   "sha256": "bc6d52aba0d035c8fe5123c92617e3d6824660b7fa775ba6e94d538e17b76344",
+   "stored_at": "sprites/korea-2024/Guard.pak"
+  },
+  {
+   "install_path": "SPRITES/Guard_Archer.pak",
+   "size": 1257844,
+   "sha256": "4f1502dd1d382a43345aea56d678e0fb2f185e545df30bf241b23f17ba0390db",
+   "stored_at": "sprites/korea-2024/Guard_Archer.pak"
+  },
+  {
+   "install_path": "SPRITES/Guard_Axe.pak",
+   "size": 1602704,
+   "sha256": "f920831a1ce8b8969bac8a57b802e17e023b2afbd471a71b9ec2ba6d824aac83",
+   "stored_at": "sprites/korea-2024/Guard_Axe.pak"
+  },
+  {
+   "install_path": "SPRITES/Guard_Sword.pak",
+   "size": 1437704,
+   "sha256": "d459e6814b292b0a9c4023e4f254144ec2165a5af2ef67ceca3d75bf0ed0d704",
+   "stored_at": "sprites/korea-2024/Guard_Sword.pak"
+  },
+  {
+   "install_path": "SPRITES/guildmark.pak",
+   "size": 60868,
+   "sha256": "66f958a04ee55a7166aac17b0bc2e32be52edf85e7e579516e7412d7ec70ab02",
+   "stored_at": "sprites/korea-2024/guildmark.pak"
+  },
+  {
+   "install_path": "SPRITES/HBTank.pak",
+   "size": 4892036,
+   "sha256": "390daebaac87faeec0edce3c6061ed3860b19421006d31f417abf45d201cc96a",
+   "stored_at": "sprites/korea-2024/HBTank.pak"
+  },
+  {
+   "install_path": "SPRITES/Helb.pak",
+   "size": 1309028,
+   "sha256": "1ab96fa41e5c958bea53aab02f2d71bd3ab83def0af0881a7a751d0a279f02c0",
+   "stored_at": "sprites/korea-2024/Helb.pak"
+  },
+  {
+   "install_path": "SPRITES/Hellclaw.pak",
+   "size": 8044476,
+   "sha256": "8ed5264cc9538a4b9cbdaec01243442b48d619c7dc762dfbd315ff479b1ff780",
+   "stored_at": "sprites/korea-2024/Hellclaw.pak"
+  },
+  {
+   "install_path": "SPRITES/Howard.pak",
+   "size": 167976,
+   "sha256": "ed3f32e4ff9b650f8e102fd5ec2dd5e347afbe6201453bf18a66ea0e9790c0ca",
+   "stored_at": "sprites/korea-2024/Howard.pak"
+  },
+  {
+   "install_path": "SPRITES/IceGolem.pak",
+   "size": 2433048,
+   "sha256": "872f74c26712b8db7bb810e3670053f6fa1e132879b13110bd53fefabc2e3245",
+   "stored_at": "sprites/korea-2024/IceGolem.pak"
+  },
+  {
+   "install_path": "SPRITES/interface.pak",
+   "size": 56492,
+   "sha256": "756dfc12536eaaffd4b6c2b1f98d1bf89d229233e0395979747aa54ceb0bbcc2",
+   "stored_at": "sprites/korea-2024/interface.pak"
+  },
+  {
+   "install_path": "SPRITES/interface2.pak",
+   "size": 641576,
+   "sha256": "e5e33142e1edec9b245b4b7915a028797fd6694c9ac967bc9f16ce00993f5415",
+   "stored_at": "sprites/korea-2024/interface2.pak"
+  },
+  {
+   "install_path": "SPRITES/item-dynamic.pak",
+   "size": 69660,
+   "sha256": "26ef4843eda9761189a069979f0636b73cb4351b04f78022fc8c74051685f63e",
+   "stored_at": "sprites/korea-2024/item-dynamic.pak"
+  },
+  {
+   "install_path": "SPRITES/item-equipM.pak",
+   "size": 2427944,
+   "sha256": "a245db5bab4a3d537648f1c07ea488a031e3d2d75f44d9b4847a58cfe5cfe3aa",
+   "stored_at": "sprites/korea-2024/item-equipM.pak"
+  },
+  {
+   "install_path": "SPRITES/item-equipW.pak",
+   "size": 2058966,
+   "sha256": "d338034de9aaac010c3766076e9222db9eadb33e1c59bdb0ebd9efa01ca9ec9d",
+   "stored_at": "sprites/korea-2024/item-equipW.pak"
+  },
+  {
+   "install_path": "SPRITES/item-ground.pak",
+   "size": 1324178,
+   "sha256": "99eeaa7cbc8fb20f643855c87815744033e7a8290d260bdc6c96eed10ad56a0f",
+   "stored_at": "sprites/korea-2024/item-ground.pak"
+  },
+  {
+   "install_path": "SPRITES/item-pack.pak",
+   "size": 3408994,
+   "sha256": "cded856bd05e5aafc74241387556525a131a0f863ceb91b062e8f5c4a1a0bc51",
+   "stored_at": "sprites/korea-2024/item-pack.pak"
+  },
+  {
+   "install_path": "SPRITES/Kennedy.pak",
+   "size": 144720,
+   "sha256": "f940e4c71a7d5e4dd76a0370f8ba42e99c17ec774b1abb74c403531f06ad7241",
+   "stored_at": "sprites/korea-2024/Kennedy.pak"
+  },
+  {
+   "install_path": "SPRITES/Liche.pak",
+   "size": 1628616,
+   "sha256": "970e15b9b33fc2374e054e82927a515fda3e2b4f3dfe61dc38bd7246fc645c43",
+   "stored_at": "sprites/korea-2024/Liche.pak"
+  },
+  {
+   "install_path": "SPRITES/lighting.pak",
+   "size": 888832,
+   "sha256": "272fcf232469092c531d8463088f61586f7b0e765acc11263a33adbad30d941b",
+   "stored_at": "sprites/korea-2024/lighting.pak"
+  },
+  {
+   "install_path": "SPRITES/LoginDialog.pak",
+   "size": 963172,
+   "sha256": "1589e207bcd76b556c52aac77ed108bde319e29d00869024b2088cbeeaa36f1d",
+   "stored_at": "sprites/korea-2024/LoginDialog.pak"
+  },
+  {
+   "install_path": "SPRITES/LWB.pak",
+   "size": 7750804,
+   "sha256": "25a04714ffd0cf04d115f7667ced1816db5dfa93ef2474b4d873485d35800e19",
+   "stored_at": "sprites/korea-2024/LWB.pak"
+  },
+  {
+   "install_path": "SPRITES/Mabsorpwand.pak",
+   "size": 1145368,
+   "sha256": "d89b6c8a107714ed073c69c02f5c2672151783e294e99a75ad735a48e949063e",
+   "stored_at": "sprites/korea-2024/Mabsorpwand.pak"
+  },
+  {
+   "install_path": "SPRITES/ManaCollector.pak",
+   "size": 593688,
+   "sha256": "b6e9e77f0f95860f7d1b43f3af6d40b503e9aa40519bfc1474874300cb136a29",
+   "stored_at": "sprites/korea-2024/ManaCollector.pak"
+  },
+  {
+   "install_path": "SPRITES/ManaStone.pak",
+   "size": 332344,
+   "sha256": "aaf70cd53c98546d7c6efb1ed7d55060dc16f0182030260ab9647c0003d08c9d",
+   "stored_at": "sprites/korea-2024/ManaStone.pak"
+  },
+  {
+   "install_path": "SPRITES/Mangelsbow.pak",
+   "size": 873760,
+   "sha256": "99a9676275a601732cc1a7dbad23b0942dd407c5c97412f467d743ffbfb3eb2c",
+   "stored_at": "sprites/korea-2024/Mangelsbow.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles1.pak",
+   "size": 9983770,
+   "sha256": "730eeed2d68f5fcfa0719140541759c0f0737e26ce1b8a287abee23a4ea55d93",
+   "stored_at": "sprites/korea-2024/maptiles1.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles2.pak",
+   "size": 4679904,
+   "sha256": "197a352b6a71541e0f67b4a4c8584c29ac22a0364edf20bb0a16a243578cb40b",
+   "stored_at": "sprites/korea-2024/maptiles2.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles3.pak",
+   "size": 1559984,
+   "sha256": "292416a6b8a21c9c9da8c309ca30274818ea7b14c2e0b61a4193c5505447f8ba",
+   "stored_at": "sprites/korea-2024/maptiles3.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles353-361.pak",
+   "size": 2807952,
+   "sha256": "d9c38fb7038621847310491cb5d474429f7028d6e9349b15a284d27356dd3fbd",
+   "stored_at": "sprites/korea-2024/maptiles353-361.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles4.pak",
+   "size": 3119944,
+   "sha256": "9b6dbe2304b3db7cf4091a6789725b42c0d03329cb2113bcfbf0e80c56302017",
+   "stored_at": "sprites/korea-2024/maptiles4.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles5.pak",
+   "size": 5927872,
+   "sha256": "8ab3619ff7414535c5c2d31c2aa11a04a8e5806a0adea3eae1a8e031a3d18913",
+   "stored_at": "sprites/korea-2024/maptiles5.pak"
+  },
+  {
+   "install_path": "SPRITES/maptiles6.pak",
+   "size": 1247992,
+   "sha256": "3247b18079c6a2c366c09b34aae653ef46a2b7985d1efd1a702f2ea39fed3e70",
+   "stored_at": "sprites/korea-2024/maptiles6.pak"
+  },
+  {
+   "install_path": "SPRITES/MasterMageOrc.pak",
+   "size": 5440844,
+   "sha256": "0ea22287110fc25b625b69eb7aadc71548a1dcb6c47dc10d64049d5c6ba07cd9",
+   "stored_at": "sprites/korea-2024/MasterMageOrc.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe1.pak",
+   "size": 272944,
+   "sha256": "485a5e1d62cdea26e9dc29c4e494db75e5c80797433771c871cb492ce14d7d91",
+   "stored_at": "sprites/korea-2024/MAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe2.pak",
+   "size": 336772,
+   "sha256": "3bc001b6822773feef43a39eb46496c06a093e2f40aafb04f99c58c1e241ba8b",
+   "stored_at": "sprites/korea-2024/MAxe2.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe3.pak",
+   "size": 247856,
+   "sha256": "bc702aebf9212bd75098241583f41bd022c6d5077fb1038764982c2e26271489",
+   "stored_at": "sprites/korea-2024/MAxe3.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe4.pak",
+   "size": 246364,
+   "sha256": "28faa5f9793908da587c3928813a7ffc89233141b9d9e1780027199a13845e7c",
+   "stored_at": "sprites/korea-2024/MAxe4.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe5.pak",
+   "size": 361696,
+   "sha256": "7ac645a8db3ffd6d45dc3be5c5f9cbef1e32e086ddb85815c1c4c438a3b9d703",
+   "stored_at": "sprites/korea-2024/MAxe5.pak"
+  },
+  {
+   "install_path": "SPRITES/MAxe6.pak",
+   "size": 411276,
+   "sha256": "3d473223ee67ffc39c84fc9e263e33752656e9edf07d38c532cf5267bd75431d",
+   "stored_at": "sprites/korea-2024/MAxe6.pak"
+  },
+  {
+   "install_path": "SPRITES/MBabHammer.pak",
+   "size": 592072,
+   "sha256": "e60d1ab6e9ee04bc5de36bfab426f62bf7bfcdb8f114290595c6a8ddfcfffbc4",
+   "stored_at": "sprites/korea-2024/MBabHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/MBerserkWand.pak",
+   "size": 478012,
+   "sha256": "6280f9d8f09a69714f02d16b7ae44e4adf8cf166d1d7a06cff2c438652314e26",
+   "stored_at": "sprites/korea-2024/MBerserkWand.pak"
+  },
+  {
+   "install_path": "SPRITES/MBHammer.pak",
+   "size": 520540,
+   "sha256": "a434408f2f13ac46d05522b9cf1936df01ea545ccbadb9043c1ebf894a2b9d9a",
+   "stored_at": "sprites/korea-2024/MBHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/Mbo.pak",
+   "size": 855768,
+   "sha256": "b34f02da74b8f6ed8de0d55ea1a38c67ba74b3f663ea792159a8bc09708152f0",
+   "stored_at": "sprites/korea-2024/Mbo.pak"
+  },
+  {
+   "install_path": "SPRITES/MBShadowSword.pak",
+   "size": 545720,
+   "sha256": "7d53fda3bce999ed70a80fe4c93ba5795cf4358af822321718b9e77e5df7b919",
+   "stored_at": "sprites/korea-2024/MBShadowSword.pak"
+  },
+  {
+   "install_path": "SPRITES/McGaffin.pak",
+   "size": 122712,
+   "sha256": "facc3f00ade9735ff702c00f95232a8d95965a7dcab02c0db534e3005ab17622",
+   "stored_at": "sprites/korea-2024/McGaffin.pak"
+  },
+  {
+   "install_path": "SPRITES/MCHoses.pak",
+   "size": 858040,
+   "sha256": "9ae4221bb4d54e51b831e8da4edece9b21b91a1c07b5f98031066a8d64e88414",
+   "stored_at": "sprites/korea-2024/MCHoses.pak"
+  },
+  {
+   "install_path": "SPRITES/MCMail.pak",
+   "size": 923468,
+   "sha256": "af69a1a7dc6d28dbb01a434aeaef8c9fbfe5ad623905dee33ee49c166f699c71",
+   "stored_at": "sprites/korea-2024/MCMail.pak"
+  },
+  {
+   "install_path": "SPRITES/MDarkBow.pak",
+   "size": 1163980,
+   "sha256": "03f2c77e92d2b058a7e9304f89a9ed574b269d54322389d205ba2c9eda9f7ecc",
+   "stored_at": "sprites/korea-2024/MDarkBow.pak"
+  },
+  {
+   "install_path": "SPRITES/MDarkExec.pak",
+   "size": 505644,
+   "sha256": "15e9dd7c34eedd90b86fab46859d9ade2afdf1abfd9dee11a275b5b7d6c28f1f",
+   "stored_at": "sprites/korea-2024/MDarkExec.pak"
+  },
+  {
+   "install_path": "SPRITES/MDebastator.pak",
+   "size": 602148,
+   "sha256": "2ae669196678523240fd28cb29ae14717c4705054aee137ed95bb6c270239b36",
+   "stored_at": "sprites/korea-2024/MDebastator.pak"
+  },
+  {
+   "install_path": "SPRITES/MdfyObjects.pak",
+   "size": 922322,
+   "sha256": "16c283e1892dfe1c11259e129919d6c8dac90af319d6628d55eee28135788996",
+   "stored_at": "sprites/korea-2024/MdfyObjects.pak"
+  },
+  {
+   "install_path": "SPRITES/mdfytiles.pak",
+   "size": 1850768,
+   "sha256": "135839933c45e6889bc10ec4de35be99a4f7a49dd781e7029c792abfe7908bfc",
+   "stored_at": "sprites/korea-2024/mdfytiles.pak"
+  },
+  {
+   "install_path": "SPRITES/MDGHswd.pak",
+   "size": 1035064,
+   "sha256": "819830b265501e4a9b739a7eb013481a74ac0f8ef68bf237a45d47efb93cd25f",
+   "stored_at": "sprites/korea-2024/MDGHswd.pak"
+  },
+  {
+   "install_path": "SPRITES/MDGNswd.pak",
+   "size": 938044,
+   "sha256": "96ecc61309e6300958125a3fb490dedd66b75cf97a0615111f839b0fd60a6a2f",
+   "stored_at": "sprites/korea-2024/MDGNswd.pak"
+  },
+  {
+   "install_path": "SPRITES/MDHauberk.pak",
+   "size": 1627568,
+   "sha256": "6cb6a497f3aa6443781997c79ff804131cdc782d28828ab94ad4e50d04de7b7e",
+   "stored_at": "sprites/korea-2024/MDHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/MDHelm.pak",
+   "size": 331420,
+   "sha256": "0ec95cc4f4a4364a17e80a421abea4596a46cea35c35989135439dc34022087c",
+   "stored_at": "sprites/korea-2024/MDHelm.pak"
+  },
+  {
+   "install_path": "SPRITES/MDirectBow.pak",
+   "size": 963152,
+   "sha256": "b0c0997f6fd84f406a9c5483a880c7745892f38baa4743dfcb180ec8246e4feb",
+   "stored_at": "sprites/korea-2024/MDirectBow.pak"
+  },
+  {
+   "install_path": "SPRITES/MDLeggings.pak",
+   "size": 2518932,
+   "sha256": "fa3624b401a10a75214773d9e0f15bd72af75ae9e819023406b9d24ce6551e42",
+   "stored_at": "sprites/korea-2024/MDLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/MDPlatemail.pak",
+   "size": 2359192,
+   "sha256": "95a56baf64bb186f4f309f4353182c7fc87660ea7f9fc73db352116dd009f92d",
+   "stored_at": "sprites/korea-2024/MDPlatemail.pak"
+  },
+  {
+   "install_path": "SPRITES/MDRHswd.pak",
+   "size": 967376,
+   "sha256": "c3fd8c9fb52d50dca0e6154beca86c20138a7c8659413c83d5020c28c757edf2",
+   "stored_at": "sprites/korea-2024/MDRHswd.pak"
+  },
+  {
+   "install_path": "SPRITES/MDRNswd.pak",
+   "size": 1030532,
+   "sha256": "26f310dc535869900f9640fbecf0aa752c79e7914e18268ad486c6f6f095cbdf",
+   "stored_at": "sprites/korea-2024/MDRNswd.pak"
+  },
+  {
+   "install_path": "SPRITES/MDRobe.pak",
+   "size": 2668264,
+   "sha256": "0312ff973614ef7c211b5d2a30075ad331031fef8a4c55d89e368873ce6dd7f5",
+   "stored_at": "sprites/korea-2024/MDRobe.pak"
+  },
+  {
+   "install_path": "SPRITES/MDWizhat.pak",
+   "size": 512952,
+   "sha256": "e80d3d830cb7bbd7135f83b75df07163b6529177d0f80ce5299c9a2e93eae270",
+   "stored_at": "sprites/korea-2024/MDWizhat.pak"
+  },
+  {
+   "install_path": "SPRITES/MFireBow.pak",
+   "size": 1352912,
+   "sha256": "5fa69b147ac11c29120e561931f9b426ac5652b638f5c9712f20fb4f66ae7c03",
+   "stored_at": "sprites/korea-2024/MFireBow.pak"
+  },
+  {
+   "install_path": "SPRITES/Mflamberg.pak",
+   "size": 545452,
+   "sha256": "854bec1030452cc91952dbbb27ea468b64c7b68e5831bb744a034219af4ca90a",
+   "stored_at": "sprites/korea-2024/Mflamberg.pak"
+  },
+  {
+   "install_path": "SPRITES/MHammer.pak",
+   "size": 458828,
+   "sha256": "900b63c0574bce052a6ee7f1ad84a743399b54c3eda1f2c442a3a1116812d51c",
+   "stored_at": "sprites/korea-2024/MHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/MHanbok.pak",
+   "size": 3914976,
+   "sha256": "3fe0acf87b31e8d1a46fc8361df5067afb1291ef3696ea779fb463631983394f",
+   "stored_at": "sprites/korea-2024/MHanbok.pak"
+  },
+  {
+   "install_path": "SPRITES/MHauberk.pak",
+   "size": 781524,
+   "sha256": "31c2842054dae68773cba8aca86ba6c21aead5c87a54c1795ea83ab992054de9",
+   "stored_at": "sprites/korea-2024/MHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/MHauberkN.pak",
+   "size": 1796360,
+   "sha256": "de06959c7cf545e380f3a4ee69d9557a2a8be368f8c55378fa7ddcbe6c95f384",
+   "stored_at": "sprites/korea-2024/MHauberkN.pak"
+  },
+  {
+   "install_path": "SPRITES/MHCap1.pak",
+   "size": 178812,
+   "sha256": "ea31dba6abbb7f5e0b432f4411407d238314b0ea1fb9ddefe959ee101bb0a1b9",
+   "stored_at": "sprites/korea-2024/MHCap1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHCap2.pak",
+   "size": 178812,
+   "sha256": "172f3a7a203b92dd0875f524987f0e48493272da980726b904fe6c68ad311a7d",
+   "stored_at": "sprites/korea-2024/MHCap2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm1.pak",
+   "size": 124016,
+   "sha256": "fa1709d2c9167b42111cbb392aba06f2db1794f809604f1f2a0eab56bcf120b6",
+   "stored_at": "sprites/korea-2024/MHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm2.pak",
+   "size": 128376,
+   "sha256": "98d911455c98f6b8c56d12987e1bdd46d4a6d0c613ffc07c28af4e5f52b3efe4",
+   "stored_at": "sprites/korea-2024/MHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm3.pak",
+   "size": 281656,
+   "sha256": "459ed5fad409f607bc3e086b872ce50bad39ae7cabac0f0a6c6a7ed1f0bd751f",
+   "stored_at": "sprites/korea-2024/MHelm3.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm4.pak",
+   "size": 90056,
+   "sha256": "e8cc63785240632ff3eba24331204d32029be8214dda8251399c50e6721c8a02",
+   "stored_at": "sprites/korea-2024/MHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/MHelm5.pak",
+   "size": 306428,
+   "sha256": "7a1cc4db9295407571d28fb5574c247f89bfb9925a5bf951eaf327a96a7f5771",
+   "stored_at": "sprites/korea-2024/MHelm5.pak"
+  },
+  {
+   "install_path": "SPRITES/MHHauberk1.pak",
+   "size": 1170100,
+   "sha256": "73d1342e5cdab362b4e198ab67eb9c45f71b43fa0822109a427d6846b9761d16",
+   "stored_at": "sprites/korea-2024/MHHauberk1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHHauberk2.pak",
+   "size": 1170100,
+   "sha256": "8f6e3f917a395fadc53ca0ada2cd7c1ab52f557b1ac28e69cedbde55b48852dd",
+   "stored_at": "sprites/korea-2024/MHHauberk2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHHelm1.pak",
+   "size": 211888,
+   "sha256": "d2ffe437c7cb1e540323df0482799fca16617f34f031e24b146aa6dbbb252ad3",
+   "stored_at": "sprites/korea-2024/MHHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHHelm2.pak",
+   "size": 211888,
+   "sha256": "aa92a21ed10c6dcfb809e82d42adacaba1e601184c28b2ab0e0590145b663d0f",
+   "stored_at": "sprites/korea-2024/MHHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHLeggings1.pak",
+   "size": 1711000,
+   "sha256": "42543b830179946eaba84acd74666c95dd87034df385cfa123c22ac8670098f0",
+   "stored_at": "sprites/korea-2024/MHLeggings1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHLeggings2.pak",
+   "size": 1711000,
+   "sha256": "c77af8f8a5eaf1c6c26ab7689206478c016348e267429b0e0014566ca695e0b3",
+   "stored_at": "sprites/korea-2024/MHLeggings2.pak"
+  },
+  {
+   "install_path": "SPRITES/Mhoe.pak",
+   "size": 115460,
+   "sha256": "9067d7e2b2e876046d4daaef650345310877ca8ffa3982465d98dea73b8c4afc",
+   "stored_at": "sprites/korea-2024/Mhoe.pak"
+  },
+  {
+   "install_path": "SPRITES/MHPMail1.pak",
+   "size": 1530600,
+   "sha256": "7c7a21dabb584b6874aa1e5da40b9f9a58de9025298d0ef61e9532f3a8dea051",
+   "stored_at": "sprites/korea-2024/MHPMail1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHPMail2.pak",
+   "size": 1531992,
+   "sha256": "468bea2c22358d81dcc7edd7ea72c9ae81cb676a3dd45f2b3b76069a7ad1d7c6",
+   "stored_at": "sprites/korea-2024/MHPMail2.pak"
+  },
+  {
+   "install_path": "SPRITES/Mhr.pak",
+   "size": 590684,
+   "sha256": "f9129b04d2dcfc06b519dc63a857048655e6dff3d9b6d3bb44417c12d40e6d85",
+   "stored_at": "sprites/korea-2024/Mhr.pak"
+  },
+  {
+   "install_path": "SPRITES/MHRobe1.pak",
+   "size": 3421352,
+   "sha256": "3b251197d2d5a8b4db565394f26b13a70e4d06667411bf23cfd1030ece3cf64a",
+   "stored_at": "sprites/korea-2024/MHRobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MHRobe2.pak",
+   "size": 3421352,
+   "sha256": "b7def9caed7dec8dc9df23ac3ebd1836efaef5752100126d6e07647e63261a41",
+   "stored_at": "sprites/korea-2024/MHRobe2.pak"
+  },
+  {
+   "install_path": "SPRITES/MHTrouser.pak",
+   "size": 275828,
+   "sha256": "cdb5ab610265fe4fc6dfaa4f7c131a753a9ac8629306bed3983b658cabfe8f73",
+   "stored_at": "sprites/korea-2024/MHTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/Minotaurs.pak",
+   "size": 3303512,
+   "sha256": "e53f72704805e33877c6ab138dcadebfb0bab2fbde89f05e12747d9a1c75ab24",
+   "stored_at": "sprites/korea-2024/Minotaurs.pak"
+  },
+  {
+   "install_path": "SPRITES/MKlonessAstock.pak",
+   "size": 494180,
+   "sha256": "f627cfaacc897a4cbd94401b2cf0b332e5e7f79a8e3bc20dcb2697d652ccac8c",
+   "stored_at": "sprites/korea-2024/MKlonessAstock.pak"
+  },
+  {
+   "install_path": "SPRITES/MKlonessAxe.pak",
+   "size": 467768,
+   "sha256": "d55414dfce6c665e4ed48f60fa4a03632399ca75870e34d8a114d9f616dbb59e",
+   "stored_at": "sprites/korea-2024/MKlonessAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/MKlonessBlade.pak",
+   "size": 574748,
+   "sha256": "c74c4fd4f19cefec4409f4ae3819014212bbfb19866f91d3027480d136b673ef",
+   "stored_at": "sprites/korea-2024/MKlonessBlade.pak"
+  },
+  {
+   "install_path": "SPRITES/MKlonessHammer.pak",
+   "size": 1063428,
+   "sha256": "1a7414bc85b2c28546be13d42f38d01a072143a0b1df3911d9cef47fa11af82d",
+   "stored_at": "sprites/korea-2024/MKlonessHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/MKlonessWand.pak",
+   "size": 560252,
+   "sha256": "fcb3c5db144502e1593b0e43f0097a70285e2271d1d9c78293ec3b84b066da43",
+   "stored_at": "sprites/korea-2024/MKlonessWand.pak"
+  },
+  {
+   "install_path": "SPRITES/MKnockBow.pak",
+   "size": 780676,
+   "sha256": "17f429ae9374d85f86bbc82d0616913b449bc0dad0e0604859a14944c16c66ee",
+   "stored_at": "sprites/korea-2024/MKnockBow.pak"
+  },
+  {
+   "install_path": "SPRITES/MLarmor.pak",
+   "size": 507360,
+   "sha256": "50c94e22a84a141b0eb505bf0bf4e7b0cc0dbca1d9645bfb2d3a63cdb6d18d00",
+   "stored_at": "sprites/korea-2024/MLarmor.pak"
+  },
+  {
+   "install_path": "SPRITES/MLAxe.pak",
+   "size": 1185268,
+   "sha256": "520d3c3128a3c54f8d94dc9769aeb945660d3a9304abddf6b0a34516c988a119",
+   "stored_at": "sprites/korea-2024/MLAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/MLBoots.pak",
+   "size": 1739328,
+   "sha256": "bd867f1b5d3ed36c26f11c2d92560a4d922c15650ffa519c3e72ee8fec45526a",
+   "stored_at": "sprites/korea-2024/MLBoots.pak"
+  },
+  {
+   "install_path": "SPRITES/MLeggings.pak",
+   "size": 852620,
+   "sha256": "71664ed2242933c6cd07cfcd023b6f8dff2966da211d329d6ff388019827e1a7",
+   "stored_at": "sprites/korea-2024/MLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/MLightBlade.pak",
+   "size": 589736,
+   "sha256": "bf73aa3c2d2a2d5f7bd2ac9540d032cf37bf57260958ec0d0067e8639662fc03",
+   "stored_at": "sprites/korea-2024/MLightBlade.pak"
+  },
+  {
+   "install_path": "SPRITES/MLSword.pak",
+   "size": 1010384,
+   "sha256": "08162af2d666b67a6e05db06e8f73cabe24edd7c08e1e3c512976225fae01497",
+   "stored_at": "sprites/korea-2024/MLSword.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle01.pak",
+   "size": 1131340,
+   "sha256": "7b11ffea683f8f02df2b9ac87875b9429b258b35a60f2e542955b6714116af62",
+   "stored_at": "sprites/korea-2024/Mmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle02.pak",
+   "size": 1132464,
+   "sha256": "df177cb6eac1b64f40fabe61e8f78b235aa3e34912519f84a641d137bb5b60b6",
+   "stored_at": "sprites/korea-2024/Mmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle03.pak",
+   "size": 1133524,
+   "sha256": "6c77bde962b5cd86d4f545ab8fa3fe7f074d7cbae591d716cefa2584639b3300",
+   "stored_at": "sprites/korea-2024/Mmantle03.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle04.pak",
+   "size": 3254772,
+   "sha256": "dd618eed984438201dc6d732e0133ce253cf776469f4983c256532c07cf28d33",
+   "stored_at": "sprites/korea-2024/Mmantle04.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle05.pak",
+   "size": 3254772,
+   "sha256": "bcb9f9fc8f970b03c1e9a8be6379d34c84d8b2b85f8b5c8d0e057e6f7d0250aa",
+   "stored_at": "sprites/korea-2024/Mmantle05.pak"
+  },
+  {
+   "install_path": "SPRITES/Mmantle06.pak",
+   "size": 4878384,
+   "sha256": "8a34e04a25184865cab6f73c1e1e10a8b149c9167aa894b042a1ba8c2eef83b7",
+   "stored_at": "sprites/korea-2024/Mmantle06.pak"
+  },
+  {
+   "install_path": "SPRITES/monster.pak",
+   "size": 158196,
+   "sha256": "2f6acde4818fdb1be37111571f01d6533946b01b94cfdb2cb93a29fe43a53ecc",
+   "stored_at": "sprites/korea-2024/monster.pak"
+  },
+  {
+   "install_path": "SPRITES/MPickAxe1.pak",
+   "size": 305684,
+   "sha256": "c6dfb06b3b9aaa9c73c144095918c24b95a5370caa877e2caacb9dfc0b6d5a7d",
+   "stored_at": "sprites/korea-2024/MPickAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MPMail.pak",
+   "size": 670460,
+   "sha256": "2f3f4a707c4132852bc7f0014cbe1b76584088d1ff90b7119f7fad23722ffcff",
+   "stored_at": "sprites/korea-2024/MPMail.pak"
+  },
+  {
+   "install_path": "SPRITES/Mpt.pak",
+   "size": 862460,
+   "sha256": "97be2f301ab7aa6806abdc865c170c796fc67e8bcb66f70e494ab0c7da060e80",
+   "stored_at": "sprites/korea-2024/Mpt.pak"
+  },
+  {
+   "install_path": "SPRITES/MPTWK.PAK",
+   "size": 14200,
+   "sha256": "da97dd4d3a690297b135a84508b35b2379822b3b53d7111ad32fe3a5bff24703",
+   "stored_at": "sprites/korea-2024/MPTWK.PAK"
+  },
+  {
+   "install_path": "SPRITES/MReMagicWand.pak",
+   "size": 558612,
+   "sha256": "f321edbe3afc479a1146618d2c12352642611723de2dde4ea6e9000dc7753e5b",
+   "stored_at": "sprites/korea-2024/MReMagicWand.pak"
+  },
+  {
+   "install_path": "SPRITES/Mrobe1.pak",
+   "size": 1560096,
+   "sha256": "6e7414dc141ed8cbcf8462ad9b327de82ed70ff0b5e02160464b4c27166263da",
+   "stored_at": "sprites/korea-2024/Mrobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/MSanta.pak",
+   "size": 1594588,
+   "sha256": "d53b0f93672697293fc58ec481ce174be783fdcc7e1e384a82475fd059447090",
+   "stored_at": "sprites/korea-2024/MSanta.pak"
+  },
+  {
+   "install_path": "SPRITES/MSAxe.pak",
+   "size": 460076,
+   "sha256": "0348eef8e58e6df2426c737d3318599e4856cb445272c4a41f6aca6d9e90a2a4",
+   "stored_at": "sprites/korea-2024/MSAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/Msh.pak",
+   "size": 2237648,
+   "sha256": "24368df62fea8ee5f747e1836a145a70744b240451e09be760078424d268260f",
+   "stored_at": "sprites/korea-2024/Msh.pak"
+  },
+  {
+   "install_path": "SPRITES/MShirt.pak",
+   "size": 612508,
+   "sha256": "185cd1fd4b655d92143b86f1fb216008296d2de42bd733f4adaf1f4dd91b15cb",
+   "stored_at": "sprites/korea-2024/MShirt.pak"
+  },
+  {
+   "install_path": "SPRITES/MShoes.pak",
+   "size": 1083560,
+   "sha256": "7a7824f30fea74676ab35c89e4f1ca41f1eab1bb01b9758f751ca8ee6b6b9409",
+   "stored_at": "sprites/korea-2024/MShoes.pak"
+  },
+  {
+   "install_path": "SPRITES/MShortSword02.pak",
+   "size": 293992,
+   "sha256": "aecdf107d3e447c68c5ba375310b67530ebfb28c9ba7f47865be81c7247b0680",
+   "stored_at": "sprites/korea-2024/MShortSword02.pak"
+  },
+  {
+   "install_path": "SPRITES/MSMail.pak",
+   "size": 609916,
+   "sha256": "4bce54a4275a1494393d7ed14fefbae6f07bfd1f35d9eacbaad3bb5194c06ab4",
+   "stored_at": "sprites/korea-2024/MSMail.pak"
+  },
+  {
+   "install_path": "SPRITES/MSSword.pak",
+   "size": 251440,
+   "sha256": "8569904989cf7c9111b1359aa6c44bdfa16455041dab81eecfd5653c8074873b",
+   "stored_at": "sprites/korea-2024/MSSword.pak"
+  },
+  {
+   "install_path": "SPRITES/MStaff1.pak",
+   "size": 522504,
+   "sha256": "7ca7df9acac7905722e4e74c4757ee36bc60c08469ed7c63a1184615f046baab",
+   "stored_at": "sprites/korea-2024/MStaff1.pak"
+  },
+  {
+   "install_path": "SPRITES/Mstaff2.pak",
+   "size": 925040,
+   "sha256": "65038092e1cacf419520be879e561ce556cc71c0600e53a2431cf41758aae31c",
+   "stored_at": "sprites/korea-2024/Mstaff2.pak"
+  },
+  {
+   "install_path": "SPRITES/MStaff3.pak",
+   "size": 673672,
+   "sha256": "01c9a2fdfda2de8cdafe1767ea5ba2ad9265d1f27428b6e0ea9c22c6cff69b45",
+   "stored_at": "sprites/korea-2024/MStaff3.pak"
+  },
+  {
+   "install_path": "SPRITES/MStormBringer.pak",
+   "size": 440020,
+   "sha256": "53ab72d7f3e5a1a8168ee1b5aa61c7d2f8166c63716791243d83f681b5849b8d",
+   "stored_at": "sprites/korea-2024/MStormBringer.pak"
+  },
+  {
+   "install_path": "SPRITES/Msunofpower.pak",
+   "size": 1211324,
+   "sha256": "ffb18efaf9c67d27840206977259a8f0772e804c0a78a786df00f0d6e380f665",
+   "stored_at": "sprites/korea-2024/Msunofpower.pak"
+  },
+  {
+   "install_path": "SPRITES/Msw.pak",
+   "size": 4737588,
+   "sha256": "237b4ff6fa3a005cb159135be019256cb285b34f92443dadffd965c5e92b89f7",
+   "stored_at": "sprites/korea-2024/Msw.pak"
+  },
+  {
+   "install_path": "SPRITES/Msw2.pak",
+   "size": 528344,
+   "sha256": "4663e7e7cd8c27723cf7c39e42f18cb258c0518ee689246745498b31607a42b6",
+   "stored_at": "sprites/korea-2024/Msw2.pak"
+  },
+  {
+   "install_path": "SPRITES/Msw3.pak",
+   "size": 606212,
+   "sha256": "93977c21d4cf598fcc34fa47b247721cf8510c399ede3f406f23d75205183499",
+   "stored_at": "sprites/korea-2024/Msw3.pak"
+  },
+  {
+   "install_path": "SPRITES/Mswx.pak",
+   "size": 379332,
+   "sha256": "2edb81d212345df754253ae2b18e4c6c10b6e502cb3d9830b38b014fa7d60435",
+   "stored_at": "sprites/korea-2024/Mswx.pak"
+  },
+  {
+   "install_path": "SPRITES/MTGiant.pak",
+   "size": 2143948,
+   "sha256": "2f9153af8fb0fcac34231886abbffabd18ece416ecde3a3264bfb25c9e7b900b",
+   "stored_at": "sprites/korea-2024/MTGiant.pak"
+  },
+  {
+   "install_path": "SPRITES/MTrouser.pak",
+   "size": 639964,
+   "sha256": "e4b66e9bba12bcf1047000d3453f0d8ef2067577aae485ecf68a042841df6fbb",
+   "stored_at": "sprites/korea-2024/MTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/MTunic.pak",
+   "size": 639512,
+   "sha256": "054846eead9f105370a6d1561ba54a82d04890deaf532b818d32740f25ac1471",
+   "stored_at": "sprites/korea-2024/MTunic.pak"
+  },
+  {
+   "install_path": "SPRITES/Munderhammer.pak",
+   "size": 956424,
+   "sha256": "332d389b699737fb40d625505c5706122bd6529ab9516ae92ff90d4b50b355bc",
+   "stored_at": "sprites/korea-2024/Munderhammer.pak"
+  },
+  {
+   "install_path": "SPRITES/New-Dialog.pak",
+   "size": 1032828,
+   "sha256": "ba9e8bc505a4d7a8aeef5b32d74850bf43ad29ddc90a8af3dd0c20a3735deb58",
+   "stored_at": "sprites/korea-2024/New-Dialog.pak"
+  },
+  {
+   "install_path": "SPRITES/newiconp.pak",
+   "size": 173102,
+   "sha256": "d683fdefdd639978a789fce2e8e83d170d839be6a8b588077f5852de1178b931",
+   "stored_at": "sprites/korea-2024/newiconp.pak"
+  },
+  {
+   "install_path": "SPRITES/newmaps.pak",
+   "size": 984744,
+   "sha256": "ca1da40212499371049b8fe6479758e05dc0e065f1a205e8426d69a2e6e8fa48",
+   "stored_at": "sprites/korea-2024/newmaps.pak"
+  },
+  {
+   "install_path": "SPRITES/Nizie.pak",
+   "size": 5388732,
+   "sha256": "9f27d2a69036ba67b1de687af5aaaa1fc2089538e5ff717c1d1b7fad15912596",
+   "stored_at": "sprites/korea-2024/Nizie.pak"
+  },
+  {
+   "install_path": "SPRITES/NMHelm1.pak",
+   "size": 258940,
+   "sha256": "51b3c37afa25d77690be5173b68e7a80d045e651f3f3fba246fa2f6cf1c6e3b0",
+   "stored_at": "sprites/korea-2024/NMHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/NMHelm2.pak",
+   "size": 134200,
+   "sha256": "0b8f966f60a4c293e7103c2831edb61bd152eac192fbd43975708f42686816d9",
+   "stored_at": "sprites/korea-2024/NMHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/NMHelm3.pak",
+   "size": 122920,
+   "sha256": "9954e0dbc26e3e96d939a628450b5fc2ad2a3251db33ce560115ed8c0aed13c9",
+   "stored_at": "sprites/korea-2024/NMHelm3.pak"
+  },
+  {
+   "install_path": "SPRITES/NMHelm4.pak",
+   "size": 313748,
+   "sha256": "0432b0999a9fd95626fa61917d8c1e6eefc6496d17b2d3f1298b4058512c6f5e",
+   "stored_at": "sprites/korea-2024/NMHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/NWHelm1.pak",
+   "size": 262068,
+   "sha256": "c88dfcbaf4159e99ba99e9413854055e42f61d63aaf46a7cc22967c1280fbba5",
+   "stored_at": "sprites/korea-2024/NWHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/NWHelm2.pak",
+   "size": 343356,
+   "sha256": "723e752dec6ac9b28cc2a6e19c346a4f07d6cfe0f2fc38397a879565e87b8762",
+   "stored_at": "sprites/korea-2024/NWHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/NWHelm3.pak",
+   "size": 123156,
+   "sha256": "35b3761e70f05c908c9a060132ac11d74c01f209a86b906505c4f50c95d97f40",
+   "stored_at": "sprites/korea-2024/NWHelm3.pak"
+  },
+  {
+   "install_path": "SPRITES/NWHelm4.pak",
+   "size": 471396,
+   "sha256": "767034a1ce6fe09ad267b95f195f64aef13cb493d270944649a16907dea255fb",
+   "stored_at": "sprites/korea-2024/NWHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects1.pak",
+   "size": 3573090,
+   "sha256": "51b49f4c9ee93622b8c53e1a8df38e60809b7520507e5f165e99cd16b6efb4a5",
+   "stored_at": "sprites/korea-2024/Objects1.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects2.pak",
+   "size": 1207386,
+   "sha256": "9a490e2d8944bcadfac353112342f08277aac51b80f2ef15af3a987f0d676054",
+   "stored_at": "sprites/korea-2024/Objects2.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects3.pak",
+   "size": 2459200,
+   "sha256": "49a67a0c2fd40e0eb0816b38913c874590959b15edbc0b1746eb25ba5d215b24",
+   "stored_at": "sprites/korea-2024/Objects3.pak"
+  },
+  {
+   "install_path": "SPRITES/objects4.pak",
+   "size": 617124,
+   "sha256": "920f070eb4da9149785da7f731d43450bf596cc54bce26cd6e9d5f79b491dbe4",
+   "stored_at": "sprites/korea-2024/objects4.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects5.pak",
+   "size": 2737568,
+   "sha256": "29501de359c133ff2ceafbef5a55322ebf2d22d6afd2ef39b7ca2b2c290f3675",
+   "stored_at": "sprites/korea-2024/Objects5.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects6.pak",
+   "size": 1307000,
+   "sha256": "38d11436fbb4f0e454be68fea15fedac4cc24e397faf46434ade99c070a9982f",
+   "stored_at": "sprites/korea-2024/Objects6.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects7.pak",
+   "size": 2159920,
+   "sha256": "fa227a4ac3df75513fa635f41192bc914088cb762c60f9bc7b422c871f650cab",
+   "stored_at": "sprites/korea-2024/Objects7.pak"
+  },
+  {
+   "install_path": "SPRITES/Objects8.pak",
+   "size": 1207398,
+   "sha256": "57a720cb3523697f59309cea6e4dcc78ac810368b38dcf4a3379e46dd61a9455",
+   "stored_at": "sprites/korea-2024/Objects8.pak"
+  },
+  {
+   "install_path": "SPRITES/OldObjects1.pak",
+   "size": 10140754,
+   "sha256": "f605bc81e0f117b630d1bad4b8611981a5be4f692831e37ed7b6a78799fa05b5",
+   "stored_at": "sprites/korea-2024/OldObjects1.pak"
+  },
+  {
+   "install_path": "SPRITES/OldWyvern.pak",
+   "size": 19958156,
+   "sha256": "a50b6de64472132e98f8fe9e4a9a044008bb66a1a4d31e075e51fbd3a2929f98",
+   "stored_at": "sprites/korea-2024/OldWyvern.pak"
+  },
+  {
+   "install_path": "SPRITES/Orc.pak",
+   "size": 615124,
+   "sha256": "fd812b1d41093610039467e58a1255372efbb6bd2eb92101abb2c8651d24b082",
+   "stored_at": "sprites/korea-2024/Orc.pak"
+  },
+  {
+   "install_path": "SPRITES/Orge.pak",
+   "size": 8500736,
+   "sha256": "07ec7d46ae3f24397b36cf5732c16f83d5c3fe4876ab4bf19c394bafc4ec751e",
+   "stored_at": "sprites/korea-2024/Orge.pak"
+  },
+  {
+   "install_path": "SPRITES/Perry.pak",
+   "size": 124672,
+   "sha256": "47cef8efbb720fa171926c04218681d5f9a24d38275525e073ed64291eb720ab",
+   "stored_at": "sprites/korea-2024/Perry.pak"
+  },
+  {
+   "install_path": "SPRITES/Rudolph.pak",
+   "size": 1187776,
+   "sha256": "2a599f3958181f9f50911b5d442f85b322513b70575701087d8ac9f00ab063d1",
+   "stored_at": "sprites/korea-2024/Rudolph.pak"
+  },
+  {
+   "install_path": "SPRITES/Scp.pak",
+   "size": 631804,
+   "sha256": "ab9946be6626c53036f28bda98acf145d96319d4e952850a8538afe9cba2196f",
+   "stored_at": "sprites/korea-2024/Scp.pak"
+  },
+  {
+   "install_path": "SPRITES/SHOPKPR.PAK",
+   "size": 88932,
+   "sha256": "5bee740bffb94ede7c6dcec6c643b300fb56843448371adc3ef4e4b5409904ee",
+   "stored_at": "sprites/korea-2024/SHOPKPR.PAK"
+  },
+  {
+   "install_path": "SPRITES/Sinside1.pak",
+   "size": 8423808,
+   "sha256": "b28fcb5a0ec5537d8a6dafa78beb4a25d23cf1fffe14a80147ca9eacb350699f",
+   "stored_at": "sprites/korea-2024/Sinside1.pak"
+  },
+  {
+   "install_path": "SPRITES/SKE.PAK",
+   "size": 512152,
+   "sha256": "75a1da5055439e03bb85883cb5f8087712b7c1299234e7d12703a7c0715038ad",
+   "stored_at": "sprites/korea-2024/SKE.PAK"
+  },
+  {
+   "install_path": "SPRITES/SLM.PAK",
+   "size": 697000,
+   "sha256": "b2fa88a45d795fdac665ebf7acb868e1babde21e629c020d2a42f47649f8cc29",
+   "stored_at": "sprites/korea-2024/SLM.PAK"
+  },
+  {
+   "install_path": "SPRITES/Sorceress.pak",
+   "size": 2264596,
+   "sha256": "c8915e468c4ccf2ff8b7d8b42cdcc471f368f3e0c3592fdfc1358cdda29687f4",
+   "stored_at": "sprites/korea-2024/Sorceress.pak"
+  },
+  {
+   "install_path": "SPRITES/SPRFONTS.PAK",
+   "size": 87428,
+   "sha256": "e6b82e0b0df1935fcc55a2aab104c6510f9db2cba168b2ba07f9361d94d10192",
+   "stored_at": "sprites/korea-2024/SPRFONTS.PAK"
+  },
+  {
+   "install_path": "SPRITES/Stalker.pak",
+   "size": 4400896,
+   "sha256": "33dd853156182dee38860cbce5a308f2d15a1d0d3769bdb795a10079f4665e93",
+   "stored_at": "sprites/korea-2024/Stalker.pak"
+  },
+  {
+   "install_path": "SPRITES/Structures1.pak",
+   "size": 6239864,
+   "sha256": "7708fd4090814ee05549d1f0d39998440dc8e498f47e0910aafd313c8f048f6a",
+   "stored_at": "sprites/korea-2024/Structures1.pak"
+  },
+  {
+   "install_path": "SPRITES/structures2.pak",
+   "size": 5615880,
+   "sha256": "5c068da7c01dc75bac8c81dbf7b876c62b8353487daca7b55a7ff00fee96ae8c",
+   "stored_at": "sprites/korea-2024/structures2.pak"
+  },
+  {
+   "install_path": "SPRITES/Telescope.pak",
+   "size": 2920398,
+   "sha256": "415887ea78ab85decf8c1bc32efcd0ffd215fd34799db170d3718a8c60d150fd",
+   "stored_at": "sprites/korea-2024/Telescope.pak"
+  },
+  {
+   "install_path": "SPRITES/Telescope2.pak",
+   "size": 1518974,
+   "sha256": "41b8b3459ab9b11cfa6d054441018572aade81d8b127df35fbba5396d8821eba",
+   "stored_at": "sprites/korea-2024/Telescope2.pak"
+  },
+  {
+   "install_path": "SPRITES/TelescopeT.pak",
+   "size": 2920398,
+   "sha256": "e01ae4c50d67b4115aeb1d59e0340ca3e482e2693dff29225f3324ba7ad1b967",
+   "stored_at": "sprites/korea-2024/TelescopeT.pak"
+  },
+  {
+   "install_path": "SPRITES/Tentocle.pak",
+   "size": 1231924,
+   "sha256": "f31e63fd202d09a3aea3ca66c7c7c5c1c46a1c44a089daa85844c83b0bb9cfa7",
+   "stored_at": "sprites/korea-2024/Tentocle.pak"
+  },
+  {
+   "install_path": "SPRITES/Tigerworm.pak",
+   "size": 9275980,
+   "sha256": "0b9a4051e3aabe4d989bf825ff70ed5b5c96e6d027c21c908bb9e5d2ff97a0df",
+   "stored_at": "sprites/korea-2024/Tigerworm.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile223-225.pak",
+   "size": 925896,
+   "sha256": "fa7cf7fc5486da6410b490f79a227859419f9307fe0446b50b6e0ba536d3b111",
+   "stored_at": "sprites/korea-2024/Tile223-225.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile226-229.pak",
+   "size": 2459596,
+   "sha256": "8ab6d8bbe65fdd8feb9f28bb7a49d71083e86a5c5dfa94f5c56898d79b7114b2",
+   "stored_at": "sprites/korea-2024/Tile226-229.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile363-366.pak",
+   "size": 1247992,
+   "sha256": "73b75c2efadc0c43d998aa03155b2b2782418f807661724d5fecee0ee7f9a182",
+   "stored_at": "sprites/korea-2024/Tile363-366.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile367-367.pak",
+   "size": 311988,
+   "sha256": "8b6e2d04dc64d17216b8cfc582738299cf7d8ff6f9509d81c9af711deeedcf83",
+   "stored_at": "sprites/korea-2024/Tile367-367.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile370-381.pak",
+   "size": 2555712,
+   "sha256": "2a37c03af473dd9810f9e5c8bbbe15f5252e7f25aacce7d3d0e452f3695465e7",
+   "stored_at": "sprites/korea-2024/Tile370-381.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile382-387.pak",
+   "size": 1597304,
+   "sha256": "accf4ec00780f6bf130da54edf7472cf17f4450f30f5b687992a6e68e918d5f6",
+   "stored_at": "sprites/korea-2024/Tile382-387.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile388-402.pak",
+   "size": 4679904,
+   "sha256": "1d976453e69b14825b2abf65a06336541d3e2b7663c8dd9f70f81c5086e64f37",
+   "stored_at": "sprites/korea-2024/Tile388-402.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile403-405.pak",
+   "size": 936000,
+   "sha256": "982f2236df0e708cfb3b3ef6cf35171b456ab51fbed5c3f692953aff3cf93ac0",
+   "stored_at": "sprites/korea-2024/Tile403-405.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile406-421.pak",
+   "size": 4991896,
+   "sha256": "8d05e37b909fa68b919b8faea7f049e29e30f5a2a0641fac6b1c881621c64312",
+   "stored_at": "sprites/korea-2024/Tile406-421.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile422-426.pak",
+   "size": 4236366,
+   "sha256": "488cc0c828762bdadaebdedcc8911b3ea5085b20ed844be6ebfa28ecca605aa6",
+   "stored_at": "sprites/korea-2024/Tile422-426.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile422-429.pak",
+   "size": 2181860,
+   "sha256": "3c4a7f2dfd9ff052bb609610f88f4b5ffeecad3c23d082f4dff3e21cdea89076",
+   "stored_at": "sprites/korea-2024/Tile422-429.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile430-443.pak",
+   "size": 4367912,
+   "sha256": "2e0dac3515f033d443248bf342c9154e3e4ee7277ba864ad342a9d38a3fa8ef1",
+   "stored_at": "sprites/korea-2024/Tile430-443.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile444-444.pak",
+   "size": 312016,
+   "sha256": "7f8cdac5bda3287a30a892c7535dd0714cbcb72f1505184998337b2417568571",
+   "stored_at": "sprites/korea-2024/Tile444-444.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile445-461.pak",
+   "size": 3841324,
+   "sha256": "0ff9a4aee112554f01d71efa30c19a3585cce6ba44fad3e4453e45bb3e0ad8f7",
+   "stored_at": "sprites/korea-2024/Tile445-461.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile462-464.pak",
+   "size": 2766036,
+   "sha256": "780b8bfc6c31d623411f87bcbafff0915262dd32539663d2893b474a84bef4ed",
+   "stored_at": "sprites/korea-2024/Tile462-464.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile462-473.pak",
+   "size": 3743928,
+   "sha256": "d4f83228f39496a806d809ff89a7ba21b52c82c0434d10b0ea4e9ab541cbbd2a",
+   "stored_at": "sprites/korea-2024/Tile462-473.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile462-475.pak",
+   "size": 4365896,
+   "sha256": "0f454bfb095b364c29f9791a167bd94460e32b3e49f447e148ad6061bc213d37",
+   "stored_at": "sprites/korea-2024/Tile462-475.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile474-478.pak",
+   "size": 1559984,
+   "sha256": "3334c3d0bc8ac6f17bb417f70334f9f759a32adea8c40a182830604fc8f26a6d",
+   "stored_at": "sprites/korea-2024/Tile474-478.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile479-488.pak",
+   "size": 3119948,
+   "sha256": "f7cb99dfb4563fc175784833294bdced72d7a4fab2fd4009a1ea3c26b6d1f996",
+   "stored_at": "sprites/korea-2024/Tile479-488.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile489-522.pak",
+   "size": 10607076,
+   "sha256": "e7a8f8f08e1f0f936c218dfa82eed28bd3fc76caeead6b69fb9e85b734d004ab",
+   "stored_at": "sprites/korea-2024/Tile489-522.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile523-530.pak",
+   "size": 3109340,
+   "sha256": "82221ac55e1fc0aeacfc983b0ddc9552210b316345ce6aa421ba2072e99a750f",
+   "stored_at": "sprites/korea-2024/Tile523-530.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile531-540.pak",
+   "size": 3119944,
+   "sha256": "020ff7db3178ba068818ad2972260f82e82ab028a5f774dadef9c62ef5497024",
+   "stored_at": "sprites/korea-2024/Tile531-540.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile541-545.pak",
+   "size": 1559986,
+   "sha256": "922caaa9b81270bb928747c70b11d7607e57688cd7a426063467d005d120d761",
+   "stored_at": "sprites/korea-2024/Tile541-545.pak"
+  },
+  {
+   "install_path": "SPRITES/Tile546-550.pak",
+   "size": 4626874,
+   "sha256": "a6e119cdb53f84b6fc284d071d9143cf4fb3eea4bda7261fc78f5919b18dcdf7",
+   "stored_at": "sprites/korea-2024/Tile546-550.pak"
+  },
+  {
+   "install_path": "SPRITES/TK.pak",
+   "size": 2572600,
+   "sha256": "d7d90978f6e22374354813c2a5d93b758a9ec7d6d0b81ecf935f1b3545ee369a",
+   "stored_at": "sprites/korea-2024/TK.pak"
+  },
+  {
+   "install_path": "SPRITES/Tom.pak",
+   "size": 176948,
+   "sha256": "36c2383a7cbc91d15ba50c5de87df812b7fdbe14e772e1938e844c8456299c3c",
+   "stored_at": "sprites/korea-2024/Tom.pak"
+  },
+  {
+   "install_path": "SPRITES/TPKnight.pak",
+   "size": 3597732,
+   "sha256": "32300b2dc78f7203cd4efefe4ac39426fc4c538919e564eadb1f1c3db1a8ff8e",
+   "stored_at": "sprites/korea-2024/TPKnight.pak"
+  },
+  {
+   "install_path": "SPRITES/Trees.pak",
+   "size": 2945524,
+   "sha256": "1906c247ecb5ab7b242239d2a0939e7b3777213dac6921811c6c76ea9b8893f6",
+   "stored_at": "sprites/korea-2024/Trees.pak"
+  },
+  {
+   "install_path": "SPRITES/TREES1.PAK",
+   "size": 3302368,
+   "sha256": "ece05d8fb12422ec98d3377bb62aacd05ee15dfa922ef0b6456bfdb0fed50d7e",
+   "stored_at": "sprites/korea-2024/TREES1.PAK"
+  },
+  {
+   "install_path": "SPRITES/TreeShadows.pak",
+   "size": 155504,
+   "sha256": "3b8243fe9e5cb89bc169b572d781683c2c13eef920edd2624baf9b33138b80a6",
+   "stored_at": "sprites/korea-2024/TreeShadows.pak"
+  },
+  {
+   "install_path": "SPRITES/Troll.pak",
+   "size": 1753384,
+   "sha256": "49217382e0f7db8cd1cb7ed931d1b96e7c9a90e7466931e67784542cf42323ee",
+   "stored_at": "sprites/korea-2024/Troll.pak"
+  },
+  {
+   "install_path": "SPRITES/TutelarAngel1.pak",
+   "size": 827700,
+   "sha256": "ffa0650accf4b3bdd6cbed61f452a7ab7317c18de9390985c0314a9392090cb0",
+   "stored_at": "sprites/korea-2024/TutelarAngel1.pak"
+  },
+  {
+   "install_path": "SPRITES/TutelarAngel2.pak",
+   "size": 827700,
+   "sha256": "43b8f76da7b35f59894c8efa8dd83511d8598c8c602aa9edb6ad294d115f5a48",
+   "stored_at": "sprites/korea-2024/TutelarAngel2.pak"
+  },
+  {
+   "install_path": "SPRITES/TutelarAngel3.pak",
+   "size": 774940,
+   "sha256": "f9a61675746549a380a38ba589441350e84a6d8e389c2a2a1329f55e60bfe2f3",
+   "stored_at": "sprites/korea-2024/TutelarAngel3.pak"
+  },
+  {
+   "install_path": "SPRITES/TutelarAngel4.pak",
+   "size": 774940,
+   "sha256": "f91c131282f5bbfdbc9a52a1b42965585f1ceb24eb06344b640a5d2ef3e2def0",
+   "stored_at": "sprites/korea-2024/TutelarAngel4.pak"
+  },
+  {
+   "install_path": "SPRITES/Unicorn.pak",
+   "size": 2954024,
+   "sha256": "3e4685449f149d47205c770e7c5993de414c2a81bd8082d6385156e45f15f6ee",
+   "stored_at": "sprites/korea-2024/Unicorn.pak"
+  },
+  {
+   "install_path": "SPRITES/Wabsorpwand.pak",
+   "size": 1244196,
+   "sha256": "85d954e78c7f29b6ad24423ae3cb7d106afa9028d398c08e70a077ca1150194f",
+   "stored_at": "sprites/korea-2024/Wabsorpwand.pak"
+  },
+  {
+   "install_path": "SPRITES/Wangelsbow.pak",
+   "size": 851104,
+   "sha256": "53c572dac4c80123ed744799d3d476dae388b9b9a7ac58d8340bd128b5763258",
+   "stored_at": "sprites/korea-2024/Wangelsbow.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe1.pak",
+   "size": 172268,
+   "sha256": "45829cf5bf1904c70906ddfadfca660e6287e51ac8cacf6f7f75866afa08a5dc",
+   "stored_at": "sprites/korea-2024/WAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe2.pak",
+   "size": 231084,
+   "sha256": "6be8e1e74682679b02d6ee87569eb55bbb724fd6f5a13196d33b7f94cecd35e3",
+   "stored_at": "sprites/korea-2024/WAxe2.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe3.pak",
+   "size": 211296,
+   "sha256": "8800fd9ed2293d6979c371b96fec48a0231c0e8ed63677021539c472b4ca77db",
+   "stored_at": "sprites/korea-2024/WAxe3.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe4.pak",
+   "size": 215004,
+   "sha256": "0c8d436f1b3b5bd5cdfdae3e534d1252b9953de8acacae9d371440721dcbf4c2",
+   "stored_at": "sprites/korea-2024/WAxe4.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe5.pak",
+   "size": 263984,
+   "sha256": "c3a8d19f72db0d173b25f1ab2703c902a789837c8e0b86ddb3d2ab5fd595e72a",
+   "stored_at": "sprites/korea-2024/WAxe5.pak"
+  },
+  {
+   "install_path": "SPRITES/WAxe6.pak",
+   "size": 405220,
+   "sha256": "fded8476a45083778f040fb354de3840fb8a0e755fc58cce699b970bcd55b968",
+   "stored_at": "sprites/korea-2024/WAxe6.pak"
+  },
+  {
+   "install_path": "SPRITES/WBabHammer.pak",
+   "size": 456980,
+   "sha256": "fd2449527414f1d7c08a90f82aedde6dc34a6b45e15dd7795dc3f23bb565a63f",
+   "stored_at": "sprites/korea-2024/WBabHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/WBerserkWand.pak",
+   "size": 414152,
+   "sha256": "ccbe2a5ebca4e19d8c3eb2a3e71b46b84b904ecdc7800e0ce789d0afe26307b0",
+   "stored_at": "sprites/korea-2024/WBerserkWand.pak"
+  },
+  {
+   "install_path": "SPRITES/WBHammer.pak",
+   "size": 355152,
+   "sha256": "10971398a556af0735f8a8f03d81fc74fc8a341ea3127b16aec852c84dcfef99",
+   "stored_at": "sprites/korea-2024/WBHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/Wbo.pak",
+   "size": 696004,
+   "sha256": "6a3076dacaf911fb05f99cc468706e5930485442a1454d35a0962170ab327394",
+   "stored_at": "sprites/korea-2024/Wbo.pak"
+  },
+  {
+   "install_path": "SPRITES/WBodice1.pak",
+   "size": 182364,
+   "sha256": "b0d2ab3dac4c97218a857a9965eef49086b1a52fe8602baa174ee1da42f0ab3f",
+   "stored_at": "sprites/korea-2024/WBodice1.pak"
+  },
+  {
+   "install_path": "SPRITES/WBodice2.pak",
+   "size": 254932,
+   "sha256": "0b47d716341210e67d77824bbb2beb8bce3ba55cd454b6e58d9ec047d5f3bbca",
+   "stored_at": "sprites/korea-2024/WBodice2.pak"
+  },
+  {
+   "install_path": "SPRITES/WBShadowSword.pak",
+   "size": 496668,
+   "sha256": "5741e587d0b609623ce00dfcda3a761f2810fb6e74f2fe0e2268fb07cfee42c3",
+   "stored_at": "sprites/korea-2024/WBShadowSword.pak"
+  },
+  {
+   "install_path": "SPRITES/WChemiss.pak",
+   "size": 631200,
+   "sha256": "712f5584acc35578dd3aab977789bafcc1b222d376873609c2322b93fb5f582b",
+   "stored_at": "sprites/korea-2024/WChemiss.pak"
+  },
+  {
+   "install_path": "SPRITES/WCHoses.pak",
+   "size": 700988,
+   "sha256": "569506db7d5a252589e7d55ace401a4ed6fb6da6a732f8429703e920c0af7e4d",
+   "stored_at": "sprites/korea-2024/WCHoses.pak"
+  },
+  {
+   "install_path": "SPRITES/WCMail.pak",
+   "size": 592408,
+   "sha256": "aa57923b700f773c72450fbb19dde70864afa3cb50a324710682c7dca19b5ac9",
+   "stored_at": "sprites/korea-2024/WCMail.pak"
+  },
+  {
+   "install_path": "SPRITES/WDarkBow.pak",
+   "size": 832604,
+   "sha256": "a01be525129795727fa2e2fd2573c1683e082df1f5b2b802d25ec13769724788",
+   "stored_at": "sprites/korea-2024/WDarkBow.pak"
+  },
+  {
+   "install_path": "SPRITES/WDarkExec.pak",
+   "size": 470940,
+   "sha256": "b50e83d710b46549a59b12ece15bfc69e2a3aa28e41d5851b12a0cedacb756fb",
+   "stored_at": "sprites/korea-2024/WDarkExec.pak"
+  },
+  {
+   "install_path": "SPRITES/WDebastator.pak",
+   "size": 418184,
+   "sha256": "09986030ab4b6f95b2975666ab21780e539d0c3cb373dc018689fdb2b802c936",
+   "stored_at": "sprites/korea-2024/WDebastator.pak"
+  },
+  {
+   "install_path": "SPRITES/WDGHswd.pak",
+   "size": 982868,
+   "sha256": "2cbf9acabbc833dbbbd72bfcc913b178caf5316921f9a4f059d12c46c9eebdeb",
+   "stored_at": "sprites/korea-2024/WDGHswd.pak"
+  },
+  {
+   "install_path": "SPRITES/WDGNswd.pak",
+   "size": 904348,
+   "sha256": "0297bfd7920db224a96c48d05d988bf7c7257e7cfd2606dec0f07a49ae050bde",
+   "stored_at": "sprites/korea-2024/WDGNswd.pak"
+  },
+  {
+   "install_path": "SPRITES/WDHauberk.pak",
+   "size": 1097944,
+   "sha256": "1a72dfc35f45e60e8014e70b8c30ac78eac788657eca03339d0c9bca3b061d1d",
+   "stored_at": "sprites/korea-2024/WDHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/WDHelm.pak",
+   "size": 268332,
+   "sha256": "0c302905c0fe8e89df60b6aae3ae5235ba2042cbcff2fa2be2215f9d4febcf96",
+   "stored_at": "sprites/korea-2024/WDHelm.pak"
+  },
+  {
+   "install_path": "SPRITES/WDirectBow.pak",
+   "size": 593200,
+   "sha256": "59f27a25b4ccac67c8a0a037cb2f9336760c37bc05ef265f46871e6217313b83",
+   "stored_at": "sprites/korea-2024/WDirectBow.pak"
+  },
+  {
+   "install_path": "SPRITES/WDLeggings.pak",
+   "size": 1945784,
+   "sha256": "5235b998bf6a2d2c19adbac2571043689a4912ceb081fd6612a3c57373746aeb",
+   "stored_at": "sprites/korea-2024/WDLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/WDPlatemail.pak",
+   "size": 1903692,
+   "sha256": "87c03c5df63bdfb04ba26b2e0fec293b7564dc34f22ecd51c197788cf1f5491d",
+   "stored_at": "sprites/korea-2024/WDPlatemail.pak"
+  },
+  {
+   "install_path": "SPRITES/WDRHswd.pak",
+   "size": 913584,
+   "sha256": "ffbec568adb34f5f4f67677509b36375592b25d655582edcae06499b698c720d",
+   "stored_at": "sprites/korea-2024/WDRHswd.pak"
+  },
+  {
+   "install_path": "SPRITES/WDRNswd.pak",
+   "size": 972588,
+   "sha256": "31fa20e21713420d9fb906d7df921d130f2cf830a88cd5e3e2c9ef37019ab121",
+   "stored_at": "sprites/korea-2024/WDRNswd.pak"
+  },
+  {
+   "install_path": "SPRITES/WDRobe.pak",
+   "size": 1926776,
+   "sha256": "b6f0fcefc7c21cda508ec72d038a3576baa68da19a826bc0d17837d4f31d2484",
+   "stored_at": "sprites/korea-2024/WDRobe.pak"
+  },
+  {
+   "install_path": "SPRITES/WDWizhat.pak",
+   "size": 409628,
+   "sha256": "d37b7a3e1b3e8fe096ef87788c9360b42ca2605dbcbd8f4431fd6550636d51a2",
+   "stored_at": "sprites/korea-2024/WDWizhat.pak"
+  },
+  {
+   "install_path": "SPRITES/WereWolf.pak",
+   "size": 1277924,
+   "sha256": "f0f18c906feb7a05d6d40bb40691de29b007f94683e922ce002c633364acaf93",
+   "stored_at": "sprites/korea-2024/WereWolf.pak"
+  },
+  {
+   "install_path": "SPRITES/WFireBow.pak",
+   "size": 1222604,
+   "sha256": "94a345482d34e0475f1dcfd19d7f92844fb44f2f62f16cc0ddf6e1962068b8d0",
+   "stored_at": "sprites/korea-2024/WFireBow.pak"
+  },
+  {
+   "install_path": "SPRITES/Wflamberg.pak",
+   "size": 503608,
+   "sha256": "c7cfec87cf5392770c0ebeb84ad426581a3b51e3faf5adf50c63c7c7f14b6166",
+   "stored_at": "sprites/korea-2024/Wflamberg.pak"
+  },
+  {
+   "install_path": "SPRITES/WHammer.pak",
+   "size": 348988,
+   "sha256": "ca1c95ebef3344ca8ee6d70845bbc28a6751c0112785a2e35a2e9b5ec1eb866a",
+   "stored_at": "sprites/korea-2024/WHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/WHanbok.pak",
+   "size": 4499732,
+   "sha256": "e68f953b957956887eff0cae389d3d5c26185fe21033f722a38a2f3cf2bfea8b",
+   "stored_at": "sprites/korea-2024/WHanbok.pak"
+  },
+  {
+   "install_path": "SPRITES/WHauberk.pak",
+   "size": 613784,
+   "sha256": "74ca81b32dcc239a4df8580a6c2ac3f55e8a1ccb5cacaff84027ede1ad3bb2b9",
+   "stored_at": "sprites/korea-2024/WHauberk.pak"
+  },
+  {
+   "install_path": "SPRITES/WHauberkN.pak",
+   "size": 1211152,
+   "sha256": "3cad4303679559593d717a830d25ef29e2d6dab1d1e21ed18fda862db232ac18",
+   "stored_at": "sprites/korea-2024/WHauberkN.pak"
+  },
+  {
+   "install_path": "SPRITES/WHCap1.pak",
+   "size": 111272,
+   "sha256": "00fb83bdc22211f2b7125933b0eed75377a37908178577269018ad674bd7babe",
+   "stored_at": "sprites/korea-2024/WHCap1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHCap2.pak",
+   "size": 111272,
+   "sha256": "d6aff798c993dac92f369748cbf307520ae569a77fae85b9ec1bf22f9c6af16d",
+   "stored_at": "sprites/korea-2024/WHCap2.pak"
+  },
+  {
+   "install_path": "SPRITES/WHelm1.pak",
+   "size": 109264,
+   "sha256": "3372d0d6ebfa232794dcd1f2973b977ecb4aa382eec8e1548a5c1ff80f6b5084",
+   "stored_at": "sprites/korea-2024/WHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHelm4.pak",
+   "size": 81008,
+   "sha256": "0f6aee63d39ea939dd9a85decca3d42c37594e9ce5ff29fa17394a0c283c96ea",
+   "stored_at": "sprites/korea-2024/WHelm4.pak"
+  },
+  {
+   "install_path": "SPRITES/WHHauberk1.pak",
+   "size": 776132,
+   "sha256": "8591821133a0bf7033f76c53b05ad11120e3eab5c683b733240766673339a7f1",
+   "stored_at": "sprites/korea-2024/WHHauberk1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHHauberk2.pak",
+   "size": 778596,
+   "sha256": "048a1799ce5af0a4155004927c7b0229fbb203aaf5a5e41816aed5854ac3983b",
+   "stored_at": "sprites/korea-2024/WHHauberk2.pak"
+  },
+  {
+   "install_path": "SPRITES/WHHelm1.pak",
+   "size": 190268,
+   "sha256": "cc6d5178c20fe8913d592e70560f6476aeb1901486418c276f4a7ba395846ebc",
+   "stored_at": "sprites/korea-2024/WHHelm1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHHelm2.pak",
+   "size": 190268,
+   "sha256": "4fc703a15137c8717a17364df5136e7dac0fc759ff1283316d9f4ec3c8726336",
+   "stored_at": "sprites/korea-2024/WHHelm2.pak"
+  },
+  {
+   "install_path": "SPRITES/WHLeggings1.pak",
+   "size": 1359436,
+   "sha256": "fd9f3899d41cddef620abc312a07b41b656e90878990dfebbbdeb866d993bc6e",
+   "stored_at": "sprites/korea-2024/WHLeggings1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHLeggings2.pak",
+   "size": 1359436,
+   "sha256": "a7fba882b94e06a6e461f0770e92b6931c4ef2b9d6ef4708b03e710849dcaf3d",
+   "stored_at": "sprites/korea-2024/WHLeggings2.pak"
+  },
+  {
+   "install_path": "SPRITES/Whoe.pak",
+   "size": 118312,
+   "sha256": "d283e75c9d98af7e6e4303c6e366701c1e0916839af8c0d561825f760c8f08e9",
+   "stored_at": "sprites/korea-2024/Whoe.pak"
+  },
+  {
+   "install_path": "SPRITES/WHPMail1.pak",
+   "size": 1066204,
+   "sha256": "9396718b62e08d9ccb3e37b2279fb0b0c3a2ee244b205cde6043f3fd9802b3a6",
+   "stored_at": "sprites/korea-2024/WHPMail1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHPMail2.pak",
+   "size": 1066204,
+   "sha256": "2b59b11a079a6689e9e008d3da0c7a08eef4fc6f5bef839bef17d0a0d6fbf5aa",
+   "stored_at": "sprites/korea-2024/WHPMail2.pak"
+  },
+  {
+   "install_path": "SPRITES/Whr.pak",
+   "size": 680548,
+   "sha256": "2385ac0ddf69aef5d7c7e6a708d103f2f67db91f6e0b4620867c27aac36f8b12",
+   "stored_at": "sprites/korea-2024/Whr.pak"
+  },
+  {
+   "install_path": "SPRITES/WHRobe1.pak",
+   "size": 2788204,
+   "sha256": "f7a5eb8ebc047d0a01b57e04b4180652b5db9485ceccf6ee944543205ad57218",
+   "stored_at": "sprites/korea-2024/WHRobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WHRobe2.pak",
+   "size": 2788204,
+   "sha256": "1ad357319ef0715017f5cc9ea8e8174f92e1ef9dc2c199c74513f209356f55ee",
+   "stored_at": "sprites/korea-2024/WHRobe2.pak"
+  },
+  {
+   "install_path": "SPRITES/WHTrouser.pak",
+   "size": 232196,
+   "sha256": "ee9b6851c367d4fc984b31c74e2f97d03d16e349f3b53713ddb5674dd7234c5c",
+   "stored_at": "sprites/korea-2024/WHTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/William.pak",
+   "size": 128708,
+   "sha256": "8dfcf8bcc209614eaf91c715e9f15e83e5d8ca66c0aa723f44d5c6492dac04c4",
+   "stored_at": "sprites/korea-2024/William.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessAstock.pak",
+   "size": 451172,
+   "sha256": "54f67adfc68784f1ab2490ebbcdcb5ac46837425f458d0feaf072ea75585bb0b",
+   "stored_at": "sprites/korea-2024/WKlonessAstock.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessAxe.pak",
+   "size": 329812,
+   "sha256": "09a0d16165567e78b97798d5c6ffc06a393234df8476e04f2f661f37464d1b5e",
+   "stored_at": "sprites/korea-2024/WKlonessAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessBalde.pak",
+   "size": 737296,
+   "sha256": "ece36996b0782b85c1906e55ca22f22b852e068a52a2723930f478ddc5d8cb8d",
+   "stored_at": "sprites/korea-2024/WKlonessBalde.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessBlade.pak",
+   "size": 407584,
+   "sha256": "fe48a3b692878c6f02c41db149f3e6fe1bc0bc50bdb34dd07e370abc81f28edd",
+   "stored_at": "sprites/korea-2024/WKlonessBlade.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessHammer.pak",
+   "size": 712224,
+   "sha256": "7a0fef1d81bf41593c3b67b20414f4c94d8c00d1f83dc24a45dbe07fd0ad99bd",
+   "stored_at": "sprites/korea-2024/WKlonessHammer.pak"
+  },
+  {
+   "install_path": "SPRITES/WKlonessWand.pak",
+   "size": 612120,
+   "sha256": "8b94a4917e30b7abb5b6c8dffaabf971d4a87bae1fea2d7f16356660884f45fc",
+   "stored_at": "sprites/korea-2024/WKlonessWand.pak"
+  },
+  {
+   "install_path": "SPRITES/WKnockBow.pak",
+   "size": 747296,
+   "sha256": "c605cf5ec8bd0214ad13dc74344e458218cc2d4c4113f3574ab07c88b1cca9bd",
+   "stored_at": "sprites/korea-2024/WKnockBow.pak"
+  },
+  {
+   "install_path": "SPRITES/WLarmor.pak",
+   "size": 378768,
+   "sha256": "cbfe390c038f43e354b2bbf4c47688ceaed154a6ef67f1031405846dd2790d33",
+   "stored_at": "sprites/korea-2024/WLarmor.pak"
+  },
+  {
+   "install_path": "SPRITES/WLAxe.pak",
+   "size": 1096288,
+   "sha256": "7a753c9b88567b3e857bf521b8ece7cee3dd097c717ef6c2d72f4e656ae7a00e",
+   "stored_at": "sprites/korea-2024/WLAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/WLBoots.pak",
+   "size": 1310764,
+   "sha256": "2a86d2128799d39d841a132149511dca5448fb9a8e40f18de363e744e8567d7e",
+   "stored_at": "sprites/korea-2024/WLBoots.pak"
+  },
+  {
+   "install_path": "SPRITES/WLeggings.pak",
+   "size": 670608,
+   "sha256": "70ca7838ca164d97cf912f72d2fc6aef8f8e6de165a41d384b3593fb133f46dc",
+   "stored_at": "sprites/korea-2024/WLeggings.pak"
+  },
+  {
+   "install_path": "SPRITES/WLightBlade.pak",
+   "size": 411272,
+   "sha256": "c5426b1babed9a0fdc6776d9e95426be61e817e2cd919cbb2376a2153601cc5f",
+   "stored_at": "sprites/korea-2024/WLightBlade.pak"
+  },
+  {
+   "install_path": "SPRITES/WLSword.pak",
+   "size": 679476,
+   "sha256": "b34cb4e5e7409fb1440f40c7150ced2ddcf9eaec0f9df94f6ec370ed944891ff",
+   "stored_at": "sprites/korea-2024/WLSword.pak"
+  },
+  {
+   "install_path": "SPRITES/Wm.pak",
+   "size": 1453932,
+   "sha256": "3a05053e333e282aa57145998155682cb41b17157182338a86cfc98ff83b4c9a",
+   "stored_at": "sprites/korea-2024/Wm.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle01.pak",
+   "size": 943056,
+   "sha256": "f458cd1c5d6eff4d90306172683b900de9f542163e0679f5ff021ce5aa5694b2",
+   "stored_at": "sprites/korea-2024/Wmantle01.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle02.pak",
+   "size": 942720,
+   "sha256": "d38ce69d8b266660d1c04b24e74938b89960fa4f7336e26a1b31f52c533d7c1f",
+   "stored_at": "sprites/korea-2024/Wmantle02.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle03.pak",
+   "size": 944700,
+   "sha256": "1a3ca51d8921878e850f499093702539bd690100aeacad108ad55a5a602c4f16",
+   "stored_at": "sprites/korea-2024/Wmantle03.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle04.pak",
+   "size": 2863080,
+   "sha256": "1e02a925fd0cad79702bf2dd7a3bb329e1b3003fc3e4579de6732edcd3f6bab1",
+   "stored_at": "sprites/korea-2024/Wmantle04.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle05.pak",
+   "size": 2863080,
+   "sha256": "a914a745958e2cf2265645b99f702fa372c3a66138ffeeddd0ac467dc47c0261",
+   "stored_at": "sprites/korea-2024/Wmantle05.pak"
+  },
+  {
+   "install_path": "SPRITES/Wmantle06.pak",
+   "size": 4285704,
+   "sha256": "e79fb31b18ecf8ba141029aee133ba53cdab6d95394be32586bf259a27e3807e",
+   "stored_at": "sprites/korea-2024/Wmantle06.pak"
+  },
+  {
+   "install_path": "SPRITES/WPickAxe1.pak",
+   "size": 286900,
+   "sha256": "f674f99cbc31d0beee6e44ae5d10db3ca849bbc08ce4304d6facc4bfa61f04bb",
+   "stored_at": "sprites/korea-2024/WPickAxe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WPMail.pak",
+   "size": 396688,
+   "sha256": "d66331d7b717da04978d2d8afaa5f666305153c9b89b78d1a7029d2447fb4f81",
+   "stored_at": "sprites/korea-2024/WPMail.pak"
+  },
+  {
+   "install_path": "SPRITES/Wpt.pak",
+   "size": 1278704,
+   "sha256": "6734ee9c72b319649c6be83f58731761f99f8e5958693d88ec66ca0fe62cb46a",
+   "stored_at": "sprites/korea-2024/Wpt.pak"
+  },
+  {
+   "install_path": "SPRITES/WReMagicWand.pak",
+   "size": 486068,
+   "sha256": "f2bdd153e0889c8fa6348b2a8806a9140bfa31601076796e2441eac63f22c7a6",
+   "stored_at": "sprites/korea-2024/WReMagicWand.pak"
+  },
+  {
+   "install_path": "SPRITES/Wrobe1.pak",
+   "size": 1169940,
+   "sha256": "feb818140389daf09d21b9e4c7eaf6877db1801cc5b828c8ba381233e0fbb984",
+   "stored_at": "sprites/korea-2024/Wrobe1.pak"
+  },
+  {
+   "install_path": "SPRITES/WSanta.pak",
+   "size": 1178332,
+   "sha256": "353506c2016f739fa60cf6beca53e40cb18bd1881f788329860ca0a9b27a883a",
+   "stored_at": "sprites/korea-2024/WSanta.pak"
+  },
+  {
+   "install_path": "SPRITES/WSAxe.pak",
+   "size": 399292,
+   "sha256": "1353b4392e88dd1a3903cd6b143d9cb50ac78aa07459992e1b6b17ffaf8616cb",
+   "stored_at": "sprites/korea-2024/WSAxe.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsh.pak",
+   "size": 1816712,
+   "sha256": "fc08081f5f22e03d625f36cdc21de6946c38a2ad3a978b475d6206b655ff84c9",
+   "stored_at": "sprites/korea-2024/Wsh.pak"
+  },
+  {
+   "install_path": "SPRITES/WShirt.pak",
+   "size": 463744,
+   "sha256": "1b33704db2899151c44c5f9dec28698a6f82371ca70fbbe7079d2e0254264098",
+   "stored_at": "sprites/korea-2024/WShirt.pak"
+  },
+  {
+   "install_path": "SPRITES/WShoes.pak",
+   "size": 747716,
+   "sha256": "af5ba96f76dcf45267f73219c9b1181c49d7eb081949fc671fbda3e421bb9bb2",
+   "stored_at": "sprites/korea-2024/WShoes.pak"
+  },
+  {
+   "install_path": "SPRITES/WShortSword02.pak",
+   "size": 254720,
+   "sha256": "1d9073e5ebbc867f55afa6a85446cb18d8dc20a6b484b7c51d8a885f06cfa181",
+   "stored_at": "sprites/korea-2024/WShortSword02.pak"
+  },
+  {
+   "install_path": "SPRITES/WSkirt.pak",
+   "size": 715388,
+   "sha256": "750bbf11cb49ed9ae2a9ed54a008e4a8f04bcd37dab3d5f5e83ab334c20c9952",
+   "stored_at": "sprites/korea-2024/WSkirt.pak"
+  },
+  {
+   "install_path": "SPRITES/WSMail.pak",
+   "size": 434448,
+   "sha256": "b473c4235590f646f10a085076384a81fe600e8192873aed2d1fe168cac5250e",
+   "stored_at": "sprites/korea-2024/WSMail.pak"
+  },
+  {
+   "install_path": "SPRITES/WSSword.pak",
+   "size": 224856,
+   "sha256": "8e4a7febcc8a12a2008bd040d2996e3cef40689e17cea2e3297d381159264ced",
+   "stored_at": "sprites/korea-2024/WSSword.pak"
+  },
+  {
+   "install_path": "SPRITES/WStaff1.pak",
+   "size": 474548,
+   "sha256": "cb8f3ce4530048023a1fe83c222cd49b49c408d10ba107bc62ddf7f0fc335128",
+   "stored_at": "sprites/korea-2024/WStaff1.pak"
+  },
+  {
+   "install_path": "SPRITES/WStaff2.pak",
+   "size": 810084,
+   "sha256": "6c4890a661bc48b2ccdfe0323c6c49409d040519081512fbd0e5dbc0ca52f68b",
+   "stored_at": "sprites/korea-2024/WStaff2.pak"
+  },
+  {
+   "install_path": "SPRITES/WStaff3.pak",
+   "size": 566860,
+   "sha256": "c9541dfcaa0250caccbd741b3e80a6f2400c8981d3988719ada844388fa229c9",
+   "stored_at": "sprites/korea-2024/WStaff3.pak"
+  },
+  {
+   "install_path": "SPRITES/WStormbringer.pak",
+   "size": 445744,
+   "sha256": "131612d7349e47d4f0804e317087242562fca9cf4935917e36941b225325c068",
+   "stored_at": "sprites/korea-2024/WStormbringer.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsunofpower.pak",
+   "size": 1081772,
+   "sha256": "1f4222b9743649eb317f23e869064e70034344a1bd27a54126676e0b98dcfa6e",
+   "stored_at": "sprites/korea-2024/Wsunofpower.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsw.pak",
+   "size": 3874636,
+   "sha256": "402cabf27bdce780a017177c1d5e6851a4a6b5b4ad1ccc61ea54490a6036e0f3",
+   "stored_at": "sprites/korea-2024/Wsw.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsw2.pak",
+   "size": 689468,
+   "sha256": "6328579b2621d963d4dc459b15396e9d1761dde2be831e13dbbeae245f099409",
+   "stored_at": "sprites/korea-2024/Wsw2.pak"
+  },
+  {
+   "install_path": "SPRITES/Wsw3.pak",
+   "size": 1153084,
+   "sha256": "efd8fdab08ac34ce0cb2034bd5f17fadd955642d619bb036c0aa9e193e96e789",
+   "stored_at": "sprites/korea-2024/Wsw3.pak"
+  },
+  {
+   "install_path": "SPRITES/Wswx.pak",
+   "size": 354408,
+   "sha256": "28f8cbc3b4886138afe3409641f493d8f418f7efe6850b1d208842db423d8483",
+   "stored_at": "sprites/korea-2024/Wswx.pak"
+  },
+  {
+   "install_path": "SPRITES/WTrouser.pak",
+   "size": 532068,
+   "sha256": "cc3573d4e72c919e4d79d58003eb9d5b1183d87a7bfff774a7e25822f0101b3d",
+   "stored_at": "sprites/korea-2024/WTrouser.pak"
+  },
+  {
+   "install_path": "SPRITES/Wunderhammer.pak",
+   "size": 962324,
+   "sha256": "603c3740e1f0d66030a633bd72ebf3d8a8200ca474b91dd180686f4d8d5706d4",
+   "stored_at": "sprites/korea-2024/Wunderhammer.pak"
+  },
+  {
+   "install_path": "SPRITES/Ww.pak",
+   "size": 1150064,
+   "sha256": "2b40063a4a47c9c0efb0f6bc7cd3429551b3f435c24ab654696250e43d18370b",
+   "stored_at": "sprites/korea-2024/Ww.pak"
+  },
+  {
+   "install_path": "SPRITES/Wyvern.pak",
+   "size": 27486532,
+   "sha256": "6a4de1b054c4669ad0be88ae9cd8a47812eb52fcd96e409dee526c6709f9096a",
+   "stored_at": "sprites/korea-2024/Wyvern.pak"
+  },
+  {
+   "install_path": "SPRITES/Ym.pak",
+   "size": 1453932,
+   "sha256": "e6ca673e87aeb1ecf92584287ad37b44b3773de98362879a6a10b7c9e3a0eb44",
+   "stored_at": "sprites/korea-2024/Ym.pak"
+  },
+  {
+   "install_path": "SPRITES/yseffect1.pak",
+   "size": 43141384,
+   "sha256": "942dfd1401309e203915419b875fcae510329558d761fdbf9ade7bfe616f8d47",
+   "stored_at": "sprites/korea-2024/yseffect1.pak"
+  },
+  {
+   "install_path": "SPRITES/yseffect2.pak",
+   "size": 23847736,
+   "sha256": "1941027277b66aa2cd45d975655a9e3206af59ab4c06ffebf4d891732b5fd465",
+   "stored_at": "sprites/korea-2024/yseffect2.pak"
+  },
+  {
+   "install_path": "SPRITES/yseffect3.pak",
+   "size": 33172352,
+   "sha256": "7dc3f7bb7b8cb57eafa5610625c03abb0b0e8a3467a38b6e69bea55def973898",
+   "stored_at": "sprites/korea-2024/yseffect3.pak"
+  },
+  {
+   "install_path": "SPRITES/yseffect4.pak",
+   "size": 3862598,
+   "sha256": "237ca973b174fc0d7159a9f77c47e65d1aedf7bbee06e974e3c8818a0d09d6a7",
+   "stored_at": "sprites/korea-2024/yseffect4.pak"
+  },
+  {
+   "install_path": "SPRITES/yspro.pak",
+   "size": 38365564,
+   "sha256": "961ca1ca49ae1c00a8460050f6338627a404e08a198920ae54113f16d80b0d8d",
+   "stored_at": "sprites/korea-2024/yspro.pak"
+  },
+  {
+   "install_path": "SPRITES/Yw.pak",
+   "size": 1150064,
+   "sha256": "63b3bba781bf2344495df3044d3d5e1f3ebb2e8516a04ee430f476a813a633ce",
+   "stored_at": "sprites/korea-2024/Yw.pak"
+  },
+  {
+   "install_path": "SPRITES/Zom.pak",
+   "size": 351744,
+   "sha256": "3e27d58d0e2bebbdc298ab5d4f08007640926b56c08d486f6ea8e53c212a7daf",
+   "stored_at": "sprites/korea-2024/Zom.pak"
+  },
+  {
+   "install_path": "SystemMenu.cfg",
+   "size": 404,
+   "sha256": "828be1bbc6bacddb6cc455d38e5fb9db0b991e58bf40a05fbd435f3620eea729",
+   "stored_at": "configs/korea-2024/SystemMenu.cfg"
+  },
+  {
+   "install_path": "uninstall.exe",
+   "size": 41004,
+   "sha256": "bb5970a487ca5a38cb08bb2a8231868223f5b3d21e33b8e4b5c82297dbe05489",
+   "stored_at": "executables/korea-2024/uninstall.exe"
+  },
+  {
+   "install_path": "Update.ini",
+   "size": 68,
+   "sha256": "df88391b091d8137d142106771923a42adb8bf4edda9f633cadcda5011dd944f",
+   "stored_at": "configs/korea-2024/Update.ini"
+  },
+  {
+   "install_path": "헬브레스매뉴얼.htm",
+   "size": 493702,
+   "sha256": "cfcc5c5d4e4dc1b6b12568162d05e55ca4d02fc1c7d8cbe1943a791b3f36ceb2",
+   "stored_at": "documents/shipped/korea-2024/헬브레스매뉴얼.htm"
+  }
+ ]
+}

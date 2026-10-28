@@ -28,14 +28,15 @@ shows what that version added or changed. To get a playable folder tree instead,
 | [`configs/`](configs/) | `CONTENTS/` game text and tables, `LOGIN.CFG` server addresses, other text. |
 | [`images/`](images/) | Installer artwork and palettes. |
 | [`video/`](video/) | The 2001 Crusade trailer (release asset). |
-| [`other/`](other/) | Anything else a client shipped (uninstaller data, updater list). |
+| [`other/`](other/) | Anything else a client shipped (uninstaller data, updater list, SourceSafe files). |
 | [`archives/`](archives/) | Original archives kept whole: official patches, historical source drops (2.03, 2.20, 3.51), 3.51 server files; disc image, as-found client trees and art archives (release assets). |
 | [`community/`](community/) | **Not official.** Private-server community material: modern drops (2022 HBX client, rewrites, a web shop) and the community 3.82 bundle's server files and sources. |
 | [`tools/`](tools/) | Third-party utilities the official sites offered. Listed and linked, not copied. |
 
 Versions held: 2.02 "Crusade" (2001), 2.23 (2003), 3.0 "The Apocalypse" (2003), 3.1, 3.72, 3.80, 3.81 (2003-2005), a 2007
 test-server client, USA 4.08 (2009) and 4.12.01 (2010), the 2002 Korean and Japanese launchers, sources 2.03, 2.19/2.20 and
-3.51, and the community 3.82 bundle (version folder `3.82-bundle`). See `documents/version-history.md`.
+3.51, the community 3.82 bundle (version folder `3.82-bundle`), and the 2024 Korean client from helbreath.com (version folder
+`korea-2024`; its sprite paks and sounds are encrypted as shipped). See `documents/version-history.md`.
 
 Each folder has a `README.md` (what it holds, which version, date, source URL, SHA-256) and a `MANIFEST.json`.
 
@@ -66,13 +67,13 @@ Anything that could not be established is written as `unknown`, never guessed.
 ## Release assets (files over 100 MB)
 
 Files over 100 MB are not in git; they are assets of this repo's own release `history-1`. History keeps its own copy
-of every original download: the disc images, installers and zips, the videos, and the per-version art archives. Each is
+of every original download (except the 2024 Korean zip and installer; see `executables/README.md`): the disc images, installers and zips, the videos, and the per-version art archives. Each is
 listed in the README and manifest of the folder it belongs to. Every original container is kept exactly once, and every
 distinct file has one browsable copy. A container nested inside another kept container (the 2.02 installer inside the
 retail ISO, `SPRITES.zip` inside the 4.12.01 install) is not stored a second time; its manifest row says `inside ...`
 and how 7-Zip extracts it byte-exact.
 
-To rebuild an installed game folder, use `documents/install-layouts/<version>.json` (2.02, 3.0, 4.08, 4.12.01). It
+To rebuild an installed game folder, use `documents/install-layouts/<version>.json` (2.02, 3.0, 4.08, 4.12.01, korea-2024). It
 lists every path the installer wrote, with size, SHA-256, and where its bytes are kept in this repo. Each origin in the
 manifests also carries `install_path`.
 
@@ -81,7 +82,7 @@ manifests also carries `install_path`.
 Nothing here was made by this project except the READMEs, the manifests, the three documents in `documents/`, the
 frame-table JSON files in `art/` (extracted metadata), and the release archives it repacked (as-found client trees and art).
 The 4.08 install was unpacked with a standard-library Inno Setup reader written for this archive; every file matched the MD5
-the installer stores.
+the installer stores. The 2024 Korean NSIS installer was unpacked with 7-Zip 26.00; its zip and installer are not held.
 `.gitattributes` turns off line-ending conversion, so every file checks out byte-for-byte as found. The downloads themselves are kept
 untouched in [Downloads-Archive](https://github.com/Original-Helbreath/Downloads-Archive); the research behind every
 date is in [2.20-Documentation](https://github.com/Original-Helbreath/2.20-Documentation) `research/`.

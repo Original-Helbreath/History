@@ -160,6 +160,38 @@
      "extracted_from": null
     }
    ]
+  },
+  {
+   "path": "korea-2024.json",
+   "stored": "git",
+   "size": 176221,
+   "sha256": "8ad49efd15d3309c2e7d511e88181d5613b9859e6c0a44125305d0f99a268161",
+   "what": "Install layout of korea-2024: 863 paths with size, SHA-256 and where each is kept in History",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "same as the install it describes"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "same as the install it describes"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not applicable"
+   },
+   "origins": [
+    {
+     "source": "this project: listed from the unpacked install tree (checked file by file by SHA-256, 2026-10-28)",
+     "url": "not downloaded",
+     "downloaded": "not downloaded",
+     "documented": "2026-10-28",
+     "documented_kind": "written",
+     "extracted_from": null
+    }
+   ]
   }
  ]
 }

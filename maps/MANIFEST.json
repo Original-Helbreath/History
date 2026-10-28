@@ -28,6 +28,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -366,6 +367,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:24:34",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arebrk11.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arebrk11.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:24:34",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvbrk11.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvbrk11.amd"
     }
    ]
   },
@@ -395,6 +454,7 @@
     "3.0 'The Apocalypse'",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -681,6 +741,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:21:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arebrk12.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arebrk12.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:21:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvbrk12.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvbrk12.amd"
     }
    ]
   },
@@ -711,6 +829,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1049,6 +1168,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 08:07:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arebrk21.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arebrk21.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 08:07:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvbrk21.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvbrk21.amd"
     }
    ]
   },
@@ -1079,6 +1256,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1417,6 +1595,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:26:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arebrk22.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arebrk22.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-23 07:26:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvbrk22.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvbrk22.amd"
     }
    ]
   },
@@ -1527,6 +1763,7 @@
    },
    "also_in": [
     "3.0 'The Apocalypse'",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1615,6 +1852,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-23 03:00:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/aremidl.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/aremidl.amd"
     }
    ]
   },
@@ -1641,6 +1907,7 @@
    },
    "also_in": [
     "3.0 'The Apocalypse'",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -1729,6 +1996,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-22 16:26:44",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/aremidr.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/aremidr.amd"
     }
    ]
   },
@@ -1894,6 +2190,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -2090,6 +2387,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-05 06:53:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/areuni.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/areuni.amd"
     }
    ]
   },
@@ -2389,7 +2715,8 @@
     "2.02",
     "3.0 'The Apocalypse'",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -2610,6 +2937,64 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "served by helbreathusa.com; LOGIN.CFG 72.233.4.24"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/cath_2.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-24 23:34:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/cath_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/cath_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-24 23:35:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/cath_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
      },
      "era": {
       "value": "unknown",
@@ -3596,6 +3981,7 @@
    },
    "also_in": [
     "3.0 'The Apocalypse'",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -3684,6 +4070,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-07-13 14:47:16",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvmidl.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvmidl.amd"
     }
    ]
   },
@@ -3710,6 +4125,7 @@
    },
    "also_in": [
     "3.0 'The Apocalypse'",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -3798,6 +4214,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-09 06:12:08",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvmidr.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvmidr.amd"
     }
    ]
   },
@@ -3827,6 +4272,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -3997,6 +4443,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-02-12 07:11:12",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvuni.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvuni.amd"
     }
    ]
   },
@@ -4110,6 +4585,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -4831,6 +5307,122 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-31 13:49:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-31 13:49:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone2.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-31 13:49:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone3.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone3.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-12-28 04:56:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone9.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone9.amd"
     }
    ]
   },
@@ -4861,6 +5453,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -5114,6 +5707,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-31 13:49:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone4.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone4.amd"
     }
    ]
   },
@@ -5749,6 +6371,7 @@
     "3.0 'The Apocalypse'",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -5893,6 +6516,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-23 02:57:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/huntzone2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/huntzone2.amd"
     }
    ]
   },
@@ -6093,6 +6745,7 @@
     "3.0 'The Apocalypse'",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -6237,6 +6890,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-10-09 08:27:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/huntzone4.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/huntzone4.amd"
     }
    ]
   },
@@ -6491,6 +7173,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -6687,6 +7370,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-03-15 07:45:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/middled1x.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/middled1x.amd"
     }
    ]
   },
@@ -6765,6 +7477,7 @@
    },
    "also_in": [
     "3.0 'The Apocalypse'",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -6853,6 +7566,35 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-07-07 08:15:30",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/penalty.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/penalty.amd"
     }
    ]
   },
@@ -6883,6 +7625,7 @@
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
     "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)",
     "pre-2.02 'Helbreath Beta' (built 2001-05-08)"
    ],
    "origins": [
@@ -7273,6 +8016,64 @@
       "confidence": "inferred",
       "basis": "none of the 49 Crusade-only files of 2.02 are present"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-07-14 00:20:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Resurr1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Resurr1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2000-07-14 00:20:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Resurr2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Resurr2.amd"
     }
    ]
   },
@@ -7301,7 +8102,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -7468,6 +8270,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-07-24 23:43:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wzdtwr_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wzdtwr_1.amd"
     }
    ]
   },
@@ -7496,7 +8327,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -7637,6 +8469,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-23 04:21:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wzdtwr_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wzdtwr_2.amd"
     }
    ]
   },
@@ -8531,7 +9392,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -8670,6 +9532,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-10-08 01:16:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Abaddon.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Abaddon.amd"
     }
    ]
   },
@@ -9501,7 +10392,8 @@
    },
    "also_in": [
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -9588,6 +10480,35 @@
       "basis": "not stated by any source"
      },
      "install_path": "MAPDATA/bisle.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-10-16 18:23:10",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/bisle.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/bisle.amd"
     }
    ]
   },
@@ -9616,7 +10537,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -10218,6 +11140,122 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:45:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/bsmith_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/bsmith_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:45:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/bsmith_1f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/bsmith_1f.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:45:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/bsmith_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/bsmith_2.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:45:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/bsmith_2f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/bsmith_2f.amd"
     }
    ]
   },
@@ -10245,7 +11283,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -10384,6 +11423,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-08-26 06:39:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/dglv2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/dglv2.amd"
     }
    ]
   },
@@ -10411,7 +11479,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -10550,6 +11619,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-04-18 00:56:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/dglv3.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/dglv3.amd"
     }
    ]
   },
@@ -10577,7 +11675,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -10716,6 +11815,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-04-04 02:19:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/dglv4.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/dglv4.amd"
     }
    ]
   },
@@ -10743,7 +11871,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -10882,6 +12011,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-08-26 02:08:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/DruncnCity.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/DruncnCity.amd"
     }
    ]
   },
@@ -11015,7 +12173,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -11154,6 +12313,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-08-26 06:40:38",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvined1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvined1.amd"
     }
    ]
   },
@@ -11178,6 +12366,9 @@
     "confidence": "verified",
     "basis": "product name"
    },
+   "also_in": [
+    "Korea 2024-09-27 client (no version number stated)"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-25924), 'Helbreath: The Apocalypse' v3.0 client",
@@ -11207,6 +12398,35 @@
       "basis": "product name"
      },
      "install_path": "MAPDATA/fightzone10.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-08-23 04:21:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone10.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone10.amd"
     }
    ]
   },
@@ -11234,7 +12454,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -11373,6 +12594,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-12-28 04:56:50",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone5.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone5.amd"
     }
    ]
   },
@@ -11400,7 +12650,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -11539,6 +12790,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-12-28 04:56:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone6.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone6.amd"
     }
    ]
   },
@@ -11566,7 +12846,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -11705,6 +12986,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-12-28 04:56:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone7.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone7.amd"
     }
    ]
   },
@@ -11732,7 +13042,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -11871,6 +13182,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2001-12-28 04:56:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/fightzone8.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/fightzone8.amd"
     }
    ]
   },
@@ -11899,7 +13239,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -12123,6 +13464,64 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:49:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gldhall_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gldhall_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-11-22 15:49:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gldhall_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gldhall_2.amd"
     }
    ]
   },
@@ -12151,7 +13550,8 @@
     "3.0 'The Apocalypse'",
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -12649,6 +14049,122 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-05-29 02:30:34",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gshop_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gshop_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-05-29 02:32:38",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gshop_1f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gshop_1f.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-05-29 02:32:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gshop_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gshop_2.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-05-29 02:32:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/gshop_2f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/gshop_2f.amd"
     }
    ]
   },
@@ -12902,7 +14418,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13041,6 +14558,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-08-29 07:23:04",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/inferniaA.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/inferniaA.amd"
     }
    ]
   },
@@ -13068,7 +14614,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13207,6 +14754,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-08-29 07:23:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/inferniaB.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/inferniaB.amd"
     }
    ]
   },
@@ -13234,7 +14810,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13373,6 +14950,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-08-29 07:23:02",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/maze.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/maze.amd"
     }
    ]
   },
@@ -13453,7 +15059,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13592,6 +15199,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-09-08 01:38:14",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/procella.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/procella.amd"
     }
    ]
   },
@@ -13619,7 +15255,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13758,6 +15395,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2002-04-04 01:56:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Toh1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Toh1.amd"
     }
    ]
   },
@@ -13838,7 +15504,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -13977,6 +15644,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-08-26 02:20:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Toh3.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Toh3.amd"
     }
    ]
   },
@@ -15707,7 +17403,8 @@
     "basis": "not stated by any source"
    },
    "also_in": [
-    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)"
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -15789,6 +17486,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-09-08 02:45:56",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arefarm.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arefarm.amd"
     }
    ]
   },
@@ -15813,6 +17539,9 @@
     "confidence": "unknown",
     "basis": "not stated by any source"
    },
+   "also_in": [
+    "Korea 2024-09-27 client (no version number stated)"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
@@ -15834,6 +17563,35 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/ARESDEN.AMD"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-09-08 02:50:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/ARESDEN.AMD"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
      },
      "era": {
       "value": "unknown",
@@ -15868,7 +17626,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -16518,6 +18277,180 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 05:40:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arewrhus.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arewrhus.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 05:58:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvwrhus.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvwrhus.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 05:46:46",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wrhus_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wrhus_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 05:48:56",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wrhus_1f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wrhus_1f.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 06:03:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wrhus_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wrhus_2.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-07-07 06:03:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/wrhus_2f.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/wrhus_2f.amd"
     }
    ]
   },
@@ -16681,7 +18614,8 @@
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
     "4.08",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -16899,6 +18833,64 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-12-18 07:34:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Cmdhall_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Cmdhall_1.amd"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-12-18 07:34:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Cmdhall_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Cmdhall_2.amd"
     }
    ]
   },
@@ -16924,7 +18916,8 @@
     "basis": "not stated by any source"
    },
    "also_in": [
-    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)"
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -17006,6 +18999,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-09-08 02:52:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvfarm.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvfarm.amd"
     }
    ]
   },
@@ -17030,6 +19052,9 @@
     "confidence": "unknown",
     "basis": "not stated by any source"
    },
+   "also_in": [
+    "Korea 2024-09-27 client (no version number stated)"
+   ],
    "origins": [
     {
      "source": "FilePlanet archive (fileplanet.download.it p-52956), Helbreath USA v4.08 client",
@@ -17051,6 +19076,35 @@
       "value": "USA",
       "confidence": "verified",
       "basis": "Inno Setup AppName 'Helbreath USA', publisher iEntertainment"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/ELVINE.AMD"
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-09-08 02:56:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/ELVINE.AMD"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
      },
      "era": {
       "value": "unknown",
@@ -17083,7 +19137,8 @@
     "basis": "not stated by any source"
    },
    "also_in": [
-    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)"
+    "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -17165,6 +19220,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-02-12 07:08:58",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/GodH.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/GodH.amd"
     }
    ]
   },
@@ -17191,7 +19275,8 @@
    },
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -17301,6 +19386,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-02-10 00:56:32",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/HRampart.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/HRampart.amd"
     }
    ]
   },
@@ -17379,7 +19493,8 @@
    },
    "also_in": [
     "3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26)",
-    "4.12.01"
+    "4.12.01",
+    "Korea 2024-09-27 client (no version number stated)"
    ],
    "origins": [
     {
@@ -17489,6 +19604,35 @@
       "confidence": "unknown",
       "basis": "not stated by any source"
      }
+    },
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-05-27 04:58:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/Toh2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/Toh2.amd"
     }
    ]
   },
@@ -17853,6 +19997,801 @@
       "basis": "not stated by any source"
      },
      "install_path": "MAPDATA/middleland.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/2ndmiddle.amd",
+   "stored": "git",
+   "size": 625256,
+   "sha256": "b07671ddbb1f688c321961c1f9efc06ae6561696c8d78d94c8602301076cbdc2",
+   "what": "Map: 2ndmiddle.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2009-12-24 08:08:26",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/2ndmiddle.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/2ndmiddle.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/arejail.amd",
+   "stored": "git",
+   "size": 240256,
+   "sha256": "6091256b774db52d8f68b5e99857f501bc773f7773f50c87841b927fe179dd19",
+   "what": "Map: arejail.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2019-10-20 07:31:42",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/arejail.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/arejail.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/aresdend1.amd",
+   "stored": "git",
+   "size": 400256,
+   "sha256": "ff001a02b9a42c8291661be0749b3ff36d257eaade5b6fc06fd642051286298f",
+   "what": "Map: aresdend1.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-01-11 06:17:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/aresdend1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/aresdend1.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/BTField.amd",
+   "stored": "git",
+   "size": 900256,
+   "sha256": "abfda216bdc721e184f0f156e518246da6bf19200d40b7f23aeb52385a812895",
+   "what": "Map: BTField.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2005-01-07 04:36:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/BTField.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/BTField.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/cityhall_1.amd",
+   "stored": "git",
+   "size": 100256,
+   "sha256": "5fee6aa1334401bd8c954fca89bb596f42f6badf6016b753cce0d3b47b697773",
+   "what": "Map: cityhall_1.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-04-08 01:22:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/cityhall_1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/cityhall_1.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/cityhall_2.amd",
+   "stored": "git",
+   "size": 100256,
+   "sha256": "928ee50d57b3dc7bb4e62c5cc83f22093be1d4802b8b0e51d314b6c00e3a9801",
+   "what": "Map: cityhall_2.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2003-04-08 01:22:24",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/cityhall_2.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/cityhall_2.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/default.amd",
+   "stored": "git",
+   "size": 289256,
+   "sha256": "b3340c2f3abc5c779ccb31553a867588fe29da6f3d158f70bed118e05d854795",
+   "what": "Map: default.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2016-07-11 21:14:38",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/default.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/default.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/elvjail.amd",
+   "stored": "git",
+   "size": 240256,
+   "sha256": "3c98f46268bccc1a22e8067d668dce56e1709a1d8b7110ef878e68aaa6f50e4d",
+   "what": "Map: elvjail.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2019-10-20 07:32:40",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/elvjail.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/elvjail.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/huntzone1.amd",
+   "stored": "git",
+   "size": 400256,
+   "sha256": "0744b67d7647efacfc64a377d4e30675aa93d2e8df9764923c5c50e42918db84",
+   "what": "Map: huntzone1.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2014-04-04 01:52:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/huntzone1.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/huntzone1.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/huntzone3.amd",
+   "stored": "git",
+   "size": 400256,
+   "sha256": "fd15c15ded1105207209d99feb6f501806ec4f42340f4b61182c471735d72d56",
+   "what": "Map: huntzone3.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2014-04-01 00:53:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/huntzone3.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/huntzone3.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/icebound.amd",
+   "stored": "git",
+   "size": 900256,
+   "sha256": "8833110c62f955f13c67e2b0ceddf39abbaece9a2f1cdffed5a468395e093f5d",
+   "what": "Map: icebound.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-06-22 00:45:52",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/icebound.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/icebound.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/middled1n.amd",
+   "stored": "git",
+   "size": 484256,
+   "sha256": "a9f5716fdb8adabd83ea7de9a9ffaad7e3148811c9eaa321fba87c319821c1f3",
+   "what": "Map: middled1n.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2009-12-24 08:08:18",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/middled1n.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/middled1n.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/middleland.amd",
+   "stored": "git",
+   "size": 2746016,
+   "sha256": "608e4d53cf109ad12f7f3598caf2b91170f47a7eaa855f4285d15e323a9d10d4",
+   "what": "Map: middleland.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2017-06-02 01:31:36",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/middleland.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/middleland.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/oldaresden.amd",
+   "stored": "git",
+   "size": 784256,
+   "sha256": "57be9f27436e105b81c7b346e208f9f10800a36de325a7187d3705f7570d4409",
+   "what": "Map: oldaresden.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-15 07:05:20",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/oldaresden.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/oldaresden.amd"
+    }
+   ]
+  },
+  {
+   "path": "korea-2024/oldelvine.amd",
+   "stored": "git",
+   "size": 685256,
+   "sha256": "cfc1d2d78bca35a3662c19702d43ee584ef6734a772907a1fcc78e091b02713d",
+   "what": "Map: oldelvine.amd",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-15 07:16:00",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MAPDATA/oldelvine.amd"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MAPDATA/oldelvine.amd"
     }
    ]
   }

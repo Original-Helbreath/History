@@ -1,6 +1,6 @@
 # configs: Configuration and game text
 
-`CONTENTS/` text (item names, messages, magic and skill tables), `LOGIN.CFG` (the log server address each client connected to) and other text files. Files from a `MAPDATA/` folder are under `mapdata/`. `badword.txt` is XOR-obfuscated as shipped.
+`CONTENTS/` text (item names, messages, magic and skill tables), `LOGIN.CFG` (the log server address each client connected to) and other text files. Files from a `MAPDATA/` folder are under `mapdata/`. `badword.txt` is XOR-obfuscated as shipped. The `korea-2024/` text is Korean (CP949); that client ships no `LOGIN.CFG`.
 
 ## By version
 
@@ -14,6 +14,7 @@
 | `3.82-bundle/` | 19 | 83,717 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |
 | `4.08/` | 8 | 74,971 | 4.08 | USA | 2004-04-12 to 2008-12-15 | https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe |
 | `4.12.01/` | 8 | 67,672 | 4.12.01 | USA | 2009-03-16 to 2010-09-03 | https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip |
+| `korea-2024/` | 98 | 272,543 | Korea 2024-09-27 client (no version number stated) | Korea | 2000-03-28 to 2024-09-06 | unknown (helbreath.com download page, Helbreath_setup_win10_20240927.zip) |
 
 Per-file sizes, SHA-256, dates and extraction chains are in `MANIFEST.json`.
 

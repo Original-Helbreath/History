@@ -2326,6 +2326,708 @@
      }
     }
    ]
+  },
+  {
+   "path": "korea-2024/abaddon.wav",
+   "stored": "git",
+   "size": 2949374,
+   "sha256": "93d511478dbf3492330a8bd59726c82383f6e3dc308826d3b7fb31a0738421f2",
+   "what": "Music track: abaddon.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/abaddon.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/abaddon.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/aresden.wav",
+   "stored": "git",
+   "size": 3228448,
+   "sha256": "2e359bf37cb132873568d93682b27ef5cd6876e86e8804b34752bd262351f751",
+   "what": "Music track: aresden.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/aresden.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/aresden.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/Carol.wav",
+   "stored": "git",
+   "size": 2736482,
+   "sha256": "1fe4966123beadd64b61d3b42538d14b6866ccbf07c7d5b34a62e66adcbef9a3",
+   "what": "Music track: Carol.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/Carol.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/Carol.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/Carol0.wav",
+   "stored": "git",
+   "size": 3008046,
+   "sha256": "e26233623a1157685718fad631e0ab46de0b6a84258464523d7784cea05b3c8b",
+   "what": "Music track: Carol0.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/Carol0.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/Carol0.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/Carol1.wav",
+   "stored": "git",
+   "size": 2349880,
+   "sha256": "a609a8590b24d40f1c00e5b2124cf0150e21383c4fb2808a291542a46f6265a9",
+   "what": "Music track: Carol1.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/Carol1.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/Carol1.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/Carol2.wav",
+   "stored": "git",
+   "size": 2803238,
+   "sha256": "d312f8352e533c0b625c5860057909b51ff4dd0c328102fe4a53fe6d8d254570",
+   "what": "Music track: Carol2.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/Carol2.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/Carol2.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/druncncity.wav",
+   "stored": "git",
+   "size": 1204054,
+   "sha256": "9fb86a6845d7ce8ee4bf0354731d561244f39d7bdbfcb5c1ed83139d542a0e08",
+   "what": "Music track: druncncity.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/druncncity.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/druncncity.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/dungeon.wav",
+   "stored": "git",
+   "size": 3669374,
+   "sha256": "944b3b25a0376cea93b152baa404fab2c2843a3524942649cccf297f4d87f653",
+   "what": "Music track: dungeon.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/dungeon.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/dungeon.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/elvine.wav",
+   "stored": "git",
+   "size": 3695252,
+   "sha256": "7918f2f4c0c94b0e30ca31781fa56a87d14c99c0749a1ec364520299d7356432",
+   "what": "Music track: elvine.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/elvine.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/elvine.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/MainTm.wav",
+   "stored": "git",
+   "size": 3159592,
+   "sha256": "8b2730dc20e14624672e3008d73fd2225f4c50a3dd396a639eb71062adf84254",
+   "what": "Music track: MainTm.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/MainTm.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/MainTm.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/middleland.wav",
+   "stored": "git",
+   "size": 2620350,
+   "sha256": "37c2c5538a880cb76cc0ccf7d0d49ead610e25f2dbed143a9ea63b05a363a670",
+   "what": "Music track: middleland.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/middleland.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/middleland.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/oldaresden.wav",
+   "stored": "git",
+   "size": 2795246,
+   "sha256": "ec7b36a528a368856add421ab4f9df3396d4ba76bb1554201e0d07be3b2eb86f",
+   "what": "Music track: oldaresden.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/oldaresden.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/oldaresden.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
+  },
+  {
+   "path": "korea-2024/oldelvine.wav",
+   "stored": "git",
+   "size": 2809646,
+   "sha256": "a9eaf06026a35f2b8bc47233e5f01af9facd9d322d715d4c06f3b206c6290a99",
+   "what": "Music track: oldelvine.wav",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2010-04-27 01:15:54",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/oldelvine.wav"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/oldelvine.wav"
+    }
+   ],
+   "notes": "Not a plain RIFF WAVE as stored: the bytes are obfuscated (bytes 2-3 read 1e fb in every such file, where a WAVE has 'FF'). The scheme was not worked out by this project."
   }
  ]
 }

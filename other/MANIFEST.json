@@ -210,6 +210,168 @@
    ]
   },
   {
+   "path": "korea-2024/music/vssver.scc",
+   "stored": "git",
+   "size": 208,
+   "sha256": "e37762f4baa4266068394e04f1a8fb461a2e6d633b4888f24c51e1da0354ce68",
+   "what": "Other file: vssver.scc",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2008-10-31 11:54:50",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "MUSIC/vssver.scc"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "MUSIC/vssver.scc"
+    }
+   ],
+   "notes": "Visual SourceSafe working-folder file left in the client's MUSIC folder; not game data."
+  },
+  {
+   "path": "korea-2024/sounds/vssver.scc",
+   "stored": "git",
+   "size": 3744,
+   "sha256": "68327f9a052fcbec15b41ca141070cd02f7ebb22ca5502890856929ae687d45d",
+   "what": "Other file: vssver.scc",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2008-10-31 11:56:48",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "SOUNDS/vssver.scc"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "SOUNDS/vssver.scc"
+    }
+   ],
+   "notes": "Visual SourceSafe working-folder file left in the client's SOUNDS folder; not game data."
+  },
+  {
+   "path": "korea-2024/uninstall.exe.nsis",
+   "stored": "git",
+   "size": 1068,
+   "sha256": "7a61c4668968ab42174beaeaa2e130fd5e0c4b82a06788b957b18b052261809e",
+   "what": "Other file: uninstall.exe.nsis",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "unknown",
+     "documented_kind": "unknown",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "uninstall.exe.nsis"
+     ],
+     "notes": "No date is stored for this block. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": null
+    }
+   ],
+   "notes": "Not a file the installer writes, and not a decompiled script: 7-Zip 26.00 exposes the uninstaller's NSIS data block under this name (it starts with the NSIS first-header signature EF BE AD DE 'NullsoftInst'). Kept because its bytes are part of the installer; it has no stored date and no install path, so it is not in the install layout."
+  },
+  {
    "path": "4.12.01-SPRITES.zip",
    "stored": "inside history-1 Helbreath.USA.Install.zip (Helbreath USA Install.exe -> SPRITES/SPRITES.zip)",
    "size": 56542388,

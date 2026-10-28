@@ -22,8 +22,9 @@ One row per version, oldest first. Dates are the files' own (see `timeline.md` f
 | 4.08 | USA | 2009-04-30 (FilePlanet); file times to 2009 | Full install (728 files; Inno Setup 5.2.3, unpacked with a stdlib extractor, every file MD5-checked) and release notes back to earlier 4.0x | `4.08` | FilePlanet |
 | 4.12.01 | USA | zip entry 2010-09-19, captured 2011-07-11 | Full install (734 files; WinRAR self-extractor) with release notes, plus the shipped `SPRITES.zip` | `4.12.01` | Wayback |
 | 3.82 community bundle | community private server (`LOGIN.CFG` 51.15.15.123) | zip entries 2020-04-26 | Client data, official Main/World Log binaries (2002), community server files and sources | `3.82-bundle`, `community/3.82-bundle` | community forum |
+| Korea 2024-09-27 client (no version number stated) | Korea | HelGame.exe built 2024-09-27 (PE date); zip `Helbreath_setup_win10_20240927` | Full install (864 files from the NSIS installer; 780 new, 84 identical to older versions), including `oldaresden.amd` and `oldelvine.amd`; sprite paks and sounds encrypted as shipped; zip and installer not held | `korea-2024` | helbreath.com download page (exact URL not recorded) |
 
-Missing: every patch between 2.02 and 2.23 (2.03 to 2.22) and between 3.1 and 3.7, and any Korean, Japanese or
-Taiwanese full client. The 2.20 client source loads 48 sprite paks that neither 2.02 nor 2.23 provides; most of
+Missing: every patch between 2.02 and 2.23 (2.03 to 2.22) and between 3.1 and 3.7, and any Japanese or
+Taiwanese full client, and any Korean client before 2024. The 2.20 client source loads 48 sprite paks that neither 2.02 nor 2.23 provides; most of
 them appear in 3.0 (`sprites/3.0/`): 47 of the 48, every one except `feedback.pak`. That suggests they were added
 by the missing 2.x patches (inferred).

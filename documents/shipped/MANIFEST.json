@@ -553,6 +553,60 @@
      "install_path": "Rules.txt"
     }
    ]
+  },
+  {
+   "path": "korea-2024/헬브레스매뉴얼.htm",
+   "stored": "git",
+   "size": 493702,
+   "sha256": "cfcc5c5d4e4dc1b6b12568162d05e55ca4d02fc1c7d8cbe1943a791b3f36ceb2",
+   "what": "Document shipped with the game: 헬브레스매뉴얼.htm (Korean player manual)",
+   "version": {
+    "value": "Korea 2024-09-27 client (no version number stated)",
+    "confidence": "inferred",
+    "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+   },
+   "region": {
+    "value": "Korea",
+    "confidence": "verified",
+    "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+   },
+   "era": {
+    "value": "unknown",
+    "confidence": "unknown",
+    "basis": "not stated by any source"
+   },
+   "origins": [
+    {
+     "source": "official Korean site helbreath.com (download page): Helbreath_setup_win10_20240927.zip, downloaded by the project owner in their own browser",
+     "url": "unknown",
+     "downloaded": "2026-10-28",
+     "documented": "2004-01-09 05:38:06",
+     "documented_kind": "installer-entry",
+     "extracted_from": [
+      "Helbreath_setup_win10_20240927.zip (Zip, entry 2024-09-27)",
+      "Helbreath_setup_win10.exe (NSIS-3 Unicode installer, unpacked with 7-Zip 26.00; never run)",
+      "헬브레스매뉴얼.htm"
+     ],
+     "notes": "Date is the file time stored in the NSIS installer entry (UTC); 7-Zip 26.00 lists it in local time (UTC-5) and restored it on extraction. The zip came from the download page of helbreath.com; the exact URL was not recorded.",
+     "version": {
+      "value": "Korea 2024-09-27 client (no version number stated)",
+      "confidence": "inferred",
+      "basis": "no version number in HelGame.exe, Helbreath.exe (an updater; its resource says 2.0.0.1), Update.ini, SystemMenu.cfg or CONTENTS; dated by the zip name Helbreath_setup_win10_20240927 and the HelGame.exe PE link time 2024-09-27 01:27:13 UTC"
+     },
+     "region": {
+      "value": "Korea",
+      "confidence": "verified",
+      "basis": "downloaded from the official Korean site helbreath.com; Korean-language client (CONTENTS text in Korean, Korean manual, update hosts helbreath.co.kr)"
+     },
+     "era": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "basis": "not stated by any source"
+     },
+     "install_path": "헬브레스매뉴얼.htm"
+    }
+   ],
+   "notes": "Korean file name: 'Helbreath manual'."
   }
  ]
 }

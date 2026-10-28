@@ -12,6 +12,7 @@ Client `.amd` map files, by the version they first appear in.
 | `3.82-bundle/` | 21 | 11,743,256 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |
 | `4.08/` | 11 | 8,823,576 | 4.08 | USA | 2003-11-20 to 2004-09-08 | https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe |
 | `4.12.01/` | 7 | 6,711,552 | 4.12.01 | USA | 2009-01-22 to 2009-04-10 | https://web.archive.org/web/20110711161458id_/http://www.helbreathusa.com/downloadHB/Helbreath%20USA%20Install.zip |
+| `korea-2024/` | 15 | 9,296,600 | Korea 2024-09-27 client (no version number stated) | Korea | 2003-04-08 to 2019-10-20 | unknown (helbreath.com download page, Helbreath_setup_win10_20240927.zip) |
 
 Per-file sizes, SHA-256, dates and extraction chains are in `MANIFEST.json`.
 

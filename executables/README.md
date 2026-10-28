@@ -2,6 +2,8 @@
 
 Every `.exe` and `.dll`: game clients (`HelGame.exe`, `NewHelGame.exe`), launchers and updaters (`Helbreath.exe`), helper DLLs, and the installers (release assets). **Never run any of them outside a disposable virtual machine.**
 
+The 2024 Korean client (`korea-2024/`) came from helbreath.com as `Helbreath_setup_win10_20240927.zip` (472,855,926 bytes, SHA-256 `cb4adad63317432b83b5d10252776907a093311b1c0bc36befc3af3b2dc2d42c`), holding the installer `Helbreath_setup_win10.exe` (NSIS-3 Unicode, 473,199,768 bytes, SHA-256 `ac3a3094993fb8f7b23f8e2f7f975e380db22826e5db6ed083688ea17c5a31f0`). Neither is held in History or as a release asset; their contents were unpacked with 7-Zip 26.00 into the type folders. The installer's PE header date (2021-09-25) is that of the NSIS stub, not of the package.
+
 ## Files
 
 | File | Version | Region | Date | Size (bytes) | SHA-256 | Stored |
@@ -32,6 +34,14 @@ Every `.exe` and `.dll`: game clients (`HelGame.exe`, `NewHelGame.exe`), launche
 | `4.08/Helgame.exe` | 4.08 | USA | 2008-12-14 (installer-entry) | 420,864 | `139f816eddd643345704bf5733c3a2d39c82b3608afe1fa7b1608bb099da0c30` | git |
 | `4.12.01/Helgame.exe` | 4.12.01 | USA | 2010-04-23 (archive-entry) | 412,672 | `d5c0a6e5f9c45b6ddb2f9f1ca7038a98458ae9a6715cf275fb1e52119e59ac34` | git |
 | `4.12.01/unins000.exe` | 4.12.01 | USA | 2008-12-31 (archive-entry) | 695,578 | `880c830bcd1e792c89bb5bf963cd42dd868b6d6031b86c613268e934931509fd` | git |
+| `korea-2024/CryptoDLL.dll` | Korea 2024-09-27 client (no version number stated) | Korea | 2008-12-31 (installer-entry) | 282,624 | `42a40d3a650e156b39e266563dad9036514fb07e43d630e28709ef8cc4b2233a` | git |
+| `korea-2024/Helbreath.exe` | Korea 2024-09-27 client (no version number stated) | Korea | 2024-09-27 (installer-entry) | 1,895,832 | `a7f6bb54c34855f206fd0e054ba5c6e57d921885c1c2819572d2797ae8d3969d` | git |
+| `korea-2024/HelGame.exe` | Korea 2024-09-27 client (no version number stated) | Korea | 2024-09-27 (installer-entry) | 1,179,136 | `f0d85632a1ddb503d1abde50a2d4a5774d349d92b17570c8b29fad86c351a432` | git |
+| `korea-2024/mfc90u.dll` | Korea 2024-09-27 client (no version number stated) | Korea | 2007-11-07 (installer-entry) | 1,162,744 | `e30aabb518361fbeaf8068ffc786845ee84abbf1f71ae7d2733a11286531595a` | git |
+| `korea-2024/msvcp100.dll` | Korea 2024-09-27 client (no version number stated) | Korea | 2013-10-01 (installer-entry) | 431,936 | `972fd609d31aded22502a01c3ee1f3e23f5769392c7ca3c36a402dc7c44e0af8` | git |
+| `korea-2024/msvcr100.dll` | Korea 2024-09-27 client (no version number stated) | Korea | 2013-10-01 (installer-entry) | 758,592 | `43af6d081b5ded0bd3b1b269719b3a63400da25a805d46d579c4dd2a77861ba1` | git |
+| `korea-2024/msvcr90.dll` | Korea 2024-09-27 client (no version number stated) | Korea | 2007-11-07 (installer-entry) | 655,872 | `ed0170d3de86da33e02bfa1605eec8ff6010583481b1c530843867c1939d2185` | git |
+| `korea-2024/uninstall.exe` | Korea 2024-09-27 client (no version number stated) | Korea | 2024-05-27 (installer-entry) | 41,004 | `bb5970a487ca5a38cb08bb2a8231868223f5b3d21e33b8e4b5c82297dbe05489` | git |
 | `launcher-japan-2002/Helbreath.exe` | unknown | Japan | 2002-10-31 (wayback-capture) | 303,104 | `6e0121311ef9b6a53d14b78c39761dfa88c705095bac1a6c6418b43ad3a45f15` | git |
 | `launcher-korea-2002/Helbreath.exe` | unknown | Korea | 2002-04-13 (wayback-capture) | 307,200 | `7f29e6afc37f9bd032187753c417e31d8ce3897553eda3f2df24f1e6148576f8` | git |
 | `test-server-2007/HelGame.exe` | unknown | USA test server | 2007-05-30 (archive-entry) | 394,752 | `bd35ac76bb053cc31c0b7d2ddaecde6de7f1ad6c0a222736ec6403e739786c6b` | git |

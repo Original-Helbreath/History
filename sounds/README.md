@@ -1,6 +1,6 @@
 # sounds: Sound effects
 
-Client sound effects (`SOUNDS/*.wav`), by the version they first appear in.
+Client sound effects (`SOUNDS/*.wav`), by the version they first appear in. The `korea-2024/` sounds are obfuscated as shipped (every one except `tts001.wav` is not a plain RIFF WAVE; the scheme was not worked out) and are kept as found.
 
 ## By version
 
@@ -10,6 +10,7 @@ Client sound effects (`SOUNDS/*.wav`), by the version they first appear in.
 | `3.0/` | 68 | 7,656,536 | 3.0 'The Apocalypse' | USA | 2000-10-15 to 2003-09-15 | https://archivedle.download.it/ftp1/012003/hbusa_apocalypse.exe |
 | `3.82-bundle/` | 1 | 285,142 | 3.82 community bundle (helbreath-v3.82, GitHub zip of 2020-04-26) | community private server; its LOGIN.CFG points to 51.15.15.123:12981 | 2020-04-26 to 2020-04-26 | unknown |
 | `4.08/` | 19 | 2,951,212 | 4.08 | USA | 2001-02-07 to 2004-08-27 | https://archivedle.download.it/ftp1/042009/56439557/helbreathusa_setup_408.exe |
+| `korea-2024/` | 237 | 24,737,024 | Korea 2024-09-27 client (no version number stated) | Korea | 2009-10-29 to 2023-07-31 | unknown (helbreath.com download page, Helbreath_setup_win10_20240927.zip) |
 
 Per-file sizes, SHA-256, dates and extraction chains are in `MANIFEST.json`.
 
