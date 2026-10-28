@@ -32,6 +32,7 @@ shows what that version added or changed. To get a playable folder tree instead,
 | [`archives/`](archives/) | Original archives kept whole: official patches, historical source drops (2.03, 2.20, 3.51), 3.51 server files; disc image, as-found client trees and art archives (release assets). |
 | [`community/`](community/) | **Not official.** Private-server community material: modern drops (2022 HBX client, rewrites, a web shop) and the community 3.82 bundle's server files and sources. |
 | [`tools/`](tools/) | Third-party utilities the official sites offered. Listed and linked, not copied. |
+| [`derived/`](derived/) | **Made by this project, not original.** Files derived from originals held here: the decrypted 2024 Korean sprite paks. |
 
 Versions held: 2.02 "Crusade" (2001), 2.23 (2003), 3.0 "The Apocalypse" (2003), 3.1, 3.72, 3.80, 3.81 (2003-2005), a 2007
 test-server client, USA 4.08 (2009) and 4.12.01 (2010), the 2002 Korean and Japanese launchers, sources 2.03, 2.19/2.20 and
@@ -44,7 +45,7 @@ Each folder has a `README.md` (what it holds, which version, date, source URL, S
 
 Every file in a folder, and every release asset belonging to it, has one record in that folder's `MANIFEST.json`
 (`documents/shipped/` and each `art/<version>/` have their own). An `art` row also has `frames` (frame count) and
-`bitmap` (the sheet's bitmap: file name, release archive, size, SHA-256, and `pak_offset` / `pak_length` inside its pak). `README.md` and `MANIFEST.json` themselves are not listed.
+`bitmap` (the sheet's bitmap: file name, release archive, size, SHA-256, and `pak_offset` / `pak_length` inside its pak). A `derived` row also has `derived_from` (the original's path and SHA-256) and, when its bytes match a file already held, `identical_to`. `README.md` and `MANIFEST.json` themselves are not listed.
 
 | Field | Meaning |
 |---|---|
@@ -80,7 +81,7 @@ manifests also carries `install_path`.
 ## Where it came from
 
 Nothing here was made by this project except the READMEs, the manifests, the three documents in `documents/`, the
-frame-table JSON files in `art/` (extracted metadata), and the release archives it repacked (as-found client trees and art).
+frame-table JSON files in `art/` (extracted metadata), the release archives it repacked (as-found client trees and art), and everything under `derived/` (the decrypted 2024 Korean sprite paks).
 The 4.08 install was unpacked with a standard-library Inno Setup reader written for this archive; every file matched the MD5
 the installer stores. The 2024 Korean NSIS installer was unpacked with 7-Zip 26.00; its zip and installer are not held.
 `.gitattributes` turns off line-ending conversion, so every file checks out byte-for-byte as found. The downloads themselves are kept
